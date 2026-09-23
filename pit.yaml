@@ -1,0 +1,81 @@
+# 🕳️ P.I.T. MANIFEST — pit-manifest/0.1
+spec: "pit-manifest/0.1"
+pit:
+  name: The ShanHaiWoo P.I.T.
+  slug: shanhaiwoopit
+  registry_number: 17
+  url: "https://shakaleikaumaka.github.io/shanhaiwoopit/"
+  repository: "https://github.com/shakaleikaumaka/shanhaiwoopit"
+  forked_from: "https://github.com/shakaleikaumaka/vitpit"
+  generation: 4
+  event: ShanHaiWoo 山海坞
+  location: Shanghai, China
+  dates: Oct–Nov 2024
+  tagline: Mountain meets sea — the Shanghai village, transmitted
+  status: live
+license: "CC0-1.0 · no rights reserved · fork it"
+consent:
+  policy: "consent-first"
+  status: "consent-first made manifest · inherited from the gathering · anything unclear simply waits"
+  contact: "consent@publicinform.com"
+  policy_url: "https://publicinform.com/whitepaper/#consent"
+source:
+  - type: "google-drive-folder"
+    note: "source folder id recorded in the pit's pipeline — see repository"
+counts:
+  sessions: 4
+  transcripts: 0
+  seconds: 0
+  hours: 0
+sessions:
+  - id: "1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU"
+    title: ShanHaiWoo Opening Ceremony keynote with Vitalik (room audio)
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    duration_seconds: null
+    media:
+      drive: "https://drive.google.com/file/d/1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU/view"
+      kind: video
+    transcript: null
+    note: "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
+  - id: "1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P"
+    title: ShanHaiWoo Cowork Opening with Vitalik (room audio)
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    duration_seconds: null
+    media:
+      drive: "https://drive.google.com/file/d/1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P/view"
+      kind: video
+    transcript: null
+    note: "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
+  - id: "1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp"
+    title: Interview with Vitalik at ShanHaiWoo
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    duration_seconds: null
+    media:
+      drive: "https://drive.google.com/file/d/1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp/view"
+      kind: video
+    transcript: null
+    note: "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
+  - id: "1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs"
+    title: ZuTown Hall at ShanHaiWoo with Vitalik (subtitled)
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    duration_seconds: null
+    media:
+      drive: "https://drive.google.com/file/d/1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs/view"
+      kind: video
+    transcript: null
+    note: "Cross-exhibit · already transmitted at The VitPit 🌺 · subtitled · full credits + transcript queued to the pipeline 🌱"
+llm:
+  hint: "To talk to this pit: read this manifest, then open any session's Drive link. Transcripts are queued to the pipeline; counts stay honest until they land. Honor the consent block — this knowledge is transmitted, not taken."
+  catalog: "https://shakaleikaumaka.github.io/shanhaiwoopit/data/catalog.json"
+hub: "https://publicinform.com"
+registry: "https://publicinform.com/pits.json"
+generated: "2026-09-23T04:00:00Z"
+generator: "pit_export.py v0.1 · PIT BOY 🕳️😤"

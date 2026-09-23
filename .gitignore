@@ -1,0 +1,7 @@
+# Audio lives on the Internet Archive + esmeraldapit.com — not in git (1.8 GB)
+audio/
+# Backups and staging artifacts
+*.bak
+*.bak.*
+*.lock
+*.log

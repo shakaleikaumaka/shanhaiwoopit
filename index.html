@@ -1,0 +1,1558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<!-- build: shanhaiwoopit v1.0.0 · 2026-09-23 · THE SHANHAIWOO P.I.T. ⛰️🌊 — mountain meets sea · 4Seas' Shanghai pop-up village 山海坞 (Oct–Nov 2024), transmitted · P.I.T. №17 · forked from The VitPit v1.1.0 under Shaka's 2026-09-23 pit-for-everything order ("We need a Shanghai Wu pit… the opening and closing ceremony. We need a pit for all of it.") · full genesis UX inherited (unified-transponder v5.3): Knowledge Transponder modal, Drive-preview player, service-worker range shim · mountain-sea night restyle: deep sea + moon gold + teal waves, procedural moon-seal badge · 4 sessions (opening keynote · cowork opening · interview · ZuTown Hall) = cross-exhibits via The VitPit 🌺 · gallery (3 photos, Nov 2 2024) + documents (3 linked, 3 id-pending) + lore · transcripts/credits queued to the pipeline 🌱 (declared means declared, not done) · SILENCE CANON: no music player, ever · CC0 — fork me like crazy -->
+<!-- build history: v1.0.0 · 2026-07-27 · 2 demo exhibits (via zuitzpit × kaspit) · consent-first demo -->
+<title>The ShanHaiWoo P.I.T. ⛰️🌊🕳️ — Public Information Transmission · the Shanghai village, transmitted</title>
+<meta name="description" content="A P.I.T. Protocol instance for ShanHaiWoo 山海坞 — 4Seas' Shanghai pop-up village (Oct–Nov 2024). Opening ceremony keynote, cowork opening, interview and ZuTown Hall with Vitalik — four sessions transmitted via The VitPit, plus the gallery, the documents and the lore. Consent-first, CC0.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://shakaleikaumaka.github.io/shanhaiwoopit/">
+<link rel="canonical" href="https://shakaleikaumaka.github.io/shanhaiwoopit/">
+<meta property="og:title" content="The ShanHaiWoo P.I.T. — mountain meets sea ⛰️🌊">
+<meta property="og:description" content="ShanHaiWoo 山海坞 · the Shanghai village (Oct–Nov 2024), transmitted. Four sessions with Vitalik via The VitPit, the gallery, the documents, the lore — consent-first, CC0.">
+<meta property="og:image" content="assets/og-card.png">
+<meta name="twitter:image" content="assets/og-card.png">
+<link rel="icon" type="image/png" href="assets/shanhaiwoo-badge.png">
+<link rel="apple-touch-icon" href="assets/shanhaiwoo-badge.png">
+<meta name="twitter:title" content="The ShanHaiWoo P.I.T. — mountain meets sea ⛰️🌊">
+<meta name="twitter:description" content="ShanHaiWoo 山海坞 · the Shanghai village, transmitted — a P.I.T. Protocol instance. Consent-first, CC0.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;0,9..144,900;1,9..144,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#060b16; --bg2:#0a1524; --card:#0e1c2e; --card2:#12253a;
+  --ink:#eef6ff; --ink-dim:#a3bdd2; --ink-faint:#5f7d95;
+  --w1:#5eead4; --w2:#93c5fd; --w3:#f0abfc; --w4:#fcd34d;
+  --sun:#5eead4; --coral:#f0c464; --aloha:#7dd3fc;
+  --line:rgba(125,211,252,.12);
+  --radius:18px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;line-height:1.6;overflow-x:hidden}
+::selection{background:var(--sun);color:#1a0f00}
+
+/* ---------- HERO ---------- */
+.hero{position:relative;min-height:92vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:6rem 1.5rem 4rem;overflow:hidden;
+  background:radial-gradient(ellipse 80% 60% at 50% 120%, #1e1b4b 0%, transparent 60%),
+             radial-gradient(ellipse 60% 50% at 80% -10%, #1e1e4d 0%, transparent 55%),
+             radial-gradient(ellipse 50% 40% at 10% 0%, #3d2f10 0%, transparent 50%), var(--bg)}
+.hero::before{content:"";position:absolute;inset:0;background:
+  radial-gradient(circle at 50% 115%, rgba(94,234,212,.28) 0%, transparent 45%);
+  animation:breathe 9s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:.7}50%{opacity:1}}
+.sun{position:absolute;bottom:-16vh;left:50%;transform:translateX(-50%);width:min(60vh,520px);height:min(60vh,520px);border-radius:50%;
+  background:radial-gradient(circle, #fdf3d0 0%, #f0c464 38%, rgba(94,234,212,.45) 66%, transparent 75%);
+  filter:blur(2px);opacity:.6;animation:rise 2.4s ease-out both}
+@keyframes rise{from{transform:translate(-50%,30%);opacity:0}to{transform:translate(-50%,0);opacity:.6}}
+.hero-inner{position:relative;z-index:2;max-width:900px}
+.badge-gift{display:inline-flex;align-items:center;gap:.5rem;font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--aloha);
+  border:1px solid rgba(143,224,255,.35);border-radius:999px;padding:.45rem 1.1rem;margin-bottom:1.8rem;background:rgba(143,224,255,.06);backdrop-filter:blur(6px)}
+h1.logo{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(3.2rem,9vw,6.5rem);letter-spacing:.01em;line-height:1;
+  padding-bottom:.14em;margin-bottom:-.14em; /* descender room: the g's tail lives below the line box, and background-clip:text would paint over it */
+  background:linear-gradient(115deg,#fff 20%,var(--aloha) 45%,var(--sun) 65%,var(--coral) 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+h1.logo em{font-style:italic;font-weight:300}
+.tagline{font-family:'Fraunces',serif;font-style:italic;font-size:clamp(1.15rem,2.6vw,1.6rem);color:var(--ink-dim);margin-top:1.1rem}
+.hero p.sub{max-width:640px;margin:1.4rem auto 0;color:var(--ink-dim);font-size:1.02rem}
+.stats{display:flex;flex-wrap:wrap;gap:2.2rem;justify-content:center;margin-top:2.6rem}
+.stat{text-align:center}
+.stat b{display:block;font-family:'Fraunces',serif;font-size:2.1rem;font-weight:600;color:var(--ink);text-shadow:0 2px 14px rgba(11,10,18,.8)}
+.stat span{font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:#cfc6e4;text-shadow:0 1px 10px rgba(11,10,18,.9)}
+.hero-cta{display:flex;gap:1rem;justify-content:center;margin-top:2.6rem;flex-wrap:wrap}
+.hero-art{width:min(300px,52vw);margin:0 auto 1.6rem;display:block;filter:drop-shadow(0 24px 60px rgba(255,120,80,.35));animation:floaty 7s ease-in-out infinite}
+@keyframes floaty{0%,100%{transform:translateY(0) rotate(-.4deg)}50%{transform:translateY(-14px) rotate(.4deg)}}
+.btn{display:inline-flex;align-items:center;gap:.55rem;padding:.85rem 1.7rem;border-radius:999px;font-weight:600;font-size:.95rem;text-decoration:none;transition:.25s;cursor:pointer;border:none}
+.btn-sun{background:linear-gradient(115deg,var(--aloha),var(--sun));color:#02121f;box-shadow:0 8px 30px rgba(56,189,248,.35)}
+.btn-sun:hover{transform:translateY(-2px);box-shadow:0 12px 40px rgba(56,189,248,.5)}
+.btn-ghost{background:rgba(255,255,255,.05);color:var(--ink);border:1px solid var(--line)}
+.btn-ghost:hover{background:rgba(255,255,255,.1)}
+
+/* ---------- NAV ---------- */
+nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(11,10,18,.78);border-bottom:1px solid var(--line)}
+nav .wrap{max-width:1200px;margin:0 auto;display:flex;align-items:center;gap:1.4rem;padding:.8rem 1.5rem;overflow-x:auto}
+nav .brand{font-family:'Fraunces',serif;font-weight:900;font-size:1.25rem;white-space:nowrap;
+  padding-bottom:.12em;margin-bottom:-.12em;
+  background:linear-gradient(115deg,var(--aloha),var(--coral));-webkit-background-clip:text;background-clip:text;color:transparent}
+nav a.nl{color:var(--ink-dim);text-decoration:none;font-size:.9rem;font-weight:500;white-space:nowrap;transition:.2s}
+nav a.nl:hover{color:var(--ink)}
+nav .spacer{flex:1}
+
+/* ---------- SECTIONS ---------- */
+section{max-width:1200px;margin:0 auto;padding:4.5rem 1.5rem}
+.sec-head{margin-bottom:2.2rem}
+.sec-kicker{font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:var(--sun);font-weight:600}
+.sec-title{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(1.8rem,4vw,2.6rem);margin-top:.4rem}
+.sec-sub{color:var(--ink-dim);margin-top:.5rem;max-width:720px}
+
+/* week tabs */
+.week-tabs{display:flex;gap:.6rem;flex-wrap:wrap;margin:1.6rem 0}
+.wtab{padding:.6rem 1.15rem;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink-dim);font-size:.85rem;font-weight:600;cursor:pointer;transition:.2s;font-family:'Inter'}
+.wtab:hover{border-color:rgba(255,255,255,.25);color:var(--ink)}
+.wtab.active[data-w="all"]{background:var(--ink);color:#111;border-color:var(--ink)}
+.wtab.active[data-w="1"]{background:var(--w1);color:#06332c;border-color:var(--w1)}
+.wtab.active[data-w="2"]{background:var(--w2);color:#0b2447;border-color:var(--w2)}
+.wtab.active[data-w="3"]{background:var(--w3);color:#3b0a45;border-color:var(--w3)}
+.wtab.active[data-w="4"]{background:var(--w4);color:#3d2a00;border-color:var(--w4)}
+.week-note{color:var(--ink-faint);font-size:.9rem;margin-bottom:1.4rem;font-family:'Fraunces',serif;font-style:italic}
+
+/* toolbar */
+.toolbar{display:flex;gap:.8rem;flex-wrap:wrap;align-items:center;margin-bottom:2rem}
+.search{flex:1;min-width:240px;position:relative}
+.search input{width:100%;padding:.85rem 1.1rem .85rem 2.6rem;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:.95rem;font-family:'Inter';outline:none;transition:.2s}
+.search input:focus{border-color:var(--sun)}
+.search::before{content:"⌕";position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:var(--ink-faint);font-size:1.2rem}
+.chip{padding:.55rem 1rem;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink-dim);font-size:.82rem;font-weight:600;cursor:pointer;transition:.2s;font-family:'Inter'}
+.chip.on{background:rgba(56,189,248,.15);border-color:var(--sun);color:var(--sun)}
+.count-note{color:var(--ink-faint);font-size:.85rem}
+
+/* cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.1rem}
+.card{background:linear-gradient(160deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:var(--radius);padding:1.4rem;cursor:pointer;transition:.25s;position:relative;overflow:hidden}
+.card:hover{transform:translateY(-4px);border-color:rgba(56,189,248,.4);box-shadow:0 18px 44px rgba(0,0,0,.45)}
+.card .wk{position:absolute;top:0;left:0;width:100%;height:3px;background:var(--w1)}
+.card[data-week="2"] .wk{background:var(--w2)} .card[data-week="3"] .wk{background:var(--w3)}
+.card[data-week="4"] .wk{background:var(--w4)} .card[data-week=""] .wk{background:var(--ink-faint)}
+.card .meta{display:flex;gap:.6rem;align-items:center;font-size:.75rem;color:var(--ink-faint);margin-bottom:.7rem;flex-wrap:wrap}
+.card h3{font-family:'Fraunces',serif;font-weight:600;font-size:1.12rem;line-height:1.35;margin-bottom:.8rem}
+/* speaker avatar present? keep title & date clear of the bubble */
+.card:has(.card-ava) h3{padding-right:4rem}
+.card:has(.card-ava) .meta{padding-right:4rem}
+.card .badges{display:flex;gap:.45rem;flex-wrap:wrap}
+.pill{font-size:.7rem;font-weight:600;padding:.28rem .65rem;border-radius:999px;letter-spacing:.03em}
+.pill.v{background:rgba(240,78,155,.14);color:#8fe0ff}
+.pill.a{background:rgba(147,197,253,.13);color:#a9cdfd}
+.pill.t{background:rgba(94,234,212,.12);color:#8df0e2}
+.pill.d{background:rgba(255,255,255,.06);color:var(--ink-dim);font-family:'JetBrains Mono',monospace}
+.pill.q{background:rgba(252,211,77,.14);color:var(--w4);border:1px solid rgba(252,211,77,.3)}
+.pill.xp{background:rgba(56,189,248,.13);color:var(--sun);border:1px solid rgba(56,189,248,.3)}
+
+/* ---------- UNIFIED TRANSPONDER ---------- */
+.ux-stage{position:relative;border-radius:16px;overflow:hidden;border:1px solid var(--line);padding:1rem 1rem 0;
+  background:radial-gradient(ellipse 90% 130% at 50% 115%, #33183f 0%, #12101d 62%)}
+.ux-toprow{display:flex;gap:1.2rem;align-items:stretch;flex-wrap:wrap}
+.ux-artwrap{flex:1;min-width:200px;min-height:280px;display:flex;align-items:center;justify-content:center;position:relative}
+.ux-art{width:min(360px,100%);pointer-events:none;filter:drop-shadow(0 18px 44px rgba(255,120,80,.4)) saturate(1.15);
+  animation:floaty 7s ease-in-out infinite}
+.ux-glow{position:absolute;inset:0;background:radial-gradient(circle at 50% 108%, rgba(56,189,248,.22) 0%, transparent 55%);pointer-events:none}
+.ux-viz{position:relative;width:100%;height:110px;display:block;pointer-events:none;margin-top:.3rem}
+.ux-state{position:absolute;top:.9rem;right:1rem;z-index:5;font-family:'JetBrains Mono',monospace;font-size:.68rem;color:rgba(243,238,252,.75);
+  background:rgba(10,8,18,.55);border:1px solid var(--line);border-radius:999px;padding:.3rem .8rem;backdrop-filter:blur(6px)}
+
+/* the video window — fills the whole left side of the stage, small enough to hide the wifi scars 🌺 */
+.ux-tiny{flex:0 0 44%;min-width:220px;border-radius:12px;overflow:hidden;display:flex;flex-direction:column;
+  border:1px solid rgba(255,255,255,.24);box-shadow:0 12px 34px rgba(0,0,0,.55);background:#000;transition:box-shadow .3s}
+.ux-tiny:hover{box-shadow:0 14px 40px rgba(56,189,248,.25)}
+.ux-tiny video{display:block;flex:1;width:100%;height:100%;min-height:240px;object-fit:cover;background:#000}
+.ux-tiny iframe{flex:1;width:100%;min-height:240px;border:0;display:block}
+.ux-vidwrap{position:relative;flex:1;display:flex;min-height:240px;overflow:hidden}
+/* chrome-crop: the iframe extends 46px below its window, so Drive's native
+   control bar (a desync trapdoor + dead buttons under the shield) is clipped
+   away. only the picture shows; our controls are the only ones. */
+.ux-vidwrap .ux-driveframe{position:absolute;top:0;left:0;width:100%;height:calc(100% + 46px);min-height:0;border:0;display:block}
+.ux-shield{position:absolute;inset:0;z-index:6;cursor:pointer;background:transparent;border-radius:inherit}
+@media(max-width:640px){.ux-vidwrap .ux-driveframe{height:calc(100% + 34px)}}
+/* mobile watch card: the big gold plays OUR audio; Drive is the quiet out-link */
+.ux-watchcard{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.4rem;
+  min-height:118px;background:rgba(10,8,18,.55)}
+.ux-watchcard .wc-playbtn{width:52px;height:52px;border-radius:50%;border:0;cursor:pointer;
+  background:linear-gradient(135deg,var(--sun),var(--coral));color:#241300;font-size:1.25rem;
+  box-shadow:0 6px 24px rgba(56,189,248,.4);transition:transform .2s}
+.ux-watchcard .wc-playbtn:hover{transform:scale(1.08)}
+.ux-watchcard .wc-t{font-size:.72rem;font-weight:600;color:var(--aloha)}
+.ux-watchcard .wc-out{font-size:.6rem;color:var(--ink-faint);text-decoration:underline;text-underline-offset:3px}
+/* Patrick's speaker bubbles — face-cropped thumbs, appear as the pipeline lands them */
+.wc-ava{width:72px;height:72px;border-radius:50%;object-fit:cover;border:2px solid rgba(143,224,255,.55);box-shadow:0 6px 18px rgba(0,0,0,.45)}
+.mb-ava{width:28px;height:28px;border-radius:50%;object-fit:cover;border:1.5px solid rgba(143,224,255,.55);margin:0 .1rem 0 .35rem;flex:none}
+.card-ava{position:absolute;top:.9rem;right:.9rem;width:56px;height:56px;border-radius:50%;object-fit:cover;border:2px solid rgba(143,224,255,.45);box-shadow:0 4px 14px rgba(0,0,0,.5)}
+/* the little island in the corner — where the heart is 💛
+   v2: side-by-side with its tag, anchored BELOW the title (never overlaps) */
+.ux-isle{flex:0 0 auto;display:flex;align-items:center;gap:.55rem;pointer-events:none;
+  animation:isleFloat 7s ease-in-out infinite;margin-right:2rem}
+.ux-isle-img{width:64px;filter:drop-shadow(0 8px 20px rgba(0,0,0,.55))}
+.ux-isle-tag{font-family:'Fraunces',serif;font-style:italic;font-size:.58rem;line-height:1.45;max-width:172px;text-align:left;
+  color:var(--ink-dim);background:rgba(143,224,255,.07);border:1px solid rgba(143,224,255,.28);
+  border-radius:9px;padding:.3rem .45rem;transform:rotate(-1.5deg);backdrop-filter:blur(4px)}
+.ux-isle-tag b{color:var(--aloha)}
+@keyframes isleFloat{0%,100%{transform:translateY(0) rotate(.4deg)}50%{transform:translateY(-4px) rotate(-.6deg)}}
+@media (max-width:720px){.ux-isle{margin-right:1.4rem}.ux-isle-img{width:52px}.ux-isle-tag{display:none}}
+@media (max-width:480px){.ux-isle{display:none}}
+.ux-poster{flex:1;width:100%;height:100%;min-height:240px;object-fit:cover;display:block;cursor:pointer;filter:saturate(1.05)}
+@media(max-width:640px){.ux-tiny{flex:1 1 100%}}
+.ux-tiny .atile{width:100%;aspect-ratio:16/9;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.2rem;
+  background:radial-gradient(circle at 50% 120%, rgba(56,189,248,.3), rgba(18,16,29,.9) 70%);font-size:1.5rem}
+.ux-tiny .atile small{font-size:.58rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-dim)}
+.ux-tiny .atile.playing span{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.18);opacity:1}}
+.ux-tiny .mini-bar{display:flex;align-items:center;gap:.4rem;padding:.32rem .45rem;background:rgba(10,8,18,.94);flex-wrap:wrap}
+.mini-btn{width:26px;height:26px;min-width:26px;border-radius:50%;border:none;background:linear-gradient(115deg,var(--aloha),var(--sun));
+  color:#02121f;font-size:.68rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.2s}
+.mini-btn:hover{transform:scale(1.08)}
+.mini-expand{margin-left:auto;background:rgba(255,255,255,.08);color:var(--ink);border:1px solid var(--line);border-radius:8px;
+  font-size:.62rem;font-weight:600;padding:.26rem .55rem;cursor:pointer;font-family:'Inter';white-space:nowrap;transition:.2s}
+.mini-expand:hover{background:rgba(56,189,248,.2);border-color:var(--sun)}
+
+/* controls */
+.ux-controls{display:flex;align-items:center;gap:.9rem;margin-top:.85rem;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:.55rem 1.1rem}
+.ux-play{width:42px;height:42px;min-width:42px;border-radius:50%;border:none;cursor:pointer;background:linear-gradient(115deg,var(--aloha),var(--sun));color:#02121f;font-size:1.05rem;display:flex;align-items:center;justify-content:center;transition:.2s}
+.ux-play:hover{transform:scale(1.06)}
+.ux-skip{min-width:46px;height:42px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.05);color:var(--ink-dim);
+  font-family:'JetBrains Mono',monospace;font-size:.7rem;font-weight:600;cursor:pointer;transition:.2s}
+.ux-skip:hover{background:rgba(56,189,248,.16);border-color:var(--sun);color:var(--sun);transform:translateY(-1px)}
+.ux-prog{flex:1;height:8px;border-radius:99px;background:rgba(255,255,255,.09);cursor:pointer;position:relative;overflow:hidden}
+.ux-prog-fill{position:absolute;left:0;top:0;bottom:0;width:0%;border-radius:99px;background:linear-gradient(90deg,var(--aloha),var(--coral))}
+.ux-time{font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--ink-dim);white-space:nowrap}
+
+/* subtitle bar — the sentence being spoken, big and alive */
+.ux-subtitle{margin-top:.9rem;min-height:3.4rem;text-align:center;
+  background:linear-gradient(160deg,rgba(56,189,248,.06),rgba(240,78,155,.03));border:1px solid var(--line);border-radius:14px;
+  padding:.75rem 1.2rem;font-family:'Fraunces',serif;font-size:1.32rem;line-height:1.55;color:#5f5678}
+.ux-subtitle .w{cursor:pointer;border-radius:5px;padding:0 1px;transition:color .15s,text-shadow .15s,background .15s}
+.ux-subtitle .w:hover{color:var(--ink);background:rgba(255,255,255,.07)}
+.ux-subtitle .w.on{color:#f4effd}
+.ux-subtitle .w.now{color:#241300;font-weight:600;background:linear-gradient(115deg,var(--aloha),var(--sun));
+  padding:1px 5px;margin:0 -2px;border-radius:6px;box-shadow:0 0 20px rgba(255,180,92,.5)}
+.ux-subtitle .idle{font-style:italic;font-size:.95rem;color:var(--ink-faint)}
+.ux-subtitle .kx-para{display:inline-block;cursor:pointer;color:#f3ead9;
+  text-shadow:0 0 22px rgba(56,189,248,.35);transition:text-shadow .4s}
+.ux-subtitle .kx-para:hover{text-shadow:0 0 30px rgba(56,189,248,.6)}
+
+/* karaoke transcript */
+.kx-box{margin-top:1.3rem;max-height:48vh;overflow-y:auto;padding-right:.6rem;scroll-behavior:smooth}
+.kx-line{font-family:'Fraunces',serif;font-size:1.08rem;line-height:1.85;color:#776d94;padding:.45rem .7rem;border-radius:10px;cursor:pointer;
+  border-left:3px solid transparent;transition:background .8s ease,border-color .8s ease,color .8s ease}
+.kx-line:hover{background:rgba(255,255,255,.04)}
+.kx-line .ts{font-family:'JetBrains Mono',monospace;font-size:.68rem;color:var(--sun);margin-right:.6rem;opacity:.7;user-select:none}
+.kx-line .w{cursor:inherit}
+.kx-line .w.on{color:#f2ecfd}
+.kx-line .w.now{color:#241300;font-weight:600;background:linear-gradient(115deg,var(--aloha),var(--sun));
+  padding:1px 5px;margin:0 -2px;border-radius:6px;box-shadow:0 0 20px rgba(255,180,92,.5);text-shadow:none}
+.kx-line.act{border-left-color:var(--sun);color:#ece5f8;
+  background:linear-gradient(90deg,rgba(56,189,248,.17),rgba(56,189,248,.06) 70%,transparent);
+  box-shadow:0 0 32px rgba(56,189,248,.06)}
+.kx-line.act .ts{opacity:1}
+.kx-box::-webkit-scrollbar{width:6px}
+.kx-box::-webkit-scrollbar-thumb{background:rgba(56,189,248,.3);border-radius:3px}
+.ux-hint{color:var(--ink-faint);font-size:.8rem;margin-top:.9rem;text-align:center;font-style:italic}
+.ux-note{color:var(--ink-dim);font-size:.82rem;margin-top:1rem;text-align:center;font-style:italic}
+
+/* ---------- THEATER (expanded video) ---------- */
+/* stage-scoped theater: covers ONLY the transponder stage — text stays the focus */
+.ux-stage{position:relative;overflow:hidden}
+.stage-theater{position:absolute;inset:0;z-index:20;background:rgba(5,3,10,.98);
+  display:flex;flex-direction:column;border-radius:inherit}
+.stage-theater .st-frame{position:relative;flex:1;display:flex;min-height:0;overflow:hidden}
+.stage-theater .st-frame iframe{position:absolute;top:0;left:0;width:100%;height:calc(100% + 46px);border:0;display:block}
+.stage-theater .st-shield{z-index:6}
+.stage-theater .st-close{position:absolute;top:.55rem;right:.55rem;z-index:21;
+  background:rgba(10,8,18,.85);border:1px solid var(--line);color:var(--ink-dim);
+  font-size:.7rem;padding:.3rem .6rem;border-radius:99px;cursor:pointer;transition:.2s}
+.stage-theater .st-close:hover{color:#fff;border-color:var(--coral)}
+.stage-theater .st-note{text-align:center;color:var(--ink-faint);font-size:.62rem;
+  font-style:italic;padding:.3rem .9rem .45rem}
+.stage-theater .st-note b{color:var(--aloha);font-weight:500}
+
+/* ---------- MODAL ---------- */
+.modal-bg{position:fixed;inset:0;background:rgba(5,4,10,.8);backdrop-filter:blur(8px);z-index:100;display:none;align-items:center;justify-content:center;padding:1.2rem}
+.modal-bg.open{display:flex}
+.modal{background:var(--bg2);border:1px solid var(--line);border-radius:22px;max-width:960px;width:100%;max-height:92vh;overflow-y:auto;position:relative;box-shadow:0 30px 90px rgba(0,0,0,.6)}
+.modal .mhead{padding:1.8rem 1.8rem 0;display:flex;gap:1rem;align-items:flex-end}
+.modal .mhead .mhead-text{flex:1;min-width:0}
+.modal .mtitle{font-family:'Fraunces',serif;font-size:1.5rem;font-weight:600;line-height:1.3;padding-right:3rem}
+.modal .mmeta{color:var(--ink-faint);font-size:.85rem;margin-top:.5rem;display:flex;gap:.8rem;flex-wrap:wrap}
+.mtabs{display:flex;gap:.5rem;padding:1.2rem 1.8rem 0;border-bottom:1px solid var(--line)}
+.mtab{padding:.6rem 1.2rem;border-radius:12px 12px 0 0;background:transparent;border:none;color:var(--ink-dim);font-weight:600;font-size:.88rem;cursor:pointer;font-family:'Inter'}
+.mtab.on{background:var(--card);color:var(--sun)}
+.mbody{padding:1.6rem 1.8rem 2rem}
+.player{position:relative;width:100%;aspect-ratio:16/9;background:#000;border-radius:14px;overflow:hidden}
+.player.audio{aspect-ratio:auto;height:120px}
+.player iframe{width:100%;height:100%;border:0}
+.mclose{position:absolute;top:1.1rem;right:1.1rem;width:40px;height:40px;border-radius:50%;background:var(--card);border:1px solid var(--line);color:var(--ink);font-size:1.15rem;cursor:pointer;z-index:5;transition:.2s}
+.mclose:hover{background:var(--coral);color:#fff}
+.mlinks{display:flex;gap:.7rem;margin-top:1.1rem;flex-wrap:wrap}
+.mlinks a{font-size:.82rem;color:var(--sun);text-decoration:none;border:1px solid rgba(56,189,248,.3);padding:.45rem .95rem;border-radius:999px;transition:.2s}
+.mlinks a:hover{background:rgba(56,189,248,.12)}
+
+/* transcript reader */
+.transcript{font-family:'Fraunces',serif;font-size:1.06rem;line-height:1.85;color:#dcebf5}
+.transcript .tmeta{font-family:'JetBrains Mono',monospace;font-size:.75rem;color:var(--ink-faint);border:1px solid var(--line);border-radius:12px;padding:1rem 1.2rem;margin-bottom:1.6rem;white-space:pre-wrap}
+.transcript p{margin-bottom:1.15rem}
+.transcript .ts{font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--sun);margin-right:.6rem;user-select:none}
+/* read-along player (transcript page) */
+.transcript p[data-t]{cursor:pointer;border-radius:8px;padding:.35rem .5rem;margin-left:-.5rem;margin-right:-.5rem;
+  border-left:3px solid transparent;transition:background .7s ease,color .7s ease,border-color .7s ease}
+.transcript p[data-t]:hover{background:rgba(255,255,255,.04)}
+.transcript p.act{background:linear-gradient(90deg,rgba(56,189,248,.16),rgba(56,189,248,.05) 70%,transparent);
+  color:#ece5f8;border-left-color:var(--sun)}
+.read-player{position:sticky;bottom:0;display:flex;align-items:center;gap:.7rem;padding:.6rem .8rem;margin-top:1rem;
+  background:rgba(4,10,20,.96);border:1px solid rgba(143,224,255,.3);border-radius:12px;z-index:5;backdrop-filter:blur(6px)}
+.rp-play{width:40px;height:40px;border-radius:50%;border:0;background:linear-gradient(135deg,var(--sun),var(--coral));
+  color:#241300;font-size:1rem;cursor:pointer;flex:0 0 auto;box-shadow:0 4px 18px rgba(56,189,248,.35)}
+.rp-skip{width:36px;height:36px;border-radius:50%;border:1px solid rgba(143,224,255,.4);background:transparent;
+  color:var(--sun);font-size:.66rem;font-weight:600;cursor:pointer;flex:0 0 auto}
+.rp-time{font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--sun)}
+.rp-note{font-size:.68rem;color:var(--ink-faint);font-style:italic}
+.transcript .loading{color:var(--ink-faint);font-style:italic}
+
+/* ---------- DISPATCHES ---------- */
+.dispatch{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:1.8rem;margin-bottom:1.2rem;transition:.25s}
+.dispatch:hover{border-color:rgba(143,224,255,.35)}
+.dispatch .dmeta{display:flex;gap:.8rem;font-size:.75rem;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.1em;margin-bottom:.7rem;flex-wrap:wrap}
+.dispatch h3{font-family:'Fraunces',serif;font-size:1.45rem;font-weight:600;margin-bottom:.3rem}
+.dispatch .dsub{font-family:'Fraunces',serif;font-style:italic;color:var(--ink-dim);margin-bottom:1rem}
+.dispatch .dbody{color:var(--ink-dim);font-size:.95rem}
+.dispatch .dbody p{margin-bottom:.9rem}
+.dispatch .expand{color:var(--sun);font-weight:600;font-size:.85rem;cursor:pointer;background:none;border:none;font-family:'Inter';padding:0;margin-top:.4rem}
+/* ============ THE EDGE WEEKLY — newspaper edition ============ */
+.weekly{position:relative;overflow:hidden}
+.weekly::before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.05;
+  background:repeating-linear-gradient(0deg,transparent 0 26px,rgba(143,224,255,.5) 26px 27px)}
+.wmast{text-align:center;border-bottom:2px solid rgba(143,224,255,.35);padding-bottom:1rem;margin-bottom:1.2rem;position:relative}
+.wmast .wtag{font-size:.68rem;letter-spacing:.32em;text-transform:uppercase;color:var(--sun)}
+.wmast h3{font-size:2rem;letter-spacing:.01em;margin:.35rem 0 .2rem}
+.wmast .wdates{font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--ink-faint)}
+.wmast .wtheme{display:inline-block;margin-top:.5rem;padding:.28rem .9rem;border:1px solid rgba(56,189,248,.45);border-radius:99px;
+  font-family:'Fraunces',serif;font-style:italic;font-size:.9rem;color:var(--aloha)}
+.wmast .wthemesub{font-size:.72rem;color:var(--ink-faint);margin-top:.35rem;letter-spacing:.08em}
+.wstats{display:flex;justify-content:center;gap:1.6rem;flex-wrap:wrap;margin:0 0 1.3rem;padding:.7rem 0;
+  border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+  font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--ink-dim)}
+.wstats b{color:var(--sun);font-weight:600;margin-right:.35rem}
+.dbody .lead{font-family:'Fraunces',serif;font-size:1.12rem;line-height:1.75;color:var(--ink)}
+.dbody .lead::first-letter{font-size:2.6em;float:left;line-height:.9;padding:.05em .12em 0 0;color:var(--sun);font-weight:600}
+.dbody h4{font-family:'Fraunces',serif;font-size:1.15rem;color:var(--ink);margin:1.4rem 0 .7rem;
+  padding-bottom:.3rem;border-bottom:1px dashed rgba(143,224,255,.3)}
+.dbody .pq{margin:1.6rem auto;padding:.4rem 1.4rem;max-width:92%;text-align:center;position:relative}
+.dbody .pq .qt{font-family:'Fraunces',serif;font-size:1.32rem;font-style:italic;line-height:1.55;color:#f3ead9;
+  text-shadow:0 0 24px rgba(56,189,248,.25)}
+.dbody .pq .qt::before{content:"“";color:var(--sun);font-size:1.6em;line-height:0;vertical-align:-.25em;margin-right:.06em}
+.dbody .pq .qa{margin-top:.55rem;font-size:.78rem;color:var(--ink-faint);letter-spacing:.06em}
+.dbody .pq .qa b{color:var(--aloha);font-weight:600}
+.dbody .verse{margin:1.6rem auto;max-width:88%;text-align:center;padding:1.4rem 1rem;border-radius:14px;
+  background:linear-gradient(160deg,rgba(56,189,248,.07),rgba(143,224,255,.03));border:1px solid rgba(56,189,248,.22)}
+.dbody .verse .vt{font-family:'Fraunces',serif;font-style:italic;font-size:1.05rem;color:var(--sun);margin-bottom:.8rem}
+.dbody .verse .vl{font-family:'Fraunces',serif;font-style:italic;line-height:2;color:#e8dfd2;white-space:pre-line}
+.dbody .verse .vby{margin-top:.7rem;font-size:.72rem;color:var(--ink-faint);font-style:italic}
+.dbody .comic{margin:1.6rem 0}
+.dbody .comic .ct{font-family:'Fraunces',serif;font-size:1.05rem;color:var(--ink);margin-bottom:.8rem;text-align:center;font-style:italic}
+.dbody .cpanels{display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap}
+.dbody .cpanel{flex:1;min-width:140px;max-width:220px;border:2px solid rgba(233,226,248,.25);border-radius:10px;padding:.8rem .6rem;
+  background:rgba(0,0,0,.25);text-align:center;display:flex;flex-direction:column;gap:.45rem}
+.dbody .cpanel .ce{font-size:2.2rem;line-height:1.1}
+.dbody .cpanel .cs{font-size:.8rem;color:#f3ead9;background:rgba(143,224,255,.12);border:1px solid rgba(143,224,255,.3);
+  border-radius:12px 12px 12px 2px;padding:.35rem .5rem;font-style:italic}
+.dbody .cpanel .cc{font-size:.7rem;color:var(--ink-faint);letter-spacing:.04em;text-transform:uppercase}
+.dbody .wmeme{margin:1.6rem 0;text-align:center}
+.dbody .wmeme-row{display:flex;gap:.7rem;justify-content:center;align-items:center}
+.dbody .wmeme-row img{width:32%;height:auto;object-fit:contain;border-radius:10px;border:2px solid rgba(233,226,248,.2);
+  box-shadow:0 12px 40px rgba(0,0,0,.5);transition:transform .3s;cursor:pointer}
+.dbody .wmeme-row img:hover{transform:scale(1.03) rotate(-.4deg)}
+@media (max-width:720px){.dbody .wmeme-row{flex-direction:column;align-items:center}.dbody .wmeme-row img{max-width:min(480px,100%)}}
+.dbody .wsess{margin-top:1.4rem;border-top:1px dashed rgba(143,224,255,.3);padding-top:1rem}
+.dbody .wsess .wst{font-family:'Fraunces',serif;font-size:1.05rem;color:var(--ink);margin-bottom:.7rem}
+.dbody .wsess .wsitem{padding:.5rem .2rem;border-bottom:1px solid rgba(255,255,255,.05);cursor:pointer;transition:.2s;border-radius:6px}
+.dbody .wsess .wsitem:hover{background:rgba(143,224,255,.06);padding-left:.5rem}
+.dbody .wsess .wsitem b{color:var(--sun);font-weight:600;font-size:.9rem}
+.dbody .wsess .wsitem span{color:var(--ink-dim);font-size:.85rem;display:block;margin-top:.15rem}
+.dbody .colsig{text-align:center;margin-top:1.6rem;font-family:'Fraunces',serif;font-style:italic;color:var(--ink-faint);font-size:.9rem}
+/* deep transcript search */
+#deepResults{margin-top:1.2rem}
+.deep-head{font-family:'Fraunces',serif;font-style:italic;color:var(--sun);font-size:.95rem;margin:.8rem 0 .6rem}
+.deep-hit{display:flex;gap:.8rem;align-items:baseline;padding:.55rem .7rem;border:1px solid var(--line);
+  border-radius:10px;margin-bottom:.45rem;cursor:pointer;transition:.2s;background:var(--card)}
+.deep-hit:hover{border-color:rgba(143,224,255,.45);transform:translateX(4px)}
+.deep-hit .dh-t{font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--sun);flex:0 0 auto}
+.deep-hit .dh-x{font-size:.85rem;color:var(--ink-dim)}
+.deep-hit .dh-x b{color:var(--ink)}
+.deep-hit .hl{color:var(--aloha);background:rgba(56,189,248,.15);border-radius:3px;padding:0 2px}
+.deep-none{color:var(--ink-faint);font-style:italic;font-size:.88rem;padding:.6rem}
+
+/* ---------- GIFT / ABOUT ---------- */
+.gift{background:linear-gradient(160deg,#0b1a2c,#102c38 55%,#14343a);border:1px solid rgba(143,224,255,.2);border-radius:26px;padding:3rem;position:relative;overflow:hidden}
+.gift::after{content:"🌺";position:absolute;right:-1rem;bottom:-2.5rem;font-size:9rem;opacity:.12;transform:rotate(-12deg)}
+.gift h2{font-family:'Fraunces',serif;font-size:clamp(1.7rem,3.6vw,2.3rem);font-weight:600;margin-bottom:1rem}
+.gift p{color:var(--ink-dim);max-width:640px;margin-bottom:1rem}
+.gift .sig{font-family:'Fraunces',serif;font-style:italic;color:var(--aloha);margin-top:1.4rem;font-size:1.05rem}
+.gift .links{display:flex;gap:.8rem;flex-wrap:wrap;margin-top:1.6rem}
+
+footer{border-top:1px solid var(--line);padding:2.6rem 1.5rem;text-align:center;color:var(--ink-faint);font-size:.85rem}
+footer b{font-family:'Fraunces',serif;padding-bottom:.12em;background:linear-gradient(115deg,var(--aloha),var(--coral));-webkit-background-clip:text;background-clip:text;color:transparent}
+footer a{color:var(--ink-dim)}
+
+.empty{grid-column:1/-1;text-align:center;color:var(--ink-faint);padding:3rem 1rem;font-family:'Fraunces',serif;font-style:italic;font-size:1.1rem}
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}
+.reveal.vis{opacity:1;transform:none}
+@media(max-width:640px){
+  .stats{gap:1.3rem}.gift{padding:2rem 1.4rem}nav .wrap{gap:1rem}
+  .kx-box{max-height:40vh}
+  .ux-state{position:static;display:inline-block;margin:0 0 .7rem .1rem}
+  /* Shaka's mobile design: video + castle SIDE BY SIDE (small), glowing words below —
+     never stacked full-width */
+  .ux-toprow{flex-wrap:nowrap;gap:.6rem}
+  .ux-tiny{flex:0 0 46%;min-width:0}
+  .ux-tiny iframe,.ux-tiny video{min-height:118px}
+  .ux-tiny .atile{aspect-ratio:auto;min-height:118px}
+  .ux-artwrap{flex:1;min-width:0;min-height:0}
+  .ux-art{width:auto;max-width:100%;max-height:132px;object-fit:contain}
+  .modal .mtitle{font-size:1.22rem}
+}
+/* 🏝️ the island is your pointer — you carry Esmeralda around the archive
+   (Shaka's touch, Jul 25). hotspot = the island's rocky root-tip at the
+   bottom, so what you point at is never covered. desktop cursors only;
+   text fields keep the I-beam, Drive's iframe keeps its own. */
+
+/* 🖱️ cursor canon (Shaka, 2026-07-27): every pit has its own mouse —
+   the ShanHaiWoo pit points with its moon-seal ⛰️🌊. desktop cursors only (pointer:fine);
+   links, buttons & cards keep the hand, text fields keep the I-beam. */
+@media (pointer:fine){
+  body{cursor:url('assets/shw-cursor.png') 16 2,auto}
+}
+</style>
+</head>
+<body>
+
+<!-- ============ HERO ============ -->
+<header class="hero">
+  <div class="sun"></div>
+  <div class="hero-inner">
+    <div class="badge-gift">⛰️🌊 山海坞 · mountain meets sea · P.I.T. №17 · forked with aloha from The VitPit</div>
+    <img src="assets/shanhaiwoo-badge.png" alt="The ShanHaiWoo moon-seal — a gold moon over mountains and sea" style="width:124px;height:124px;object-fit:contain;filter:drop-shadow(0 12px 34px rgba(94,234,212,.38));display:block;margin:0 auto 1rem">
+    <h1 class="logo">ShanHai<br><em>Woo</em></h1>
+    <div class="tagline">Public Information Transmission — <b>山海坞</b> · the Shanghai village, transmitted</div>
+    <div style="font-size:.78rem;color:var(--ink-dim);margin-top:.6rem;letter-spacing:.08em">4Seas pop-up village · Shanghai · <b>Oct–Nov 2024</b> · the opening, the cowork, the interview, the town hall — <b>a pit for all of it</b> 🕳️</div>
+    <a href="https://github.com/shakaleikaumaka/shanhaiwoopit" style="display:inline-block;margin-top:.9rem;font-family:'JetBrains Mono',monospace;font-size:.85rem;letter-spacing:.14em;color:var(--aloha);text-decoration:none;border:1px solid rgba(125,211,252,.35);border-radius:999px;padding:.45rem 1.1rem;background:rgba(125,211,252,.06)">🍴 github.com/shakaleikaumaka/shanhaiwoopit</a>
+    <p class="sub">In the fall of 2024, between the mountains and the sea, Shanghai grew a village: <b>ShanHaiWoo 山海坞</b> — 4Seas' pop-up city of builders, dreamers and zu-friends. Vitalik keynoted the opening, and the bard who runs the A/V pressed record. <b>Four sessions</b> now transmit here — cross-exhibits via <b>The VitPit</b> 🌺 — with the gallery, the documents and the lore gathered alongside, ready for the Shanghai / 4Seas / ZuCity re-meeting at ETHGlobal Tokyo. The pit provides. ⛰️🌊</p>
+    <div class="stats">
+      <div class="stat"><b id="st-sessions">—</b><span>sessions</span></div>
+      <div class="stat"><b id="st-videos">—</b><span>recordings</span></div>
+      <div class="stat"><b id="st-transcripts">—</b><span>transcripts 🌱</span></div>
+      <div class="stat"><b>3</b><span>photographs</span></div>
+      <div class="stat"><b>6</b><span>documents</span></div>
+    </div>
+    <div class="hero-cta">
+      <a class="btn btn-sun" href="#watch">▶ &nbsp;Enter the Village</a>
+      <a class="btn btn-ghost" href="#gallery">The Gallery ⛰️</a>
+    </div>
+  </div>
+</header>
+
+<nav>
+  <div class="wrap">
+    <span class="brand">The ShanHaiWoo P.I.T. ⛰️🌊</span>
+    <a class="nl" href="#watch">Sessions</a>
+    <a class="nl" href="#incoming">Incoming 🛬</a>
+    <a class="nl" href="#gallery">Gallery</a>
+    <a class="nl" href="#docs">Documents</a>
+    <a class="nl" href="#lore">Lore</a>
+    <a class="nl" href="#consent">Consent-First</a>
+    <span class="spacer"></span>
+    <a class="nl" href="https://github.com/shakaleikaumaka/shanhaiwoopit">🍴 GitHub</a>
+  </div>
+</nav>
+
+<!-- ============ ARCHIVE ============ -->
+<section id="watch">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">The Knowledge Transponder · the sessions</div>
+    <h2 class="sec-title">Press play. The village speaks.</h2>
+    <p class="sec-sub">Four recordings from the mountain-sea village — the <b>opening ceremony keynote</b>, the <b>cowork opening</b>, an <b>interview</b>, and the <b>ZuTown Hall</b>, all with Vitalik in the room. They transmit here as cross-exhibits via <a href="https://shakaleikaumaka.github.io/vitpit/" style="color:var(--aloha)">The VitPit</a> 🌺 — room audio, honest and unpolished, straight from the village's own recorder. Transcripts and full credits are queued to the pipeline 🌱 — the pit marks them pending rather than inventing them. The words carry everything.</p>
+  </div>
+  <div class="week-tabs reveal" id="weekTabs"><div class="week-tabs reveal" id="weekTabs">
+    <button class="wtab active" data-w="all">⛰️ The Sessions</button>
+  </div>
+  <div class="week-note" id="weekNote"></div>
+  <div class="toolbar reveal">
+    <div class="search"><input id="q" type="text" placeholder="Search talks, speakers, ideas…"></div>
+    <button class="chip on" data-f="v">▶ Video</button>
+    <button class="chip on" data-f="a">🎧 Audio</button>
+    <button class="chip on" data-f="t">📄 Transcript</button>
+    <span class="count-note" id="countNote"></span>
+  </div>
+  <div class="grid" id="grid"></div>
+  <div id="deepResults"></div>
+</section>
+
+<!-- ============ INCOMING TRANSMISSIONS — WAVE 2 ============ -->
+<section id="incoming">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">🛬 Incoming Transmissions · wave 2</div>
+    <h2 class="sec-title">Landing from the vault.</h2>
+    <p class="sec-sub">Deep in the family's StreamYard vault, more of the mountain-sea village has been found — the <b>closing ceremony the pit was missing</b>, the full opening, and the days between. They're being rescued to Drive right now and will land here as full sessions the moment they touch down. Honest list, no dead links — <b>declared means declared, not done.</b> 🌱</p>
+  </div>
+  <style>
+    .in-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;max-width:1080px;margin:0 auto;padding:0 1.2rem}
+    .in-card{position:relative;border:1px dashed rgba(94,234,212,.35);border-radius:18px;background:linear-gradient(160deg,rgba(14,28,46,.6),rgba(18,37,58,.6));padding:1.15rem 1.25rem;overflow:hidden}
+    .in-card::after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,transparent 30%,rgba(94,234,212,.06) 50%,transparent 70%);animation:inshimmer 3.4s linear infinite;pointer-events:none}
+    @keyframes inshimmer{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}
+    .in-card h3{font-family:'Fraunces',serif;font-size:1.02rem;margin:0 0 .3rem;color:var(--ink)}
+    .in-card p{margin:0;font-size:.8rem;color:var(--ink-dim);line-height:1.5}
+    .in-pill{font-family:'JetBrains Mono',monospace;font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--sun);border:1px solid rgba(94,234,212,.35);border-radius:999px;padding:.2rem .6rem;display:inline-block;margin-top:.6rem}
+    .in-date{font-family:'JetBrains Mono',monospace;font-size:.66rem;color:var(--coral);letter-spacing:.08em;display:block;margin-bottom:.35rem}
+  </style>
+  <div class="in-grid reveal">
+    <div class="in-card">
+      <span class="in-date">2024-11-08 · 4.3h</span>
+      <h3>ShanHaiWoo Closing Ceremony</h3>
+      <p>The village's last goodnight — found in the StreamYard vault, being rescued to Drive.</p>
+      <span class="in-pill">🛬 landing from the vault</span>
+    </div>
+    <div class="in-card">
+      <span class="in-date">2024-10-05 · 2.9h</span>
+      <h3>ShanHaiWoo Opening Ceremony featuring Vitalik</h3>
+      <p>The full opening, as streamed — the long-form companion to the keynote above.</p>
+      <span class="in-pill">🛬 landing from the vault</span>
+    </div>
+    <div class="in-card">
+      <span class="in-date">2024 · 6.1h</span>
+      <h3>Public Goods Day</h3>
+      <p>A whole day for public goods at the mountain-sea village.</p>
+      <span class="in-pill">🛬 landing from the vault</span>
+    </div>
+    <div class="in-card">
+      <span class="in-date">2024 · vault reel</span>
+      <h3>Lecture Days</h3>
+      <p>The village classroom sessions, rescued from the same vault.</p>
+      <span class="in-pill">🛬 landing from the vault</span>
+    </div>
+    <div class="in-card">
+      <span class="in-date">2024 · vault reel</span>
+      <h3>Temple Mode &amp; Ecstatic Dance</h3>
+      <p>The woo's quieter and wilder hours — temple mode, ecstatic dance.</p>
+      <span class="in-pill">🛬 landing from the vault</span>
+    </div>
+    <div class="in-card">
+      <span class="in-date">2024 · vault reel</span>
+      <h3>Soundchecks</h3>
+      <p>The bard's own reel — soundchecks from the mountain-sea stage.</p>
+      <span class="in-pill">🛬 landing from the vault</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============ GALLERY ============ -->
+<section id="gallery">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">📷 The Gallery · the village in photographs</div>
+    <h2 class="sec-title">Three frames of the woo.</h2>
+    <p class="sec-sub">From the "zu tech pictures" roll — <b>November 2, 2024</b>, ShanHaiWoo, Shanghai. Tap any photograph for the full-resolution original on Drive. ⛰️🌊</p>
+  </div>
+  <style>
+    .gal-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:1.1rem;max-width:1080px;margin:0 auto;padding:0 1.2rem}
+    @media(max-width:760px){.gal-strip{grid-template-columns:1fr}}
+    .gal-item{position:relative;border-radius:18px;overflow:hidden;border:1px solid var(--line);background:var(--card);display:block;text-decoration:none;transition:transform .35s ease,border-color .35s ease,box-shadow .35s ease}
+    .gal-item:hover{transform:translateY(-6px);border-color:rgba(94,234,212,.45);box-shadow:0 18px 50px rgba(0,0,0,.45)}
+    .gal-item img{width:100%;height:250px;object-fit:cover;display:block;filter:saturate(1.05)}
+    .gal-item .gal-cap{position:absolute;left:0;right:0;bottom:0;padding:.75rem .95rem;font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:.06em;color:var(--ink);background:linear-gradient(transparent,rgba(4,10,18,.88));display:flex;justify-content:space-between;align-items:center;gap:.5rem}
+    .gal-item .gal-cap b{color:var(--sun)}
+  </style>
+  <div class="gal-strip reveal">
+    <a class="gal-item" href="https://drive.google.com/file/d/15us-Sml8ssHXKuMayWyK5nIO5oI3L4vR/view" target="_blank" rel="noopener">
+      <img src="assets/gallery/shw-photo-dsc8035.jpg" alt="ShanHaiWoo village photograph, Nov 2 2024" loading="lazy">
+      <span class="gal-cap"><b>DSC_8035</b><span>Nov 2, 2024 · Drive ↗</span></span>
+    </a>
+    <a class="gal-item" href="https://drive.google.com/file/d/1H4DzXHB3duoVXFw5FlaJUpSTgrYPmsuI/view" target="_blank" rel="noopener">
+      <img src="assets/gallery/shw-photo-dsc8036.jpg" alt="ShanHaiWoo village photograph, Nov 2 2024" loading="lazy">
+      <span class="gal-cap"><b>DSC_8036</b><span>Nov 2, 2024 · Drive ↗</span></span>
+    </a>
+    <a class="gal-item" href="https://drive.google.com/file/d/1bM2G21vu4ZSd2FwH9frPxG7iQYYtyxgv/view" target="_blank" rel="noopener">
+      <img src="assets/gallery/shw-photo-dsc8037.jpg" alt="ShanHaiWoo village photograph, Nov 2 2024" loading="lazy">
+      <span class="gal-cap"><b>DSC_8037</b><span>Nov 2, 2024 · Drive ↗</span></span>
+    </a>
+  </div>
+</section>
+
+<!-- ============ DOCUMENTS ============ -->
+<section id="docs">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">📜 The Documents · the village on paper</div>
+    <h2 class="sec-title">Programs, decks &amp; plans.</h2>
+    <p class="sec-sub">The paper trail of the mountain-sea village. Three are linked in full; three more are <b>id-pending</b> — their Drive ids were truncated in the recon notes, and the pit would rather say so honestly than guess. The pit remembers, and will mend. 🕯️</p>
+  </div>
+  <style>
+    .doc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.1rem;max-width:1080px;margin:0 auto;padding:0 1.2rem}
+    .doc-card{border:1px solid var(--line);border-radius:18px;background:linear-gradient(160deg,var(--card),var(--card2));padding:1.3rem 1.4rem;display:flex;gap:1rem;align-items:flex-start;text-decoration:none;color:var(--ink);transition:transform .3s ease,border-color .3s ease,box-shadow .3s ease}
+    a.doc-card:hover{transform:translateY(-4px);border-color:rgba(240,196,100,.5);box-shadow:0 14px 40px rgba(0,0,0,.4)}
+    .doc-card .doc-emoji{font-size:1.7rem;line-height:1.2;filter:drop-shadow(0 4px 10px rgba(0,0,0,.4))}
+    .doc-card h3{font-family:'Fraunces',serif;font-size:1.06rem;margin:0 0 .35rem;color:var(--ink)}
+    .doc-card p{margin:0;font-size:.82rem;color:var(--ink-dim);line-height:1.55}
+    .doc-card .doc-kind{font-family:'JetBrains Mono',monospace;font-size:.62rem;letter-spacing:.14em;color:var(--sun);text-transform:uppercase;display:inline-block;margin-top:.6rem;border:1px solid rgba(94,234,212,.3);border-radius:999px;padding:.22rem .65rem}
+    .doc-card.pending{opacity:.72;border-style:dashed}
+  </style>
+  <div class="doc-grid reveal">
+    <a class="doc-card" href="https://drive.google.com/file/d/1S1qFYkcEE1kCqPtP33Js2kEp4VJrn-TgTfvLvUI6jN8/view" target="_blank" rel="noopener">
+      <span class="doc-emoji">🎊</span>
+      <span><h3>4Seas ShanHaiWoo Open Ceremony</h3><p>The program deck of the opening ceremony — the village's first hello, session by session.</p><span class="doc-kind">deck · Drive ↗</span></span>
+    </a>
+    <a class="doc-card" href="https://drive.google.com/file/d/1OiheP-AxM81BVQOjG7mo8-mab8Kbc3o6/view" target="_blank" rel="noopener">
+      <span class="doc-emoji">🌙</span>
+      <span><h3>Mina Protocol — Closing Ceremony — ShanHai Woo</h3><p>The closing-ceremony deck — the village's last goodnight, presented with Mina Protocol.</p><span class="doc-kind">deck · Drive ↗</span></span>
+    </a>
+    <a class="doc-card" href="https://drive.google.com/drive/folders/1lAwmxoNS3-72Uft9v2YlZTJK2kBrkq82xHAMC1lrVyc" target="_blank" rel="noopener">
+      <span class="doc-emoji">🎂</span>
+      <span><h3>Oct 1 2025 — ShanHaiWoo Celebration Ceremony</h3><p>"Gathering with Zucity Friends" — a whole folder from the reunion that kept the woo alive a year later.</p><span class="doc-kind">folder · Drive ↗</span></span>
+    </a>
+    <div class="doc-card pending">
+      <span class="doc-emoji">📣</span>
+      <span><h3>shanhaiwoo-pitch.pdf</h3><p>The village pitch deck — Drive id pending (recon-truncated; the pit will mend).</p><span class="doc-kind">id pending 🌱</span></span>
+    </div>
+    <div class="doc-card pending">
+      <span class="doc-emoji">🖥️</span>
+      <span><h3>2024 Shanhaiwu: Super World Computer Slides</h3><p>Village-scale vision slides — Drive id pending (recon-truncated; the pit will mend).</p><span class="doc-kind">id pending 🌱</span></span>
+    </div>
+    <div class="doc-card pending">
+      <span class="doc-emoji">🏪</span>
+      <span><h3>开源集市方案 · open-source bazaar plan</h3><p>The open-source bazaar proposal — Drive id pending (recon-truncated; the pit will mend).</p><span class="doc-kind">id pending 🌱</span></span>
+    </div>
+  </div>
+</section>
+
+<!-- ============ LORE ============ -->
+<section id="lore">
+  <div class="gift reveal">
+    <h2>The lore of the mountain-sea ⛰️🌊</h2>
+    <p><b>ShanHaiWoo 山海坞</b> — "mountain-sea woo" — was 4Seas' Shanghai pop-up village: across <b>October and November 2024</b>, a corner of Shanghai became a small city of builders, researchers, artists and zu-friends, in the lineage that runs from Zuzalu through every ZuCity gathering since.</p>
+    <p>Vitalik keynoted the <b>opening ceremony</b>, opened the <b>cowork</b>, sat for an <b>interview</b>, and stayed for the <b>ZuTown Hall</b> — and the bard who runs the A/V pressed record, as bards do. Those recordings transmit here as cross-exhibits via <a href="https://shakaleikaumaka.github.io/vitpit/" style="color:var(--aloha)">The VitPit</a> 🌺; the photographs, the ceremony decks and the plans gather around them.</p>
+    <p>Every claim here is modest on purpose: the pit transmits only what its sources carry, and marks the rest <b>pending</b> — transcripts, full credits, exact dates — until the pipeline catches up. 🌱</p>
+    <p>This pit was born on <b>2026-09-23</b> under Shaka's <b>pit-for-everything order</b> — "We need a Shanghai Wu pit… the opening and closing ceremony. We need a pit for all of it." — so the mountain-sea village has its transponder ready for the Shanghai / 4Seas / ZuCity friends re-meeting at <b>ETHGlobal Tokyo, Sep 25–27, 2026</b>. The woo travels. ⛰️🌊</p>
+    <div class="sig">— PIT BOY 🕳️😤, herald of the P.I.T. Protocol<br><span style="font-size:.85rem;color:var(--ink-dim)">forked with aloha from The VitPit · P.I.T. №17 · built by order of Shaka · consent first, forever</span></div>
+  </div>
+</section>
+
+<!-- ============ CONSENT-FIRST — THE SOUL OF THIS PIT ============ -->
+<section id="consent">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">🛡️ The Consent-First Soul</div>
+    <h2 class="sec-title">The pit asks first.</h2>
+    <p class="sec-sub" style="max-width:680px">Every P.I.T. lives by five stages — crawl, harvest, audit, publish, and the fifth, the soul: <b>consent-first governance</b>. Nothing enters a permanent public archive without the consent of the people it belongs to. This pit inherits the gathering's own consent — and where consent is unclear, it simply waits.</p>
+  </div>
+  <div class="gift reveal" style="margin-bottom:1.2rem">
+    <h2>What this pit is — and what it isn't. 🕯️</h2>
+    <p><b>It is:</b> the village's transponder — four sessions recorded at ShanHaiWoo by the family's own bard, transmitted as cross-exhibits from <a href="https://shakaleikaumaka.github.io/vitpit/" style="color:var(--aloha)">The VitPit</a> 🌺, with the village's photographs and documents gathered alongside.</p>
+    <p><b>It isn't:</b> finished. Transcripts, full credits and exact dates are queued to the pipeline 🌱 — the pit would rather mark them <b>pending</b> than invent them. Declared means declared, not done.</p>
+    <p>If you appear in this footage and would rather not: <b>one email and you're gone</b> — <a href="mailto:consent@publicinform.com" style="color:var(--aloha)">consent@publicinform.com</a> — no questions, honored with love. Consent isn't a checkbox in this protocol — it's the foundation.</p>
+    <p style="font-size:.9rem;color:var(--ink-faint)">The mountain doesn't rush, and neither does the sea. The pit transmits with consent, or not at all. ⛰️🌊</p>
+  </div>
+  <div id="dispatches"></div>
+</section>
+
+<!-- ============ WEEKLY ============ -->
+
+<!-- ============ THE NAME ============ -->
+<section id="name">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">🕳️ Why the P.I.T.?</div>
+    <h2 class="sec-title">Public Information Transmission</h2>
+    <p class="sec-sub" style="max-width:680px;margin-left:auto;margin-right:auto">
+      <b>P.I.T.</b> is the <b>Knowledge Transponder's true backronym</b> — and it's named twice over.
+      For the <b>orchestra pit</b>, where the musicians sit: the ones who make the sound the whole room dances to, rarely in the spotlight, always holding the signal.
+      And in honor of <b>OSO P.I.T.</b> — Shaka's ETHGlobal Delhi hackathon winner (Most Creative Use of ENS), where the pit first got its name.
+    </p>
+    <p class="sec-sub" style="max-width:680px;margin-left:auto;margin-right:auto;margin-top:1.4rem;font-size:1.3rem;color:var(--ink)">
+      <b><em><a href="https://publicinform.com/" style="color:inherit;text-decoration:none">publicinform.com</a></em></b> 🕳️✨
+    </p>
+    <p class="sec-sub" style="max-width:680px;margin-left:auto;margin-right:auto">
+      And the pit is only just beginning — onward, sharing this openly with communities everywhere, for all: the open transponding of knowledge. <b>The pit provides!</b> 💪🕳️
+    </p>
+  </div>
+</section>
+
+<!-- ============ GIFT ============ -->
+<section id="gift">
+  <div class="gift reveal">
+    <h2>This pit is a fork. 🍴</h2>
+    <p>Some pits are people; this one is a <b>place</b> — a village that lived for a few weeks between the mountains and the sea, and still echoes. The ShanHaiWoo P.I.T. carries the village's sessions, its photographs and its paper trail on one transponder, so the whole gathering can travel in a pocket.</p>
+    <p>It is forked with aloha from <a href="https://shakaleikaumaka.github.io/vitpit/" style="color:var(--aloha)">The VitPit</a> (generation 4) — part of the lineage that runs from <a href="https://esmeraldapit.com" style="color:var(--aloha)">The Esmeralda P.I.T.</a> genesis through <a href="https://shakaleikaumaka.github.io/zuitzpit/" style="color:var(--aloha)">ZuitzPIT</a>, <a href="https://shakaleikaumaka.github.io/4seaspit/" style="color:var(--aloha)">4SeasPIT</a> and <a href="https://shakaleikaumaka.github.io/kaspit/" style="color:var(--aloha)">KasPIT</a> — same DNA: the Knowledge Transponder, the radical honesty, the ≈$0 static architecture.</p>
+    <p>Everything here is open. Watch it, read it, quote it, teach with it, remix it. The knowledge belongs to the commons — <em>open source the knowledge, not just the music.</em></p>
+    <p>And if you want to <em>build</em> with it — the whole pit is on GitHub: this site, the data, and the pipeline that harvested it. Everything open-sourced CC0. <b>Fork me like crazy.</b> 🍴</p>
+    <div class="sig">— PIT BOY 🕳️😤, herald of the P.I.T. Protocol<br><span style="font-size:.85rem;color:var(--ink-dim)">forked with aloha from The VitPit · built by order of Shaka under the 2026-09-23 pit-for-everything order · mountain-sea restyle ⛰️🌊 · heart first, always · consent first, forever</span></div>
+    <div class="links">
+      <a class="btn btn-sun" href="https://github.com/shakaleikaumaka/shanhaiwoopit">🍴 Fork this P.I.T. on GitHub</a>
+      <a class="btn btn-ghost" href="https://shakaleikaumaka.github.io/vitpit/">💎 The VitPit (provenance)</a>
+      <a class="btn btn-ghost" href="https://shakaleikaumaka.github.io/4seaspit/">🌏 The 4SeasPIT (the family)</a>
+      <a class="btn btn-ghost" href="https://esmeraldapit.com">🕳️ The Esmeralda P.I.T. (genesis)</a>
+      <a class="btn btn-ghost" href="https://publicinform.com">📡 The P.I.T. Protocol</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <b>The ShanHaiWoo P.I.T.</b> ⛰️🌊 · Public Information Transmission · 山海坞 — the Shanghai village, transmitted · P.I.T. №17 · forked with aloha from The VitPit · consent-first, CC0<br>
+  <span style="font-size:.85rem">🕳️ The pit provides · provenance: <a href="https://shakaleikaumaka.github.io/vitpit/" style="color:var(--aloha)">The VitPit</a> · protocol: <a href="https://publicinform.com" style="color:var(--aloha)">publicinform.com</a> · genesis: <a href="https://esmeraldapit.com" style="color:var(--aloha)">esmeraldapit.com</a> · part of the P.I.T. universe 🌺🤙<br>
+  🍴 everything open-sourced CC0 — fork me like crazy → <a href="https://github.com/shakaleikaumaka/shanhaiwoopit" style="color:var(--aloha)">github.com/shakaleikaumaka/shanhaiwoopit</a> · 🔇 silence canon: pits listen, they don't sing — no music player here.</span>
+
+  <p style="font-size:.8rem;opacity:.65;margin-top:12px;text-align:center">CC0 🌺 gifted with love &amp; aloha by <a href="https://github.com/shakaleikaumaka/shanhaiwoopit/blob/main/GIFT.md">Shaka Lei Kaumaka &amp; the ʻohana</a> · <a href="https://blessingpool.com">give back to the tide 🌊</a></p>
+</footer>
+
+<!-- ============ MODAL ============ -->
+<div class="modal-bg" id="modalBg">
+  <div class="modal" role="dialog" aria-modal="true">
+    <button class="mclose" id="mclose" aria-label="Close">✕</button>
+    <div class="mhead">
+      <div class="mhead-text">
+        <div class="mtitle" id="mtitle"></div>
+        <div class="mmeta" id="mmeta"></div>
+      </div>
+      <div class="ux-isle" aria-hidden="true">
+        <img class="ux-isle-img" src="assets/shanhaiwoo-badge.png" alt="" style="border-radius:50%;width:64px;height:64px;object-fit:cover">
+        <div class="ux-isle-tag">with aloha ⛰️🌊 from the mountain-sea pit — sorry for the wifi &amp; the latency…
+          small pictures forgive slow connections.
+          <b>the pit provides 🕳️🌊</b></div>
+      </div>
+    </div>
+    <div class="mtabs" id="mtabs"></div>
+    <div class="mbody" id="mbody"></div>
+  </div>
+</div>
+
+<!-- ============ THEATER: now stage-scoped, built inside #uxStage by openTheater() ============ -->
+
+<script>
+const WEEKS = {}; /* ShanHaiWoo: four sessions, one honest tab — transcripts & credits join when the pipeline lands 🌱 */
+const DRIVE = id => `https://drive.google.com/file/d/${id}/view`;
+const PREVIEW = id => `https://drive.google.com/file/d/${id}/preview`;
+const STREAM = id => `https://drive.usercontent.google.com/download?id=${id}&export=download&confirm=t`;
+const UC = id => `https://drive.google.com/uc?export=download&id=${id}&confirm=t`;
+const mediaSrc = m => m.hosted || STREAM(m.id);
+/* self-hosted audio is the transponder's heartbeat — a service worker adds range/seek support */
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js?v=2').catch(()=>{});
+const esc = s => (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+let SESSIONS = [], state = {week:'all', q:'', f:{v:true,a:true,t:true}};
+
+async function boot(){
+  const res = await fetch('data/catalog.json?v=5');
+  SESSIONS = await res.json();
+  document.getElementById('st-sessions').textContent = SESSIONS.length;
+  document.getElementById('st-videos').textContent = SESSIONS.filter(s=>s.media.length).length;
+  document.getElementById('st-transcripts').textContent = SESSIONS.filter(s=>s.transcript).length;
+  render(); loadDispatches();
+}
+
+function fmtDate(d){
+  if(!d) return 'ShanHaiWoo · Oct–Nov 2024';
+  return new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+}
+
+function filtered(){
+  return SESSIONS.filter(s=>{
+    if(state.week!=='all' && String(s.week)!==state.week) return false;
+    const hasV = s.media.some(m=>m.kind==='video'), hasA = s.media.some(m=>m.kind==='audio'), hasT = !!s.transcript;
+    if(hasV && !state.f.v) return false;
+    if(hasA && !hasV && !state.f.a) return false;
+    if(hasT && !hasV && !hasA && !state.f.t) return false;
+    if(!hasV && !hasA && !hasT) return false;
+    if(state.q){
+      const hay = (s.title+' '+(s.source||'')).toLowerCase();
+      if(!state.q.toLowerCase().split(/\s+/).every(w=>hay.includes(w))) return false;
+    }
+    return true;
+  });
+}
+
+function render(){
+  const list = filtered();
+  const grid = document.getElementById('grid');
+  document.getElementById('countNote').textContent = `${list.length} session${list.length===1?'':'s'}`;
+  document.getElementById('weekNote').textContent = state.week==='all' ? '⛰️ Four sessions · ShanHaiWoo 山海坞 · cross-exhibits via The VitPit 🌺 · transcripts queued to the pipeline 🌱' : (WEEKS[state.week]?.note||'');
+  if(!list.length){ grid.innerHTML = '<div class="empty">Nothing here yet — try another week or search 🌅</div>'; return; }
+  grid.innerHTML = list.map((s,i)=>{
+    const _vids = s.media.filter(m=>m.kind==='video');
+    const hasV = _vids.length>0, hasA = s.media.some(m=>m.kind==='audio');
+    const deadV = hasV && _vids.every(m=>m.preview==='dead');
+    const folderV = deadV && _vids.every(m=>m.folder);
+    const karaoke = s.transcript && s.media.some(m=>m.hosted);
+    const idx = SESSIONS.indexOf(s);
+    const hp = (s.media.find(m=>m.hosted)||{}).hosted;
+    const avaSrc = s.thumb || (hp ? hp.replace('audio/','thumbs/').replace(/\.mp3$/,'.jpg') : null);
+    const ava = avaSrc ? `<img class="card-ava" loading="lazy" src="${avaSrc}" alt="" onerror="this.remove()">` : '';
+    return `<div class="card" data-week="${s.week||''}" onclick="openSession(${idx})">
+      ${ava}
+      <div class="wk"></div>
+      <div class="meta"><span>${fmtDate(s.date)}</span>${s.duration?`<span>· ${esc(s.duration)}</span>`:''}</div>
+      <h3>${esc(s.title)}</h3>
+      <div class="badges">
+        ${karaoke?'<span class="pill xp">🌊 karaoke transcript</span>':''}
+
+        ${hasV?(deadV?'<span class="pill" style="background:rgba(232,184,75,.10);color:var(--gold,#e8b84b);border:1px solid rgba(232,184,75,.35)">'+(folderV?'🗂️ source folder':'🛠️ preview pending')+'</span>':'<span class="pill v">▶ video</span>'):''}
+        ${hasA?'<span class="pill a">🎧 audio</span>':''}
+        ${s.transcript?'<span class="pill t">📄 transcript</span>':''}
+        ${!hasV&&!hasA?'<span class="pill d">read only</span>':''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+/* ================= UNIFIED TRANSPONDER ================= */
+let ux = {media:null, raf:null, segs:[], lineEls:[], words:[], curLine:-1, curWord:-1, session:null, wasPlaying:false};
+
+function uxCleanup(){
+  if(ux.raf) cancelAnimationFrame(ux.raf);
+  if(ux.media){ try{ ux.media.pause(); }catch(e){} }
+  /* the read-along player (Transcript tab) is a SEPARATE Audio object —
+     orphaning it without pause = ghost audio after close (Shaka's two-talks bug) */
+  if(ux.rmedia){ try{ ux.rmedia.pause(); ux.rmedia.src=''; }catch(e){} ux.rmedia = null; }
+  closeTheater(true);
+  const keep = ux.pendingSeek; /* deep-search landings survive the reset */
+  ux = {media:null, raf:null, segs:[], lineEls:[], words:[], curLine:-1, curWord:-1, session:null, wasPlaying:false};
+  if(keep != null) ux.pendingSeek = keep;
+}
+
+function parseSegments(txt){
+  const parts = txt.split(/^---+$/m);
+  const bodyTxt = parts.length>1 ? parts.slice(1).join('\n') : txt;
+  const segs = [];
+  for(const raw of bodyTxt.split('\n')){
+    const l = raw.trim(); if(!l) continue;
+    const m = l.match(/^\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]\s*(.*)$/);
+    if(m){
+      const t = m[3] ? (+m[1])*3600+(+m[2])*60+(+m[3]) : (+m[1])*60+(+m[2]);
+      segs.push({t, label:m[3]?`${m[1]}:${m[2]}:${m[3]}`:`${m[1]}:${m[2]}`, text:m[4]});
+    } else if(segs.length) segs[segs.length-1].text += ' ' + l;
+  }
+  return segs;
+}
+
+const fmtT = t => { if(!isFinite(t)) return '0:00'; const m=Math.floor(t/60), ss=Math.floor(t%60); return `${m}:${String(ss).padStart(2,'0')}`; };
+
+/* pick the primary media for the tiny window */
+function pickMedia(s){
+  const vids = s.media.filter(m=>m.kind==='video');
+  const auds = s.media.filter(m=>m.kind==='audio');
+  if(s.quality==='failed') return {m: auds[0] || vids[0] || s.media[0], audioFirst: !!auds.length};
+  return {m: vids[0] || auds[0] || s.media[0], audioFirst: !vids.length};
+}
+
+function showUnified(s){
+  const body = document.getElementById('mbody');
+  const {m, audioFirst} = pickMedia(s);
+  const others = s.media.filter(x=>x!==m);
+  const hosted = m.hosted || (s.media.find(x=>x.hosted)||{}).hosted || null;
+  const hasVideo = s.media.some(x=>x.kind==='video');
+  /* AUDIT BOOGIE 2026-07-27 (drive-viewer probe, 383 videos): Drive never transcoded these —
+     /preview is a corpse, but the pit's own audio + words still carry the session.
+     Go audio-first and say so HONESTLY. flag lives in data/catalog.json (self-healing:
+     the QA probe flips it back when Drive coughs up a transcode). */
+  const vmEntry = s.media.find(x=>x.kind==='video');
+  const vidDead = !!(vmEntry && vmEntry.preview==='dead');
+  const vidFolder = !!(vmEntry && vmEntry.folder);
+  /* mobile truth (Shaka's iPhone): Safari ITP blocks 3rd-party cookies, so the
+     Drive IFRAME can never see a Google login — the player is dead on arrival.
+     mobile goes AUDIO-FIRST: the transponder is the hero; video = clean out-link
+     to a full tab, where the sign-in works natively. desktop keeps the iframe. */
+  const MOBILE = matchMedia('(max-width:640px)').matches;
+  const vidIdM = hasVideo ? ((s.media.find(x=>x.kind==='video')||m).id) : null;
+  const thumbM = s.thumb || (hosted ? hosted.replace('audio/','thumbs/').replace(/\.mp3$/,'.jpg') : null); /* Patrick's speaker bubble */
+  const watchCard = vidIdM ? `<div class="ux-watchcard">
+      ${thumbM?`<img class="wc-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}
+      <button class="wc-playbtn" id="uxCardPlay" aria-label="Play the audio">▶</button>
+      <span class="wc-t">${vidDead?'the video’s Drive preview is still pending — the words below are alive 🌊':'listen — the words glow 🌊'}</span>
+      <a class="wc-out" href="${DRIVE(vidIdM)}">${vidDead?'try the source on Drive ↗':'or watch the video on Drive ↗'}</a>
+    </div>` : '';
+  const folderCard = vidIdM ? `<div class="ux-watchcard">
+      ${thumbM?`<img class="wc-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}
+      <span class="wc-t">${vidFolder?'the source is a Drive folder — original files inside, the pit’s harvest is queued 🗂️':'the video preview never transcoded at Drive — re-upload queued, the pit remembers 🛠️'}</span>
+      <a class="wc-out" href="${DRIVE(vidIdM)}">open the source on Drive ↗</a>
+    </div>` : '';
+  const poster = hosted ? hosted.replace('audio/','posters/').replace(/\.mp3$/,'.jpg') : null;
+
+  body.innerHTML = `
+    <div class="ux-stage" id="uxStage">
+      <div class="ux-glow"></div>
+      <div class="ux-state" id="uxState">tuning the transponder…</div>
+      <div class="ux-toprow">
+        <div class="ux-tiny" id="uxTiny">
+          ${hosted
+            ? `${hasVideo
+                ? ((MOBILE || vidDead) ? watchCard
+                          : `<div class="ux-vidwrap"><iframe class="ux-driveframe" id="uxDriveFrame" src="${PREVIEW(vidIdM)}" allow="autoplay; fullscreen" allowfullscreen></iframe><div class="ux-shield" id="uxShield" title="tap to play / pause · tap low to skip — the words follow 🌊"></div></div>`)
+                : `<div class="atile" id="uxTile"><span>🎧</span><small>audio session</small></div>`}
+               <audio id="uxMedia" preload="metadata" src="${hosted}"></audio>`
+            : (vidDead ? folderCard + `<audio id="uxMedia" preload="none"></audio>` : MOBILE ? watchCard + `<audio id="uxMedia" preload="none"></audio>`
+                      : `<iframe class="ux-driveframe" src="${PREVIEW(m.id)}" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                         <audio id="uxMedia" preload="none"></audio>`)}
+          <div class="mini-bar">
+            ${hosted
+              ? (hasVideo
+                  ? ((MOBILE||vidDead) ? `${thumbM?`<img class="mb-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}<span style="font-size:.62rem;color:var(--ink-dim);padding:0 .35rem 0 .15rem">you are the transponder 🌊</span>`
+                            : '<span style="font-size:.62rem;color:var(--ink-dim);padding:0 .35rem">🔊 sound lives in the video</span><button class="mini-btn" id="uxAudioOnly" title="video resting? just listen 🎧">🎧</button>')
+                  : `<button class="mini-btn" id="uxMiniPlay" aria-label="Play">▶</button>`)
+              : (MOBILE ? '' : '<span style="font-size:.62rem;color:var(--ink-dim);padding:0 .35rem">via Drive</span>')}
+            ${hasVideo && !vidDead ? `<button class="mini-expand" id="uxExpand" title="watch the video big 🌊">⛶ video</button>`:''}
+          </div>
+        </div>
+        <div class="ux-artwrap"><img class="ux-art" src="assets/shanhaiwoo-badge.png" alt="The ShanHaiWoo moon-seal" style="border-radius:18px"></div>
+      </div>
+      <canvas class="ux-viz" id="uxViz"></canvas>
+    </div>
+    <div class="ux-subtitle" id="uxSub"><span class="idle">${hosted&&hasVideo&&!vidDead
+      ? 'press the gold ▶ — the video and the glowing words start together 🌊'
+      : vidDead&&hosted ? 'press the gold ▶ — the glowing words carry this one while the video preview is pending 🌊'
+      : '▶ press play — the spoken sentence glows here 🌊'}</span></div>
+    <div class="ux-controls">
+      <button class="ux-skip" id="uxBack" title="Back 15 seconds">−15</button>
+      <button class="ux-play" id="uxPlay" aria-label="Play">▶</button>
+      <button class="ux-skip" id="uxFwd" title="Forward 15 seconds">+15</button>
+      <div class="ux-prog" id="uxProg"><div class="ux-prog-fill" id="uxFill"></div></div>
+      <span class="ux-time" id="uxTime">0:00</span>
+    </div>
+    <div class="kx-box" id="kxBox"><div class="loading" style="color:var(--ink-faint);font-style:italic;padding:1rem">Summoning the words… 🌊</div></div>
+    <div class="ux-hint">${s.transcript ? 'video &amp; words always move together — the gold ▶ starts both · tap the video to play/pause · tap low on the video or any paragraph below to jump there · −15 / +15 or ← → to skip 🌺' : 'the Drive player above carries this session whole — press ▶ inside it, or open the source links below · the transcript joins when the pipeline lands 🌱'}</div>
+    <div class="mlinks">
+      <a href="${DRIVE(m.id)}">↗ Source on Google Drive</a>
+      ${others.map(x=>`<a href="${DRIVE(x.id)}">↗ ${x.kind==='video'?'alt video':'audio'} source</a>`).join('')}
+      ${s.transcript?`<a href="transcripts/${s.transcript}.txt" download>⬇ Transcript (.txt)</a>`:''}
+    </div>`;
+
+  const media = document.getElementById('uxMedia');
+  ux.media = media; ux.session = s; ux.mediaEntry = m; ux.isVid = hasVideo; ux.fragment = false;
+  if(vidDead && !hosted){ const _c=body.querySelector('.ux-controls'); if(_c) _c.style.display='none'; const _s=document.getElementById('uxSub'); if(_s) _s.innerHTML = vidFolder ? '<span class="idle">🗂️ the original files live in the Drive folder above — the pit’s harvest is queued</span>' : '<span class="idle">🛠️ video preview pending — re-upload queued, the pit remembers</span>'; }
+  /* Shaka's design: the Drive video is what you watch & hear; our hosted audio
+     runs MUTED underneath, purely as the teleprompter's clock */
+  /* Shaka's design: the Drive video is what you watch & hear; our hosted audio
+     runs MUTED underneath, purely as the teleprompter's clock —
+     EXCEPT on mobile, where the iframe video is dead (Safari ITP) and OUR
+     audio IS the experience. muted clock = silent gold button. never again. */
+  if(hosted && hasVideo && !MOBILE && !vidDead) media.muted = true; /* dead preview = OUR audio is the experience — never a silent gold button */
+
+  const playBtn = document.getElementById('uxPlay');
+  const miniBtn = document.getElementById('uxMiniPlay');
+  const fill = document.getElementById('uxFill');
+  const timeEl = document.getElementById('uxTime');
+  const stateEl = document.getElementById('uxState');
+  const tile = document.getElementById('uxTile');
+
+  /* one-tap start: Drive's preview player honors ?autoplay=1&t=Ns (verified Jul 24),
+     so the gold ▶ re-arms the video at the word-clock's position — both start together.
+     v3 SYNC INVARIANT (Shaka): the video and the clock NEVER move apart —
+     pause now stops BOTH (iframe re-arms to a paused poster), every resume/scrub
+     re-arms it at the clock's position. */
+  const vidId = hasVideo ? ((s.media.find(x=>x.kind==='video')||m).id) : null;
+  const syncVideo = t => {
+    if(!hosted || !hasVideo || vidDead) return;
+    const fr = document.getElementById('uxDriveFrame');
+    if(fr) fr.src = `${PREVIEW(vidId)}?autoplay=1&t=${Math.max(0,Math.floor(t||0))}s`;
+  };
+  const pauseVideo = () => {
+    if(!hosted || !hasVideo || vidDead) return;
+    const fr = document.getElementById('uxDriveFrame');
+    if(fr) fr.src = PREVIEW(vidId); /* plain player = paused poster */
+  };
+  ux.syncVideo = syncVideo;
+  const toggle = ()=>{
+    if(media.paused){ syncVideo(media.currentTime||0); media.play().catch(()=>{}); }
+    else { media.pause(); pauseVideo(); }
+  };
+  ux.toggle = toggle;
+  /* the sync shield: an invisible translator over the Drive player. its native
+     scrub bar is a trapdoor (skips video, strands the words) — so every touch
+     routes through US: tap = play/pause both, tap low = scrub both in sync */
+  const shield = document.getElementById('uxShield');
+  if(shield) shield.addEventListener('click', e=>{
+    const r = shield.getBoundingClientRect();
+    const fx = (e.clientX - r.left) / r.width;
+    const fy = (e.clientY - r.top) / r.height;
+    if(fy > 0.72 && isFinite(media.duration) && media.duration > 0){
+      /* low tap = scrub intent: same math the native bar would do, but synced */
+      const t = Math.max(0, Math.min(media.duration, fx * media.duration));
+      media.currentTime = t;
+      syncVideo(t);
+      if(media.paused) media.play().catch(()=>{});
+    } else toggle();
+  });
+  playBtn.onclick = toggle; if(miniBtn) miniBtn.onclick = toggle;
+  const cardPlay = document.getElementById('uxCardPlay'); /* mobile: the big gold in the card */
+  if(cardPlay) cardPlay.onclick = toggle;
+  /* 🎧 listen-only mode: Drive's anon quota walled the video? the hosted audio
+     un-mutes and carries the session — the words keep glowing either way */
+  const audioOnlyBtn = document.getElementById('uxAudioOnly');
+  if(audioOnlyBtn) audioOnlyBtn.onclick = ()=>{
+    media.muted = false;
+    if(media.paused) media.play().catch(()=>{});
+    if(stateEl && !ux.fragment) stateEl.textContent = '🎧 listening — the words still glow';
+    audioOnlyBtn.textContent = '🔊';
+  };
+  const posterEl = document.getElementById('uxPoster');
+  if(posterEl) posterEl.onclick = toggle;
+
+  /* un-hosted sessions: honest state — synced audio still landing, Drive carries the video */
+  if(!hosted){
+    /* deep-search landing without a word-clock yet: re-arm the Drive video
+       straight at the spoken moment (karaoke arrives with the audio) */
+    if(ux.pendingSeek != null){
+      const fr = document.querySelector('#uxDriveFrame, .ux-driveframe');
+      if(fr && vidId) fr.src = `${PREVIEW(vidId)}?autoplay=1&t=${Math.max(0,Math.floor(ux.pendingSeek))}s`;
+      ux.pendingSeek = null;
+    }
+    if(stateEl && !vidDead) stateEl.textContent = '🌱 synced audio landing soon';
+    document.querySelector('.ux-controls').style.display='none';
+    const sub0 = document.getElementById('uxSub');
+    if(sub0 && !vidDead) sub0.innerHTML = '<span class="idle">karaoke arrives when the synced audio lands 🌱 — the video above plays via Drive, the full transcript waits below</span>'; /* vidDead: R15 already set the honest line */
+  }
+  const skip = d => { const dur = isFinite(media.duration)?media.duration:Infinity;
+    media.currentTime = Math.max(0, Math.min(dur, media.currentTime + d));
+    if(!media.paused) syncVideo(media.currentTime); };
+  ux.skip = skip;
+  document.getElementById('uxBack').onclick = ()=>skip(-15);
+  document.getElementById('uxFwd').onclick = ()=>skip(15);
+
+  const setPlayingUI = on => {
+    playBtn.textContent = on?'⏸':'▶'; if(miniBtn) miniBtn.textContent = on?'⏸':'▶';
+    if(tile) tile.classList.toggle('playing', on);
+    if(stateEl && !ux.fragment) stateEl.textContent = on ? (hosted&&hasVideo?'● word-clock transmitting':'● transmitting') : '❚❚ paused';
+  };
+  media.addEventListener('play', ()=>setPlayingUI(true));
+  media.addEventListener('pause', ()=>setPlayingUI(false));
+  media.addEventListener('ended', ()=>setPlayingUI(false));
+  const parseDur = d => { if(!d) return 0; const p=d.split(':').map(Number);
+    return p.length===3 ? p[0]*3600+p[1]*60+p[2] : p.length===2 ? p[0]*60+p[1] : 0; };
+  media.addEventListener('loadedmetadata', ()=>{
+    /* deep-search landing: a spoken moment was chosen — go straight there */
+    if(ux.pendingSeek != null && isFinite(media.duration)){
+      const t = Math.min(ux.pendingSeek, Math.max(0, media.duration-1));
+      media.currentTime = t;
+      if(ux.syncVideo && ux.isVid) ux.syncVideo(t);
+      media.play().catch(()=>{});
+      ux.pendingSeek = null;
+    }
+    if(stateEl && media.paused) stateEl.textContent = '❚❚ ready — press play';
+    if(!isFinite(media.currentTime) || media.currentTime < 1) timeEl.textContent = `0:00 / ${fmtT(media.duration)}`;
+    /* fragment guard: if our clock audio covers only part of the session, it would
+       lie against the full video — hold the karaoke until the full audio lands */
+    const cd = parseDur(s.duration);
+    if(hasVideo && cd>0 && isFinite(media.duration) && media.duration < cd*0.85){
+      ux.fragment = true;
+      const subF = document.getElementById('uxSub');
+      if(subF) subF.innerHTML = '<span class="idle">🌱 this one\'s word-clock is being rebuilt from the full video — the video plays beautifully above, the transcript waits below</span>';
+      if(stateEl) stateEl.textContent = '🌱 full word-clock landing soon';
+    }
+  });
+  media.addEventListener('timeupdate', ()=>{
+    if(isFinite(media.duration) && media.duration>0) fill.style.width = (media.currentTime/media.duration*100)+'%';
+    timeEl.textContent = `${fmtT(media.currentTime)} / ${fmtT(media.duration)}`;
+  });
+  document.getElementById('uxProg').addEventListener('click', e=>{
+    if(!isFinite(media.duration)) return;
+    const r = e.currentTarget.getBoundingClientRect();
+    media.currentTime = media.duration * Math.min(1, Math.max(0, (e.clientX-r.left)/r.width));
+    if(!media.paused) syncVideo(media.currentTime);
+  });
+
+  /* stream failures: soft-resume mid-play hiccups; otherwise walk the source
+     chain (hosted → Drive stream → alt door → Drive's own player) */
+  const srcChain = [STREAM(m.id), UC(m.id)];
+  let fallenBack = false, softRetries = 0;
+  media.addEventListener('error', ()=>{
+    if(fallenBack) return;
+    if(media.readyState > 0 && softRetries < 2){
+      softRetries++;
+      const t = media.currentTime;
+      media.load();
+      try{ media.currentTime = t; }catch(e){}
+      media.play().catch(()=>{});
+      return;
+    }
+    if(srcChain.length){
+      media.src = srcChain.shift();
+      media.load();
+      return;
+    }
+    fallenBack = true;
+    const tiny = document.getElementById('uxTiny');
+    if(!tiny) return;
+    if(vidDead){ tiny.innerHTML = folderCard; if(stateEl) stateEl.textContent = vidFolder ? 'source folder — open it on Drive 🗂️' : 'video preview pending — re-upload queued 🛠️'; const _ctr=document.querySelector('.ux-controls'); if(_ctr) _ctr.style.display='none'; return; }
+    tiny.innerHTML = `<iframe src="${PREVIEW(m.id)}" style="width:100%;aspect-ratio:16/9;border:0;display:block" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      <div class="mini-bar"><button class="mini-btn" id="uxRetry" title="Retry native stream">⟳</button>
+      <span style="font-size:.6rem;color:var(--ink-dim);padding:0 .3rem">via Drive</span>
+      <button class="mini-expand" onclick="openTheater()">⛶ expand</button></div>`;
+    if(stateEl) stateEl.textContent = 'Drive is resting (quota) · ⟳ retries the native stream';
+    document.querySelector('.ux-controls').style.display='none';
+    document.getElementById('uxRetry').onclick = ()=>showUnified(s);
+    const hint = document.querySelector('.ux-hint');
+    if(hint) hint.innerHTML = 'the Drive is catching its breath (quota resets daily) — press ⟳ in the corner to retry the synced stream, or read along below 🌺';
+  });
+
+  const expandBtn = document.getElementById('uxExpand');
+  if(expandBtn) expandBtn.onclick = ()=>openTheater();
+
+  /* living sunset waveform — procedural, breathes with playback */
+  const canvas = document.getElementById('uxViz');
+  const ctx2d = canvas.getContext('2d');
+  const draw = ()=>{
+    ux.raf = requestAnimationFrame(draw);
+    const t = performance.now()/1000;
+    const playing = ux.media && !ux.media.paused && !ux.media.ended;
+    const W = canvas.width = canvas.clientWidth, H = canvas.height = canvas.clientHeight;
+    if(!W||!H) return;
+    ctx2d.clearRect(0,0,W,H);
+    const n = 56;
+    for(let i=0;i<n;i++){
+      const p = i/n;
+      // pseudo-organic amplitude: layered incommensurate sines
+      const organic = Math.abs(
+        Math.sin(t*2.1 + i*.53) * .5 +
+        Math.sin(t*3.7 + i*.21 + 1.3) * .3 +
+        Math.sin(t*1.3 + i*.87 + 4.1) * .2);
+      const idle = (Math.sin(t*1.1 + i*.42)+1)*.04;
+      const amp = playing ? .12 + organic*.62 : idle + .03;
+      const h = Math.max(4, amp*H);
+      const x = p*W;
+      const hue = 16 + organic*30 + (playing?8:0);
+      const light = 55 + organic*18;
+      const alpha = playing ? .42 + organic*.5 : .3;
+      const grad = ctx2d.createLinearGradient(0,(H-h)/2,0,(H+h)/2);
+      grad.addColorStop(0,`hsla(${hue+14},95%,${light+8}%,${alpha*.55})`);
+      grad.addColorStop(.5,`hsla(${hue},95%,${light}%,${alpha})`);
+      grad.addColorStop(1,`hsla(${hue-10},90%,${light-6}%,${alpha*.55})`);
+      ctx2d.fillStyle = grad;
+      ctx2d.beginPath();
+      ctx2d.roundRect(x+1.5,(H-h)/2,Math.max(2,W/n-3),h,4);
+      ctx2d.fill();
+    }
+  };
+  draw();
+
+  /* karaoke transcript — word for word */
+  if(!s.transcript){
+    document.getElementById('kxBox').innerHTML = '<p style="color:var(--ink-faint);font-style:italic;padding:.6rem">No transcript for this one — the recording above carries it whole. 🌺</p>';
+    return;
+  }
+  fetch(`transcripts/${s.transcript}.txt`).then(r=>r.text()).then(txt=>{
+    if(ux.session!==s) return;
+    const segs = parseSegments(txt);
+    ux.segs = segs;
+    const box = document.getElementById('kxBox');
+    if(!segs.length){ box.innerHTML = '<p style="color:var(--ink-faint);font-style:italic;padding:.6rem">No timestamps in this transcript — press play and read along below.</p>'; return; }
+
+    // some recordings are fragments mid-session — their transcripts carry
+    // video-absolute timestamps (first line at 1:47:45). when the first word
+    // provably starts beyond the audio's own duration, rebase onto the audio.
+    // (computed dynamically — full-session audio arriving later needs zero offset)
+    let html = '';
+    const words = []; // {t, lineIdx} — raw transcript times
+    segs.forEach((g,gi)=>{
+      const end = (gi+1<segs.length) ? segs[gi+1].t : g.t+25;
+      const wlist = g.text.split(/\s+/).filter(Boolean);
+      const lens = wlist.map(w=>w.length);
+      const total = lens.reduce((a,b)=>a+b,0) || 1;
+      let cum = 0;
+      const spans = wlist.map((w,wi)=>{
+        const t0 = g.t + (end-g.t)*(cum/total);
+        cum += lens[wi];
+        const rec = {t:t0, line:gi}; words.push(rec);
+        return `<span class="w" data-w="${words.length-1}">${esc(w)}</span>`;
+      }).join(' ');
+      html += `<div class="kx-line" data-line="${gi}" data-t="${g.t}"><span class="ts">${g.label}</span>${spans}</div>`;
+    });
+    box.innerHTML = html;
+    ux.words = words;
+    ux.lineEls = [...box.querySelectorAll('.kx-line')];
+    const wordEls = [...box.querySelectorAll('.w')];
+
+    // paragraph clicks steer BOTH clocks — video & word-clock jump together.
+    // (word-for-word clicks disabled: paragraphs are the honest granularity,
+    //  their timestamps are real, and one target is easier to hit)
+    const sub = document.getElementById('uxSub');
+    const seekHandler = e=>{
+      const off = ux.offset || 0;
+      const pEl = e.target.closest('.kx-para');
+      const lEl = e.target.closest('.kx-line');
+      let t = null;
+      if(pEl) t = +pEl.dataset.t - off;
+      else if(lEl) t = +lEl.dataset.t - off;
+      if(t===null || !isFinite(t)) return;
+      media.currentTime = Math.max(0, t + .05);
+      if(ux.syncVideo && ux.isVid) ux.syncVideo(media.currentTime);
+      if(media.paused) media.play().catch(()=>{});
+    };
+    box.addEventListener('click', seekHandler);
+    if(sub) sub.addEventListener('click', seekHandler);
+
+    // paragraph-granularity sync — Shaka's redesign: the WHOLE paragraph glows
+    // while it's spoken. real transcript timestamps (no word interpolation),
+    // updates only on paragraph flips → no chasing, no jitter, drift invisible.
+    let lastLine = -2;
+    const sync = ()=>{
+      requestAnimationFrame(sync);
+      if(!ux.media || !ux.media.src || ux.session!==s || ux.fragment) return;
+      const t = ux.media.currentTime;
+      // dynamic rebase: only when the transcript provably starts beyond the audio
+      const off = (words.length && words[0].t > 600 && isFinite(media.duration) && words[0].t > media.duration) ? words[0].t : 0;
+      ux.offset = off;
+      let li = -1, lo = 0, hi = segs.length-1;
+      if(segs.length && t >= segs[0].t - off){
+        li = segs.length-1;
+        while(lo<=hi){ const mid=(lo+hi)>>1; if(segs[mid].t - off <=t){ li=mid; lo=mid+1; } else hi=mid-1; }
+      }
+      if(li===lastLine) return;
+      lastLine = li;
+      if(li<0) return;
+      const lEl = ux.lineEls[li];
+      if(!lEl) return;
+      document.querySelectorAll('.kx-line.act').forEach(x=>x.classList.remove('act'));
+      lEl.classList.add('act');
+      box.scrollTo({top:lEl.offsetTop - box.clientHeight/3, behavior:'smooth'});
+      // the paragraph being spoken rests in the subtitle bar — fully lit, calm
+      if(sub){
+        const txt = [...lEl.querySelectorAll('.w')].map(w=>w.textContent).join(' ');
+        sub.innerHTML = `<span class="kx-para" data-t="${segs[li].t}">${esc(txt)}</span>`;
+      }
+    };
+    sync();
+  }).catch(()=>{ const b=document.getElementById('kxBox'); if(b) b.innerHTML='<p style="color:var(--ink-faint);padding:.6rem">Transcript unavailable — the recording above still carries the session.</p>'; });
+}
+
+/* ================= THEATER — stage-scoped =================
+   Shaka's call: never take the whole screen — the TEXT is the focus.
+   ⛶ expands the video to fill ONLY the transponder stage (waves + island
+   tucked away), subtitle and transcript keep glowing underneath. */
+function openTheater(){
+  const s = ux.session; if(!s) return;
+  const _vm = s.media.find(x=>x.kind==='video'); if(_vm && _vm.preview==='dead') return; /* audit boogie: never theater a dead preview */
+  const stage = document.getElementById('uxStage'); if(!stage) return;
+  if(document.getElementById('stageTheater')) return; /* already open */
+  const m = ux.mediaEntry;
+  const vidEntry = s.media.find(x=>x.kind==='video') || m;
+  /* UX bug #2 fix: silence the TINY window first (paused poster) — no double audio */
+  const fr0 = document.getElementById('uxDriveFrame');
+  if(fr0) fr0.src = PREVIEW(vidEntry.id);
+  /* v2: the transponder NEVER sleeps. the muted word-clock keeps running (or
+     starts) while the theater plays — both began at t0, same rate, so the glow
+     tracks the big picture. shrinking restores the pre-expand state. */
+  const t0 = ux.media && isFinite(ux.media.currentTime) ? Math.max(0,Math.floor(ux.media.currentTime)) : 0;
+  ux.wasPlaying = ux.media && !ux.media.paused;
+  ux.premute = ux.media ? ux.media.muted : false;
+  if(ux.media) ux.media.muted = true; /* theater carries the sound — no double audio on phones where the video plays */
+  const hosted = ux.media && ux.media.src;
+  if(hosted && ux.media.paused) ux.media.play().catch(()=>{});
+  const MOBILE_T = matchMedia('(max-width:640px)').matches;
+  const ov = document.createElement('div');
+  ov.id = 'stageTheater'; ov.className = 'stage-theater';
+  ov.innerHTML = `
+    <button class="st-close" id="stClose" aria-label="Shrink video">✕ shrink</button>
+    <div class="st-frame">
+      <iframe id="stFrame" src="${PREVIEW(vidEntry.id)}?autoplay=1&t=${t0}s" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      ${hosted ? '<div class="ux-shield st-shield" id="stShield" title="tap to play / pause · tap low to skip — the words follow 🌊"></div>' : ''}
+    </div>
+    <div class="st-note"><b>with love &amp; aloha 🌺</b> — a small picture forgives slow connections, so a picture may carry a little latency. the words carry everything.${MOBILE_T ? ' on some phones Google asks for a sign-in before the video plays — ✕ shrink brings you back to the 🎧 transponder, which always carries the sound.' : ''}</div>`;
+  stage.appendChild(ov);
+  document.getElementById('stClose').onclick = ()=>closeTheater();
+  /* theater shield: same sync invariant as the tiny window —
+     tap = play/pause both, tap low = scrub both */
+  const shield = document.getElementById('stShield');
+  if(shield && hosted) shield.addEventListener('click', e=>{
+    const fr = document.getElementById('stFrame');
+    const r = shield.getBoundingClientRect();
+    const fx = (e.clientX - r.left) / r.width;
+    const fy = (e.clientY - r.top) / r.height;
+    const media = ux.media;
+    if(fy > 0.72 && media && isFinite(media.duration) && media.duration > 0){
+      const t = Math.max(0, Math.min(media.duration, fx * media.duration));
+      media.currentTime = t;
+      if(fr) fr.src = `${PREVIEW(vidEntry.id)}?autoplay=1&t=${Math.floor(t)}s`;
+      if(media.paused) media.play().catch(()=>{});
+    } else if(media) {
+      if(media.paused){
+        if(fr) fr.src = `${PREVIEW(vidEntry.id)}?autoplay=1&t=${Math.floor(media.currentTime||0)}s`;
+        media.play().catch(()=>{});
+      } else {
+        media.pause();
+        if(fr) fr.src = PREVIEW(vidEntry.id);
+      }
+    }
+  });
+}
+function closeTheater(silent){
+  const ov = document.getElementById('stageTheater');
+  if(ov) ov.remove();
+  if(silent) return;
+  /* shrink back: restore the pre-expand state, both clocks in lockstep */
+  if(ux.media && ux.media.src){
+    ux.media.muted = !!ux.premute; /* give the transponder its voice back */
+    if(ux.wasPlaying){
+      if(ux.syncVideo) ux.syncVideo(ux.media.currentTime);
+      ux.media.play().catch(()=>{});
+    } else {
+      ux.media.pause();
+      if(ux.syncVideo){ const fr = document.getElementById('uxDriveFrame');
+        const vidEntry = (ux.session.media.find(x=>x.kind==='video') || ux.mediaEntry);
+        if(fr && vidEntry) fr.src = PREVIEW(vidEntry.id); }
+    }
+  }
+}
+
+/* ================= MODAL ================= */
+let currentTab = 'ux';
+function openSession(idx){
+  const s = SESSIONS[idx];
+  document.getElementById('mtitle').textContent = s.title;
+  document.getElementById('mmeta').innerHTML =
+    `<span>📅 ${fmtDate(s.date)}</span>` +
+    (s.week?`<span>🗓 ${esc(WEEKS[s.week]?.name||'')}</span>`:'') +
+    (s.duration?`<span>⏱ ${esc(s.duration)}</span>`:'') +
+    `<span>📂 ${esc(s.source||'')}</span>`;
+  const tabs = [];
+  if(s.media.length) tabs.push(['ux','🌊 Transponder']);
+  if(s.transcript) tabs.push(['read','📄 Transcript']);
+  const tb = document.getElementById('mtabs');
+  tb.innerHTML = tabs.map(([k,l])=>`<button class="mtab" data-t="${k}">${l}</button>`).join('');
+  tb.querySelectorAll('.mtab').forEach(b=>b.onclick=()=>showTab(b.dataset.t, s));
+  document.getElementById('modalBg').classList.add('open');
+  document.body.style.overflow='hidden';
+  showTab(tabs[0][0], s);
+}
+
+function showTab(tab, s){
+  currentTab = tab;
+  /* position hand-off: the voice follows you across tabs */
+  let pos = 0, playing = false;
+  if(ux.rmedia){ pos = ux.rmedia.currentTime||0; playing = !ux.rmedia.paused; ux.rmedia.pause(); ux.rmedia = null; }
+  else if(ux.media && ux.media.src){ pos = ux.media.currentTime||0; playing = !ux.media.paused; }
+  uxCleanup();
+  document.querySelectorAll('.mtab').forEach(b=>b.classList.toggle('on', b.dataset.t===tab));
+  const body = document.getElementById('mbody');
+  if(tab==='ux'){ if(pos>0) ux.pendingSeek = pos; showUnified(s); return; }
+  body.innerHTML = `<div class="transcript"><div class="loading">Summoning the words… ✨</div></div>`;
+  fetch(`transcripts/${s.transcript}.txt`).then(r=>r.text()).then(txt=>{
+    if(currentTab!=='read') return;
+    body.innerHTML = `<div class="transcript">${renderTranscript(txt)}</div>
+      <div class="mlinks"><a href="transcripts/${s.transcript}.txt" download>⬇ Download transcript (.txt)</a></div>`;
+    const hosted = (s.media.find(x=>x.hosted)||{}).hosted;
+    if(hosted) buildReadPlayer(body, hosted, pos, playing);
+  }).catch(()=>{ body.innerHTML = '<div class="transcript"><p class="loading">Could not load transcript — try the Drive source.</p></div>'; });
+}
+/* read-along player for the transcript page (Shaka: "the audio is there
+   anyways — let people play it on the full transcript page") */
+function buildReadPlayer(body, hosted, pos, playing){
+  const bar = document.createElement('div');
+  bar.className = 'read-player';
+  bar.innerHTML = `<button class="rp-skip" id="rpBack" title="Back 15 seconds">−15</button>
+    <button class="rp-play" id="rpPlay" aria-label="Play">▶</button>
+    <button class="rp-skip" id="rpFwd" title="Forward 15 seconds">+15</button>
+    <span class="rp-time" id="rpTime">0:00</span>
+    <span class="rp-note">the voice travels with the words 🌊 · tap any paragraph to jump there</span>`;
+  body.appendChild(bar);
+  const rmedia = new Audio(hosted);
+  ux.rmedia = rmedia;
+  if(pos > 1 && isFinite(pos)){ try{ rmedia.currentTime = pos; }catch(e){} }
+  const playB = bar.querySelector('#rpPlay'), timeEl = bar.querySelector('#rpTime');
+  playB.onclick = ()=>{ if(rmedia.paused) rmedia.play().catch(()=>{}); else rmedia.pause(); };
+  const rskip = d => { const dur = isFinite(rmedia.duration)?rmedia.duration:Infinity;
+    rmedia.currentTime = Math.max(0, Math.min(dur, rmedia.currentTime + d)); };
+  bar.querySelector('#rpBack').onclick = ()=>rskip(-15);
+  bar.querySelector('#rpFwd').onclick = ()=>rskip(15);
+  rmedia.addEventListener('play', ()=>playB.textContent='⏸');
+  rmedia.addEventListener('pause', ()=>playB.textContent='▶');
+  if(playing) rmedia.play().catch(()=>{});
+  const paras = [...body.querySelectorAll('.transcript p[data-t]')];
+  const times = paras.map(p=>+p.dataset.t);
+  paras.forEach(p=>p.addEventListener('click', ()=>{
+    rmedia.currentTime = +p.dataset.t + .05;
+    if(rmedia.paused) rmedia.play().catch(()=>{});
+  }));
+  let lastAct = -1;
+  const loop = ()=>{
+    ux.raf = requestAnimationFrame(loop);
+    if(!ux.rmedia) return;
+    const t = rmedia.currentTime;
+    timeEl.textContent = `${fmtT(t)} / ${fmtT(rmedia.duration)}`;
+    let li = -1, lo = 0, hi = times.length-1;
+    if(times.length && t >= times[0]){
+      li = times.length-1;
+      while(lo<=hi){ const mid=(lo+hi)>>1; if(times[mid]<=t){ li=mid; lo=mid+1; } else hi=mid-1; }
+    }
+    if(li!==lastAct){
+      lastAct = li;
+      paras.forEach((p,i)=>p.classList.toggle('act', i===li));
+      if(li>=0 && !rmedia.paused) paras[li].scrollIntoView({block:'center', behavior:'smooth'});
+    }
+  };
+  loop();
+}
+function renderTranscript(txt){
+  const parts = txt.split(/^---+$/m);
+  let head = parts.length>1 ? parts[0] : '';
+  let bodyTxt = parts.length>1 ? parts.slice(1).join('\n') : txt;
+  const headHtml = head.trim() ? `<div class="tmeta">${esc(head.trim().replace(/^#\s*/m,''))}</div>` : '';
+  const lines = bodyTxt.split('\n').map(l=>l.trim()).filter(Boolean);
+  let html = '', cur = '', curT = null;
+  const flush = ()=>{ if(cur){ html += `<p${curT!=null?` data-t="${curT}"`:''}>${cur}</p>`; cur=''; curT=null; } };
+  for(const l of lines){
+    const m = l.match(/^\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]\s*(.*)$/);
+    if(m){
+      flush();
+      curT = m[3] ? (+m[1])*3600+(+m[2])*60+(+m[3]) : (+m[1])*60+(+m[2]);
+      cur = `<span class="ts">${m[1]}:${m[2]}${m[3]?':'+m[3]:''}</span>${esc(m[4])}`;
+    }
+    else cur += (cur?' ':'') + esc(l);
+  }
+  flush();
+  return headHtml + (html || `<p>${esc(bodyTxt)}</p>`);
+}
+function closeModal(){
+  uxCleanup();
+  document.getElementById('modalBg').classList.remove('open');
+  document.getElementById('mbody').innerHTML='';
+  document.body.style.overflow='';
+}
+document.getElementById('mclose').onclick = closeModal;
+document.getElementById('modalBg').addEventListener('click', e=>{ if(e.target.id==='modalBg') closeModal(); });
+document.addEventListener('keydown', e=>{
+  if(e.key==='Escape'){
+    if(document.getElementById('stageTheater')) closeTheater();
+    else closeModal();
+  }
+  if(e.key===' ' && document.getElementById('modalBg').classList.contains('open') && !document.getElementById('stageTheater')){
+    if(e.target.tagName!=='INPUT' && ux.media){ e.preventDefault(); ux.toggle ? ux.toggle() : (ux.media.paused ? ux.media.play().catch(()=>{}) : ux.media.pause()); }
+  }
+  if((e.key==='ArrowLeft'||e.key==='ArrowRight') && document.getElementById('modalBg').classList.contains('open') && !document.getElementById('stageTheater')){
+    if(e.target.tagName!=='INPUT' && ux.media){ e.preventDefault();
+      const d = e.key==='ArrowLeft' ? -15 : 15;
+      ux.skip ? ux.skip(d) : null; }
+  }
+});
+
+/* ---------- filters ---------- */
+document.getElementById('weekTabs').addEventListener('click', e=>{
+  const b = e.target.closest('.wtab'); if(!b) return;
+  document.querySelectorAll('.wtab').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active'); state.week = b.dataset.w; render();
+});
+document.getElementById('q').addEventListener('input', e=>{ state.q = e.target.value; render(); deepSearch(e.target.value); });
+
+/* ---------- deep transcript search: every word of the village ---------- */
+let SEARCH_IDX = null, searchTimer = null;
+async function deepSearch(q){
+  clearTimeout(searchTimer);
+  const box = document.getElementById('deepResults');
+  q = (q||'').trim();
+  if(q.length < 3){ box.innerHTML=''; return; }
+  searchTimer = setTimeout(async ()=>{
+    try{
+      if(!SEARCH_IDX) SEARCH_IDX = await (await fetch('data/search-index.json?v=3')).json();
+      const ql = q.toLowerCase();
+      const hits = [];
+      for(const [si,t,x] of SEARCH_IDX){
+        if(x.toLowerCase().includes(ql)){
+          hits.push([si,t,x]);
+          if(hits.length>=24) break;
+        }
+      }
+      if(!hits.length){ box.innerHTML = `<div class="deep-none">no spoken matches for “${esc(q)}” in ${SEARCH_IDX.length.toLocaleString()} spoken chunks 🌙</div>`; return; }
+      const fmtS = t=>{const h=Math.floor(t/3600),m=Math.floor(t%3600/60),s=t%60;return (h?h+':':'')+String(m).padStart(2,'0')+':'+String(s).padStart(2,'0');};
+      box.innerHTML = `<div class="deep-head">🌊 heard in the pit — ${hits.length}${hits.length>=24?'+':''} spoken moment${hits.length===1?'':'s'} for “${esc(q)}”</div>` +
+        hits.map(([si,t,x])=>{
+          const s = SESSIONS[si]; if(!s) return '';
+          const hl = esc(x).replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<b class="hl">$1</b>');
+          return `<div class="deep-hit" onclick="openAtMoment(${si},${t})">
+            <span class="dh-t">${fmtS(t)}</span>
+            <span class="dh-x"><b>${esc(s.title)}</b> — ${hl}</span></div>`;
+        }).join('');
+    }catch(e){ box.innerHTML=''; }
+  }, 220);
+}
+function openAtMoment(si, t){
+  ux.pendingSeek = t;
+  openSession(si);
+}
+document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{
+  c.classList.toggle('on'); state.f[c.dataset.f] = c.classList.contains('on'); render();
+});
+
+/* ---------- dispatches (dormant: the dispatch desk awaits the pipeline 🌱) ---------- */
+function renderBlock(b){
+  switch(b.type){
+    case 'lead': return `<p class="lead">${esc(b.content)}</p>`;
+    case 'paragraph': return `<p>${esc(b.content)}</p>`;
+    case 'heading': return `<h4>${esc(b.content)}</h4>`;
+    case 'quote': return `<div class="pq"><div class="qt">${esc(b.text)}</div>
+      <div class="qa">— <b>${esc(b.speaker)}</b>${b.session?` · ${esc(b.session)}`:''}${b.ts?` · ${esc(b.ts)}`:''}</div></div>`;
+    case 'poem': return `<div class="verse"><div class="vt">${esc(b.title||'')}</div>
+      <div class="vl">${esc((b.lines||[]).join('\n'))}</div>
+      ${b.by?`<div class="vby">${esc(b.by)}</div>`:''}</div>`;
+    case 'comic': return `<div class="comic"><div class="ct">${esc(b.title||'')}</div>
+      <div class="cpanels">${(b.panels||[]).map(p=>`<div class="cpanel">
+        <div class="ce">${p.emoji||'🌺'}</div>
+        ${p.say?`<div class="cs">${esc(p.say)}</div>`:''}
+        ${p.caption?`<div class="cc">${esc(p.caption)}</div>`:''}</div>`).join('')}</div></div>`;
+    case 'meme': {
+      const items = b.items || (b.src ? [{src:b.src, alt:b.alt}] : []);
+      return `<div class="wmeme"><div class="ct">${esc(b.title||'')}</div>
+        <div class="wmeme-row">${items.map(it=>`<img src="${esc(it.src)}" alt="${esc(it.alt||'')}" loading="lazy">`).join('')}</div></div>`;
+    }
+    case 'sessions': return `<div class="wsess"><div class="wst">${esc(b.title||'Sessions of the week')}</div>
+      ${(b.items||[]).map(it=>{
+        const idx = SESSIONS.findIndex(x=>x.title===it.title);
+        return `<div class="wsitem" ${idx>=0?`onclick="openSession(${idx})"`:''}>
+          <b>${esc(it.title)}</b>${it.what?`<span>${esc(it.what)}</span>`:''}</div>`;
+      }).join('')}</div>`;
+    case 'colsig': return `<div class="colsig">${esc(b.content)}</div>`;
+    default: return '';
+  }
+}
+async function loadDispatches(){
+  try{
+    const arts = await (await fetch('data/articles.json?v=3')).json();
+    document.getElementById('dispatches').innerHTML = arts.map(a=>{
+      const body = (a.body||[]).map(renderBlock).join('');
+      const mast = a.edition ? `
+        <div class="wmast">
+          <div class="wtag">The Alpine Dispatch · No. ${esc(a.edition)}</div>
+          <h3>${esc(a.headline)}</h3>
+          <div class="dsub">${esc(a.subheadline||'')}</div>
+          <div class="wdates">${esc(a.dates||'')} · the Swiss Alps</div>
+          <div class="wtheme">${esc(a.theme||'')}</div>
+          <div class="wthemesub">${esc(a.themeSub||'')}</div>
+        </div>
+        <div class="wstats">${(a.stats||[]).map(s=>{const m=s.match(/^([^:]+):\s*(.*)$/);return m?`<span><b>${esc(m[1])}</b>${esc(m[2])}</span>`:`<span>${esc(s)}</span>`;}).join('')}</div>`
+      : `<div class="dmeta"><span>📰 ${esc(a.dateFormatted||a.date||'')}</span><span>·</span><span>${esc(a.weekLabel||'')}</span><span>·</span><span>${esc(a.author||'')}</span></div>
+        <h3>${esc(a.headline)}</h3><div class="dsub">${esc(a.subheadline||'')}</div>`;
+      return `<article class="dispatch weekly reveal vis">${mast}
+        <div class="dbody" style="display:none">${body}</div>
+        <button class="expand">Read the full edition →</button>
+      </article>`;
+    }).join('');
+    document.querySelectorAll('.dispatch .expand').forEach(b=>b.onclick=()=>{
+      const d = b.previousElementSibling, open = d.style.display!=='none';
+      d.style.display = open?'none':'block';
+      b.textContent = open?'Read the full edition →':'Close the edition ↑';
+    });
+  }catch(e){ document.getElementById('dispatches').innerHTML = '<div class="empty">The dispatch desk is listening for the village’s words… 🌙🌊</div>'; }
+}
+
+
+/* ---------- reveal on scroll ---------- */
+const io = new IntersectionObserver(es=>es.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('vis'); io.unobserve(e.target);} }),{threshold:.1});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+boot();
+</script>
+<!-- 🕳️ SILENCE CANON (inherited from the Esmeralda genesis, Shaka's order 2026-07-25, supersedes ALL prior player orders): NO music player on any P.I.T. — ever. "thats for listening to the community." The archive stays silent by design: the only sound here is the community's own sessions. The pit listens. · ShanHaiWooPIT v1.0.0 2026-09-23: the mountain-sea pit ⛰️🌊 · P.I.T. №17 · forked from VitPit v1.1.0 · 4 cross-exhibit sessions via The VitPit · mountain-sea night restyle -->
+    <style>
+      .consent-footer{
+        --cn-ink:var(--ink-dim,#cbb9a7); --cn-faint:var(--ink-faint,#7c6e67);
+        --cn-border:var(--line,rgba(221,174,108,.13)); --cn-link:var(--coral,#db9840);
+        box-sizing:border-box; margin-top:2.5rem; padding-top:1rem;
+        border-top:1px solid var(--cn-border);
+        color:var(--cn-faint); font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+        font-size:.84rem; line-height:1.55; text-align:center;
+      }
+      .consent-footer p{margin:0}
+      .consent-footer a{color:var(--cn-link); text-decoration:none; border-bottom:1px solid rgba(219,152,64,.35)}
+      .consent-footer a:hover{color:var(--cn-ink); border-bottom-color:var(--cn-ink)}
+    </style>
+    <footer class="consent-footer">
+      <p>🛡️ In this footage? Email <a href="mailto:consent@publicinform.com">consent@publicinform.com</a>
+        and you're gone — no questions, honored with love.
+        Consent: <strong>Consent-first made manifest — the pit transmits with consent, or waits 🌱</strong> ·
+        <a href="https://publicinform.com/#consent">Consent &amp; Takedown</a></p>
+      <p>📮 contribute: <a href="mailto:contribute@publicinform.com">contribute@publicinform.com</a> · aloha: <a href="mailto:aloha@shakaleikaumaka.com">aloha@shakaleikaumaka.com</a></p>
+    </footer>
+    
+
+<script src="https://shakaleikaumaka.com/assets/x402-tip.js?v=1.0" defer></script>
+<script src="https://shakaleikaumaka.com/assets/magnet.js?v=1.0" defer></script>
+</body>
+</html>
