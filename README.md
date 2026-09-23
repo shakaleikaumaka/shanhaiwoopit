@@ -19,9 +19,14 @@ the A/V pressed record.
 
 This pit is the village's transponder:
 
-- **4 sessions** — the opening ceremony keynote, the cowork opening, an
-  interview, and the ZuTown Hall, all with Vitalik in the room — carried as
-  **cross-exhibits via [The VitPit](https://shakaleikaumaka.github.io/vitpit/)** 🌺
+- **13 sessions · 18.17 hours** — the opening ceremony keynote, the cowork
+  opening, an interview, and the ZuTown Hall (cross-exhibits via
+  [The VitPit](https://shakaleikaumaka.github.io/vitpit/) 🌺) — plus **wave 2,
+  landed Sep 23 2026 from the family's StreamYard vault** 🌊: the soundchecks
+  (sacred preliminaries 🔊), the full **Opening Ceremony featuring Vitalik**,
+  temple mode, Ecstatic Dance Thursday GM, the Lecture Hall, Public Goods Day,
+  the Nimman Neighborhood Mix, a Sunday sesh, and the **Closing Ceremony** —
+  the village's last goodnight, found at last
 - **the gallery** — three photographs from the "zu tech pictures" roll,
   Nov 2, 2024
 - **the documents** — the opening-ceremony program deck, the Mina Protocol
@@ -45,6 +50,18 @@ no questions, honored with love.
 
 Everything here is open-sourced **CC0 — no rights reserved**. Fork this repo,
 enable GitHub Pages (main, root), and you have your own pit. Fork me like crazy. 🍴
+
+## Changelog
+
+- **2026-09-23 · wave 2 landed 🌊** — nine sessions promoted from the
+  StreamYard vault rescue (11 recordings, +18.17 h): Soundchecks (three reels,
+  one session), Opening Ceremony featuring Vitalik, temple mode, Ecstatic
+  Dance Thursday GM, Lecture Hall, Public Goods Day, Nimman Neighborhood Mix,
+  Sunday sesh, Closing Ceremony. Still descending: the 3.5 h Lecture Day —
+  Economics, Technology, and DeSci (it keeps its 🛬 card until touchdown).
+- **2026-09-23 · the pit opens ⛰️🌊** — registry №17, generation 4, forked
+  from The VitPit with aloha: 4 cross-exhibit sessions, gallery, documents,
+  lore.
 
 ---
 

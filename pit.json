@@ -28,63 +28,246 @@
   }
  ],
  "counts": {
-  "sessions": 4,
+  "sessions": 13,
   "transcripts": 0,
-  "seconds": 0,
-  "hours": 0
+  "seconds": 65403,
+  "hours": 18.17
  },
  "sessions": [
   {
    "id": "1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU",
    "title": "ShanHaiWoo Opening Ceremony keynote with Vitalik (room audio)",
-   "speakers": ["Vitalik Buterin (Ethereum co-founder)"],
+   "date": null,
+   "speakers": [
+    "Vitalik Buterin (Ethereum co-founder)"
+   ],
    "duration": null,
    "duration_seconds": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU/view",
-    "kind": "video"
+    "kind": "video",
+    "parts": 1
    },
    "transcript": null,
+   "featured": true,
    "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
   },
   {
    "id": "1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P",
    "title": "ShanHaiWoo Cowork Opening with Vitalik (room audio)",
-   "speakers": ["Vitalik Buterin (Ethereum co-founder)"],
+   "date": null,
+   "speakers": [
+    "Vitalik Buterin (Ethereum co-founder)"
+   ],
    "duration": null,
    "duration_seconds": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P/view",
-    "kind": "video"
+    "kind": "video",
+    "parts": 1
    },
    "transcript": null,
+   "featured": true,
    "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
   },
   {
    "id": "1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp",
    "title": "Interview with Vitalik at ShanHaiWoo",
-   "speakers": ["Vitalik Buterin (Ethereum co-founder)"],
+   "date": null,
+   "speakers": [
+    "Vitalik Buterin (Ethereum co-founder)"
+   ],
    "duration": null,
    "duration_seconds": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp/view",
-    "kind": "video"
+    "kind": "video",
+    "parts": 1
    },
    "transcript": null,
+   "featured": true,
    "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
   },
   {
    "id": "1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs",
    "title": "ZuTown Hall at ShanHaiWoo with Vitalik (subtitled)",
-   "speakers": ["Vitalik Buterin (Ethereum co-founder)"],
+   "date": null,
+   "speakers": [
+    "Vitalik Buterin (Ethereum co-founder)"
+   ],
    "duration": null,
    "duration_seconds": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs/view",
-    "kind": "video"
+    "kind": "video",
+    "parts": 1
    },
    "transcript": null,
+   "featured": true,
    "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · subtitled · full credits + transcript queued to the pipeline 🌱"
+  },
+  {
+   "id": "11fnXoo7syVljgguSoMujfEruTOU0ZSS6",
+   "title": "Soundchecks — let us know if you can't hear hehehe",
+   "date": "2024-10-04",
+   "speakers": [
+    "Shaka Lei Kaumaka (host)"
+   ],
+   "duration": "00:48:51",
+   "duration_seconds": 2931,
+   "media": {
+    "drive": "https://drive.google.com/file/d/11fnXoo7syVljgguSoMujfEruTOU0ZSS6/view",
+    "kind": "video",
+    "parts": 3
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "the pit's sound checks — sacred preliminaries 🔊 · three reels from the mountain-sea stage, the morning before the opening · recorded by Shaka's own studio · consent-first 🚪"
+  },
+  {
+   "id": "119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ",
+   "title": "ShanHaiWoo Opening Ceremony featuring Vitalik",
+   "date": "2024-10-05",
+   "speakers": [
+    "Vitalik Buterin (Ethereum co-founder)",
+    "Shaka Lei Kaumaka (host)"
+   ],
+   "duration": "02:55:52",
+   "duration_seconds": 10552,
+   "media": {
+    "drive": "https://drive.google.com/file/d/119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": true,
+   "note": "the village's first hello, whole — the full opening ceremony as streamed, with Vitalik in the room · recorded by Shaka's own studio · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  },
+  {
+   "id": "1blAFTpqbheK_Zom002Mv1HHoFL8KmV83",
+   "title": "ShanHaiWoo temple mode",
+   "date": "2024-10-07",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "00:42:37",
+   "duration_seconds": 2557,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1blAFTpqbheK_Zom002Mv1HHoFL8KmV83/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "the woo's quieter hours — temple mode at the mountain-sea village · recorded by Shaka's own studio · consent-first 🚪"
+  },
+  {
+   "id": "1Lq79kvRpSy-2dlsYfdDg2Ug5luoTuJTE",
+   "title": "ShanHaiWoo Ecstatic Dance Thursday GM",
+   "date": "2024-10-10",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "00:38:16",
+   "duration_seconds": 2296,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1Lq79kvRpSy-2dlsYfdDg2Ug5luoTuJTE/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "the woo's wilder hours — ecstatic dance, Thursday GM · recorded by Shaka's own studio · consent-first 🚪"
+  },
+  {
+   "id": "1yIOuDBuChYJls9UvnqJLtFVEVWs_tDEd",
+   "title": "ShanHaiWoo Lecture Hall",
+   "date": "2024-10-11",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "02:00:05",
+   "duration_seconds": 7205,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1yIOuDBuChYJls9UvnqJLtFVEVWs_tDEd/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "the village classroom, in session · recorded by Shaka's own studio · consent-first 🚪"
+  },
+  {
+   "id": "1C_pOVGAzD3wESzVd4uLGY7q6-LD8IfxO",
+   "title": "ShanHaiWoo Public Goods Day",
+   "date": "2024-10-18",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "06:05:49",
+   "duration_seconds": 21949,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1C_pOVGAzD3wESzVd4uLGY7q6-LD8IfxO/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "a whole day for public goods at the mountain-sea village · recorded by Shaka's own studio · consent-first 🚪"
+  },
+  {
+   "id": "1SNtRE1y6PC9sdkbZNk_Ds1LujlXGb4yW",
+   "title": "Nimman Neighborhood Mix at ShanHaiWoo",
+   "date": "2024-10-19",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "00:02:31",
+   "duration_seconds": 151,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1SNtRE1y6PC9sdkbZNk_Ds1LujlXGb4yW/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "the neighborhood mix — invisible garden and love punks in Nimman · recorded by Shaka's own studio · consent-first 🚪"
+  },
+  {
+   "id": "1pjCQzzExwGuhQagPtki2jxvxOl5seug4",
+   "title": "ShanHaiwoo Sunday sesh",
+   "date": "2024-10-27",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "00:38:57",
+   "duration_seconds": 2337,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1pjCQzzExwGuhQagPtki2jxvxOl5seug4/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "the village at rest and play — a Sunday sesh · recorded by Shaka's own studio · consent-first 🚪"
+  },
+  {
+   "id": "1dtp3rAixyDQpOep8xcAK8cDfSZqDYu5E",
+   "title": "ShanHaiWoo Closing Ceremony",
+   "date": "2024-11-08",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "04:17:05",
+   "duration_seconds": 15425,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1dtp3rAixyDQpOep8xcAK8cDfSZqDYu5E/view",
+    "kind": "video",
+    "parts": 1
+   },
+   "transcript": null,
+   "featured": true,
+   "note": "the village's last goodnight — the closing ceremony the pit was missing, found at last · recorded by Shaka's own studio · consent-first 🚪"
   }
  ],
  "gallery": [
@@ -148,6 +331,6 @@
  },
  "hub": "https://publicinform.com",
  "registry": "https://publicinform.com/pits.json",
- "generated": "2026-09-23T04:00:00Z",
+ "generated": "2026-09-23T06:15:00Z",
  "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤"
 }
