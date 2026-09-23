@@ -8,30 +8,30 @@
   "repository": "https://github.com/shakaleikaumaka/shanhaiwoopit",
   "forked_from": "https://github.com/shakaleikaumaka/vitpit",
   "generation": 4,
-  "event": "ShanHaiWoo 山海坞",
+  "event": "ShanHaiWoo \u5c71\u6d77\u575e",
   "location": "Shanghai, China",
-  "dates": "Oct–Nov 2024",
-  "tagline": "Mountain meets sea — the Shanghai village, transmitted",
+  "dates": "Oct\u2013Nov 2024",
+  "tagline": "Mountain meets sea \u2014 the Shanghai village, transmitted",
   "status": "live"
  },
- "license": "CC0-1.0 · no rights reserved · fork it",
+ "license": "CC0-1.0 \u00b7 no rights reserved \u00b7 fork it",
  "consent": {
   "policy": "consent-first",
-  "status": "consent-first made manifest · inherited from the gathering · anything unclear simply waits",
+  "status": "consent-first made manifest \u00b7 inherited from the gathering \u00b7 anything unclear simply waits",
   "contact": "consent@publicinform.com",
   "policy_url": "https://publicinform.com/whitepaper/#consent"
  },
  "source": [
   {
    "type": "google-drive-folder",
-   "note": "source folder id recorded in the pit's pipeline — see repository"
+   "note": "source folder id recorded in the pit's pipeline \u2014 see repository"
   }
  ],
  "counts": {
-  "sessions": 13,
+  "sessions": 14,
   "transcripts": 0,
-  "seconds": 65403,
-  "hours": 18.17
+  "seconds": 78111,
+  "hours": 21.7
  },
  "sessions": [
   {
@@ -50,7 +50,7 @@
    },
    "transcript": null,
    "featured": true,
-   "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
+   "note": "Cross-exhibit \u00b7 already transmitted at The VitPit \ud83c\udf3a \u00b7 full credits + transcript queued to the pipeline \ud83c\udf31"
   },
   {
    "id": "1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P",
@@ -68,7 +68,7 @@
    },
    "transcript": null,
    "featured": true,
-   "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
+   "note": "Cross-exhibit \u00b7 already transmitted at The VitPit \ud83c\udf3a \u00b7 full credits + transcript queued to the pipeline \ud83c\udf31"
   },
   {
    "id": "1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp",
@@ -86,7 +86,7 @@
    },
    "transcript": null,
    "featured": true,
-   "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · full credits + transcript queued to the pipeline 🌱"
+   "note": "Cross-exhibit \u00b7 already transmitted at The VitPit \ud83c\udf3a \u00b7 full credits + transcript queued to the pipeline \ud83c\udf31"
   },
   {
    "id": "1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs",
@@ -104,11 +104,11 @@
    },
    "transcript": null,
    "featured": true,
-   "note": "Cross-exhibit · already transmitted at The VitPit 🌺 · subtitled · full credits + transcript queued to the pipeline 🌱"
+   "note": "Cross-exhibit \u00b7 already transmitted at The VitPit \ud83c\udf3a \u00b7 subtitled \u00b7 full credits + transcript queued to the pipeline \ud83c\udf31"
   },
   {
    "id": "11fnXoo7syVljgguSoMujfEruTOU0ZSS6",
-   "title": "Soundchecks — let us know if you can't hear hehehe",
+   "title": "Soundchecks \u2014 let us know if you can't hear hehehe",
    "date": "2024-10-04",
    "speakers": [
     "Shaka Lei Kaumaka (host)"
@@ -122,7 +122,7 @@
    },
    "transcript": null,
    "featured": false,
-   "note": "the pit's sound checks — sacred preliminaries 🔊 · three reels from the mountain-sea stage, the morning before the opening · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "the pit's sound checks \u2014 sacred preliminaries \ud83d\udd0a \u00b7 three reels from the mountain-sea stage, the morning before the opening \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   },
   {
    "id": "119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ",
@@ -141,7 +141,7 @@
    },
    "transcript": null,
    "featured": true,
-   "note": "the village's first hello, whole — the full opening ceremony as streamed, with Vitalik in the room · recorded by Shaka's own studio · the consent ask to Vitalik remains open — one knock at the door 🚪"
+   "note": "the village's first hello, whole \u2014 the full opening ceremony as streamed, with Vitalik in the room \u00b7 recorded by Shaka's own studio \u00b7 the consent ask to Vitalik remains open \u2014 one knock at the door \ud83d\udeaa"
   },
   {
    "id": "1blAFTpqbheK_Zom002Mv1HHoFL8KmV83",
@@ -159,7 +159,7 @@
    },
    "transcript": null,
    "featured": false,
-   "note": "the woo's quieter hours — temple mode at the mountain-sea village · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "the woo's quieter hours \u2014 temple mode at the mountain-sea village \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   },
   {
    "id": "1Lq79kvRpSy-2dlsYfdDg2Ug5luoTuJTE",
@@ -177,7 +177,7 @@
    },
    "transcript": null,
    "featured": false,
-   "note": "the woo's wilder hours — ecstatic dance, Thursday GM · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "the woo's wilder hours \u2014 ecstatic dance, Thursday GM \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   },
   {
    "id": "1yIOuDBuChYJls9UvnqJLtFVEVWs_tDEd",
@@ -195,7 +195,7 @@
    },
    "transcript": null,
    "featured": false,
-   "note": "the village classroom, in session · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "the village classroom, in session \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   },
   {
    "id": "1C_pOVGAzD3wESzVd4uLGY7q6-LD8IfxO",
@@ -213,7 +213,7 @@
    },
    "transcript": null,
    "featured": false,
-   "note": "a whole day for public goods at the mountain-sea village · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "a whole day for public goods at the mountain-sea village \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   },
   {
    "id": "1SNtRE1y6PC9sdkbZNk_Ds1LujlXGb4yW",
@@ -231,7 +231,25 @@
    },
    "transcript": null,
    "featured": false,
-   "note": "the neighborhood mix — invisible garden and love punks in Nimman · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "the neighborhood mix \u2014 invisible garden and love punks in Nimman \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
+  },
+  {
+   "id": "1LQmY4d6NptoIaANG9MqJKfSRjUNNbLZg",
+   "title": "ShanHaiWoo Lecture Day \u2014 Economics, Technology, and DeSci",
+   "date": "2024-10-25",
+   "speakers": [
+    "the ShanHaiWoo village (host: Shaka Lei Kaumaka)"
+   ],
+   "duration": "03:31:53",
+   "duration_seconds": 12708,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1LQmY4d6NptoIaANG9MqJKfSRjUNNbLZg/view",
+    "kind": "video",
+    "parts": 2
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "the long table of the village: economics, technology, and DeSci, all day \u2014 with the pocket reel riding shotgun \ud83c\udf92 \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   },
   {
    "id": "1pjCQzzExwGuhQagPtki2jxvxOl5seug4",
@@ -249,7 +267,7 @@
    },
    "transcript": null,
    "featured": false,
-   "note": "the village at rest and play — a Sunday sesh · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "the village at rest and play \u2014 a Sunday sesh \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   },
   {
    "id": "1dtp3rAixyDQpOep8xcAK8cDfSZqDYu5E",
@@ -267,7 +285,7 @@
    },
    "transcript": null,
    "featured": true,
-   "note": "the village's last goodnight — the closing ceremony the pit was missing, found at last · recorded by Shaka's own studio · consent-first 🚪"
+   "note": "the village's last goodnight \u2014 the closing ceremony the pit was missing, found at last \u00b7 recorded by Shaka's own studio \u00b7 consent-first \ud83d\udeaa"
   }
  ],
  "gallery": [
@@ -275,19 +293,19 @@
    "file": "assets/gallery/shw-photo-dsc8035.jpg",
    "drive": "https://drive.google.com/file/d/15us-Sml8ssHXKuMayWyK5nIO5oI3L4vR/view",
    "date": "2024-11-02",
-   "note": "zu tech pictures · ShanHaiWoo, Shanghai"
+   "note": "zu tech pictures \u00b7 ShanHaiWoo, Shanghai"
   },
   {
    "file": "assets/gallery/shw-photo-dsc8036.jpg",
    "drive": "https://drive.google.com/file/d/1H4DzXHB3duoVXFw5FlaJUpSTgrYPmsuI/view",
    "date": "2024-11-02",
-   "note": "zu tech pictures · ShanHaiWoo, Shanghai"
+   "note": "zu tech pictures \u00b7 ShanHaiWoo, Shanghai"
   },
   {
    "file": "assets/gallery/shw-photo-dsc8037.jpg",
    "drive": "https://drive.google.com/file/d/1bM2G21vu4ZSd2FwH9frPxG7iQYYtyxgv/view",
    "date": "2024-11-02",
-   "note": "zu tech pictures · ShanHaiWoo, Shanghai"
+   "note": "zu tech pictures \u00b7 ShanHaiWoo, Shanghai"
   }
  ],
  "documents": [
@@ -297,12 +315,12 @@
    "drive": "https://drive.google.com/file/d/1S1qFYkcEE1kCqPtP33Js2kEp4VJrn-TgTfvLvUI6jN8/view"
   },
   {
-   "title": "Mina Protocol — Closing Ceremony — ShanHai Woo",
+   "title": "Mina Protocol \u2014 Closing Ceremony \u2014 ShanHai Woo",
    "kind": "deck",
    "drive": "https://drive.google.com/file/d/1OiheP-AxM81BVQOjG7mo8-mab8Kbc3o6/view"
   },
   {
-   "title": "Oct 1 2025 — ShanHaiWoo Celebration Ceremony: Gathering with Zucity Friends",
+   "title": "Oct 1 2025 \u2014 ShanHaiWoo Celebration Ceremony: Gathering with Zucity Friends",
    "kind": "folder",
    "drive": "https://drive.google.com/drive/folders/1lAwmxoNS3-72Uft9v2YlZTJK2kBrkq82xHAMC1lrVyc"
   },
@@ -310,27 +328,27 @@
    "title": "shanhaiwoo-pitch.pdf",
    "kind": "pdf",
    "drive": null,
-   "note": "id pending — recon-truncated Drive id; the pit will mend"
+   "note": "id pending \u2014 recon-truncated Drive id; the pit will mend"
   },
   {
    "title": "2024 Shanhaiwu: Super World Computer Slides",
    "kind": "deck",
    "drive": null,
-   "note": "id pending — recon-truncated Drive id; the pit will mend"
+   "note": "id pending \u2014 recon-truncated Drive id; the pit will mend"
   },
   {
-   "title": "开源集市方案 (open-source bazaar plan)",
+   "title": "\u5f00\u6e90\u96c6\u5e02\u65b9\u6848 (open-source bazaar plan)",
    "kind": "doc",
    "drive": null,
-   "note": "id pending — recon-truncated Drive id; the pit will mend"
+   "note": "id pending \u2014 recon-truncated Drive id; the pit will mend"
   }
  ],
  "llm": {
-  "hint": "To talk to this pit: read this manifest, then open any session's Drive link — the pit's player embeds the Drive preview. Transcripts are queued to the pipeline; counts stay honest until they land. Honor the consent block — this knowledge is transmitted, not taken.",
+  "hint": "To talk to this pit: read this manifest, then open any session's Drive link \u2014 the pit's player embeds the Drive preview. Transcripts are queued to the pipeline; counts stay honest until they land. Honor the consent block \u2014 this knowledge is transmitted, not taken.",
   "catalog": "https://shakaleikaumaka.github.io/shanhaiwoopit/data/catalog.json"
  },
  "hub": "https://publicinform.com",
  "registry": "https://publicinform.com/pits.json",
- "generated": "2026-09-23T06:15:00Z",
- "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤"
+ "generated": "2026-09-23T11:20:00Z",
+ "generator": "pit_export.py v0.1 \u00b7 PIT BOY \ud83d\udd73\ufe0f\ud83d\ude24"
 }
