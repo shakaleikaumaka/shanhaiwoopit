@@ -404,6 +404,13 @@ footer a{color:var(--ink-dim)}
 .reveal.vis{opacity:1;transform:none}
 @media(max-width:640px){
   .stats{gap:1.3rem}.gift{padding:2rem 1.4rem}nav .wrap{gap:1rem}
+  /* 📱 fix 20 Oct: the unbreakable pill URL forced hero min-content past the
+     viewport and .hero{overflow:hidden} clipped BOTH edges of all hero text */
+  .hero{padding-left:1.1rem;padding-right:1.1rem}
+  .hero-inner{min-width:0;max-width:100%}
+  .hero-inner a[href*="github.com"]{letter-spacing:.05em;font-size:.78rem}
+  .badge-gift{white-space:normal;letter-spacing:.07em;font-size:.7rem;line-height:1.5}
+  footer,section{overflow-wrap:anywhere}
   .kx-box{max-height:40vh}
   .ux-state{position:static;display:inline-block;margin:0 0 .7rem .1rem}
   /* Shaka's mobile design: video + castle SIDE BY SIDE (small), glowing words below —
@@ -445,7 +452,7 @@ footer a{color:var(--ink-dim)}
     <h1 class="logo">ShanHai<br><em>Woo</em></h1>
     <div class="tagline">Public Information Transmission — <b>山海坞</b> · the Shanghai village, transmitted</div>
     <div style="font-size:.78rem;color:var(--ink-dim);margin-top:.6rem;letter-spacing:.08em">4Seas pop-up village · Shanghai · <b>Oct–Nov 2024</b> · the opening, the cowork, the interview, the town hall — <b>a pit for all of it</b> 🕳️</div>
-    <a href="https://github.com/shakaleikaumaka/shanhaiwoopit" style="display:inline-block;margin-top:.9rem;font-family:'JetBrains Mono',monospace;font-size:.85rem;letter-spacing:.14em;color:var(--aloha);text-decoration:none;border:1px solid rgba(125,211,252,.35);border-radius:999px;padding:.45rem 1.1rem;background:rgba(125,211,252,.06)">🍴 github.com/shakaleikaumaka/shanhaiwoopit</a>
+    <a href="https://github.com/shakaleikaumaka/shanhaiwoopit" style="display:inline-block;max-width:100%;overflow-wrap:anywhere;margin-top:.9rem;font-family:'JetBrains Mono',monospace;font-size:.85rem;letter-spacing:.14em;color:var(--aloha);text-decoration:none;border:1px solid rgba(125,211,252,.35);border-radius:999px;padding:.45rem 1.1rem;background:rgba(125,211,252,.06)">🍴 github.com/shakaleikaumaka/shanhaiwoopit</a>
     <p class="sub">In the fall of 2024, between the mountains and the sea, Shanghai grew a village: <b>ShanHaiWoo 山海坞</b> — 4Seas' pop-up city of builders, dreamers and zu-friends. Vitalik keynoted the opening, and the bard who runs the A/V pressed record. <b>Thirteen sessions</b> now transmit here — the four Vitalik cross-exhibits via <b>The VitPit</b> 🌺, and <b>wave 2 landed from the family's StreamYard vault</b>: the full opening ceremony, the closing the pit was missing, Public Goods Day, the lecture hall, temple mode, ecstatic dance, a Sunday sesh, the Nimman mix, and the sacred preliminaries 🔊 — with the gallery, the documents and the lore gathered alongside, ready for the Shanghai / 4Seas / ZuCity re-meeting at ETHGlobal Tokyo. The pit provides. ⛰️🌊</p>
     <div class="stats">
       <div class="stat"><b id="st-sessions">—</b><span>sessions</span></div>
