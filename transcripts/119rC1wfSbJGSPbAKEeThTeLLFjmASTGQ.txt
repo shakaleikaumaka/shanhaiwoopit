@@ -1,0 +1,4940 @@
+ShanHaiWoo Opening Ceremony featuring Vitalik · 2024-10-05 · ShanHaiWoo 山海坞 · Chiang Mai pop-up village · transcribed with aloha by the AI ʻohana (faster-whisper small) — expect imperfections 🌱
+---
+[0:00:15] Good morning, good morning 早
+[0:00:18] Welcome to Shanghai
+[0:00:20] We'll be starting in a few minutes
+[0:00:23] If you wanna find a seat
+[0:00:25] We're very excited to welcome you all
+[0:00:28] Everybody feeling right now
+[0:15:28] Good
+[0:15:30] Who's excited for Shanghai
+[0:15:34] We'll be starting shortly
+[0:15:35] Thank you for your patience
+[0:15:37] Make room if you need a seat
+[0:15:38] We can go get more
+[0:15:40] But we'll be starting shortly
+[0:15:42] Welcome everybody
+[0:15:49] Welcome to the Shanghai
+[0:18:57] I will change my opening ceremony
+[0:19:00] After a few months of preparation
+[0:19:02] And facing the flaws
+[0:19:05] That potentially could interrupt us at any time
+[0:19:09] We are finally here with you
+[0:19:12] And so it's my pleasure to have you all here
+[0:19:16] To start our journey
+[0:19:20] And at the beginning
+[0:19:21] Please allow me to introduce Audrey Tang
+[0:19:25] Who's the initiator of Shanghai Wu
+[0:19:30] She will be giving us an opening remarks
+[0:19:32] And please join me to welcoming her
+[0:19:39] Thank you for all of you to join us today
+[0:19:42] It's a long journey
+[0:19:43] We have prepared it for several months
+[0:19:46] And all of our contributors
+[0:19:48] Have very busy these days
+[0:19:50] Because you know all the setups you see
+[0:19:52] It's very beautiful
+[0:19:54] Thank you so much for our committee members
+[0:19:57] From co-contributors
+[0:19:58] Shaka, Chiu Chiu, Ruoyuan
+[0:20:00] All of you have a great, great job
+[0:20:07] And you know it's for today
+[0:20:10] It's not the beginning
+[0:20:11] The ceremony for just Shanghai
+[0:20:13] It's all for kickoff
+[0:20:15] The whole journey
+[0:20:16] Mansion China in Chi Mai
+[0:20:18] We have lots of pop-up cities here
+[0:20:21] And it's the beginning for all of us
+[0:20:23] You know we have
+[0:20:24] I think maybe more than six
+[0:20:26] All seven pop-up cities
+[0:20:28] And in our second section
+[0:20:30] There are going to be a community fair
+[0:20:32] And you could see all the pop-ups present
+[0:20:35] What they are doing in Chi Mai
+[0:20:37] And have the whole picture
+[0:20:40] Of what's going on in Chi Mai
+[0:20:43] And you know nowadays
+[0:20:45] And also what happened in Chi Mai
+[0:20:48] There are also a lot of flooding
+[0:20:50] And people are facing
+[0:20:51] Chinese in these days
+[0:20:53] That's why seven days ago
+[0:20:57] We also have the local
+[0:20:59] Non-profit community
+[0:21:00] Could join us for the second community fair
+[0:21:03] But due to the flooding
+[0:21:05] They can't make it
+[0:21:06] But I think it's a hard time
+[0:21:09] But we will try our
+[0:21:12] We will try our best
+[0:21:14] To support all the Chi Mai communities
+[0:21:16] And we hope everyone of us
+[0:21:18] Could help each other
+[0:21:19] And we face the challenge together
+[0:21:21] And if we help each other
+[0:21:23] We could face it
+[0:21:24] And we could face it
+[0:21:26] Thank you so much for everyone
+[0:21:29] And you know for today's whole schedule
+[0:21:36] First of all, we're going to have
+[0:21:38] Three important keynote
+[0:21:39] For share about the history
+[0:21:42] The origins and design philosophy
+[0:21:45] In crypto area
+[0:21:46] And the second section
+[0:21:48] Is the community fair
+[0:21:49] We're going to have each pop-up cities
+[0:21:52] To present themselves
+[0:21:53] To give you the whole picture
+[0:21:55] Of what happened to me in Chi Mai
+[0:21:57] And okay, let's just start
+[0:22:00] Our whole ceremony
+[0:22:01] And begin our journey in Chi Mai
+[0:22:04] Thank you
+[0:22:07] Thank you, Audrey
+[0:22:09] So now we're moved on
+[0:22:13] To the keynote session
+[0:22:14] Where we'll explore today's theme
+[0:22:17] History, origins, and design philosophy
+[0:22:21] First, we're honored to have
+[0:22:23] Vitalic Buterin
+[0:22:26] And do I need to tell him
+[0:22:27] Introduce him more?
+[0:22:30] No, okay
+[0:22:32] Then
+[0:22:34] Okay, great
+[0:22:39] So hello, everyone
+[0:22:46] So I thought I would talk about
+[0:22:48] The future of Ethereum scaling
+[0:22:52] Because scalable Ethereum
+[0:22:54] Is the future of Ethereum
+[0:22:56] And I think the topic of
+[0:22:59] How Ethereum scales
+[0:23:01] Is an important one
+[0:23:03] Because it really touches on
+[0:23:05] A lot of the philosophical issues
+[0:23:08] And a lot of the trade-offs
+[0:23:10] That led to Ethereum being
+[0:23:13] What it is today
+[0:23:14] And basically talking about
+[0:23:16] How we can adapt those principles
+[0:23:19] In the context of some of the
+[0:23:20] Newer technologies that we have
+[0:23:22] As well as some of the newer
+[0:23:24] Challenges and needs that we've
+[0:23:26] Been seeing as Ethereum
+[0:23:28] Finally gets to the point
+[0:23:31] It's going from
+[0:23:34] One single chain
+[0:23:35] That can process
+[0:23:36] Ten transactions a second
+[0:23:38] To being a big ecosystem
+[0:23:39] That's actually capable of
+[0:23:41] Finally realizing
+[0:23:43] All of the applications
+[0:23:44] That we've wanted to build on it
+[0:23:53] So this is a part
+[0:23:56] Of the roadmap diagram
+[0:23:58] That I published on Twitter
+[0:24:00] About a year ago
+[0:24:01] So you might remember
+[0:24:02] There's six of these
+[0:24:05] Like lanes that happen
+[0:24:07] In parallel
+[0:24:08] There is the merge
+[0:24:11] The purge
+[0:24:12] The purge
+[0:24:13] The surge
+[0:24:15] The scourge
+[0:24:15] And the scourge
+[0:24:17] And today we're focusing
+[0:24:19] On the surge
+[0:24:20] Which is about scaling
+[0:24:21] So this is what we put
+[0:24:24] Last year
+[0:24:24] So last year
+[0:24:26] There was a lot of focus
+[0:24:27] On finishing EIP4844
+[0:24:30] And breaking up
+[0:24:32] The scaling into
+[0:24:33] Like two basic
+[0:24:35] Big milestones
+[0:24:36] One of which they called
+[0:24:37] Basic roll-up scaling
+[0:24:38] And the other of which
+[0:24:39] It called full roll-up scaling
+[0:24:41] Which is basic
+[0:24:42] Roll-up scaling
+[0:24:43] Basically means
+[0:24:44] Getting roll-ups to at least
+[0:24:46] The first stage of being scalable
+[0:24:48] And at the same time
+[0:24:49] Getting them to stage one
+[0:24:51] This is the L2B stages
+[0:24:53] Of like basically
+[0:24:54] How far along a roll-up
+[0:24:55] Is to actually be entrust to us
+[0:24:57] So that we
+[0:24:59] The later twos
+[0:25:00] Actually have some security
+[0:25:02] And they're not just multi-six
+[0:25:04] So as of this year
+[0:25:07] EIP4844 is on Ethereum
+[0:25:09] And we now have
+[0:25:11] Two full EVM roll-ups
+[0:25:13] That are stage one
+[0:25:15] Anyone know
+[0:25:16] Anyone know which ones they are
+[0:25:17] Shout the names
+[0:25:22] Full EVM roll-ups
+[0:25:23] Are they stage one today
+[0:25:25] Just guess
+[0:25:27] Arbitrum is one
+[0:25:28] What's the other?
+[0:25:30] Optimism is the other
+[0:25:31] Okay
+[0:25:31] Now what about the two
+[0:25:33] Stage two roll-ups
+[0:25:34] That they're not EVM
+[0:25:35] But they are stage two
+[0:25:38] Let's see if anyone knows this
+[0:25:41] No
+[0:25:44] What? Which one?
+[0:25:46] Fuel
+[0:25:47] Fuel is one of them
+[0:25:49] Okay, the other is D-Gate
+[0:25:52] So, yes
+[0:25:54] So we actually are at the point
+[0:25:56] We're removing toward
+[0:25:58] Layered twos actually being entrust to us
+[0:26:00] And Ethereum actually having
+[0:26:02] The capacity to meet them
+[0:26:04] Right?
+[0:26:05] And so I think it's a good time
+[0:26:07] To really look at this
+[0:26:09] And basically ask
+[0:26:11] Well, where do we actually
+[0:26:13] Needs to go to from here
+[0:26:17] Okay, great
+[0:26:19] So going back a bit
+[0:26:20] Into philosophy
+[0:26:21] Right?
+[0:26:21] So the scalability
+[0:26:23] Tri-Lama
+[0:26:23] Who here has heard of
+[0:26:24] The scalability
+[0:26:25] Tri-Lama
+[0:26:27] Okay, basically
+[0:26:28] It's this claim
+[0:26:30] That it is difficult
+[0:26:34] To make a blockchain
+[0:26:36] Which is decentralized
+[0:26:38] Scalable and secure
+[0:26:40] At the same time
+[0:26:41] Now, I think it's important
+[0:26:43] To understand the
+[0:26:44] Tri-Lama in context
+[0:26:46] Right?Because there's like
+[0:26:47] A whole bunch of projects
+[0:26:49] That have these
+[0:26:50] You know, like $10 million
+[0:26:51] Marketing teams
+[0:26:52] That basically talk about
+[0:26:53] How our project
+[0:26:54] Is the one that solved
+[0:26:55] The Tri-Lama
+[0:26:56] And like actually
+[0:26:57] They don't actually solve it
+[0:26:58] Right?And so I think
+[0:27:00] There is a couple
+[0:27:01] Of important points here
+[0:27:02] Right?
+[0:27:03] One of them is that
+[0:27:04] The Tri-Lama never was
+[0:27:06] Meant to be a mathematical theorem
+[0:27:08] Right?
+[0:27:09] The Tri-Lama has no mathematical proof
+[0:27:11] And that's by design
+[0:27:12] The reason why it's by design
+[0:27:14] Is because well
+[0:27:15] Actually we know
+[0:27:15] That we can solve it
+[0:27:17] Right?So the Tri-Lama
+[0:27:18] Was more a statement about
+[0:27:20] What you cannot do
+[0:27:21] With technologies
+[0:27:22] That were only available
+[0:27:23] In 2015
+[0:27:25] Right?And the arguments
+[0:27:27] For why the Tri-Lama
+[0:27:28] Is true
+[0:27:29] Is pretty simple
+[0:27:29] Right?Basically
+[0:27:31] If you have a blockchain
+[0:27:32] That processes lots
+[0:27:33] And lots of transactions
+[0:27:35] More transactions
+[0:27:36] Then one single node
+[0:27:37] Can verify
+[0:27:39] Then you need
+[0:27:40] It has to be the case
+[0:27:42] That at least one
+[0:27:43] One of three things
+[0:27:44] Has to be true
+[0:27:45] One, regular nodes
+[0:27:47] Are not doing the verifying
+[0:27:48] Really big servers are
+[0:27:50] Two, you have
+[0:27:52] A system
+[0:27:54] Where you
+[0:27:56] You're not actually
+[0:27:57] Processing those transactions
+[0:27:58] You're only processing a few
+[0:28:00] Or three, only
+[0:28:02] Each individual transaction
+[0:28:05] Is only actually being checked
+[0:28:06] By a few nodes
+[0:28:07] Right?And it's actually
+[0:28:09] Easy to find
+[0:28:10] Come up with things
+[0:28:11] That need two of those
+[0:28:11] Three
+[0:28:12] So if you want something
+[0:28:14] That has
+[0:28:15] Scalability
+[0:28:16] For example, scalability
+[0:28:18] And decentralization
+[0:28:20] But sacrifice of security
+[0:28:22] Then you just look at
+[0:28:22] Multi-chain ecosystems
+[0:28:24] Right?You make a hundred
+[0:28:25] Blockchains
+[0:28:25] You make the hundred
+[0:28:26] Blockchains
+[0:28:26] I'll talk to each other
+[0:28:27] And you have
+[0:28:28] Your decentralization
+[0:28:29] You have your scalability
+[0:28:31] But you only need
+[0:28:32] A small amount of resources
+[0:28:33] To attack any one
+[0:28:34] Of the chains
+[0:28:35] Now, if you want
+[0:28:38] Something with
+[0:28:39] Scalability and security
+[0:28:40] But not decentralization
+[0:28:42] Then just like
+[0:28:42] Any one of the
+[0:28:43] Fastlier ones
+[0:28:44] Right?You just like
+[0:28:45] Crank up the gas
+[0:28:46] Limit really high
+[0:28:47] Now, if you want
+[0:28:49] Decentralization
+[0:28:50] And security
+[0:28:51] Without scalability
+[0:28:52] Then like
+[0:28:53] This is what Ethereum was
+[0:28:54] Like basically
+[0:28:55] Up until
+[0:28:56] Essentially this year
+[0:28:58] Right?And this is
+[0:28:59] What Bitcoin continues to be
+[0:29:00] This is what a lot
+[0:29:01] Of the older chains are
+[0:29:02] Right?Now, if you
+[0:29:03] Wants to get
+[0:29:03] Three out of three
+[0:29:05] It is possible
+[0:29:06] Right?But
+[0:29:08] One of the
+[0:29:09] Challenges is
+[0:29:10] That you need to
+[0:29:11] Come up with
+[0:29:11] Some kind of
+[0:29:12] Like extra
+[0:29:13] Technology
+[0:29:14] In order to
+[0:29:15] Really do it
+[0:29:16] So
+[0:29:18] There are two
+[0:29:19] Technologies that
+[0:29:19] Actually do
+[0:29:20] Solve the problem
+[0:29:21] Right?And those
+[0:29:21] Two technologies are
+[0:29:23] One is
+[0:29:24] ZK Synarcs
+[0:29:25] Or I guess
+[0:29:25] Not ZK
+[0:29:26] Just Synarcs
+[0:29:27] And the other is
+[0:29:27] Data Availability Sampling
+[0:29:29] Right?So what
+[0:29:29] Does Narcs do?
+[0:29:31] Synarcs
+[0:29:32] Let you
+[0:29:33] Verify a huge
+[0:29:34] Amount of
+[0:29:34] Computation
+[0:29:35] Without
+[0:29:36] Rerunning
+[0:29:37] The computation
+[0:29:37] Yourself
+[0:29:38] Right?So if
+[0:29:39] You just
+[0:29:40] Like lay
+[0:29:40] The data problem
+[0:29:41] Aside for a bit
+[0:29:42] And you
+[0:29:42] Just think
+[0:29:42] About computation
+[0:29:44] Then let's
+[0:29:44] Get back to
+[0:29:45] The example
+[0:29:45] Right?Let's say
+[0:29:46] You have
+[0:29:47] Computers
+[0:29:48] Each computer
+[0:29:49] Can only process
+[0:29:49] Ten transactions
+[0:29:50] A second
+[0:29:51] But you
+[0:29:51] Want to have
+[0:29:52] A network
+[0:29:52] The network
+[0:29:52] Process
+[0:29:53] Is ten thousand
+[0:29:54] Transactions
+[0:29:54] A second
+[0:29:55] What do you do?
+[0:29:56] You have
+[0:29:56] One computer
+[0:29:57] Generate
+[0:29:58] A synarc
+[0:29:58] That just
+[0:29:59] Proves
+[0:29:59] That all the
+[0:29:59] Transactions
+[0:30:00] Are valid
+[0:30:01] And then it
+[0:30:01] Publishes
+[0:30:02] This dark
+[0:30:02] All the other computers
+[0:30:04] They don't
+[0:30:04] Rerun
+[0:30:04] The computation
+[0:30:05] Themselves
+[0:30:06] They just
+[0:30:06] Verify
+[0:30:07] The start
+[0:30:08] Right?So
+[0:30:09] This is
+[0:30:09] Like very
+[0:30:10] Basic stuff
+[0:30:10] And one
+[0:30:12] Important point
+[0:30:12] Is that
+[0:30:13] This could
+[0:30:13] Be implemented
+[0:30:15] Either
+[0:30:15] At the level
+[0:30:16] Of the layer
+[0:30:16] One
+[0:30:16] So you
+[0:30:17] Could implement
+[0:30:17] Kind of
+[0:30:18] Insurance
+[0:30:18] In protocol
+[0:30:19] Shorting
+[0:30:19] In this way
+[0:30:20] Or you
+[0:30:20] Could do
+[0:30:21] It at the level
+[0:30:21] Of the layer
+[0:30:22] Two
+[0:30:22] Right?And that's
+[0:30:22] What Ethereum
+[0:30:23] Shows
+[0:30:24] So that's
+[0:30:24] Computation
+[0:30:25] Now what
+[0:30:25] About data
+[0:30:26] Right?So for
+[0:30:27] Data
+[0:30:27] Well,let's
+[0:30:28] Say each
+[0:30:29] Individual
+[0:30:29] Computer
+[0:30:30] Can only
+[0:30:30] Download
+[0:30:31] A megabyte
+[0:30:31] Every
+[0:30:32] 10
+[0:30:33] Seconds
+[0:30:34] Including
+[0:30:34] Norca Network
+[0:30:35] Overhead
+[0:30:35] And all
+[0:30:36] That stuff
+[0:30:36] You
+[0:30:37] Wants
+[0:30:37] To have
+[0:30:37] A blockchain
+[0:30:38] That process
+[0:30:38] As
+[0:30:39] 100 megabytes
+[0:30:40] Every
+[0:30:41] 10 seconds
+[0:30:42] What do you
+[0:30:42] Do
+[0:30:43] Well,here
+[0:30:44] We have
+[0:30:44] This technology
+[0:30:45] From
+[0:30:45] 2017
+[0:30:46] Called
+[0:30:47] Data
+[0:30:47] Availability
+[0:30:47] Sampling
+[0:30:48] Right?You
+[0:30:48] Basically
+[0:30:49] You
+[0:30:49] Have
+[0:30:50] Each
+[0:30:50] Node
+[0:30:50] Randomly
+[0:30:51] Download
+[0:30:51] A few pieces
+[0:30:52] And
+[0:30:54] Because
+[0:30:54] Of
+[0:30:55] How
+[0:30:55] The data
+[0:30:55] Is
+[0:30:55] Arazier
+[0:30:56] Coded
+[0:30:57] Like
+[0:30:57] Basically
+[0:30:57] Randomly
+[0:30:58] Downloading
+[0:30:58] A few pieces
+[0:30:59] Proves
+[0:31:00] That most
+[0:31:00] Of the data
+[0:31:01] Is
+[0:31:02] Available
+[0:31:02] And
+[0:31:02] If
+[0:31:03] Most
+[0:31:03] Of the data
+[0:31:03] Is
+[0:31:03] Available
+[0:31:04] Then
+[0:31:04] You
+[0:31:04] Can
+[0:31:04] Reconstructs
+[0:31:05] The rest
+[0:31:05] Of the data
+[0:31:06] So
+[0:31:07] This
+[0:31:07] Is
+[0:31:08] Something
+[0:31:08] That
+[0:31:08] Ethereum
+[0:31:09] Actually
+[0:31:09] Is
+[0:31:09] Doing
+[0:31:10] At
+[0:31:10] Layer
+[0:31:10] One
+[0:31:10] Right?So
+[0:31:11] Snarks
+[0:31:12] Plus
+[0:31:12] Data
+[0:31:12] Availability
+[0:31:13] Sampling
+[0:31:14] These
+[0:31:14] Two
+[0:31:14] Technologies
+[0:31:15] Together
+[0:31:15] Are
+[0:31:16] A
+[0:31:16] Sufficient
+[0:31:17] Solution
+[0:31:18] To
+[0:31:18] The
+[0:31:18] Scalability
+[0:31:19] TriLama
+[0:31:19] Right?
+[0:31:20] So
+[0:31:21] This
+[0:31:21] Is
+[0:31:21] Been
+[0:31:21] I think
+[0:31:22] Knowing
+[0:31:22] In
+[0:31:23] Theory
+[0:31:23] Since
+[0:31:24] Like
+[0:31:24] Basically
+[0:31:25] 2017
+[0:31:26] But
+[0:31:26] It's
+[0:31:26] Taken
+[0:31:26] Up
+[0:31:27] Up
+[0:31:32] The
+[0:31:32] Data
+[0:31:32] Vailability
+[0:31:33] Sampling
+[0:31:33] piece
+[0:31:33] Is
+[0:31:33] Not
+[0:31:34] Quite
+[0:31:34] Done
+[0:31:34] Yet
+[0:31:34] Right?
+[0:31:35] So
+[0:31:35] Actually
+[0:31:36] Yeah
+[0:31:36] It's
+[0:31:37] Current
+[0:31:37] Let me
+[0:31:37] Plan
+[0:31:37] For
+[0:31:37] Next
+[0:31:38] Year
+[0:31:38] Awe
+[0:31:38] Have
+[0:31:38] A
+[0:31:38] Pear
+[0:31:39] Dust
+[0:31:39] Which
+[0:31:39] Is
+[0:31:40] The
+[0:31:40] First
+[0:31:40] Version
+[0:31:41] Of
+[0:31:41] A
+[0:31:41] Data
+[0:31:41] Vailability
+[0:31:42] Sampling
+[0:31:42] And
+[0:31:43] Then
+[0:31:43] We'll
+[0:31:43] Keep
+[0:31:43] Going
+[0:31:43] From
+[0:31:44] There
+[0:31:45] So
+[0:31:46] In
+[0:31:46] Other
+[0:31:46] Technology
+[0:31:47] Data
+[0:31:47] Kimpression
+[0:31:48] Basically
+[0:31:48] Yeah
+[0:31:49] All
+[0:31:49] Your
+[0:31:49] Tours
+[0:31:50] Now
+[0:31:50] If
+[0:31:51] It turns
+[0:31:51] Ye
+[0:31:52] You
+[0:31:52] Have
+[0:31:52] easier time compressing computation
+[0:31:55] than compressing data
+[0:31:56] It turns out that you can do a trade
+[0:31:58] You can remove most of your data
+[0:32:00] and in exchange do a little bit more computation
+[0:32:02] And so there's also these data compression techniques
+[0:32:05] And this is another route for later twos
+[0:32:07] to get another 7x scale
+[0:32:08] And I think we only started scratching
+[0:32:10] the surface of this
+[0:32:12] So now we get to the present, right
+[0:32:15] I think so in the present, right
+[0:32:17] What do we have?
+[0:32:18] We have a but we have a theorem layer one
+[0:32:21] We have a bunch of activity on
+[0:32:23] Ethereum layer twos
+[0:32:24] And we have this tradeoff that we're facing
+[0:32:27] which is basically
+[0:32:30] Like how hard do we
+[0:32:31] Or how much do we care about
+[0:32:33] Making things easier for later twos
+[0:32:35] Versus how much do we care about
+[0:32:37] Keeping things easy for later one
+[0:32:39] But the more later one does
+[0:32:41] The less later twos have to do
+[0:32:43] And there's basically a
+[0:32:45] This is in a range of different approaches
+[0:32:46] Right and essentially
+[0:32:49] The idea is that
+[0:32:50] If later one does less
+[0:32:52] Or it does nothing
+[0:32:54] Then later twos have to put
+[0:32:55] Their data somewhere else
+[0:32:57] If later twos put
+[0:32:57] Their data somewhere else
+[0:32:59] That has security implications
+[0:33:00] Right now it turns out
+[0:33:02] There are a bunch of clever ways
+[0:33:04] To really try to reduce
+[0:33:05] Those security implications
+[0:33:06] Right so like I can ta
+[0:33:08] Is one example
+[0:33:09] The whole family of plasma technology
+[0:33:11] Is another example
+[0:33:12] There's quite a lot of them
+[0:33:14] But it's like it's still
+[0:33:17] And extra like burden
+[0:33:20] That L2s are taking on
+[0:33:21] And it's like an extra compromise
+[0:33:23] To the security model
+[0:33:24] On the other hand, if later one
+[0:33:26] Goes all out and really does
+[0:33:28] That data availability sampling
+[0:33:30] Then it makes the story
+[0:33:32] Much easier and cleaner for later twos
+[0:33:34] We get later twos that just
+[0:33:35] Clearly have exactly the same
+[0:33:37] Security standard as later one
+[0:33:40] But and that can scale
+[0:33:42] Potentially all the way up
+[0:33:43] To tens of thousands of transactions
+[0:33:45] A second, right
+[0:33:46] But to get there, we have to
+[0:33:47] Actually finish this data availability
+[0:33:49] Sampling piece
+[0:33:50] So on the last All Core Devs
+[0:33:52] Call about a week ago
+[0:33:53] There were some discussions
+[0:33:54] About whether or not
+[0:33:55] To increase the blob target
+[0:33:57] From three to four
+[0:33:58] Or potentially three to five
+[0:34:00] And this is like
+[0:34:03] This really ties into this
+[0:34:04] Right basically the blob
+[0:34:05] Target just means
+[0:34:06] How much data space
+[0:34:07] Are we going to have
+[0:34:08] In the short term
+[0:34:09] And the more data space
+[0:34:10] We can get, the easier
+[0:34:12] Things are for later twos
+[0:34:13] So this is like
+[0:34:14] Basically one of the
+[0:34:16] Really important
+[0:34:18] Technical tradeoffs
+[0:34:19] The ecosystem is going
+[0:34:20] Right now
+[0:34:21] Now that's all for
+[0:34:23] Layer one, right
+[0:34:24] I think one of the
+[0:34:26] Interesting things about
+[0:34:28] Where we are now
+[0:34:29] Is basically that
+[0:34:31] Ethereum has taken
+[0:34:32] This path where
+[0:34:33] Layer one does some
+[0:34:34] Of the work, but then
+[0:34:35] A lot of the work has
+[0:34:37] Also really been
+[0:34:37] Offloaded to Layer twos
+[0:34:40] And one of the
+[0:34:40] Challenges with the
+[0:34:41] Layer twos is like
+[0:34:42] Actually becoming
+[0:34:43] Real Layer twos
+[0:34:44] And not just
+[0:34:45] Being multi six, right
+[0:34:46] So when Layer twos
+[0:34:47] Started, like
+[0:34:48] They were
+[0:34:49] Theoretically saying
+[0:34:51] We're optimistic
+[0:34:51] Rollups for ZK
+[0:34:52] Rollups
+[0:34:53] Actually
+[0:34:54] There was no
+[0:34:55] Actual proof system
+[0:34:56] On-chain
+[0:34:56] And there was just
+[0:34:57] Like a multi-seg
+[0:34:58] Of people that
+[0:34:58] We're approving
+[0:34:59] Every
+[0:34:59] Approving every block
+[0:35:01] Or potentially
+[0:35:02] There's like
+[0:35:02] One computer
+[0:35:03] That was approving
+[0:35:03] Blocks and the
+[0:35:04] Multi-seg could come in
+[0:35:05] And basically say
+[0:35:06] Well, now
+[0:35:06] We think this
+[0:35:07] Block is actually
+[0:35:08] Correct
+[0:35:09] That was probably
+[0:35:10] The right thing to do
+[0:35:12] When these
+[0:35:13] Systems are
+[0:35:14] Very immature
+[0:35:15] But in the long term
+[0:35:16] That's not what
+[0:35:16] We want to build, right
+[0:35:17] We're trying
+[0:35:18] To build
+[0:35:19] Open and trustless
+[0:35:20] Systems
+[0:35:21] We're not trying
+[0:35:22] To build
+[0:35:23] A thing
+[0:35:23] Where like
+[0:35:24] Five people
+[0:35:24] Can come together
+[0:35:25] And take away
+[0:35:25] All of your money
+[0:35:26] So
+[0:35:27] One of the
+[0:35:29] We talked
+[0:35:30] About Layer twos
+[0:35:31] Getting to stage
+[0:35:31] One
+[0:35:32] Getting to stage
+[0:35:32] Two
+[0:35:33] Basically
+[0:35:34] Stage one
+[0:35:34] And stage two
+[0:35:35] Are sets of rules
+[0:35:36] For limiting
+[0:35:37] How much power
+[0:35:39] The any kind
+[0:35:41] Of security council
+[0:35:42] Like any kind
+[0:35:42] Of entity
+[0:35:43] That has the ability
+[0:35:44] To override
+[0:35:45] The proof system
+[0:35:46] Actually has
+[0:35:47] To do that, right
+[0:35:48] So in stage one
+[0:35:49] Basically
+[0:35:50] It has to be
+[0:35:51] At least
+[0:35:51] A six out of eight
+[0:35:52] Threshold
+[0:35:53] And at least
+[0:35:54] Three of the participants
+[0:35:55] Have to be outside
+[0:35:56] The organization, right
+[0:35:57] So the organization
+[0:35:58] By itself
+[0:35:58] Is not able
+[0:35:59] To steal your money
+[0:36:00] So that's stage one
+[0:36:01] It's like
+[0:36:02] The halfway stage
+[0:36:03] And then stage two
+[0:36:03] Basically says
+[0:36:04] Well, actually
+[0:36:05] The only time
+[0:36:07] The protocol
+[0:36:08] Like security council
+[0:36:09] Guardians
+[0:36:09] Anyone is allowed
+[0:36:10] To interfere
+[0:36:12] Is if the code
+[0:36:13] Provably disagrees
+[0:36:14] With itself, right
+[0:36:15] So for example
+[0:36:16] If you have two proof systems
+[0:36:17] That disagree with each other
+[0:36:19] If the code is running
+[0:36:20] Then the operators
+[0:36:22] Have no ability
+[0:36:23] To interfere with the code
+[0:36:25] So getting from stage one
+[0:36:26] To stage two
+[0:36:27] Is something important
+[0:36:28] So I think
+[0:36:30] We as an ecosystem
+[0:36:31] Really need to be prioritizing
+[0:36:33] Moving up to stage one
+[0:36:35] And up to stage two
+[0:36:37] And I think it's
+[0:36:38] You know, definitely
+[0:36:39] Celebrating the projects
+[0:36:40] That have gotten
+[0:36:41] There up to this point
+[0:36:43] And I know that there
+[0:36:44] Is at least three others
+[0:36:45] That have told me
+[0:36:46] That they plan to be
+[0:36:47] Stage one
+[0:36:47] Before the end of the year
+[0:36:49] So that's
+[0:36:50] Going to be interesting
+[0:36:51] To see
+[0:36:51] Particularly looking
+[0:36:53] Forward to the first
+[0:36:54] Stage one
+[0:36:55] ZK rollup
+[0:36:56] To come
+[0:36:56] Because I think
+[0:36:57] That's also
+[0:36:58] Going to be important
+[0:37:00] So getting
+[0:37:02] To stage two
+[0:37:02] Right
+[0:37:03] So why don't
+[0:37:04] The rollups
+[0:37:05] All just get
+[0:37:05] To stage two tomorrow
+[0:37:07] Basically the challenge
+[0:37:08] Is that
+[0:37:09] It's about trusting
+[0:37:10] The code, right
+[0:37:11] Basically, yeah
+[0:37:13] If the problem
+[0:37:14] With the code
+[0:37:15] Is that the code
+[0:37:16] Might have a bug
+[0:37:17] And if the code
+[0:37:18] Has a bug
+[0:37:19] Then potentially
+[0:37:20] All of your money
+[0:37:20] Is being drained away
+[0:37:22] And there's definitely
+[0:37:23] Instances of
+[0:37:24] D5 protocols
+[0:37:25] Getting hacked
+[0:37:26] And like
+[0:37:27] The hacker running away
+[0:37:28] With like 73
+[0:37:29] Million dollars
+[0:37:29] Of people's money
+[0:37:30] Right
+[0:37:31] Now
+[0:37:32] It's still less
+[0:37:33] Bad than like
+[0:37:33] Centralized exchanges
+[0:37:35] Where, you know
+[0:37:36] You have like
+[0:37:36] SBF and you have
+[0:37:37] Mount gox
+[0:37:38] And they're like
+[0:37:38] Yo dog
+[0:37:39] I want 5 billion
+[0:37:40] But, you know
+[0:37:42] It's still
+[0:37:42] It's still bad, right
+[0:37:43] And so
+[0:37:44] If we want to
+[0:37:45] Really throw away
+[0:37:46] The keys
+[0:37:46] And actually
+[0:37:47] Make these systems
+[0:37:48] Multi-decentralized
+[0:37:49] We need to get them
+[0:37:50] To a high standard
+[0:37:50] Of security
+[0:37:51] So there's two
+[0:37:52] Technologies for doing this
+[0:37:53] One of them
+[0:37:54] Is formal verification
+[0:37:56] So basically, yeah
+[0:37:58] Using some
+[0:37:59] Pretty advanced
+[0:38:00] Mathematical tools
+[0:38:01] To try to
+[0:38:02] Like automatically
+[0:38:03] Prove
+[0:38:04] That one
+[0:38:05] Of these systems
+[0:38:06] Actually only
+[0:38:07] Accepts blocks
+[0:38:08] That are valid
+[0:38:09] According to
+[0:38:10] Like some other
+[0:38:10] EVM specification
+[0:38:12] And another
+[0:38:13] Is multi-provers, right
+[0:38:14] Multi-provers
+[0:38:15] Basically means
+[0:38:16] You have two different teams
+[0:38:17] Using two totally different approaches
+[0:38:19] Implement two different proof systems
+[0:38:21] And they check each other's work, right
+[0:38:24] So the idea is
+[0:38:25] That if they fail
+[0:38:26] Then chances are
+[0:38:27] They're not both going to fail
+[0:38:28] At the same time
+[0:38:29] And in the same direction
+[0:38:30] And if one of them does fail
+[0:38:32] Like if the two disagree
+[0:38:33] Then you still have a
+[0:38:35] So like some kind of
+[0:38:37] Security council
+[0:38:38] That can come in
+[0:38:39] But the only power
+[0:38:40] That they have
+[0:38:40] Is to choose one or the other, right
+[0:38:42] So you basically have
+[0:38:43] Like you could have a two of three
+[0:38:45] Between
+[0:38:46] Optimistic ZK
+[0:38:47] And a security council
+[0:38:48] You could even do other things
+[0:38:49] Like you could have a two of three
+[0:38:51] Between
+[0:38:52] ZK
+[0:38:53] Trusted execution environment
+[0:38:55] And a security council
+[0:38:57] Although
+[0:38:58] I mean, that one would
+[0:38:59] Technically not count as
+[0:39:00] Trust-less
+[0:39:01] Because that intel on the council
+[0:39:02] Could technically take your money
+[0:39:03] But ZK
+[0:39:04] Trusted execution
+[0:39:06] And optimistic
+[0:39:07] Would be another combination
+[0:39:08] So there's
+[0:39:10] A lot of these
+[0:39:11] Different combinations
+[0:39:12] That you can make, right
+[0:39:13] So
+[0:39:19] Thank you
+[0:39:19] Okay
+[0:39:20] Yeah, so this is
+[0:39:21] So
+[0:39:24] Right
+[0:39:24] So basically
+[0:39:25] You know, we're really
+[0:39:27] Starting to
+[0:39:28] Figure out
+[0:39:29] How we can move toward
+[0:39:31] A greater degree of
+[0:39:32] Trust-lessness
+[0:39:33] Safely, right
+[0:39:34] And I think to me
+[0:39:36] This kind of moderate approach
+[0:39:37] Is like
+[0:39:38] A really important aspect
+[0:39:41] That's like
+[0:39:41] It's a philosophy
+[0:39:42] That's motivated
+[0:39:43] Ethereum in a lot of ways
+[0:39:45] Up until this point, right
+[0:39:46] Basically
+[0:39:48] The goal has always been
+[0:39:49] Try to
+[0:39:50] Really do the hard thing
+[0:39:52] And do the clever thing
+[0:39:54] And actually find ways to be
+[0:39:56] Decentralized and scalable
+[0:39:58] At the same time, right
+[0:39:59] And not to take the easy path
+[0:40:00] Of giving up on decentralization
+[0:40:02] Or giving up on scaling
+[0:40:04] And I think we want to do
+[0:40:05] The exact same thing
+[0:40:06] For the security of code
+[0:40:10] So
+[0:40:12] Crossway or two interoperability, right
+[0:40:13] So
+[0:40:14] Crossway or two interoperability
+[0:40:15] I think is interesting
+[0:40:16] Because
+[0:40:18] This is not just
+[0:40:19] A technical problem
+[0:40:19] This is also
+[0:40:20] A social problem, right
+[0:40:21] So
+[0:40:22] This over here
+[0:40:23] Is a screenshot
+[0:40:24] I have a polymarket
+[0:40:25] And I love polymarket
+[0:40:27] And it's great
+[0:40:29] But this is bad UX, right
+[0:40:32] So what's going on here
+[0:40:33] Basically, polymarket
+[0:40:34] Has this deposit form
+[0:40:36] And if you want to deposit
+[0:40:37] Your coins to polymarket
+[0:40:39] Basically, what it does
+[0:40:41] Is the app creates
+[0:40:42] A smart contract wallet
+[0:40:43] For you on polygon
+[0:40:45] And if you want to
+[0:40:45] Put your coins into it
+[0:40:47] You have to put
+[0:40:47] USDC
+[0:40:48] On polygon
+[0:40:49] Into the
+[0:40:50] Into that address
+[0:40:52] Now
+[0:40:53] Be careful
+[0:40:53] You have to send
+[0:40:54] The coins on polygon
+[0:40:55] Not on polygon
+[0:40:56] ZK EVM
+[0:40:57] See, that's completely different
+[0:40:58] If you send
+[0:40:59] On polygon ZK EVM
+[0:41:00] Instead of on polygon
+[0:41:01] Then like actually
+[0:41:02] You're going to lose your money, right
+[0:41:04] And like this whole thing
+[0:41:05] And then
+[0:41:06] If you don't have
+[0:41:06] Your coins on either of them
+[0:41:08] Then like you have to
+[0:41:08] Go through some bridging thing
+[0:41:10] And then users
+[0:41:11] Have to go and figure it out
+[0:41:12] And it's all crazy confusing
+[0:41:14] And I actually lost
+[0:41:14] $100 myself
+[0:41:15] Trying to navigate this
+[0:41:17] So basically
+[0:41:20] You know, you could ask
+[0:41:21] Well, what would
+[0:41:22] A good version of this
+[0:41:23] Look like, right
+[0:41:24] And I think one thing
+[0:41:26] That's really important
+[0:41:27] To point out
+[0:41:28] Is like us as
+[0:41:30] Scaling like Ethereum
+[0:41:31] Engineers, you know
+[0:41:32] We love polynomials
+[0:41:34] And we love ZK
+[0:41:35] Some arcs
+[0:41:36] And you know
+[0:41:37] We love
+[0:41:39] Showing off
+[0:41:39] How smart we are
+[0:41:40] Because we know
+[0:41:41] How to do things
+[0:41:42] In fourth degree extensions
+[0:41:44] Of 31 bit fields
+[0:41:46] But that stuff
+[0:41:47] It's not the problem here
+[0:41:48] Right
+[0:41:48] The problem
+[0:41:49] The actual problem here
+[0:41:51] Does not involve
+[0:41:52] Like fancy or cryptography
+[0:41:53] It does not involve
+[0:41:54] Shared sequencing
+[0:41:55] It does not involve
+[0:41:56] Any of that stuff
+[0:41:57] It's actually something
+[0:41:58] Much much simpler, right
+[0:41:59] So the road map
+[0:42:01] That we have for this
+[0:42:03] So starting off with
+[0:42:05] Chain specific addresses, right
+[0:42:06] Basically, the idea here is
+[0:42:08] The address should include
+[0:42:10] The chain
+[0:42:12] That you're asking
+[0:42:13] Someone to send coins to
+[0:42:14] Or delegate authority to, right
+[0:42:17] And there's two proposals
+[0:42:19] For this
+[0:42:19] So there is ERC 3770
+[0:42:21] Which is what
+[0:42:22] Safe is using already
+[0:42:23] And then there's
+[0:42:24] A newer standard
+[0:42:25] That's currently
+[0:42:25] In development
+[0:42:27] So address
+[0:42:28] At optimism.eth
+[0:42:29] And the idea
+[0:42:30] Of this standard
+[0:42:31] Is basically that
+[0:42:33] Like we actually
+[0:42:33] Take the registry
+[0:42:34] Of chains
+[0:42:35] And instead of having
+[0:42:36] It be an off chain thing
+[0:42:37] We actually look
+[0:42:37] Pull it into ENS
+[0:42:39] And have it live
+[0:42:40] On layer one
+[0:42:41] So then
+[0:42:43] What would a
+[0:42:44] Poly market actually
+[0:42:45] Look like, right
+[0:42:46] So if you go
+[0:42:46] A slide back
+[0:42:47] Then
+[0:42:49] Basically, yeah
+[0:42:52] What would happen, right
+[0:42:53] Poly
+[0:42:53] So there's
+[0:42:54] What
+[0:42:55] There's a medium
+[0:42:55] Good way to do it
+[0:42:56] And there's an
+[0:42:57] Ultimate way
+[0:42:57] Good way to do it
+[0:42:58] So what's
+[0:42:59] The medium
+[0:42:59] Good way to do it
+[0:43:00] You take this
+[0:43:01] Address
+[0:43:01] And you just
+[0:43:02] Replace it
+[0:43:03] With a chain
+[0:43:03] Specific address, right
+[0:43:04] You just say
+[0:43:05] Send to
+[0:43:06] Zero X
+[0:43:06] Pull a blah
+[0:43:07] At polygon.eth
+[0:43:09] And then a user
+[0:43:09] Takes an address
+[0:43:10] Copies it
+[0:43:11] They put it
+[0:43:11] In the two
+[0:43:12] Field of their wallet
+[0:43:13] And then
+[0:43:14] The wallet
+[0:43:14] Automatically
+[0:43:15] Recognizes
+[0:43:16] Hey
+[0:43:16] I'm being
+[0:43:17] Asked to send
+[0:43:18] Coins to
+[0:43:18] Polygon
+[0:43:19] If I have
+[0:43:19] Coins on
+[0:43:20] Polygon already
+[0:43:20] Send them
+[0:43:21] If I don't
+[0:43:22] Have
+[0:43:22] Coins on
+[0:43:22] Polygon already
+[0:43:23] Then sends them
+[0:43:24] Using
+[0:43:25] Some kind of
+[0:43:26] Cross-chain
+[0:43:26] Bridging operation
+[0:43:28] And ERC 7683
+[0:43:29] Is like
+[0:43:30] One of these
+[0:43:31] Cross-chain
+[0:43:32] Fully open
+[0:43:33] Standard
+[0:43:33] Cross-chain
+[0:43:34] Bridging protocols
+[0:43:35] That's
+[0:43:36] Being developed
+[0:43:37] Right now
+[0:43:37] So that's
+[0:43:38] The medium
+[0:43:38] Good way to do it
+[0:43:39] The really
+[0:43:40] Good way to do it
+[0:43:40] Is of course
+[0:43:41] To take
+[0:43:41] The address
+[0:43:42] Out entirely
+[0:43:43] And Poly
+[0:43:43] Going market
+[0:43:44] Should just
+[0:43:44] Have a deposit button
+[0:43:46] And they can
+[0:43:46] Ask how much
+[0:43:46] To deposit
+[0:43:47] And then
+[0:43:48] That just
+[0:43:48] Automatically creates
+[0:43:49] A payment request
+[0:43:50] Right
+[0:43:50] Basically
+[0:43:52] Exactly
+[0:43:53] With the same
+[0:43:53] Kind of
+[0:43:54] Technology
+[0:43:54] That you would
+[0:43:55] Wants to use
+[0:43:56] If for example
+[0:43:57] Like I want
+[0:43:57] Like
+[0:43:58] We were all
+[0:43:58] Using
+[0:43:59] Theorium Layer 2
+[0:44:00] Is to do
+[0:44:01] Our Crypto payment
+[0:44:01] Right now
+[0:44:02] And
+[0:44:03] I'm in like
+[0:44:03] You know
+[0:44:03] Like Shaka here
+[0:44:04] Was selling
+[0:44:05] The green tea
+[0:44:06] And
+[0:44:07] You know
+[0:44:07] Like I have
+[0:44:08] My Dymo wallet
+[0:44:09] That's
+[0:44:10] On base
+[0:44:10] And
+[0:44:11] I'm in like
+[0:44:12] Scan his QR code
+[0:44:13] But it turns out
+[0:44:14] That
+[0:44:14] You know
+[0:44:15] He's using
+[0:44:15] A wallet
+[0:44:16] That's
+[0:44:16] Only
+[0:44:17] Lives on
+[0:44:18] Scroll
+[0:44:19] And
+[0:44:21] Because
+[0:44:22] And then
+[0:44:22] My wallet
+[0:44:23] Basically
+[0:44:24] Yeah
+[0:44:24] My wallet
+[0:44:24] Would automatically
+[0:44:25] See that
+[0:44:25] As a payment request
+[0:44:26] And automatically
+[0:44:27] Rout that
+[0:44:27] From one layer
+[0:44:28] To another
+[0:44:29] Right
+[0:44:29] So
+[0:44:30] There's like
+[0:44:31] Basically
+[0:44:31] There's levels
+[0:44:32] To which
+[0:44:32] You can make
+[0:44:33] This stuff
+[0:44:33] Work better
+[0:44:34] And better
+[0:44:34] And it's like
+[0:44:35] Important for us
+[0:44:35] To really
+[0:44:36] Start climbing
+[0:44:37] The ladder
+[0:44:37] Right
+[0:44:38] But the important thing
+[0:44:39] Is basically
+[0:44:40] That
+[0:44:40] The challenge
+[0:44:41] This does not
+[0:44:42] Require
+[0:44:42] Any fancy math
+[0:44:43] It does not require
+[0:44:44] Any fancy technology
+[0:44:45] It basically
+[0:44:46] Requires
+[0:44:47] Standardizing
+[0:44:48] Some
+[0:44:48] Like
+[0:44:49] Actually
+[0:44:49] Pretty
+[0:44:49] Commonsense
+[0:44:50] You
+[0:44:50] Wax
+[0:44:50] Things
+[0:44:53] So
+[0:44:54] That's
+[0:44:54] So
+[0:44:55] That's
+[0:44:55] Layer
+[0:44:55] To
+[0:44:55] Right
+[0:44:56] Actually
+[0:44:56] There's
+[0:44:57] There's
+[0:44:57] Like
+[0:44:57] This
+[0:44:57] Pretty
+[0:44:58] Deep
+[0:44:58] Rabbit
+[0:44:58] Whole
+[0:44:58] That
+[0:44:58] You
+[0:44:59] Can
+[0:44:59] Go
+[0:44:59] If
+[0:44:59] You
+[0:44:59] Want
+[0:45:00] To talk
+[0:45:00] About
+[0:45:00] Improving
+[0:45:00] Layer
+[0:45:01] To
+[0:45:01] Is
+[0:45:01] Right
+[0:45:02] I think
+[0:45:03] The core principle
+[0:45:04] That
+[0:45:05] Should
+[0:45:05] Guide
+[0:45:05] Us
+[0:45:05] For
+[0:45:05] Layer
+[0:45:06] To
+[0:45:06] In my opinion
+[0:45:07] Is
+[0:45:08] Ask
+[0:45:08] Us
+[0:45:09] What
+[0:45:09] Properties
+[0:45:10] Did we
+[0:45:10] Do
+[0:45:11] Did we
+[0:45:11] Want
+[0:45:12] Users
+[0:45:12] To
+[0:45:12] Have
+[0:45:13] Back
+[0:45:13] When
+[0:45:14] Ethereum
+[0:45:14] Was
+[0:45:14] Just
+[0:45:15] Layer
+[0:45:15] One
+[0:45:15] And
+[0:45:16] Make
+[0:45:16] Sure
+[0:45:16] That
+[0:45:16] Those
+[0:45:16] Properties
+[0:45:17] Actually
+[0:45:17] Exist
+[0:45:18] Across
+[0:45:19] The
+[0:45:19] Layer
+[0:45:19] To
+[0:45:19] Ecosystem
+[0:45:20] So
+[0:45:21] For
+[0:45:21] Example
+[0:45:22] Properties
+[0:45:22] That
+[0:45:23] Users
+[0:45:23] Have
+[0:45:23] On
+[0:45:24] Layer
+[0:45:24] One
+[0:45:25] You
+[0:45:25] Could
+[0:45:25] Give
+[0:45:25] People
+[0:45:26] An
+[0:45:26] Adress
+[0:45:26] And
+[0:45:27] That
+[0:45:28] Adress
+[0:45:28] Is
+[0:45:28] All
+[0:45:28] You
+[0:45:29] Need
+[0:45:29] For
+[0:45:29] Them
+[0:45:29] To
+[0:45:29] Pay
+[0:45:29] You
+[0:45:30] So
+[0:45:30] Today
+[0:45:30] We
+[0:45:31] Don't
+[0:45:31] Have
+[0:45:31] That
+[0:45:31] Chain
+[0:45:32] Specific
+[0:45:32] Adress
+[0:45:32] Asol
+[0:45:33] That
+[0:45:33] Number
+[0:45:42] We actually have
+[0:45:43] We had
+[0:45:43] Guess
+[0:45:44] Light
+[0:45:44] For
+[0:45:44] A
+[0:45:44] Long
+[0:45:44] Time
+[0:45:45] Even
+[0:45:45] During
+[0:45:45] The
+[0:45:45] Proof
+[0:45:46] Of
+[0:45:46] Work
+[0:45:46] Days
+[0:45:47] And
+[0:45:47] Now
+[0:45:47] We
+[0:45:47] Have
+[0:45:47] Helios
+[0:45:48] Which
+[0:45:48] Is
+[0:45:48] Going
+[0:45:49] Through
+[0:45:49] Proof
+[0:45:49] Of
+[0:45:49] Stake
+[0:45:49] It's
+[0:45:49] Getting
+[0:45:50] There
+[0:45:50] But
+[0:45:50] We
+[0:45:51] Need
+[0:45:51] An
+[0:45:51] Equivalence
+[0:45:51] For
+[0:45:52] Proof
+[0:45:52] Of
+[0:45:52] Stake
+[0:45:52] And
+[0:45:52] So
+[0:45:53] We
+[0:45:53] Need
+[0:45:53] To
+[0:45:53] Standardize
+[0:45:54] How
+[0:45:54] Layer
+[0:45:55] To
+[0:45:55] Is
+[0:45:55] The
+[0:45:55] Clear
+[0:45:56] Like
+[0:45:56] Basically
+[0:45:57] How
+[0:45:57] You
+[0:45:57] Actually
+[0:45:57] You
+[0:45:58] Can
+[0:45:58] Do
+[0:45:58] Like
+[0:45:58] Light
+[0:45:59] Validation
+[0:46:00] So that's number two.
+[0:46:02] Number three, if you have a wallet and you want to do things like updating keys, you should be able to just do it with one operation and it happens automatically.
+[0:46:10] So there's like a step one here, which is basically updates that can propagate across shades.
+[0:46:15] There's a step two, which is key store wallets. There's like an entire one back here, right?
+[0:46:19] So basically you just go one by one through all of the properties that users expect that are just common sense things.
+[0:46:30] That users would expect to have on layer one and you just make sure that they apply across the layer two world as much as possible, right?
+[0:46:37] So that basically big standardization challenge, a lot of vertical developments and like for me, it's actually been amazing to see just how much stuff has been done on this already.
+[0:46:48] So that's what your tools.
+[0:46:50] Now, there's also been people who are saying, well, maybe offloading everything to layer two actually sucks and actually it's bad for each value.
+[0:46:59] So it's a little cruel and it's bad for a lot of reasons. So maybe we should be improving layer one, right?
+[0:47:05] Now, I think there's a lot of interesting things that we can do for layer one as well.
+[0:47:10] And I think the way that I think about this is I think about this in like about three categories, right?
+[0:47:17] So one of them is just a direct gas limit, right?In Greece, right?
+[0:47:22] So you go into the spec, you take the number 30 million and then you just cross it out and you replace it with the number 90 million.
+[0:47:27] Ta-da 3X scale, right?
+[0:47:29] Now, this is like it's not super fatal, right?Because technically we've kind of done that before, right?
+[0:47:35] So back when Ethereum started, the gas limit was 3141592,block time was 17 seconds.
+[0:47:44] And so that's going to be about 170,000 gas per second.
+[0:47:48] Today the target is 15 mil divided by 12.
+[0:47:52] So 1.25 million to gas a second.
+[0:47:53] So we have increased Ethereum's capacity by about 7X since launch,
+[0:47:59] which is pretty good, right?It roughly follows Moore's law.
+[0:48:02] And so we could argue well maybe over the next decade we should increase it by another 7X
+[0:48:08] and maybe we're slightly overdue, right?
+[0:48:11] So this is one approach.
+[0:48:13] Now, I think it's a valid approach.
+[0:48:15] I think one of the challenges with this approach is that it makes doing some of the other stuff harder, right?
+[0:48:21] So for example,we also talk a lot about the verge,right?
+[0:48:25] Basically wanting Ethereum to support stateless clients,
+[0:48:28] which will be good for light clients.
+[0:48:30] It'll be good for the solo-stakers.
+[0:48:35] It will be good for just making it easier for people to spin up nodes really quickly,
+[0:48:41] which is good for any kind of node operator,
+[0:48:43] like it's good for everyone.
+[0:48:45] But the verge has one big bottleneck,
+[0:48:48] which is the theoretical maximum of how many state updates you can do in a block.
+[0:48:53] It turns out this is a big bottleneck,right?
+[0:48:55] It's a big bottleneck,
+[0:48:57] and basically if we want to do the merge in a way that's quantum safe,
+[0:49:01] then you have to stark prove about like 500,000 hashes a second on a laptop.
+[0:49:06] Now,it turns out that this problem is like maybe just barely achievable,right?
+[0:49:11] Basically,it turns out that if you like cut one of about three corners,
+[0:49:17] then we can kind of do what we basically know how to do it today,right?
+[0:49:21] Now,if on the other hand we bump the gas limit up to 90 million,
+[0:49:25] then that 500,000 bumps up to one and a half million,
+[0:49:27] and then the whole problem just becomes totally crazy unsolvable.
+[0:49:31] So,right?
+[0:49:35] Now,so what do we do instead?
+[0:49:39] So the roadmap that I suggest instead is basically one is
+[0:49:43] reducing gas cost for cheap operations,right?
+[0:49:45] So,for example,currently add cost three gas,mull cost three gas,
+[0:49:49] mull is actually much more complex than add.
+[0:49:51] So,let's just make,reduce the gas cost of add down to one,
+[0:49:55] reduce the gas cost of like push,pop,everything trivial down to one.
+[0:49:58] If we do this,then we're not actually like increasing the theoretical max
+[0:50:02] on any of the invariance,and like we're actually making the gas schedule
+[0:50:05] sort of more correct,right?
+[0:50:07] Another option is new heavy computation features.
+[0:50:11] So,evm max is one idea,simd is another idea,like basically adding
+[0:50:16] new modules to the evm that let it do specific types of computation
+[0:50:20] much faster.So,this would be really good for custom cryptography,
+[0:50:24] it would be really good for zk-synarchs,it would be really good for
+[0:50:27] actually a lot of lawyer 2 related logic,like it would help
+[0:50:30] lawyer 2s be much faster as well.
+[0:50:33] So,creating like new components that are really designed for
+[0:50:36] just hyper-optimizing specific heavy computations.
+[0:50:41] And then another thing is this is something that some L1
+[0:50:43] engineers proposed,basically moving state root computation to
+[0:50:47] happen in the next slot instead of the current slot.
+[0:50:49] And if you do that,then you're just increasing the amount of
+[0:50:51] select that you have to verify a block.And if you do that,
+[0:50:56] then like you could potentially do any of these things much
+[0:50:59] more,right?So,there is like an array of things that you
+[0:51:04] actually can do,right?And I think,you know,the L1
+[0:51:07] engineer actually is improvable quite a bit,even without
+[0:51:10] affecting like any of the worst case things that a lot of the
+[0:51:13] core developers care about.So,conclusions,right?
+[0:51:17] Basically,I think,I mean,one of the interesting things
+[0:51:21] about this to me is that I feel like a lot of this is
+[0:51:24] basically the same stuff that we've been talking about
+[0:51:29] the whole time.Except,I think to me the big shift is
+[0:51:32] basically that a lot of thecore technical problems
+[0:51:35] are solved.And a lot of the remaining challenge is
+[0:51:39] not even in the technical problems,it's like in the
+[0:51:42] social coordination part,right?Layer 2s exist,but we
+[0:51:46] need a layer 2s to be more interoperable.Ideas for how
+[0:51:49] to improve the EVM exist,but we need to,like,actually
+[0:51:53] agree on one portion,right?But real life has been
+[0:51:57] around for years,and max has been around for years.At
+[0:52:00] the same time,of course,people are worried about
+[0:52:03] overly complexifying the protocol,right?So,there's
+[0:52:07] a whole bunch of these,you're like more subtle problems
+[0:52:12] that appear,and the main thing that's really valuable
+[0:52:16] for the ecosystem at this point is,like,much less
+[0:52:19] new fundamental technological breakthroughs
+[0:52:22] and much more,like,basically,actually really
+[0:52:25] working together and being able to
+[0:52:27] actually hammer all of these things out,right?And
+[0:52:30] I think we are making progress,right?So,like,for
+[0:52:33] example,a year ago,basically,if you had to use
+[0:52:36] applications on different layer 2s,you would
+[0:52:39] have to manually switch networks.Today,you don't
+[0:52:41] have to do that anymore,right?So,things are
+[0:52:44] improving,and I think,you know,things will
+[0:52:47] continueimproving quickly,right?But,yeah,basically,you
+[0:52:53] know,even though the principles and,like,the
+[0:52:56] fundamental approach by whichEthereum is
+[0:52:59] scaling is basically the same that it has
+[0:53:02] been the whole time,like,the type of work
+[0:53:05] that needs to be done to,like,actually bring
+[0:53:07] all of this stuff to the finish line is
+[0:53:09] looking,is looking very different now.So,thank
+[0:53:13] you.
+[0:53:26] Can you hear me?Oh,ok.So,next,we're
+[0:53:29] going to welcome Scott Moore,the co-founder
+[0:53:32] of Gitcoin,a platform that is building a
+[0:53:35] future where open source development is
+[0:53:37] supported and sustainable.Scott is
+[0:53:40] passionate about creating a new model
+[0:53:43] for funding publicly goes through
+[0:53:45] blockchain technology.Let's welcome him,Scott.
+[0:53:49] Awesome.So,you set that up pretty much
+[0:53:55] perfectly for the social layer that's
+[0:53:57] pretty much coming to talk about today.I
+[0:53:59] think the fundamental problem that I see
+[0:54:02] is basically how we actually make
+[0:54:05] the tools to gather socially.So,this idea
+[0:54:08] of legitimacy is fundamentally one
+[0:54:11] that historically dates back to pretty
+[0:54:14] much any human social group.But I
+[0:54:16] think especially today we have a
+[0:54:17] really hard problem,which is there's a
+[0:54:19] lot of different communities,there's a
+[0:54:20] lot of different opinions on how we
+[0:54:22] move forward and there's a lot of
+[0:54:23] different mechanisms that we could
+[0:54:25] use to actually move forward in those
+[0:54:27] contexts.I didn't realize I wouldn't
+[0:54:29] have a clicker,so I'm going to do
+[0:54:30] like this,I think.I think that was
+[0:54:31] kind of what he was doing too.That's
+[0:54:32] the sort of works.Everytime I need
+[0:54:34] to move forward in the next
+[0:54:35] slides.But why should we care
+[0:54:37] about any of this?I think
+[0:54:38] fundamentally,just to zoom out,this
+[0:54:39] is like going to be the highest
+[0:54:40] level I go,but I think it's
+[0:54:41] important to do.Fundamentally,we've
+[0:54:43] basically been building technologies
+[0:54:45] since humans have existed,all the
+[0:54:47] way back to things like the
+[0:54:48] aqueducts in the Roman times,things
+[0:54:50] like with block printing,which
+[0:54:51] actually proceeded theprinting
+[0:54:52] press by like 700 years to the
+[0:54:54] internet and so forth that we
+[0:54:55] used today.And fundamentally
+[0:54:57] all these things relied on some
+[0:54:59] kind of creation ofstandards,which
+[0:55:01] we didn't have astandard for how
+[0:55:03] they would never be able to
+[0:55:04] actually flow into the cities
+[0:55:05] properly.If we didn't
+[0:55:06] have astandard for the
+[0:55:08] internet,we would all have
+[0:55:09] different sort of microsystems
+[0:55:11] that we were using.And if
+[0:55:14] we fundamentally think about
+[0:55:16] where we are now,the scales
+[0:55:18] of those problems are moving
+[0:55:19] from where we're thinking
+[0:55:20] locally in terms of our
+[0:55:21] own communities,to things
+[0:55:23] like nation states,which
+[0:55:24] we're all sort of part of
+[0:55:25] and familiar with today,to
+[0:55:27] things like networks,which
+[0:55:28] are much more peer to
+[0:55:29] peer,but as you can see,and
+[0:55:30] as I think everyone here
+[0:55:31] intuitively knows,there's
+[0:55:32] like a much harder sort of
+[0:55:33] problem ofcoordination
+[0:55:35] around because of the fact
+[0:55:36] that thescale ofdifferent
+[0:55:38] edges grows exponentially
+[0:55:40] as the number of people
+[0:55:41] or the number of nodes
+[0:55:42] increases.So,fundamentally
+[0:55:44] we're in this sort of
+[0:55:45] technological acceleration
+[0:55:46] and we have like much
+[0:55:48] more fundamentallyin-depth
+[0:55:50] social problems to solve
+[0:55:52] around thistechnology.And
+[0:55:54] this is in the face of
+[0:55:55] like,you know,all the
+[0:55:56] sort of existentialism
+[0:55:57] that people bring up around
+[0:55:58] artificialintelligence,or
+[0:55:59] whatever these things
+[0:56:00] might be,which I don't
+[0:56:01] thinkare necessarily
+[0:56:03] valid,butare sort of
+[0:56:04] worth bringing upin
+[0:56:05] context of why this
+[0:56:06] matters.And
+[0:56:07] so,fundamentally
+[0:56:08] there'ssort of three
+[0:56:09] like,protocols
+[0:56:10] that I think are
+[0:56:11] really interesting
+[0:56:12] that Iwant to
+[0:56:13] highlight.One of
+[0:56:14] them is just what
+[0:56:15] I'm using here,which
+[0:56:16] is speech.We're
+[0:56:17] collapsing meaning into
+[0:56:18] a series of sort of
+[0:56:19] sounds that we can
+[0:56:20] use to communicate
+[0:56:21] ideas and nuanced
+[0:56:22] meaning.There's
+[0:56:23] the Internet itself,and
+[0:56:24] then,ofcourse,there's
+[0:56:25] things like Ethereum,which
+[0:56:26] in the same way as
+[0:56:27] the Internet coordinated
+[0:56:28] information coordinate
+[0:56:29] value.And
+[0:56:30] fundamentally,theseare
+[0:56:31] alsolocal to
+[0:56:32] global scale
+[0:56:33] improvements.But
+[0:56:34] ifwe have these
+[0:56:35] local to global scale
+[0:56:36] improvements,again,just
+[0:56:37] to reiterate,we're going
+[0:56:38] to run into more of
+[0:56:39] thesekindof
+[0:56:40] coordination problems.So
+[0:56:41] XKCD has a comic
+[0:56:42] prettymuch everything.This
+[0:56:43] is,Ithink,one of
+[0:56:44] the best ones that
+[0:56:45] they have,which is
+[0:56:46] Ithink really relevant
+[0:56:47] to the Ethereum
+[0:56:48] ecosystem today and
+[0:56:49] relevantto other
+[0:56:50] ecosystemsacross
+[0:56:51] sort ofthe peer-to-peer
+[0:56:52] technology space.
+[0:56:53] fundamentally,you
+[0:56:54] know,ifyou get everyone
+[0:56:55] in a room and try and
+[0:56:56] say,let's create a
+[0:56:57] newstandard,you get
+[0:56:58] like,you know,say
+[0:56:59] fourteen different
+[0:57:00] people in the room
+[0:57:01] and come out with
+[0:57:02] fifteen different suggestions.And
+[0:57:03] you don't really get
+[0:57:04] anywhere because
+[0:57:05] you can't get people
+[0:57:06] to reach consensus around
+[0:57:07] whichstandard actually
+[0:57:08] makes the most sense,which
+[0:57:10] is why you sometimes need
+[0:57:11] theseshelling points or
+[0:57:12] kindofnudges from
+[0:57:14] groups where
+[0:57:15] there's sortoflegitimacy.And
+[0:57:17] so,you know,someofthe
+[0:57:19] things thatthosenudges
+[0:57:20] oflegitimacy have
+[0:57:21] created for us,this is
+[0:57:22] kindofhard to see in this
+[0:57:23] context,butare
+[0:57:24] things that are on
+[0:57:25] these sortoflike
+[0:57:27] veryhard andatomic
+[0:57:29] things,so like
+[0:57:30] things like,you know,public
+[0:57:31] key cryptography,where
+[0:57:32] we have very set
+[0:57:33] sortofrules around
+[0:57:34] how to do that
+[0:57:35] properly,or tcpip,where
+[0:57:36] we have sortofone
+[0:57:37] mainstandard globally,to
+[0:57:38] things like,you know,birthday
+[0:57:40] parties,which are
+[0:57:41] much looser,but we
+[0:57:42] sortofhave a concept
+[0:57:43] shared between all of
+[0:57:44] us hereofwhat a
+[0:57:45] birthdayparty is and
+[0:57:46] what we're doing when
+[0:57:47] we,like,say,we're
+[0:57:48] gonnahave a
+[0:57:49] birthdayparty,right?So
+[0:57:50] we're just trying to
+[0:57:51] find ways,as we
+[0:57:52] increasingly scale to
+[0:57:53] reach more consensus
+[0:57:54] aroundthese pieces.And
+[0:57:56] one ofthe most
+[0:57:57] interesting areas,I
+[0:57:58] for me around
+[0:57:59] this,is just in
+[0:58:00] the context of
+[0:58:01] things like
+[0:58:02] AI development,but
+[0:58:03] it's also true in
+[0:58:04] the concept of
+[0:58:05] blockchains.Everyone
+[0:58:06] has a different view of
+[0:58:07] how much risk there is
+[0:58:08] to some particular
+[0:58:09] implementation,or
+[0:58:10] some particular
+[0:58:11] suggestion,some
+[0:58:12] direction.And
+[0:58:13] everyone also has
+[0:58:14] a different sortof
+[0:58:15] view on the
+[0:58:16] seriousnessof
+[0:58:17] those risks.And
+[0:58:19] so,fundamentally,then
+[0:58:21] we sortofhave
+[0:58:22] to figure out
+[0:58:23] legitimesty for
+[0:58:24] all those reasons.So
+[0:58:25] what islegitimesty?What
+[0:58:26] areweactually talking
+[0:58:28] ます,there's
+[0:58:29] sortof three
+[0:58:30] main ways to
+[0:58:31] to view
+[0:58:32] legitimacy.The
+[0:58:33] first1 is
+[0:58:34] to view it as
+[0:58:35] a sort of
+[0:58:36] way of
+[0:58:37] getting behaviors
+[0:58:38] and habits
+[0:58:39] togetherin
+[0:58:40] a group of
+[0:58:41] people that
+[0:58:42] setthe bounds
+[0:58:43] on acceptable
+[0:58:44] interactions,given
+[0:58:45] a set of
+[0:58:46] normsand
+[0:58:47] rules soit's
+[0:58:48] normative
+[0:58:49] creation
+[0:58:50] within a group.There's
+[0:58:51] alsokindofan
+[0:58:52] economic definition
+[0:58:53] where we're
+[0:58:54] basicallyagreying
+[0:58:55] on a set
+[0:58:56] と思 of these standards just like I was showing in the first slide, we get these nice benefits of being able to layer these like different protocols on top of each other for greater and greater kind of complexity that's abstracted away from us.
+[0:59:09] a lot of the stuff in this room, if it were to break down, maybe there's a few people that actually be able to fix it, we don't necessarily all need to be able to know how to fix it because we have the ability to delegate that work across a larger group.
+[0:59:19] So civilization advances when you're able to go through higher orders of protocols and acceptance.
+[0:59:27] This one is a little bit incomplete, but basically there's like historical notions of legitimacy that I think are worth going into.
+[0:59:35] So sometimes it's just like the charisma of a leader, like one person in a room.
+[0:59:40] I think personally like it's really good that in my opinion, which I don't think you would say that we have someone like me who has like a good
+[0:59:48] vision for Ethereum's future, I think that there's a lot of ecosystems where this isn't necessarily true and where this can be harder as a result.
+[0:59:56] I think that there's a lot of normative stuff that's being part of the cypherpunk history of Bitcoin and Ethereum that's made it very useful to kind of
+[1:00:04] maintain legitimacy over time.And then of course there's formal rules that have been set by things like EIPs that I think are really useful here to consider.
+[1:00:12] But this is just one framework by Weber from like the 1920s around legitimacy and we'll go to the next slide.
+[1:00:21] But I think one of the more pernicious forms of legitimacy that we should be aware of and just sort of mindful of as we create more of these systems
+[1:00:29] is mimetic sort of gerardian legitimacy, which is just to say that like if we start spreading ideas around each other,
+[1:00:37] it gets really easy for us to all sort of believe those ideas just because we're all saying them.
+[1:00:42] So we have to be very careful about like what kinds of technology or what kinds of social norms we're promoting
+[1:00:47] and how those actually fit into a broader landscape versus are just something that we're all sort of like saying to each other.
+[1:00:54] And that's where you need, you know, more technical committees, more formal process, more things like the EIP process to,
+[1:01:00] in the case of Ethereum, lead to better outcomes for those kinds of decision making process.
+[1:01:06] And I think one of the other things that's just worth noting is,you know, there's a risk of if you are,
+[1:01:14] you know, and I think actually this is true of the community here.
+[1:01:17] There's often this view of the East West sort of like divide and crypto.
+[1:01:21] I think one of the biggest problems is that we need to be able to integrate groups together so that we're all sharing the same context
+[1:01:26] and so that there isn't this sort of feeling that there's like separate local communities,
+[1:01:31] but just one big global community within Ethereum.
+[1:01:34] And I think one of the ways to do that is through this idea of sort of bringing like sacred transformation
+[1:01:41] or like these ideas of like rituals, myths, symbolic acts together into the Ethereum community
+[1:01:46] beyond just the formal processes of Ethereum,but also in the values that we articulate.
+[1:01:51] I'm also just basically like a lot of this is going to go back to like things like from Vitalik's blog,
+[1:01:57] but he has a great post recently on essentially what Ethereum alignment should actually practically mean.
+[1:02:03] And I think that is something that we can sort of form these more meaningful myths
+[1:02:08] and sort of rituals around.
+[1:02:12] So this one's going to be hard because each time I have a new line,
+[1:02:16] so I'm going to try to do this relatively seamlessly,
+[1:02:19] but I'll try and point higher up so that it's not as hard for you guys over there.
+[1:02:25] But yeah,basically the worst form of legitimacy is sort of brute force
+[1:02:31] where you just have one person kind of like a king making decisions.
+[1:02:36] Ultimately,there's this challenge historically of that happening in most kingdoms.
+[1:02:41] I think that there is a need to sort of build a coalition of people globally
+[1:02:47] that are sort of thinking about these different forms of legitimacy beyond just brute force.
+[1:02:56] Yeah,we can switch to the ones where it's just fully present.
+[1:02:59] The second form of legitimacy is by continuity.
+[1:03:03] The third form is by process.
+[1:03:06] And we can just actually skip to the one where they're all present on the screen
+[1:03:09] because it will be easier without the clicker.
+[1:03:11] But fundamentally,what we're getting to here is that
+[1:03:16] there's sort of a,you know,a lot of these different theories
+[1:03:20] and to me there's almost a little bit of a hierarchy around different forms
+[1:03:24] that we should be taking into consideration.
+[1:03:26] You have things like brute force.You have things like continuity
+[1:03:31] if something was legitimate before,you know,over multiple periods of time
+[1:03:34] it's legitimate now.You have things like process
+[1:03:37] if there's a formal process for something,it's legitimate,you know,
+[1:03:40] because we agreed on the process beforehand.
+[1:03:42] Participation and performance,basically,whether something works
+[1:03:45] in the way that it intended to work,even if there isn't a process
+[1:03:48] for it necessarily.And then participation
+[1:03:50] where people are actually involvedin decision making
+[1:03:53] under an idea or concept.
+[1:03:56] And the last one,which I guessperhaps like the most important
+[1:03:59] but also like the most nebulous,is fairness.
+[1:04:02] And what I would alsophraseis credible neutrality.
+[1:04:04] And this is somethingthat I thinkthat Ethereum has done
+[1:04:06] a really good jobof sortof articulating,which is
+[1:04:08] essentially how doyou actuallyform a neutral layer
+[1:04:12] that people can agree onand sortof like build context
+[1:04:15] on together.And you'll noticethat like,you know,
+[1:04:19] ifyou have a crediblyneutral layerwhere it's sortof
+[1:04:22] operatingand same as its own,it's very robust against
+[1:04:25] the kind of capture attacksthat something like a
+[1:04:27] mimetic sortof form oflegitimacy might apply to it.
+[1:04:31] So ifyou havelots of people tryingto agreeon a given
+[1:04:37] conceptor on a giventechnical specoron a given sortof
+[1:04:41] view of the world,or a given sortof like say,
+[1:04:44] governance system,ifyou have something like
+[1:04:47] fairnessor as credible neutrality at the center,it's
+[1:04:50] very hardfor people to sortof agree amongst
+[1:04:53] eachother and schemeon like howto improve those
+[1:04:56] systems amongst a smaller group.You have this
+[1:04:59] sortof baseline rule of lawwhich allows for
+[1:05:02] a sortof betteroverall governance process.
+[1:05:05] And fundamentallythe reasonI'm talking about
+[1:05:08] all these pieces is becauseI don't think
+[1:05:11] it'sclear whichgroups within Ethereum yetrelyon
+[1:05:14] different forms of thislegitimacy.And I think
+[1:05:17] we have toreally,really becarefulabout trying
+[1:05:20] to focus as much as we canon the onesthat are
+[1:05:23] on this list,like participation,like
+[1:05:25] fairness,in the way weactually form the
+[1:05:28] protocols that we'recreatinghere,and in the way
+[1:05:30] that we engagewith the overalletherium
+[1:05:32] community.So fairness,fundamentally,is
+[1:05:37] something thatI think is,yeah,arguely the most
+[1:05:41] abstract.This is harderwithout the clicker
+[1:05:44] than I thought,but we'regonna go through.But
+[1:05:49] ultimately,yeah,there's a fewexamples Iwantto
+[1:05:53] through,which are reallyrelevant to ustoday.So
+[1:05:55] fundamentally,PGPwas like,I think something
+[1:05:57] thatgot me excited aboutcrypto.A lot of
+[1:06:00] the early sortofcypherpunk movementwas
+[1:06:02] why I got into thisin the firstplace,and
+[1:06:04] washow I sortofbecame morefamiliar
+[1:06:06] withall the meetups thatI endedup
+[1:06:08] bothering to attendin sortof themid-2010s.And
+[1:06:13] the ideaofPGPwas originallyactually
+[1:06:17] viewedas aattack onthe governmentat the
+[1:06:21] time.It's actuallyregulatedas
+[1:06:23] imunition underITAR in the US.And
+[1:06:26] it wasn't untilyou hadthe EFF,the
+[1:06:28] Electronic Frontier Foundationstepping
+[1:06:30] in on the one handand you hadthe
+[1:06:32] sortoflargercorporationsusing this
+[1:06:34] for practical purposes ontheir
+[1:06:36] own thatyou actuallygotpeople
+[1:06:38] caringabout thePGPprotocolenough
+[1:06:41] to builduptheir ownmomentumand
+[1:06:43] theirownsortofso thatitcould
+[1:06:46] actually avoidthese legalattacks.And
+[1:06:49] unimmentally,what's interestingabout
+[1:06:51] this case is thatI think we're
+[1:06:53] facingsimilar sortofregulatory
+[1:06:55] scrutinynowaround the world,especially
+[1:06:57] in the USandespeciallyin
+[1:06:59] othercountries inAsia.And
+[1:07:01] Ithink the thingthat we have to sortof
+[1:07:03] thinkaboutin the contextofthatis,how
+[1:07:05] do weuse oursocial rulemaking
+[1:07:07] tools,like the onesthat we've
+[1:07:09] talkedabouthere,toshow bothyou
+[1:07:12] knowtheoriginal sortofcypherpunk,but also
+[1:07:14] thetraditional sortofinstitutions,that
+[1:07:16] thosevaluein these typesoftools,and
+[1:07:18] in a sense,dual use,you know,not
+[1:07:20] necessarily somethingthat needs to be
+[1:07:22] regulatedby itarin this context.So
+[1:07:26] we can do the next one.One
+[1:07:30] otherexampleofa more recent
+[1:07:34] sortoflegitimacyand
+[1:07:36] social consensus problemwas
+[1:07:37] EIP1559.So
+[1:07:39] at thestart,it wasactuallyrelatively
+[1:07:41] contentioustogo through.We
+[1:07:43] foundthatyou know,evenwhen we
+[1:07:45] fundedsomeoftheinitial community
+[1:07:47] workviaGitWin grant,that
+[1:07:50] therewasn't really agreementon
+[1:07:52] howexactlywe would structurethe
+[1:07:55] eventualimplementation.But
+[1:07:57] eventually,the kindofworkby
+[1:07:59] TimRufGarden ledto people
+[1:08:01] becomingmuch,much more
+[1:08:03] comfortablewith the change,based
+[1:08:05] on the factthatwe could prove
+[1:08:07] thatitwould actually have the
+[1:08:09] effectsthatthe community
+[1:08:11] wassayingitwould on transaction
+[1:08:13] feedsand,like reduced fee
+[1:08:15] overpaymentand so forth.And
+[1:08:16] I think there's
+[1:08:18] practical things that we can do
+[1:08:20] to like showcasethat
+[1:08:21] something is legitimate and
+[1:08:22] something matters to the
+[1:08:23] community,which I think is
+[1:08:25] really important for us to
+[1:08:26] thinkabouttoo in the context
+[1:08:28] ofjustall the projects we're
+[1:08:29] buildinghere.But
+[1:08:30] there was also a form of kindof
+[1:08:32] continuity.People were
+[1:08:33] persistentaboutthis sortof
+[1:08:34] change andadvocating
+[1:08:35] clearly for this change.I
+[1:08:37] thinkwith a lot of the EIPs
+[1:08:38] nowthere's not always
+[1:08:39] necessarily clear advocate or
+[1:08:40] sometimesnowthere's
+[1:08:41] kindof agriefing process where
+[1:08:43] peoplewillmake an EIPjustso
+[1:08:44] theycanmakean EIPand
+[1:08:45] and then they won't
+[1:08:46] necessarilysteward it
+[1:08:47] or they won't necessarily
+[1:08:48] champion it amongst the
+[1:08:49] community.Or
+[1:08:50] itcan become adversarial
+[1:08:51] wherethere'll be EIPs
+[1:08:52] wherepeople have
+[1:08:53] different sortof
+[1:08:54] opinions on
+[1:08:55] implementation,but
+[1:08:56] theycould,in
+[1:08:57] theory,bemerged into
+[1:08:58] oneimplementation
+[1:08:59] ifpeoplecame
+[1:09:00] togethermore
+[1:09:01] often.And
+[1:09:02] soIthinkthere's a
+[1:09:03] good sortoflearning
+[1:09:04] from both theGPN
+[1:09:05] 1559onjust how we
+[1:09:07] stewardthingsvery
+[1:09:08] practically like
+[1:09:09] future EIPs within
+[1:09:10] theaterium.And
+[1:09:11] Ithinkthe ways that we
+[1:09:12] dothatcome back to
+[1:09:13] thinkingofthose
+[1:09:14] sortof
+[1:09:15] 5 or 6 ways of
+[1:09:16] framinglegitimacy
+[1:09:17] as a concept
+[1:09:18] andframing
+[1:09:19] the way that we
+[1:09:20] use thosesortof
+[1:09:21] forms of
+[1:09:22] participation
+[1:09:23] process and
+[1:09:24] clear performance
+[1:09:25] toguide the
+[1:09:26] discussion.This
+[1:09:29] we're not
+[1:09:30] on the slides
+[1:09:31] properly.The
+[1:09:33] last one,which
+[1:09:34] Ithinkis likeperhaps
+[1:09:35] you knowa more
+[1:09:36] modern,like
+[1:09:37] morerecent thing
+[1:09:38] is Lido is now
+[1:09:39] actuallykindof
+[1:09:40] getting a lot of
+[1:09:41] pushback on
+[1:09:42] you can
+[1:09:43] from solar
+[1:09:44] stakers.And
+[1:09:45] there's
+[1:09:46] a lot more
+[1:09:47] interest in
+[1:09:48] supporting
+[1:09:49] solarstaking.And
+[1:09:50] Ithinkthis is
+[1:09:51] partlybecauseyou
+[1:09:52] know there was
+[1:09:53] thissortof
+[1:09:54] failurecase where
+[1:09:55] internally
+[1:09:56] Lidogovernance
+[1:09:57] believed that they
+[1:09:58] had a lot of
+[1:09:59] legitimacy because
+[1:10:00] Lido was saying
+[1:10:01] you know we are
+[1:10:02] fundamentally as a
+[1:10:03] dow the ones who
+[1:10:04] decide what we're
+[1:10:05] doing what we're
+[1:10:06] upto.And
+[1:10:07] we believe that
+[1:10:08] we're okay with
+[1:10:09] the level of
+[1:10:10] control we have
+[1:10:11] or level of
+[1:10:12] participation we
+[1:10:13] have in the network.
+[1:10:14] Where
+[1:10:15] Lido
+[1:10:16] essentially was
+[1:10:17] not
+[1:10:18] viewed as
+[1:10:19] accountable by
+[1:10:20] the community and
+[1:10:21] notviewed as
+[1:10:22] stable enough or
+[1:10:23] kindof like
+[1:10:24] within the
+[1:10:25] standard of
+[1:10:26] credible neutrality
+[1:10:27] enough to
+[1:10:28] have that level
+[1:10:29] ofcontrol over
+[1:10:30] the network.I
+[1:10:31] think we're
+[1:10:32] seeing similar
+[1:10:33] kindsof
+[1:10:34] conversations now
+[1:10:35] withthings
+[1:10:36] like
+[1:10:37] like
+[1:10:38] restaking in
+[1:10:39] other
+[1:10:40] sortofareas of
+[1:10:41] the ecosystem.And
+[1:10:42] Ithinkthat
+[1:10:43] we're
+[1:10:44] being
+[1:10:45] internal to
+[1:10:46] your own project
+[1:10:47] when you
+[1:10:48] try to
+[1:10:49] create
+[1:10:50] alignment around
+[1:10:51] a particular
+[1:10:53] technical standard
+[1:10:54] or
+[1:10:55] process.Another
+[1:10:56] example
+[1:10:57] of
+[1:10:58] failure
+[1:10:59] religionacy
+[1:11:00] was
+[1:11:01] Aragon's
+[1:11:02] grants
+[1:11:03] program.So
+[1:11:04] Aragon's
+[1:11:05] core team
+[1:11:06] essentially
+[1:11:07] changed
+[1:11:08] the way
+[1:11:09] that the
+[1:11:10] treasurer
+[1:11:11] was spent.They
+[1:11:12] did that
+[1:11:13] kindof unilaterallyand
+[1:11:14] how
+[1:11:15] to
+[1:11:16] you
+[1:11:17] was talking
+[1:11:18] about.But
+[1:11:19] Ithinkthat
+[1:11:20] fundamentally the
+[1:11:21] biggest challenge
+[1:11:22] herewas again
+[1:11:23] that there was a
+[1:11:24] smaller community
+[1:11:25] that was making
+[1:11:26] the decisions around
+[1:11:27] how they thought
+[1:11:28] legitimately
+[1:11:29] the funds
+[1:11:30] should be
+[1:11:31] spent.Whereas
+[1:11:32] therewasn't
+[1:11:33] brother community
+[1:11:34] engagement and
+[1:11:35] there was a
+[1:11:36] clear differentiation
+[1:11:37] between how
+[1:11:38] just like general
+[1:11:39] sortof values
+[1:11:40] overhow funds
+[1:11:41] should be
+[1:11:42] managed and
+[1:11:43] distributed.And so
+[1:11:44] take into account
+[1:11:45] like the
+[1:11:46] overall global
+[1:11:47] ethering community
+[1:11:48] which is why
+[1:11:49] Ithinkthat's important
+[1:11:50] for people to be here.And
+[1:11:51] Ithinkthat
+[1:11:52] fundamentally
+[1:11:53] the
+[1:11:54] serve examples of
+[1:11:55] PGP
+[1:11:56] and the examples of
+[1:11:57] VIP 1559
+[1:11:58] are better examples
+[1:11:59] wherethose were
+[1:12:00] like globally
+[1:12:01] managed processes
+[1:12:02] and you had
+[1:12:03] pretty much
+[1:12:04] online discussion
+[1:12:05] the wholetime
+[1:12:06] amongst a
+[1:12:09] broadgroup.So
+[1:12:10] legitimacy is like
+[1:12:12] a very abstract thing
+[1:12:14] and it can be
+[1:12:15] a little bit too
+[1:12:16] self-referential
+[1:12:17] because ultimately
+[1:12:18] there are always power
+[1:12:19] structures in place.This
+[1:12:20] is where we have to be
+[1:12:21] very honest with ourselves
+[1:12:22] about what those power
+[1:12:23] structures are and how
+[1:12:24] to make sure that we
+[1:12:25] actually all
+[1:12:26] spend time together
+[1:12:27] and kindof
+[1:12:28] not break down those
+[1:12:29] power structures
+[1:12:30] but basically have
+[1:12:31] share trust
+[1:12:32] and dialogue with each
+[1:12:33] other.Otherwise
+[1:12:34] we can kindof
+[1:12:35] end up in this intractable
+[1:12:36] world where
+[1:12:37] the number of
+[1:12:39] sortof like
+[1:12:40] different considerations
+[1:12:41] amongst a global group
+[1:12:42] are so large
+[1:12:43] that you just bounce
+[1:12:44] to a clear
+[1:12:45] consensus.So
+[1:12:46] fundamentally
+[1:12:47] I just think that's
+[1:12:48] a really important
+[1:12:49] thing to sortof
+[1:12:50] note about
+[1:12:51] this more
+[1:12:52] abstract sortof
+[1:12:53] topic.Things
+[1:12:55] like
+[1:12:56] actually we don't
+[1:12:58] need to go into
+[1:12:59] this one because
+[1:13:00] it's a little bit too
+[1:13:01] much,but what I want
+[1:13:02] to sortof like
+[1:13:03] say in summary of
+[1:13:04] this is
+[1:13:05] really two things.One
+[1:13:06] is that we
+[1:13:07] have this long
+[1:13:08] arch of technological
+[1:13:09] history that we're
+[1:13:10] working within
+[1:13:11] and each of those
+[1:13:12] things were built by
+[1:13:13] people that were
+[1:13:14] no smarter
+[1:13:15] than us
+[1:13:16] in this room
+[1:13:17] and we don't know
+[1:13:18] how in many cases
+[1:13:19] most those things
+[1:13:20] work now
+[1:13:21] but we can still
+[1:13:22] use them
+[1:13:23] and we can still
+[1:13:24] build on top of them.
+[1:13:25] We should consider
+[1:13:26] when we're building
+[1:13:27] the things
+[1:13:28] that we're building
+[1:13:29] in ethereum
+[1:13:30] that premise
+[1:13:31] and try to
+[1:13:32] build things
+[1:13:33] that are
+[1:13:34] fundamentally
+[1:13:35] going to be
+[1:13:36] usable by
+[1:13:37] the next generation
+[1:13:38] in a sensible way
+[1:13:39] and where
+[1:13:40] the next generation
+[1:13:41] can agree
+[1:13:42] is legitimate
+[1:13:43] i.e.
+[1:13:44] where we have
+[1:13:45] some clear definitions
+[1:13:46] of
+[1:13:47] why they're fair
+[1:13:48] why they're
+[1:13:49] credibly neutral
+[1:13:50] where we have
+[1:13:51] a clear process
+[1:13:52] that people can
+[1:13:53] followto update
+[1:13:54] or upgrade
+[1:13:55] those choices
+[1:13:56] where we have
+[1:13:57] clear performance
+[1:13:58] metricsthat we're
+[1:13:59] using to decide
+[1:14:00] on how those
+[1:14:01] things work
+[1:14:02] and ideally
+[1:14:03] where we
+[1:14:04] focus lesson
+[1:14:05] things like
+[1:14:06] power or coercion
+[1:14:07] and where we
+[1:14:08] focus lesson
+[1:14:09] things like just
+[1:14:10] continuity
+[1:14:11] or
+[1:14:12] proposal
+[1:14:13] proposal
+[1:14:14] proposal
+[1:14:15] proposal
+[1:14:16] proposal
+[1:14:17] proposalp
+[1:14:18] proposalp
+[1:14:19] proposalp
+[1:14:20] proposalp
+[1:14:21] proposalp
+[1:14:22] proposalp
+[1:14:23] proposalp
+[1:14:24] proposalp
+[1:14:25] proposalp
+[1:14:26] proposalp
+[1:14:27] proposalp
+[1:14:28] proposalp
+[1:14:29] proposalp
+[1:14:30] proposalp
+[1:14:31] proposalp
+[1:14:32] proposalp
+[1:14:33] proposalp
+[1:14:34] proposalp
+[1:14:35] proposalp
+[1:14:36] proposalp
+[1:14:37] proposalp
+[1:14:38] proposalp
+[1:14:39] proposalp
+[1:14:40] 有更重要的社交媒體和
+[1:14:43] 更重要的社交媒體
+[1:14:46] 所以我特別興奮到這間房間
+[1:14:49] 讓你們更加興奮
+[1:14:52] 希望你們的建築方式
+[1:14:57] 會有更多的聯繫
+[1:14:58] 還有更多的西方觀眾
+[1:15:02] 讓我們更加有趣
+[1:15:05] 所以我們做了這件事
+[1:15:08] 就像我所說的,有點不太好
+[1:15:11] 但是我認為這張社交文件是我們必須要在下一個月的部分
+[1:15:20] 我會想跟各位分享一下
+[1:15:22] 如何在社交文件中建立這張社交文件
+[1:15:25] 或如何在社交文件中建立這張社交文件
+[1:15:27] 在社交文件中建立這張社交文件
+[1:15:30] 謝謝
+[1:15:31] 謝謝, Scott
+[1:15:39] 這很令人難以解釋
+[1:15:42] 今天下午的讀題目,我們以李斌基尼克的商業主席為主席
+[1:15:50] 職業主席和職業主席的副副經理,歡迎
+[1:15:55] 讓我打開這張手機
+[1:16:02] 大家好,今天很開心我可以給大家一個短短的討論
+[1:16:10] 他們問我 to give a little talk about open tech
+[1:16:15] and how it has kind of moved over time
+[1:16:17] and then how it has changed with blockchain
+[1:16:19] and then there is a key concept
+[1:16:24] about scarcity that I think is very relevant
+[1:16:27] to the blockchain space.
+[1:16:28] I have a question for the group
+[1:16:37] while we are just getting the slides back up.
+[1:16:41] And that is, can I actually
+[1:16:43] by raise our hands how many people came
+[1:16:45] 我们要把手机提高
+[1:16:47] 我真的想看到
+[1:16:49] 好 1 2 3 4
+[1:16:51] 好 谁在2016年17年
+[1:16:53] 与业务市的业务市
+[1:16:57] 好 然后谁在2020年21年
+[1:16:59] 业务市的业务市
+[1:17:01] 好 然后谁在2016年
+[1:17:03] 业务市的业务市
+[1:17:05] 好 然后谁在20年
+[1:17:07] 业务市的业务市
+[1:17:11] 好 然后谁在20年
+[1:17:13] 20年21年
+[1:17:16] 业务市的业务市
+[1:17:18] 好 然后谁在20年
+[1:17:20] 业务市的业务市
+[1:17:22] 好 然后谁在20年
+[1:17:24] 业务市的业务市
+[1:17:26] 好 等下
+[1:17:28] 业务市的业务市
+[1:17:30] 好 然后谁在20年
+[1:17:32] 业务市的业务市
+[1:17:34] 好 然后谁在200年
+[1:17:36] 业务市的业务市
+[1:17:38] 好 然后谁在 Fontana
+[1:17:40] 应该有一些
+[1:17:42] 保信金
+[1:17:43] FORT pię leadership
+[1:17:45] 还大概2.8L
+[1:17:47] 所以我會給大家一些討論
+[1:17:49] 我喜歡放在前面
+[1:17:51] 讓大家準備好
+[1:17:53] 三個簡單的概念
+[1:17:55] 我喜歡說話很多
+[1:17:57] 如果你有吃飯或喝啤酒
+[1:17:59] 例如
+[1:18:01] What of Open Tech
+[1:18:03] What has happened with Open Tech
+[1:18:05] What can we learn about Open Tech to date
+[1:18:07] That maybe gives us a feeling about
+[1:18:09] How the history will rhyme into the future
+[1:18:11] And then the why of Open Tech
+[1:18:13] That's actually a very short comment
+[1:18:15] But it's important to me because
+[1:18:17] Sometimes there's even a question
+[1:18:19] On people's minds, definitely investors minds
+[1:18:21] Is open really better than closed systems
+[1:18:23] And I've got some particular thoughts there
+[1:18:25] That I'd like to share
+[1:18:27] And then the last one
+[1:18:29] Which I think is the big reason
+[1:18:31] A lot of us are here
+[1:18:33] Is about kind of inequality and scarcity in the world
+[1:18:35] And blockchain addresses that a lot
+[1:18:37] So without further ado
+[1:18:39] Let's hit the what
+[1:18:41] Okay, I promise this is the only really contentful
+[1:18:43] Slide
+[1:18:45] The rest of them I'm going to flip through really fast
+[1:18:47] But I do want to just take a moment here
+[1:18:49] To talk about a few things on the slide
+[1:18:51] So, you know
+[1:18:53] I'm using the word proprietary
+[1:18:55] Proprietary kind of means a few things
+[1:18:57] You can't change it in a lot of cases
+[1:18:59] You can't even read code
+[1:19:01] In almost all cases it means that
+[1:19:03] Basically the value capture from it
+[1:19:05] It's going to be very much in a single party
+[1:19:07] That's striving to hit a monopoly
+[1:19:09] And, you know
+[1:19:11] Like a closed capturing type system
+[1:19:13] So, um
+[1:19:15] I sort of pre blockchain area
+[1:19:17] Era so pre 2009
+[1:19:19] We had a number of kind of
+[1:19:21] Evolutions
+[1:19:22] They're really important to see
+[1:19:23] A lot of us here in the room probably
+[1:19:25] Were pretty young or didn't even experience these
+[1:19:27] But they were a big deal
+[1:19:29] Scott actually hit on one
+[1:19:31] That I didn't put on the slide
+[1:19:33] Which is open cryptography
+[1:19:35] Which was quite big of a deal
+[1:19:37] Because honestly
+[1:19:39] You know, having been
+[1:19:41] Just kind of subsequent to that time
+[1:19:43] Getting into tech
+[1:19:45] Literally people were looking at
+[1:19:47] Does this remind anybody of anything
+[1:19:49] They were looking at going to jail
+[1:19:51] For essentially doing the same as
+[1:19:53] Exporting nuclear technology
+[1:19:55] It was considered that essential
+[1:19:57] That damaging to national security
+[1:19:59] So this theme happens a lot that
+[1:20:01] Governments get very nervous about things
+[1:20:03] That are being released and empowering
+[1:20:05] Populations
+[1:20:06] But in the end
+[1:20:07] Kinda always works out
+[1:20:08] To figure out how to balance
+[1:20:10] The ideals of openness
+[1:20:13] And supporting humans
+[1:20:15] Versus supporting the state
+[1:20:17] So networking
+[1:20:19] I don't know if a lot of people
+[1:20:21] Were aware there were like a dozen
+[1:20:23] Plus different networking standards
+[1:20:25] Before TCPIP
+[1:20:27] And they weren't small
+[1:20:28] They were the incumbents
+[1:20:29] They had the entire market share
+[1:20:31] So it's hard to imagine
+[1:20:32] That this transition happened
+[1:20:34] It happened fast
+[1:20:36] You had a couple of people
+[1:20:37] Doing TCPIP
+[1:20:38] Coupled together with the Internet
+[1:20:40] It just took over
+[1:20:41] Let's flip to the next slide for a sec
+[1:20:43] Just because I want to show this
+[1:20:44] That already in like the 1980s
+[1:20:46] If you read the history
+[1:20:47] Some academics started talking
+[1:20:49] About this OSI model
+[1:20:52] For networking
+[1:20:53] And it kind of isolated out
+[1:20:54] That all this like gobbled
+[1:20:55] Good code everybody had for networking
+[1:20:57] Could be modeled in these seven layers
+[1:20:59] And then Bob Metcalf
+[1:21:01] And a number of other people
+[1:21:02] Realized that you could build
+[1:21:04] Super super simple open
+[1:21:06] Networking stack called TCPIP
+[1:21:08] It ripped out tons
+[1:21:10] Of complex features
+[1:21:11] That you know
+[1:21:12] Networking stacks had differentiated
+[1:21:14] And it just did these four layers
+[1:21:16] That we all love and know
+[1:21:18] Sockets everywhere
+[1:21:20] Go back to the first slide
+[1:21:22] And so networking
+[1:21:23] I put three categories
+[1:21:24] Because TCPIP
+[1:21:26] It was a big unlock
+[1:21:27] It led to the Internet
+[1:21:29] By having these
+[1:21:30] You know kind of
+[1:21:31] Standard interfaces
+[1:21:32] Coming out of the physics community
+[1:21:34] And then really
+[1:21:35] The Internet
+[1:21:36] All of that was just small fry
+[1:21:38] And then when mobile phones came out
+[1:21:40] And now it's possible to carry
+[1:21:41] The Internet with you
+[1:21:42] Constant connectivity
+[1:21:44] That's when it really
+[1:21:45] The networking really took off
+[1:21:46] In a very open way
+[1:21:47] That mattered to humanity
+[1:21:49] Software
+[1:21:50] You know
+[1:21:51] If people still
+[1:21:52] Even remember Bill Gates
+[1:21:54] Too much
+[1:21:55] But like he literally called
+[1:21:56] Open source software
+[1:21:58] A communist virus
+[1:22:00] He felt quite strongly about it
+[1:22:02] At the time
+[1:22:03] And you know
+[1:22:04] It eventually had to kind of
+[1:22:05] Wrap around
+[1:22:06] But you know
+[1:22:07] You can see how somebody in
+[1:22:09] Proprietary world
+[1:22:10] Really hated open source
+[1:22:11] This is like the money
+[1:22:12] Versus open source money
+[1:22:14] Because he kind of viewed that
+[1:22:16] You know proprietary software
+[1:22:18] Is more secure
+[1:22:19] Better maintained
+[1:22:20] Higher performance
+[1:22:21] Because it was older
+[1:22:22] And Linux
+[1:22:24] It had a long period of time
+[1:22:26] Before it hit that tipping point
+[1:22:27] It was around for like
+[1:22:28] Over 10 years
+[1:22:29] And developing
+[1:22:30] Developing by the zealots
+[1:22:32] So again
+[1:22:33] Remember to get to a tipping point
+[1:22:34] You have to have a large
+[1:22:35] Growing mass of people
+[1:22:36] That are true believers
+[1:22:38] And then they're waiting
+[1:22:39] For the catalyst
+[1:22:40] That happens
+[1:22:41] Across the world
+[1:22:42] That basically flips it over
+[1:22:43] Into the default technology
+[1:22:45] Because it solves a problem
+[1:22:46] That can't be handled
+[1:22:47] By some kind of other issue
+[1:22:49] And then the last one
+[1:22:50] Is private data centers
+[1:22:51] To Web 2 public clouds
+[1:22:53] I'm going to talk about that
+[1:22:54] For a few slides
+[1:22:55] Because I think that
+[1:22:56] That one's pretty
+[1:22:58] Pretty relevant to blockchain
+[1:22:59] And AI and so forth
+[1:23:01] And then
+[1:23:02] Post blockchain era
+[1:23:03] I just like to kind of
+[1:23:04] Put these down
+[1:23:05] I actually put
+[1:23:06] Question marks
+[1:23:07] And like
+[1:23:08] What is the date
+[1:23:09] For the tipping point
+[1:23:10] I think that
+[1:23:11] We feel like the tipping
+[1:23:12] Points may have happened
+[1:23:13] We're in the community
+[1:23:14] But I would argue at large
+[1:23:15] They haven't happened yet
+[1:23:16] You know
+[1:23:17] We don't actually have
+[1:23:18] People by default
+[1:23:19] Across the world
+[1:23:20] Using cryptocurrencies
+[1:23:22] We do in some
+[1:23:23] Isolated countries
+[1:23:24] Definitely like Argentina
+[1:23:25] A number of countries
+[1:23:26] Have essentially flipped over
+[1:23:28] To crypto
+[1:23:29] Because everything else
+[1:23:31] But you know
+[1:23:33] Over time
+[1:23:34] There's a lot of parts
+[1:23:35] Of the world where
+[1:23:36] This still hasn't happened
+[1:23:37] And the last three
+[1:23:39] This isn't really
+[1:23:40] The talk to go into it
+[1:23:41] But if anybody ever
+[1:23:42] Wants to talk with me
+[1:23:43] This is like a big
+[1:23:44] Passion of mine
+[1:23:45] This kind of
+[1:23:46] Wallgarden Web 2
+[1:23:48] Type control of technology
+[1:23:50] But let's flip over
+[1:23:51] To the next slide
+[1:23:52] And the next one
+[1:23:54] Okay so
+[1:23:55] This is quickly
+[1:23:56] Gonna go through
+[1:23:57] Like the seventh slide
+[1:23:58] Just flip through
+[1:23:59] Of clouds
+[1:24:00] So first
+[1:24:01] There was
+[1:24:02] You know
+[1:24:03] Basically on-site
+[1:24:04] Hardware software stacks
+[1:24:06] And then
+[1:24:07] It was realized
+[1:24:08] Next slide
+[1:24:09] That was just
+[1:24:10] A lot to manage
+[1:24:11] You literally had
+[1:24:12] Developers fighting
+[1:24:13] With system administrators
+[1:24:14] Network administrators
+[1:24:15] To run everything
+[1:24:16] And so
+[1:24:17] You know
+[1:24:18] We had the
+[1:24:19] Beautiful invention
+[1:24:20] Of the cloud
+[1:24:21] Which divide into
+[1:24:22] Three layers
+[1:24:23] Who in the audience
+[1:24:24] Can say
+[1:24:25] What IP and S stand for
+[1:24:26] Anyone want to
+[1:24:28] Okay
+[1:24:29] Well I'll just say
+[1:24:30] Infrastructure
+[1:24:31] Platform
+[1:24:32] And software as a service
+[1:24:33] And depending
+[1:24:34] Where you are in the cloud stack
+[1:24:35] You're building
+[1:24:36] These kind of like
+[1:24:37] Middleware hardware
+[1:24:38] Middleware software
+[1:24:39] That's IAS PAS
+[1:24:41] And then if you're hitting
+[1:24:42] End users
+[1:24:43] You're in the software as a service
+[1:24:44] And so very powerful
+[1:24:46] The entire developer world
+[1:24:48] Move over to this in like
+[1:24:49] Five years because
+[1:24:50] It was this amazing
+[1:24:51] I would call it
+[1:24:52] Open innovation
+[1:24:53] That made everybody
+[1:24:54] Develop faster
+[1:24:55] Lower cost more elastic
+[1:24:56] Okay
+[1:24:57] So
+[1:24:58] That sounds really great
+[1:24:59] But you know
+[1:25:00] Investors do want to
+[1:25:01] Try to capture a lot
+[1:25:02] Of value out of things
+[1:25:03] So next slide
+[1:25:04] And that
+[1:25:05] They have done
+[1:25:06] So across the
+[1:25:07] Top four
+[1:25:08] AWS is your
+[1:25:09] Google Alibaba
+[1:25:10] That's over 70%
+[1:25:12] To the global market share
+[1:25:13] And you know
+[1:25:15] It very quickly goes
+[1:25:16] Like
+[1:25:17] Essentially
+[1:25:18] If you're going to
+[1:25:19] Develop you really
+[1:25:20] Most people
+[1:25:21] The least in
+[1:25:22] North America
+[1:25:23] Western countries
+[1:25:24] Are on the top too
+[1:25:25] Feel like Alibaba
+[1:25:26] But I don't know
+[1:25:27] Where this
+[1:25:28] Maybe was more
+[1:25:29] Western centric
+[1:25:30] Survey on this one
+[1:25:31] Okay
+[1:25:32] So what does this mean
+[1:25:34] Like when people
+[1:25:35] Have this kind of monopoly
+[1:25:36] What did they do with it
+[1:25:37] So let's go to
+[1:25:38] The next slide
+[1:25:40] So they extract
+[1:25:41] Right
+[1:25:42] That's what you do
+[1:25:43] So a lot of us
+[1:25:44] Develop in open source
+[1:25:45] And actually
+[1:25:46] I think blockchain
+[1:25:47] Is the first example
+[1:25:48] Of like really
+[1:25:49] Secure value
+[1:25:50] Equality
+[1:25:51] In open source
+[1:25:52] But what happened
+[1:25:53] In the regular
+[1:25:54] Open source space
+[1:25:55] Was that it was great
+[1:25:56] We had linux
+[1:25:57] We had open source
+[1:25:58] Software
+[1:25:59] Developers were happy
+[1:26:00] They never had their code
+[1:26:01] Disappear when they left
+[1:26:02] An employer
+[1:26:03] I mean that literally
+[1:26:04] Was the big thing
+[1:26:05] People loved about open source
+[1:26:06] They hated for like
+[1:26:07] A decade or two
+[1:26:08] They wrote software
+[1:26:09] And they never could go back
+[1:26:10] And look at their code
+[1:26:11] Because it was locked
+[1:26:12] In their previous employers
+[1:26:13] Code library
+[1:26:14] This seems nuts
+[1:26:15] But that was really
+[1:26:16] The way it worked
+[1:26:17] Back then
+[1:26:18] So then we went
+[1:26:19] To the public cloud
+[1:26:20] And it seemed really good
+[1:26:21] At first
+[1:26:22] Actually only
+[1:26:23] The
+[1:26:24] Less side
+[1:26:25] Of this kind
+[1:26:26] Of upside down
+[1:26:27] Be was there
+[1:26:28] Initially
+[1:26:29] And so you had
+[1:26:30] Open core software
+[1:26:31] Vendors
+[1:26:32] They sold their software
+[1:26:33] Through the platform
+[1:26:34] Level of cloud software
+[1:26:36] It's a service
+[1:26:37] Level of cloud
+[1:26:38] And then the cloud
+[1:26:39] Vendors realized
+[1:26:40] They could actually
+[1:26:41] Capture that value
+[1:26:42] Wrap a simple api
+[1:26:43] Around it
+[1:26:44] Not contribute to
+[1:26:45] The open core
+[1:26:46] In a substantial way
+[1:26:47] And get most of the value
+[1:26:48] And so that kind
+[1:26:49] Of collapsed
+[1:26:50] The open source value
+[1:26:51] So now if you're
+[1:26:52] Writing open source
+[1:26:53] And make money
+[1:26:54] There's very limited
+[1:26:55] Value left
+[1:26:56] For open source developers
+[1:26:57] I mean there's some
+[1:26:58] But it's
+[1:26:59] Not a whole lot
+[1:27:00] So this is a place
+[1:27:01] Where I start
+[1:27:02] Really getting into
+[1:27:03] The blockchain differentiation
+[1:27:04] So if you combine
+[1:27:06] Decentralized physical
+[1:27:07] Infrastructure
+[1:27:08] As well as
+[1:27:09] People kind of
+[1:27:11] Building platform
+[1:27:12] Middleware
+[1:27:13] Which I would argue
+[1:27:14] A lot of the
+[1:27:15] Blockchain infrastructure
+[1:27:16] We already have
+[1:27:17] Is like specific
+[1:27:18] You know ledger
+[1:27:19] Type middleware
+[1:27:20] Transactional recording
+[1:27:22] Monetary settlement
+[1:27:23] All of those things
+[1:27:24] That is like
+[1:27:25] That is very important
+[1:27:26] Platforms of service
+[1:27:27] That is
+[1:27:28] What blockchain brings
+[1:27:29] To cloud developers
+[1:27:30] And so that actually
+[1:27:32] Means the clouds
+[1:27:33] Are out of the picture
+[1:27:34] Because all of
+[1:27:35] The deep end protocols
+[1:27:36] And everybody else
+[1:27:38] Are individual parts
+[1:27:39] So let's go
+[1:27:40] To the next slide
+[1:27:41] Let me show you
+[1:27:42] What that means
+[1:27:43] This is like a very
+[1:27:44] Small part of
+[1:27:45] What Google cloud
+[1:27:46] Actually offers
+[1:27:47] In terms of software
+[1:27:48] On their platform
+[1:27:49] If you actually
+[1:27:50] Go in there
+[1:27:51] It's like 10
+[1:27:52] Screenfalls
+[1:27:53] That you can kind of
+[1:27:54] Go through
+[1:27:55] And not every
+[1:27:56] Single one
+[1:27:57] But a huge number
+[1:27:58] Of these
+[1:27:59] Definitely the most
+[1:28:00] Valuable ones
+[1:28:01] Are things
+[1:28:02] Like Apache spark
+[1:28:03] Their version
+[1:28:04] And you know
+[1:28:05] Postgres
+[1:28:06] And you know
+[1:28:07] Various other databases
+[1:28:08] File systems
+[1:28:10] You know
+[1:28:11] Everything they
+[1:28:12] Can kind of grab
+[1:28:13] And if you're
+[1:28:14] Building open source
+[1:28:15] You're fighting
+[1:28:16] With them to get
+[1:28:17] Money out of
+[1:28:18] Your own code
+[1:28:19] So yeah
+[1:28:20] And so
+[1:28:25] Can you flip
+[1:28:26] One more time
+[1:28:27] Ok flip
+[1:28:28] Yeah build
+[1:28:29] The whole slide please
+[1:28:30] I don't have time
+[1:28:31] To keep going
+[1:28:32] One more please
+[1:28:33] Ok so
+[1:28:34] Public clouds
+[1:28:36] They feel very
+[1:28:37] Decentralized
+[1:28:38] Because they are
+[1:28:39] Technologically
+[1:28:40] Vitalic
+[1:28:41] Actually has
+[1:28:42] A great thing
+[1:28:43] Where he talks
+[1:28:44] About the
+[1:28:45] Different dimensions
+[1:28:46] Of decentralization
+[1:28:47] And technology
+[1:28:48] Is a really
+[1:28:49] Important one
+[1:28:50] Public clouds
+[1:28:51] They have
+[1:28:52] Great interfaces
+[1:28:53] They have
+[1:28:54] Great redundancy
+[1:28:55] And software protocols
+[1:28:56] A lot of that
+[1:28:57] From open source
+[1:28:58] Developers
+[1:28:59] Not from them
+[1:29:00] So they
+[1:29:01] Decentralized there
+[1:29:02] But everything else
+[1:29:03] I actually
+[1:29:04] Argue strongly
+[1:29:05] That they're
+[1:29:06] Centralized
+[1:29:07] The monopoly
+[1:29:08] Allows them
+[1:29:09] To control
+[1:29:10] The payment system
+[1:29:11] You can only
+[1:29:12] Deploy hardware
+[1:29:13] On them
+[1:29:14] If you are
+[1:29:15] You know
+[1:29:16] Basically permitted
+[1:29:17] To
+[1:29:18] And they get
+[1:29:19] Most of the value
+[1:29:20] So next slide
+[1:29:21] And so Web3 clouds
+[1:29:23] I think are just
+[1:29:24] Fundamentally decentralized
+[1:29:25] You know
+[1:29:26] You don't have
+[1:29:27] A public cloud provider
+[1:29:28] At the bottom
+[1:29:29] Of the entire stack
+[1:29:30] You actually have
+[1:29:31] All of the different protocols
+[1:29:33] That are building
+[1:29:34] Their particular software
+[1:29:35] Competition among them
+[1:29:37] A lot of flexibility
+[1:29:38] We still need to
+[1:29:39] Like rationalize
+[1:29:40] You don't want to have
+[1:29:41] A developer
+[1:29:42] Choosing between
+[1:29:43] You know
+[1:29:44] A thousand different options
+[1:29:45] Tend to each layer of the stack
+[1:29:46] You do want to have
+[1:29:47] Some kind of coalesce
+[1:29:48] Around different options
+[1:29:49] So
+[1:29:50] You know
+[1:29:51] A lot of people are
+[1:29:52] Looking at that
+[1:29:53] How to build
+[1:29:54] Easier developer
+[1:29:55] Frameworks
+[1:29:56] But all of these
+[1:29:57] Now become
+[1:29:58] Decentralized
+[1:29:59] So that to me
+[1:30:00] Is just
+[1:30:01] A huge massive
+[1:30:02] Unlock and one
+[1:30:03] That I'm very
+[1:30:04] Passionate about
+[1:30:05] Working on in the
+[1:30:06] Blockchain space
+[1:30:07] Coming from
+[1:30:08] The infrastructure
+[1:30:09] Side of technology
+[1:30:10] Earlier in my
+[1:30:11] Career
+[1:30:12] Okay
+[1:30:13] Next slide
+[1:30:14] And then
+[1:30:15] A shoot
+[1:30:16] What happened here
+[1:30:17] Can you just
+[1:30:18] I didn't realize
+[1:30:19] It's just
+[1:30:20] UPDF
+[1:30:21] Great
+[1:30:22] So this is a slide
+[1:30:23] That some of you
+[1:30:24] May have started seeing
+[1:30:25] Shriram has been
+[1:30:26] Kind of sharing it
+[1:30:27] I took out
+[1:30:28] The company
+[1:30:29] Shilling type name stuff
+[1:30:30] So I just
+[1:30:31] Put generic terms
+[1:30:32] On this one
+[1:30:33] So I want
+[1:30:34] To be
+[1:30:35] It's an open forum
+[1:30:36] Not anyway
+[1:30:37] So
+[1:30:38] So this is like
+[1:30:39] The evolution
+[1:30:40] Open innovation
+[1:30:41] Bitcoin obviously
+[1:30:42] Was very open
+[1:30:43] I mean it's
+[1:30:44] Kind of the definition
+[1:30:45] Of an open
+[1:30:46] Open technology
+[1:30:47] So it still
+[1:30:48] Was like a monolithic stack
+[1:30:50] And so open innovation
+[1:30:51] Also means
+[1:30:52] Allowing more people
+[1:30:53] To develop inside of that
+[1:30:54] So in bitcoin
+[1:30:55] You have to like
+[1:30:56] Pork the whole thing
+[1:30:57] In order to like
+[1:30:58] Create a new chain
+[1:31:00] Vitalic and team
+[1:31:02] At ethereum
+[1:31:03] Realized you could
+[1:31:04] Basically make
+[1:31:05] The apps flexible
+[1:31:06] By having
+[1:31:07] A you know
+[1:31:08] Turing complete vm
+[1:31:09] And you know
+[1:31:10] An execution model
+[1:31:11] For that
+[1:31:12] Rollups
+[1:31:13] Great innovation
+[1:31:14] It meant that
+[1:31:15] The execution
+[1:31:16] We're not
+[1:31:17] Only allowing
+[1:31:18] Horizontal scaling
+[1:31:19] But they also
+[1:31:20] Were allowing
+[1:31:21] Different vms to run
+[1:31:22] That's why we can see
+[1:31:23] ZK vms
+[1:31:24] Non-EVM machines
+[1:31:25] All of that appearing
+[1:31:26] And then
+[1:31:27] Vitalic made that common
+[1:31:28] In the trifecta
+[1:31:29] It's a very important point
+[1:31:30] That once you have
+[1:31:31] Shared security
+[1:31:32] You can share security
+[1:31:33] Across different
+[1:31:35] Tokens
+[1:31:36] And different blockchains
+[1:31:37] And that now allows
+[1:31:38] You to actually
+[1:31:39] Have different consensus
+[1:31:40] Algorithms
+[1:31:41] I'm just going to say this
+[1:31:42] I mean
+[1:31:43] I know this is probably
+[1:31:44] For some
+[1:31:45] I just want to
+[1:31:46] Differentiate between
+[1:31:47] Execution layers
+[1:31:48] And consensus layers
+[1:31:49] Not always
+[1:31:50] 100% clear
+[1:31:51] So an
+[1:31:52] Execution layer
+[1:31:53] Is where
+[1:31:54] You're basically
+[1:31:55] Running a vm
+[1:31:56] Whose state
+[1:31:57] And execution
+[1:31:59] Is being
+[1:32:00] Checkpointed
+[1:32:01] Or basically
+[1:32:02] Recorded as transactions
+[1:32:03] On a ledger
+[1:32:04] But the ledger
+[1:32:05] And how
+[1:32:06] The ledger has
+[1:32:07] Security
+[1:32:08] How it writes
+[1:32:09] How people
+[1:32:10] Participate in it
+[1:32:11] That is fixed
+[1:32:12] So you can't
+[1:32:13] Actually go in
+[1:32:14] But with shared security
+[1:32:15] You can actually
+[1:32:16] Take the same security
+[1:32:17] Beneath
+[1:32:18] Your consensus protocol
+[1:32:19] Consensus protocol
+[1:32:21] Is software
+[1:32:22] Running
+[1:32:23] On peer to peer nodes
+[1:32:24] And you're able
+[1:32:25] To actually
+[1:32:26] Have different
+[1:32:27] właśnie
+[1:32:28] StarК
+[1:32:30] And they're able to
+[1:32:31] essentialy rent
+[1:32:33] The shared security
+[1:32:34] Of everything
+[1:32:35] That already exist
+[1:32:36] And crypto
+[1:32:37] So huge unlock
+[1:32:38] Now you can
+[1:32:39] Very openly innovate
+[1:32:40] A lot of consensus
+[1:32:41] Layers with their
+[1:32:43] ok
+[1:32:44] and that's it for the kind of history in the what
+[1:32:47] so now the why of open tech
+[1:32:48] single slide, it's got a few points on it
+[1:32:51] so locally it actually looks like open technologies
+[1:32:56] kind of are losing
+[1:32:58] you know constantly losing sometimes
+[1:33:00] because closed systems will always kind of locally
+[1:33:04] build faster, capture more network effects
+[1:33:06] spin the revenue machine into more R&D and so forth
+[1:33:10] but once they start winning
+[1:33:11] then you know the Achilles heel comes out for them
+[1:33:13] that along with predatory pricing
+[1:33:16] pushing out other people in the market
+[1:33:18] you know and so forth
+[1:33:19] they slow down because they don't really need to develop
+[1:33:22] and in fact change is almost dangerous for them
+[1:33:25] so you get features but not a whole lot of new features
+[1:33:28] I mean they feel sort of stale as the experience
+[1:33:30] when you're using them
+[1:33:32] and so actually the big companies
+[1:33:34] you'll see this like they actually just start
+[1:33:36] acquiringthe new companies
+[1:33:38] because they can't really innovate anyway
+[1:33:40] so they become like
+[1:33:41] englomer-type companies
+[1:33:43] so long-term open innovation is faster
+[1:33:46] it brings in more people
+[1:33:48] I think there's a huge value for humanity
+[1:33:50] diversity of background
+[1:33:52] diversity of thinking
+[1:33:53] diversity of value systems
+[1:33:55] it's really weird that you have a lot of
+[1:33:57] you know US based companies
+[1:33:59] that are kind of driving
+[1:34:00] the social networking around the world
+[1:34:02] I find that odd
+[1:34:03] I don't know if other people find that odd
+[1:34:04] but that's just you know
+[1:34:07] it's a strange state that we're in right now
+[1:34:09] and all these people are working at once
+[1:34:12] they don't have a manager
+[1:34:14] it's sort of you know the cathedral
+[1:34:15] bizarre model is like an early early model
+[1:34:17] that people had for software
+[1:34:19] the cathedral model is what you keep doing
+[1:34:21] when you're a you know
+[1:34:23] when you're a closed monopoly provider
+[1:34:25] you fine tune different parts of your cathedral
+[1:34:28] build a new pretty room whatever
+[1:34:30] and the bizarre model is like the real open source
+[1:34:32] b-a-z-a-a-r
+[1:34:33] not bizarre bizarre
+[1:34:36] because that allows anybody who wants to
+[1:34:38] to come in set up a booth
+[1:34:40] start building
+[1:34:42] making products
+[1:34:43] selling products
+[1:34:44] and that just allows you to scale
+[1:34:46] to billions of people working in this space
+[1:34:48] instead of having hundreds of thousands
+[1:34:49] in one company
+[1:34:50] and so I argue that
+[1:34:52] that's always an unstoppable force
+[1:34:54] the first slide where it kind of showed the history
+[1:34:56] just showed a lot of places where
+[1:34:58] technologies and networks kind of built up
+[1:35:00] closed
+[1:35:01] built up proprietary
+[1:35:02] and then they eventually got swept out
+[1:35:04] by open innovation
+[1:35:05] and this goes to this point of antifragile
+[1:35:07] to fragile
+[1:35:08] so antifragile systems
+[1:35:10] are the open systems
+[1:35:11] fragile are the closed systems
+[1:35:12] they look quite good
+[1:35:14] a lot of times the reason you kind of notice them
+[1:35:16] in tipping points is that
+[1:35:18] they aren't able to maintain
+[1:35:19] the open innovation gets to a point
+[1:35:21] and then some events are happening around the world
+[1:35:23] and then they just get swept to the side
+[1:35:26] okay that's the one slide there
+[1:35:28] and then just a few thoughts on
+[1:35:29] what does this mean for scarcity
+[1:35:31] because I feel like that's why
+[1:35:32] a lot of us are in the space
+[1:35:34] we all could have jobs other places
+[1:35:36] and so at the same time
+[1:35:37] making more MONEY
+[1:35:39] so genie coefficient
+[1:35:41] just so I get a sense
+[1:35:43] do I need to say anything
+[1:35:44] about what a genie coefficient is
+[1:35:46] anybody how many people here
+[1:35:47] really familiar with genie coefficient
+[1:35:51] about have so I will just say quickly
+[1:35:52] it's a measure that trying to show
+[1:35:56] who much the value that's being created
+[1:36:00] ruhaztiand it's being sharedamong te people of the society
+[1:36:01] and so basically it's a ratio
+[1:36:04] it's a kind of a
+[1:36:05] FORMILLA BETWEEN THE AREA UNDER THE CURVED, THE LOWER CURVED LINE, WHICH IS THE ACTUAL INCOME DISTRIBUTION, SO IMAGINE THAT BOTTOM IS A STACK OF EVERY SINGLE PERSON, ALL THE 8 BILLION PEOPLE IN THE WORLD, WITH THE RICHEST ON THE RIGHT AND THE POUREST ON THE LEFT.
+[1:36:21] In the perfect equality, every person would have equal wealth, and you would follow that straight line up to the top.
+[1:36:26] In reality, billions of people have almost no money, no net worth, and then there's a bunch of people at the top.
+[1:36:35] How bad is this? Because it's like that curve doesn't look that terrible. So let's go to the next slide.
+[1:36:40] The reality is it's like really, really shallow. I just pulled up just now on Forbes 100.
+[1:36:47] 16 top richest people, a whole bunch of names from the top, you'd recognize, Elon Musk, Bezos, Warren Buffet, so forth.
+[1:36:55] 16 people have 100 billion plus each, many over 200 billion. In total, I just kind of eyeballed it. It's over like 3 trillion.
+[1:37:04] If you go to the top 100, for sure, that's going to be over 5 trillion.
+[1:37:08] So you have like 1.8 million of the population with 1% of the value.
+[1:37:14] And if you go to the 50% point, it's a very low percentage of the population that has like 50% of the wealth.
+[1:37:21] So let's go to the next slide.
+[1:37:23] And I just want to kind of point out like why do we want to be in a post-scarcity, more equal world?
+[1:37:29] Just imagine the difference.
+[1:37:31] So I just pulled up some people who are more knowledgeable than me in economics,
+[1:37:34] did some calculations, about 500 trillion US dollars worth of assets are spread around the world,
+[1:37:40] a lot real estate, stock companies, crypto, little crypto, gold, things like that.
+[1:37:46] If you evenly distributed them among that number,
+[1:37:50] I just pulled that number up while I was finishing some touch-ups on my slides.
+[1:37:54] It goes up every other second.It's kind of wild.
+[1:37:57] So that was correct as of like 30 minutes ago for the population of the world estimate.
+[1:38:02] If you evenly distributed it across a family of four,it's like a quarter million dollars,
+[1:38:07] which in some developed countries,that's,I mean,that's nice,
+[1:38:12] but it's not going to like move the needle,homes cost millions,whatever.
+[1:38:15] But for the majority of people in the world,that would be quite life-changing.
+[1:38:19] Kids would be able to get a lot better education,better nourished.
+[1:38:22] You'd have much better tax base,better resources inside of communities and so forth.
+[1:38:27] So that to me is a big,big,big target.
+[1:38:30] And so if you go back one slide one more time.
+[1:38:33] And so,you know,my point here on blockchain,I don't know if everybody's here for this reason,
+[1:38:39] but I think in the end,blockchain and open technology is probably the strongest economic way
+[1:38:44] that we drive towards a more equal distribution.
+[1:38:47] You know,when you see it right now,people who are working in parts of the world
+[1:38:51] are able to like have incomes that they're bringing into their communities from working in tech
+[1:38:56] you know,working some proximal tech field.
+[1:38:59] And just,you know,kind of life-changing income versus what they would get in the local environment.
+[1:39:05] So,you know,very big,important thing to me.
+[1:39:08] Okay,that's it for the talk.
+[1:39:19] Thank you.So now we will take a short break for 10 minutes.
+[1:39:24] And we're going to say each other 10 minutes later.
+[1:39:28] Guys,it's time to come back.
+[1:53:57] We're going to start our next session in two minutes.
+[1:54:04] Welcome back,everybody.Let's go.
+[1:58:01] That's why for Shanghai,you know,this is very important.
+[1:58:04] If you want to create it,it's also very important,
+[1:58:08] because when I want to air-compute,we can co-create it with Shanghai,you can create it
+[1:58:13] your own event,your own activity.
+[1:58:37] And for the nation of Shanghai,we will want to co-create your own event with Shanghai.
+[1:58:51] That's why we want to create the event,the event,the event,the event.
+[1:58:55] So,that's why I'm attracted by every commander,and the way he's the teacher.
+[1:59:03] And this is our venue.
+[1:59:10] This is our venue.We want to have a lot of fun.
+[1:59:13] And we want everyone to come here.
+[1:59:20] I think maybe some of you just know,to the Shanghai,attention to Shanghai.
+[1:59:32] And Shanghai,just to be honest.
+[1:59:34] And what it's all about.
+[1:59:39] I think that it's just a lot of fun.
+[1:59:43] And a lot of people just hang out there.
+[1:59:50] And there is a lot of coolness.
+[1:59:52] And a lot of coolness in there.
+[2:01:40] And a lot of mass-creating activity.
+[2:01:43] And for this month,they will come to people to...
+[2:02:41] And we have the team meditation on the each of this afternoon.
+[2:02:45] And Thursday,there are going to be a lot of different types of...
+[2:02:49] each Thursday,there are going to be a lot of different types of dancing.
+[2:02:53] And also for Shanghai lecture hall,it's a one or two days conference.
+[2:02:58] We just say each week we have different themes.
+[2:03:02] And that one or two days conference is based on each theme.
+[2:03:06] And there is also very important activities.
+[2:03:10] Beginning from tomorrow.
+[2:03:12] And each Sunday,where there are a limitation of 20 people,
+[2:03:18] we're going to have the opportunity to went to a very famous local tamper
+[2:03:23] to have the whole day meditation on the local tamper.
+[2:03:28] And it starts from 6 p.m.
+[2:03:30] And it starts from 6 p.m.
+[2:03:32] If you want to join this kind of activity on each Sunday,
+[2:03:36] the traditional meditation on the local tamper,
+[2:03:40] just let us know and stand up from solar.
+[2:03:45] We want to bring different people together,
+[2:03:49] because you know,as our digital normal,
+[2:03:52] especially we have co-working as a different place.
+[2:03:56] I think every year we need some people to get together,
+[2:04:00] get to know each other,
+[2:04:02] and feel you don't feel lonely in the world.
+[2:04:05] And you have support from all the community members,
+[2:04:08] which is very important.
+[2:04:11] OK,here is our end of this part.
+[2:04:14] I hope if any of you interested in Shanghai
+[2:04:17] will just apply as a ward resident.
+[2:04:19] And we hope you enjoy the whole journey,
+[2:04:22] the six weeks,the month long journey in Chiang Mai.
+[2:04:26] And there are a lot of public cities
+[2:04:29] and a lot of activities going to happen in Chiang Mai
+[2:04:32] before the day have come.
+[2:04:34] And I hope you all enjoy that kind.
+[2:04:41] Thank you.
+[2:04:42] Thank you,Audrey.
+[2:04:43] So next we're going to have Edge City
+[2:04:46] and hear from Timor Colsters.
+[2:04:49] Thank you so much.
+[2:04:50] Co-founder of Edge City.
+[2:04:51] Hi.
+[2:04:52] So my name is Timor.
+[2:04:53] I'm one of the co-founders of Edge City.
+[2:04:56] You guys kind of understand Pop Up Villages.
+[2:04:58] So I'm going to skip all of those slides.
+[2:05:00] They're not in this deck.
+[2:05:01] And this will be much more about our approach,
+[2:05:03] the vision for where we're going in the future.
+[2:05:06] Next slide, please.
+[2:05:07] That's me.
+[2:05:08] Next slide.
+[2:05:09] That's perfect.
+[2:05:10] So these are the three events we've done in 2024.
+[2:05:13] We did Edge City Denver.
+[2:05:14] Edges Merlde was in California in June.
+[2:05:16] And we are here to kick off Edge City Lana.
+[2:05:19] We also incubated something called Cresimiento
+[2:05:22] which was a movement in Argentina.
+[2:05:24] And they had their kickoff Aleph in August.
+[2:05:27] So what's the through line of each of these Pop Up Villages?
+[2:05:31] I'm actually trying to do next slide.
+[2:05:34] So health and well-being is very important to us.
+[2:05:37] We do a lot of daily workouts,
+[2:05:40] sourner, cold plunge,all of these amazing things.
+[2:05:43] But we think about this very holistically.
+[2:05:45] So we want it to be an environment where health is very much a default.
+[2:05:49] Part of the experience.
+[2:05:50] You almost can't help but be healthier when you're there.
+[2:05:54] Multidisciplinary is a core focus for us.
+[2:05:57] So we feel that the most important innovations come
+[2:06:00] from intersections between fields.
+[2:06:02] And especially for a lot of the folks here,
+[2:06:04] I think we're probably in or adjacent to the crypto space.
+[2:06:07] We're trying to actively bring other frontier tech spaces
+[2:06:11] to interface with the tools that we've been building in crypto.
+[2:06:14] So we focus on neurotech,AI,hardtech.
+[2:06:18] And I'll talk a little bit more about that later.
+[2:06:21] We have a multi-generational focus.
+[2:06:23] The key thing here is that it's very hard
+[2:06:26] to bring your kids to events like this normally
+[2:06:28] or to conferences.
+[2:06:29] We do a lot of work to make it easier.
+[2:06:31] And even if you don't have children,
+[2:06:33] it really changes the vibe to have kids running around.
+[2:06:36] And I feel that if we're all talking about
+[2:06:38] building the future,it's actually very important
+[2:06:40] to have the people around who are going
+[2:06:42] to inherit that future.
+[2:06:44] And we are build and co-creation focused,
+[2:06:47] meaning we focus on shipping
+[2:06:49] and being very active,
+[2:06:51] rather than just talking about ideas.
+[2:06:54] Everything in our villages is co-created.
+[2:06:57] This is a slide that I use in my demo day
+[2:06:59] presentations to encourage people to
+[2:07:01] think of things that they can ship.
+[2:07:03] It's not just software.It's all these other things as well.
+[2:07:05] Next slide.
+[2:07:07] So what is the vision here?
+[2:07:09] I really see this format as a tool
+[2:07:12] for creating new forms of technology.
+[2:07:15] And not just software and hardware,
+[2:07:17] but actual social technology.
+[2:07:19] So we talk about being a society incubator,
+[2:07:22] which means we're IRL laboratory
+[2:07:25] experimenting with new ideas,
+[2:07:27] tech,institutions,etc.
+[2:07:30] You can stay on the past one.
+[2:07:33] So why is this important?
+[2:07:36] I think every generation has its own
+[2:07:38] set of problems and opportunities
+[2:07:40] and the current philosophies
+[2:07:42] and institutions and ideas
+[2:07:44] that we have were the right answer
+[2:07:46] to the last generation set of problems.
+[2:07:48] So we need to create new ones
+[2:07:50] to solve the current challenges we have,
+[2:07:52] which are plenty as you know.
+[2:07:54] We see these environments,
+[2:07:56] these pop-up villages as a new surface area
+[2:07:58] to be able to experiment with ideas.
+[2:08:00] So obviously ideas are going to come from
+[2:08:02] universities.They'll come from the private sector.
+[2:08:04] They'll come from the government.
+[2:08:06] This is a new format where we can
+[2:08:08] actually get outside of our bubbles
+[2:08:10] and really think big about
+[2:08:12] what is possible.
+[2:08:14] Next slide.
+[2:08:16] Just going to be a quick example
+[2:08:18] of an event we did.
+[2:08:20] Next slide please.
+[2:08:22] Here are some of the statistics.
+[2:08:23] We had a lot of different program tracks,
+[2:08:25] a lot of different unique session
+[2:08:27] hosts,which was really exciting.
+[2:08:29] Next slide.These were the themes,
+[2:08:31] human organization,AI,
+[2:08:33] real world crypto,health longevity
+[2:08:35] and bio and hard tech.So this shows
+[2:08:37] some of the multi-disciplinarity.
+[2:08:39] Here are some of the programs that we had.
+[2:08:41] So the summer of protocols folks came
+[2:08:43] and did a really fun integrated session
+[2:08:45] which they'll be doing again
+[2:08:47] at Edge City Lana.
+[2:08:49] We had a lot of neuro tech
+[2:08:51] we had some of the
+[2:08:53] world's leading
+[2:08:55] academics come for a crypto
+[2:08:57] academic workshop.So a lot of
+[2:08:59] leading mathematicians who maybe
+[2:09:01] didn't actually know that much about crypto
+[2:09:03] but we were trying to pill them
+[2:09:05] and it worked which was great.Next slide please.
+[2:09:07] So we talk a lot about this idea
+[2:09:09] ofintegrate instead of just exit.
+[2:09:11] We don't want to just completely remove ourselves
+[2:09:13] from society and start our own floating island
+[2:09:15] somewhere.We actually care about
+[2:09:17] the places that people live.We
+[2:09:19] think that we can regenerate them,
+[2:09:21] create new forms of connection
+[2:09:23] and taking this month away
+[2:09:25] is kind of a
+[2:09:27] semi-exit where we can explore new ideas
+[2:09:29] and then we can integrate back into
+[2:09:31] society.Next slide.
+[2:09:33] We have a global approach.
+[2:09:35] I think that's important.We don't
+[2:09:37] just want to focus on the US or the global north.
+[2:09:39] So we have a lot of fun ideas.
+[2:09:41] Next.
+[2:09:43] Actually one note on the global approach.
+[2:09:45] I just landed yesterday
+[2:09:47] from Bhutan,which is a kingdom
+[2:09:49] in the middle of the Himalayas,
+[2:09:51] a very sport country.They are working on
+[2:09:53] some incredible stuff.
+[2:09:55] I was lucky enough to meet with the king
+[2:09:57] and some of the government officials
+[2:09:59] and they are building a new city
+[2:10:01] kind of in the style of Singapore
+[2:10:03] but focused on mindfulness.
+[2:10:05] The plan looks incredible
+[2:10:07] and so it was just an amazing example,
+[2:10:09] a recent one of all the exciting things
+[2:10:11] that are happening outside of just the US
+[2:10:13] and the global north.
+[2:10:15] Lana,that's why we're here.
+[2:10:17] We have month-long residencies,
+[2:10:19] weekly themes,early stage
+[2:10:21] experiments.If you go to the next slide
+[2:10:23] there are some examples here.This
+[2:10:25] isn't updated.There's a few more
+[2:10:27] here but just to give you a sense.
+[2:10:29] We have the
+[2:10:31] desertification technology residency
+[2:10:33] which is using cryptography to
+[2:10:35] actually build human connection
+[2:10:37] experiences.So that's run by
+[2:10:39] Althea from PSE.We have
+[2:10:41] edges which is with Radical
+[2:10:43] Unity Currency Experiment.We have
+[2:10:45] Dymo,Social Layer,Shut Out,Social Layer
+[2:10:47] they're the best.
+[2:10:49] So a lot of amazing stuff
+[2:10:51] planned.Next slide.
+[2:10:53] This is where we're at.Right now
+[2:10:55] some of this is underwater
+[2:10:57] so if you've texted me
+[2:10:59] and I haven't replied
+[2:11:01] we're dealing with some stuff
+[2:11:03] but it will be fine by the time things
+[2:11:05] kick off.Next slide.
+[2:11:07] That's it.Thank you so much.
+[2:11:09] Thank you,two more.
+[2:11:14] So following that
+[2:11:16] it's time for
+[2:11:18] Rude Brigadeau.I hope
+[2:11:20] my pronunciation is right.
+[2:11:22] The core contributor
+[2:11:24] of Invisible Garden.
+[2:11:26] So hi everyone.
+[2:11:46] I'm Rude
+[2:11:48] and I'm a core contributor
+[2:11:50] for Invisible Garden
+[2:11:52] which is a pop-up city
+[2:11:54] focused on builders
+[2:11:56] that is already happening.
+[2:11:58] It starts this
+[2:12:00] last week.And it's
+[2:12:02] going to end at
+[2:12:04] never 10th.
+[2:12:06] Next slide.
+[2:12:10] So to start,I just
+[2:12:12] wanted to introduce to you
+[2:12:14] the little story about my
+[2:12:16] career path.So I came
+[2:12:18] from being an aircraft mechanic
+[2:12:20] at the military
+[2:12:22] to be a software engineer
+[2:12:24] into web2 companies
+[2:12:28] up to contributing
+[2:12:30] to open source
+[2:12:32] projects
+[2:12:34] with the NEF grant
+[2:12:36] Netherium Foundation grant
+[2:12:38] and that also got me
+[2:12:40] to contributeto Invisible Garden.
+[2:12:42] So what is Invisible Garden?
+[2:12:48] It's inspired by
+[2:12:50] the 70th century
+[2:12:52] Invisible College
+[2:12:54] and Infinite
+[2:12:56] and also from the
+[2:12:58] Infinite Garden philosophy.
+[2:13:00] So we want to
+[2:13:04] we want to create
+[2:13:06] a collaborative community
+[2:13:08] where there is a
+[2:13:10] free exchange of knowledge
+[2:13:12] and also
+[2:13:14] unlimited creativity.
+[2:13:16] So
+[2:13:20] we focused a lot
+[2:13:22] onbuilding projects
+[2:13:24] building specially
+[2:13:26] open source
+[2:13:28] projects that can help
+[2:13:30] and impact our society.
+[2:13:32] So our goal is to
+[2:13:37] drive the development of
+[2:13:39] Ethereum and ZKP
+[2:13:41] mainly to create
+[2:13:43] more impactful public goods
+[2:13:45] that improve people's life
+[2:13:47] and make the world a better place to live.
+[2:13:50] We mainly focus
+[2:13:52] on this tech stack
+[2:13:54] we have a lot of mentors
+[2:13:56] that are
+[2:13:58] especially on these
+[2:14:00] tech areas.We also
+[2:14:02] have a lot of great
+[2:14:04] builders
+[2:14:06] that we actually support them
+[2:14:08] with some scholarships
+[2:14:10] and
+[2:14:12] next slide
+[2:14:14] and we also wanted to
+[2:14:16] show to you
+[2:14:18] brief video
+[2:14:20] where we show some of the
+[2:14:22] lectures that we already kicked off
+[2:14:24] this week
+[2:14:26] mostly for Solidity Boot Camp
+[2:14:28] and ZK Boot Camp
+[2:14:30] which is gonna be
+[2:14:32] through the whole
+[2:14:34] pop-up city
+[2:14:36] and we expect to improve
+[2:14:38] our builders' knowledge.
+[2:14:40] Can you
+[2:14:45] open into the open
+[2:15:03] who doesn't have it
+[2:15:09] Thank you so much
+[2:16:16] Thank you.Next up
+[2:16:18] is the MOO
+[2:16:20] and let's welcome
+[2:16:22] Soon Boa,how the core contributor of the MOO
+[2:16:24] Thank you guys
+[2:16:30] Hey guys
+[2:16:32] I'm here to present the MOO
+[2:16:34] surprisingly that
+[2:16:36] so our
+[2:16:38] event is called MOOChemai again
+[2:16:40] why again because this is
+[2:16:42] literally our second time here inChemai
+[2:16:44] and
+[2:16:46] so yeah,we are a grassroots
+[2:16:48] builder community that
+[2:16:50] literally goes around the world
+[2:16:52] doing pop-up cities and
+[2:16:54] this is our fifth stop
+[2:16:56] for this year which is kind of crazy
+[2:16:58] and
+[2:17:00] our whole trip,our whole journey
+[2:17:02] started from MOOChemai
+[2:17:04] last year here inChemai
+[2:17:06] last for 6 weeks
+[2:17:08] from
+[2:17:10] in the mid of December to the end of October
+[2:17:12] so that was
+[2:17:14] an amazing experience
+[2:17:16] actually like most of people here in the room
+[2:17:18] I think I know like 60% of you guys
+[2:17:20] because we either met inChemai
+[2:17:22] or met around the world or like we're all
+[2:17:24] developer like pop-up city community
+[2:17:26] and then
+[2:17:28] so be happy that everyone is here this year
+[2:17:30] and then we went to
+[2:17:32] isn'table during DevConnect
+[2:17:34] we did one day gathering for the MOO community
+[2:17:36] and also introducing
+[2:17:38] everyone what is our next
+[2:17:40] step,next plan
+[2:17:42] and that's how we came up with the idea
+[2:17:44] of going to Argentina
+[2:17:46] all the way to literally the other side of the world
+[2:17:48] to do pop-up city
+[2:17:50] that's when the MOO bonus happened
+[2:17:52] and during that pop-up city
+[2:17:54] one of the things that earlier presented
+[2:17:56] discussed by Timor was
+[2:17:58] I left the Christmas movement
+[2:18:00] was also kind of came up
+[2:18:02] the idea came up during
+[2:18:04] moo bonus and then we were working
+[2:18:06] deeply on it and me
+[2:18:08] and my teammate and everyone we were like
+[2:18:10] full time contributing to this whole movement
+[2:18:12] in Argentina
+[2:18:14] and then
+[2:18:16] and then
+[2:18:18] during I left and
+[2:18:20] moo bonus we went to
+[2:18:22] Africa and that's how we met our friends
+[2:18:24] coco
+[2:18:26] our friends
+[2:18:28] Eric and so many people from Africa
+[2:18:30] going to be here next
+[2:18:32] I think after two weeks
+[2:18:34] presenting everything that we've done
+[2:18:36] and all the exciting stuff happening in Africa
+[2:18:38] so a lot of things we've done
+[2:18:40] and that's why we are back calling
+[2:18:42] the MOOChema again
+[2:18:44] and
+[2:18:46] our
+[2:18:48] so this whole purpose of this month
+[2:18:50] is going to be catching up with our community
+[2:18:52] like what happened for the past year
+[2:18:54] with you guys and what happened with us
+[2:18:56] and it was our future plan
+[2:18:58] and also introducing Chris Minto
+[2:19:00] an African collective
+[2:19:02] the two communities that we are
+[2:19:04] contributing
+[2:19:06] the MOO team is contributing on it
+[2:19:08] and also onboarding everyone to our
+[2:19:10] nexer plan
+[2:19:12] so this is going to be
+[2:19:14] our very rough
+[2:19:16] programming at the moment
+[2:19:18] so the first week is going to be about us
+[2:19:20] introducing
+[2:19:22] our next year or what happened in the past
+[2:19:24] also our next year plan
+[2:19:26] so we'll be going to Ethiopia
+[2:19:28] next year in Jan
+[2:19:30] and we'll be going to Japan
+[2:19:32] for another huge
+[2:19:34] huge exciting plan
+[2:19:36] and then stop I'll be introducing later
+[2:19:38] and we'll be going to France
+[2:19:40] so hope that everyone who's here
+[2:19:42] can also be there in future
+[2:19:44] and so the week two will be African
+[2:19:46] collective
+[2:19:48] we have friends from Africa joining us
+[2:19:50] and presenting African blockchain ecosystem
+[2:19:52] and onboard
+[2:19:54] more people from outside Africa
+[2:19:56] to Africa next year
+[2:19:58] to our utopia public city
+[2:20:00] and also other
+[2:20:02] cryptoconferences in Africa
+[2:20:04] Africa is an amazing place
+[2:20:06] amazing builders and a lot of potential
+[2:20:08] we should really like
+[2:20:10] support and be a part of the whole entire movement
+[2:20:12] and then
+[2:20:14] week three is the Chris Minto week
+[2:20:16] we have friends from Argentina
+[2:20:18] all the way here
+[2:20:20] presenting what happened in Chris Minto
+[2:20:22] in the left and also our pop-up city
+[2:20:24] in
+[2:20:26] I mean not our but
+[2:20:28] Chris Minto pop-up city in December
+[2:20:30] so if anyone
+[2:20:32] is interested to travel all the way to Argentina
+[2:20:34] this is a great opportunity
+[2:20:36] and week four is basically a wrap up
+[2:20:38] so we'll be presenting everything again
+[2:20:40] because I think week four
+[2:20:42] will be the most people
+[2:20:44] we have friends from outside
+[2:20:46] so it'll be great to quickly reintroduce
+[2:20:48] everyone what happened for this entire month
+[2:20:50] and also what's going to happen
+[2:20:52] so yeah one of the main highlights
+[2:20:54] of next year for us is this
+[2:20:56] Japan
+[2:20:58] so expo 2025
+[2:21:00] I'm not sure how many people are familiar
+[2:21:02] with expo
+[2:21:04] so this is a
+[2:21:06] huge ass conference that happens
+[2:21:08] once every four years
+[2:21:10] with literally hundreds of countries
+[2:21:12] I think that is going to be
+[2:21:14] we call ourselves pop-up cities
+[2:21:16] I think they are like pop-up world
+[2:21:18] kind of thing
+[2:21:20] so this is a six month conference
+[2:21:22] that is going to happen in Japan Osaka
+[2:21:24] and
+[2:21:26] so the moon
+[2:21:28] our project our community
+[2:21:30] we got accepted as one of the
+[2:21:32] co-creation challenge
+[2:21:34] co-creation track
+[2:21:36] in expo
+[2:21:40] and we'll be presenting
+[2:21:42] the use case of blockchain
+[2:21:44] blockchain in different regions
+[2:21:46] in africa, in south america
+[2:21:48] and many other parts around the world
+[2:21:50] in japan
+[2:21:52] for two months
+[2:21:54] we're going to have pop-up cities over there for two months
+[2:21:56] presenting blockchain
+[2:21:58] and the audience
+[2:22:00] is 25 million people
+[2:22:02] and that's only they're expecting
+[2:22:04] so there's a huge chance
+[2:22:06] that's going to go over 25 million people
+[2:22:08] it's going to be very exciting
+[2:22:10] and I wish that other pop-up city organizers
+[2:22:12] can be a part of this
+[2:22:14] and do edcity
+[2:22:16] do fund and comment
+[2:22:18] and so many more over there
+[2:22:20] they'll be very cool
+[2:22:22] and so yeah
+[2:22:24] that's a QR code for telegram chat
+[2:22:26] for the month
+[2:22:28] so feel free to scan
+[2:22:30] and I'll be around
+[2:22:32] I'll always be around a lot of things happening
+[2:22:34] and also we have a long time
+[2:22:36] co-working space
+[2:22:38] in the old city
+[2:22:40] next to the
+[2:22:42] mega zoo community
+[2:22:44] that's our thing
+[2:22:46] thank you so much for listening
+[2:22:48] and see you around
+[2:22:53] thank you
+[2:22:55] because you're next to the mega zoo community
+[2:22:57] so next one is mega zoo community
+[2:22:59] and let's welcome yaller and matt
+[2:23:01] thank you
+[2:23:03] thanks son
+[2:23:05] we're going to set up in these chairs
+[2:23:07] we want to be casual
+[2:23:09] we brought some moodangs
+[2:23:11] because we want to bring the moodang energy
+[2:23:13] to the pop-up villages
+[2:23:15] so these guys are just going to sit here
+[2:23:17] and represent us a little bit
+[2:23:19] my name is yaller moon
+[2:23:21] I'm from the Eigen foundation
+[2:23:23] working on the contributor ecosystem
+[2:23:25] and special projects
+[2:23:27] and this is matt murphy from Eigen DA
+[2:23:29] DevRel engineer
+[2:23:31] so we are new
+[2:23:33] to the pop-up city
+[2:23:35] game but not new
+[2:23:37] to the ecosystem
+[2:23:39] Eigen and mega eith
+[2:23:41] decided to collaborate on this event
+[2:23:43] a few short months ago
+[2:23:45] putting together a builder first
+[2:23:47] focus residency
+[2:23:49] where actually we really wanted to kind of
+[2:23:51] boot up
+[2:23:53] education programs and onboarding stuff
+[2:23:55] for incubating
+[2:23:57] the
+[2:24:01] end user applications
+[2:24:03] actually building applications on ethereum
+[2:24:05] to get them the resources and the tools
+[2:24:07] they need to get started
+[2:24:09] so there's a bunch of different programming
+[2:24:11] that we're putting together
+[2:24:13] it's like light touch programming though
+[2:24:15] the idea was to bring together a community
+[2:24:17] of really interesting like
+[2:24:19] really innovative thinkers
+[2:24:21] to actually like share ideas
+[2:24:23] and to collaborate on projects together
+[2:24:25] whether they wanted to help
+[2:24:27] build each other's projects
+[2:24:29] or give feedback on things
+[2:24:31] we have people coming from all over
+[2:24:33] from the Eigen team
+[2:24:35] and from the mega eith team
+[2:24:37] to participate but also to help build
+[2:24:39] and co-create the experience
+[2:24:41] we'll be hosting
+[2:24:43] like one weekly session per week
+[2:24:45] where folks from the pop-up villages
+[2:24:47] who are here can come into the residency
+[2:24:49] and participate and hear a little bit
+[2:24:51] abouteither Eigen
+[2:24:53] or mega eith
+[2:24:55] or how they can work on a project
+[2:24:57] that's supported by one of these protocols
+[2:24:59] most of all we want to bring people here
+[2:25:01] and have the cultural experience
+[2:25:03] of being in Thailand, building together
+[2:25:05] and thinking about what's possible
+[2:25:07] so we'll be kicking off things on Monday
+[2:25:09] we're going to put a few of these
+[2:25:11] live links up where folks can find out
+[2:25:13] what's happening
+[2:25:15] we'll post them on twitter so you can follow
+[2:25:17] on there as well
+[2:25:19] we have about 60 people coming in from
+[2:25:21] all over the world basically
+[2:25:23] our team's arriving right now
+[2:25:25] and it's been super cool to watch the cities
+[2:25:27] we're super grateful to be
+[2:25:29] invited in to participate and share
+[2:25:31] by Audrey
+[2:25:33] so we're
+[2:25:35] our friends at mega eith couldn't be here
+[2:25:37] but they're on their way
+[2:25:39] and some of the things they're going to be focusing on
+[2:25:41] are more like technical diligence sessions
+[2:25:43] business modeling
+[2:25:45] brainstorming and strategic planning
+[2:25:47] with some of their team
+[2:25:49] so they'll be posting a few of those
+[2:25:51] and working sessions with folks
+[2:25:53] who are part of the residency throughout the month
+[2:25:55] and then Matt
+[2:25:57] is representing the EigenDA side
+[2:25:59] he can talk a little bit about
+[2:26:01] what we're going to be doing
+[2:26:03] and how we're going to be presenting information
+[2:26:05] to the community on that front
+[2:26:07] for sure, I guess zooming out a little bit
+[2:26:09] why this is the focus
+[2:26:11] this application focus
+[2:26:13] if you look at ethereum rollups
+[2:26:15] expand the operating space of ethereum itself
+[2:26:17] but the touchpoints are really these individual applications
+[2:26:19] so the idea is that you can drive this
+[2:26:21] community centric
+[2:26:23] and equip them
+[2:26:25] with both eachother
+[2:26:27] aswell as this sort of external support
+[2:26:29] through both
+[2:26:31] our teams and eachother
+[2:26:33] essentially to be able to build applications
+[2:26:35] that are these touchpoints for
+[2:26:37] what we come to love with ethereum
+[2:26:39] and what brings us sort of here today
+[2:26:41] so from our side we'll also be having
+[2:26:43] as you metRobert
+[2:26:45] if you want to talk about the open cloud
+[2:26:47] or open innovation
+[2:26:49] that's like a key focus in general
+[2:26:51] item layer and broadly these applications
+[2:26:53] and what we love about ethereum today
+[2:26:55] notter who will be
+[2:26:57] having I guess
+[2:26:59] you're probably deeply familiar with
+[2:27:01] focused building working with
+[2:27:03] these developers and then
+[2:27:05] I guess myself an open call to action
+[2:27:07] is if you're working on expanding
+[2:27:09] these
+[2:27:11] the operating zone of where ethereum
+[2:27:13] operates today or these touchpoints
+[2:27:15] want to like jam and collaborate
+[2:27:17] with you because I think these applications
+[2:27:19] are essential to spreading
+[2:27:21] beyond these physical locations
+[2:27:23] these constant touchpoints for ethereum
+[2:27:25] and excited to
+[2:27:27] I guess be with you guys over the next month
+[2:27:29] and looking forward to that
+[2:27:31] so feel free to reach out to myself
+[2:27:33] or Lu Dang if you have
+[2:27:35] the number
+[2:27:37] thanks everyone,appreciate it
+[2:27:39] look forward to connect
+[2:27:52] and next we're going to
+[2:27:54] invite Nicolas
+[2:27:56] who from Four Seas
+[2:27:58] and he's going to give the speech in Chinese
+[2:28:00] but for the people
+[2:28:02] who don't know Chinese,no worry
+[2:28:04] because his powerpoint is in English
+[2:28:06] 謝謝
+[2:28:10] 我先開個頭
+[2:28:12] I speak about the 2020 years
+[2:28:14] after China
+[2:28:16] it's open call to 19
+[2:28:18] so a lot of people come to here
+[2:28:20] 我記得
+[2:28:22] 2013年1月份的時候
+[2:28:24] 疫情開放之後
+[2:28:26] 很多大理人還有中國人
+[2:28:28] 在這裡
+[2:28:30] 沒想到今天這些人變成
+[2:28:32] 這些活動的組織者
+[2:28:34] 我看到很多人包括
+[2:28:36] 松鼓貓還有嘻嘻
+[2:28:38] 還有江還有
+[2:28:40] 任還有
+[2:28:42] 還有我們這些人
+[2:28:44] 還有加非西閣好多
+[2:28:46] 就是短短
+[2:28:48] 一年的半的時間
+[2:28:50] 就是你能發現
+[2:28:52] 很多來自
+[2:28:54] 中國的加密倫群
+[2:28:56] 你可以
+[2:28:58] 在海外清邁這麼友好的地方
+[2:29:00] 你真的可以
+[2:29:02] 參與國際社區的建設
+[2:29:04] 這個機會
+[2:29:06] 是你在北京上海
+[2:29:08] 我原來在北京上海
+[2:29:10] 是你體會不到的地方
+[2:29:12] 對 所以這個體驗
+[2:29:14] 很特別
+[2:29:16] so
+[2:29:18] we have
+[2:29:23] pretty well
+[2:29:27] number one page
+[2:29:32] 我們
+[2:29:34] number one
+[2:29:36] yes
+[2:29:38] we are a startup society
+[2:29:40] is not a startup company
+[2:29:42] 我們在清邁
+[2:29:44] 真註冊的公司叫
+[2:29:46] decentralized society company
+[2:29:48] 所以我們
+[2:29:50] 我們出來就感覺有點不一樣
+[2:29:52] 好像不是海外開個公司
+[2:29:54] 我們感覺是來海外
+[2:29:56] 是來創辦一個
+[2:29:58] 新的想像的社會
+[2:30:00] 也是我們希望
+[2:30:02] 從清邁開始
+[2:30:04] 的一個原因
+[2:30:06] 但這個過程中
+[2:30:08] 可能會碰到很多困難
+[2:30:10] 因為我們從來
+[2:30:12] 開公司已經很不容易了
+[2:30:14] 但沒想到如果去創造一個
+[2:30:16] society的話就非常的困難
+[2:30:18] 所以我們從這個出發點
+[2:30:20] 去想像區塊鏈
+[2:30:22] 真的為我們的社會
+[2:30:24] 真實的改變什麼
+[2:30:26] 所以我們的需求
+[2:30:28] 我們不僅僅是說
+[2:30:30] 我們現在說現在社會裡面的
+[2:30:32] 真實需求還是會來自於
+[2:30:34] 我們需要的需求是什麼
+[2:30:36] 所以我過一下
+[2:30:38] 快速過一下
+[2:30:40] 所以我們希望第一個
+[2:30:42] 我們希望共同生活
+[2:30:44] 可以直接
+[2:30:46] 民主式的生活
+[2:30:48] 很多人可能沒有機會體驗到
+[2:30:50] 直接民主式的生活
+[2:30:52] 我們就希望在
+[2:30:54] 共居生活裡面體驗到的一點
+[2:30:56] 我們希望繼續到社會改變成
+[2:30:58] 社會變革的
+[2:31:00] 尤其是加密油幕的人群在一起
+[2:31:02] 他們我們覺得
+[2:31:04] 區塊鏈加密人群的社會
+[2:31:06] 變革的力量非常大
+[2:31:10] 所以我們喜園創造了一個
+[2:31:12] 物理空間
+[2:31:14] 我們Next Week Funding Commons
+[2:31:16] We are opening here
+[2:31:18] 所以它是一個在
+[2:31:20] 我們在比較自然 民進
+[2:31:22] 安靜的地方
+[2:31:24] 但是昨天好像避水煙了
+[2:31:26] 所以我們在打掃水
+[2:31:28] 因為確實是水很大
+[2:31:30] 這個是佛西斯里曼
+[2:31:32] You can search Google Maps
+[2:31:34] 佛西斯里曼
+[2:31:36] 所以在尼曼路
+[2:31:38] 現在是利歐
+[2:31:40] Invisible Garden
+[2:31:42] 他們正在用這個
+[2:31:44] 主會樓
+[2:31:46] 在做JKP co-living
+[2:31:48] and co-learning
+[2:31:50] 這個是佛西斯里曼
+[2:31:52] Hubs來自East Timber
+[2:31:54] 所以他
+[2:31:56] 主理人在這裡
+[2:31:58] 負責人
+[2:32:00] Hubs來自East Timber
+[2:32:02] 所以我們
+[2:32:06] 希望去實踐一個
+[2:32:08] 通過區塊鏈
+[2:32:10] 去中央化的
+[2:32:12] 這種社會變革
+[2:32:14] 能實現我們宿主權的未來
+[2:32:16] 這個是比較廣泛的概念
+[2:32:18] 但我們覺得
+[2:32:20] 還有一個很重要的概念
+[2:32:22] Cosmos Local
+[2:32:24] 在清邁想重點時間的概念
+[2:32:26] 就是我們覺得
+[2:32:28] Cosmos is a universal
+[2:32:30] 就是Digital Public
+[2:32:32] Cosmos is a universal
+[2:32:34] Cosmos
+[2:32:36] But we physical body is local
+[2:32:38] So we want to build
+[2:32:40] cosmos local
+[2:32:42] community
+[2:32:44] at here
+[2:32:46] 所以我們這裡面
+[2:32:48] 佛西斯是在清邁
+[2:32:50] 是一個我們比較在意
+[2:32:52] 本地的一個社區
+[2:32:54] 當然我們這裡還有很多
+[2:32:56] 本地社區包括清邁客棧
+[2:32:58] 還有包括ISPANDA
+[2:33:00] 還有CMU
+[2:33:02] 7塊鏈協會都是
+[2:33:04] 本地的社區
+[2:33:06] 所以有可能我們會做一個
+[2:33:08] Cosmos Local Foundation
+[2:33:10] 在清邁我們正在討論這個問題
+[2:33:12] 是不是要發起
+[2:33:14] 同時我們還有可能會在
+[2:33:16] Forecis Liman
+[2:33:18] 做Cosmos Local Marketplace
+[2:33:21] 邀請清邁在地的
+[2:33:24] 包括緬甸在地的
+[2:33:26] 一些商家和一些NGO
+[2:33:28] 來共同完成
+[2:33:30] 我們這次
+[2:33:31] 七塊鏈和Pobba City的活動
+[2:33:39] 所以我們希望做一些
+[2:33:41] 佛西斯希望做一些
+[2:33:42] 稍稍一個SPL
+[2:33:44] 社會實驗
+[2:33:45] 我們有很多東西
+[2:33:47] 社會實驗沒有去
+[2:33:49] 我幾個例子
+[2:33:51] 比如哥倫已經提
+[2:33:53] 哈伯克稅提了很久
+[2:33:55] 但是讓哈伯克Tax
+[2:33:57] no ability to practice
+[2:33:59] 很多東西
+[2:34:01] 我們是沒有去很好的時間
+[2:34:03] 所以我們希望
+[2:34:05] 在加米倫群和Forecis
+[2:34:07] 共同去做一些
+[2:34:09] 這些一些想像的東西
+[2:34:11] 社會實驗
+[2:34:14] 謝謝
+[2:34:17] 我們還有一個很多的獨題就是
+[2:34:20] 我們認為我們是
+[2:34:23] 我們想去
+[2:34:28] 但是我們是一個新的一個時代
+[2:34:30] 我們並不是需要個
+[2:34:31] 物理的shadow town
+[2:34:32] 我們需要一個
+[2:34:34] 尤其是大家
+[2:34:36] 這次
+[2:34:38] 每年出海的人群其實是
+[2:34:40] 非常多的
+[2:34:41] 大部分人其實需要一個
+[2:34:43] 新的認同體和新的
+[2:34:45] 身份的認同的過程
+[2:34:47] 在這個過程中
+[2:34:48] 我們可能需要一
+[2:34:50] 非常好的去認識到
+[2:34:51] 七塊鏈技術
+[2:34:53] 對這個
+[2:34:54] 共同體的形成
+[2:34:56] 所以這裡面很多文化
+[2:34:58] 然後我說一個
+[2:35:00] 跟今天會議
+[2:35:01] 機器相關的就是
+[2:35:02] 在Purple Season
+[2:35:04] 我們會開放Forecis Liman
+[2:35:06] 除了林曼的主樓
+[2:35:08] 會用來invisal garden以外
+[2:35:10] 我們其他的空閒的
+[2:35:12] 旁邊的林曼的空間
+[2:35:14] 會用來大家做set event
+[2:35:16] 所以如果想開放set event
+[2:35:18] you can find me
+[2:35:20] and we have
+[2:35:21] selling values to support you
+[2:35:24] 這是我們的
+[2:35:26] completed network
+[2:35:28] 這是我們的推特
+[2:35:29] 所以你有需求
+[2:35:30] you can contact our twitter
+[2:35:31] and send private message to ours
+[2:35:34] Thank you
+[2:35:36] 謝謝
+[2:35:40] Thank you, Nicholas
+[2:35:44] So now it's time for
+[2:35:46] Death Lewis
+[2:35:48] co-founder of
+[2:35:49] DGCNX Network
+[2:35:51] for digital comments
+[2:35:57] Thank you so much
+[2:35:59] Hello friends
+[2:36:01] My name is Dev
+[2:36:03] but I am not a dev
+[2:36:05] I wear many hats
+[2:36:07] figuratively and literally
+[2:36:09] and one of them is as co-founder
+[2:36:11] of DGCNX
+[2:36:13] We are a Chiang Mai based network
+[2:36:16] committed to dialogue and research
+[2:36:18] to better understand how
+[2:36:20] digital technologies
+[2:36:22] and web3
+[2:36:23] are changing our lives
+[2:36:25] are changing people
+[2:36:26] and are changing our planet
+[2:36:28] and that's one of our co-themes
+[2:36:30] next slide
+[2:36:32] so our mission really
+[2:36:33] is to create a community
+[2:36:35] in Chiang Mai
+[2:36:36] that brings together everyone
+[2:36:38] a meta community if you will
+[2:36:40] people in web3
+[2:36:42] people from different backgrounds
+[2:36:43] and we really want to talk about
+[2:36:45] building a commons, a digital commons
+[2:36:47] that's open
+[2:36:49] that talks about ecological balance
+[2:36:51] with planet and environment
+[2:36:54] and prioritizes human agency
+[2:36:56] and freedom
+[2:36:57] and these are some of our core values
+[2:36:59] next slide
+[2:37:00] I came to Chiang Mai two years ago
+[2:37:02] I've been living here since
+[2:37:04] and one of the things we recognized
+[2:37:06] was that communities in Chiang Mai
+[2:37:08] are really interesting
+[2:37:10] we have people, digital rights activists
+[2:37:12] involved in political movements
+[2:37:14] in Myanmar
+[2:37:15] we have people like
+[2:37:16] Nicolas and Four Seas
+[2:37:18] in the Chiang Mai crypto communities
+[2:37:20] but they're often quite fragmented
+[2:37:22] so for a show of hands
+[2:37:24] how many people here
+[2:37:26] would be considered not web3
+[2:37:28] how many people identify as
+[2:37:30] not a web3 person
+[2:37:32] well there you go
+[2:37:34] I don't see a single hand
+[2:37:36] so this often happens right
+[2:37:37] we have events
+[2:37:38] we have spaces where we talk about
+[2:37:39] digital issues
+[2:37:40] but we tend to be quite fragmented
+[2:37:42] and one of the things that we want to do
+[2:37:44] was to create spaces
+[2:37:45] where we can have translation
+[2:37:46] where we can have common understanding
+[2:37:48] and bring together people from the
+[2:37:50] different worlds in one space
+[2:37:52] next slide
+[2:37:54] and so we created this
+[2:37:56] together with the
+[2:37:58] school of public policy
+[2:37:59] at Chiang Mai university
+[2:38:00] we have their support
+[2:38:02] we've been over the last two years
+[2:38:04] have built a community of academics
+[2:38:06] humanitarian workers
+[2:38:08] civil society
+[2:38:09] of course web3 and crypto friends
+[2:38:11] and many digital nomads
+[2:38:13] and we've talked on a number of topics
+[2:38:16] I think you can go to the next slide
+[2:38:18] one of my entry points
+[2:38:20] into blockchain
+[2:38:21] was actually at
+[2:38:22] moo Chiang Mai last year
+[2:38:24] where we had an event on
+[2:38:26] how Myanmar is using crypto
+[2:38:28] and how payments
+[2:38:30] and crypto in Myanmar is helping
+[2:38:32] and being problematic
+[2:38:34] in the revolutions in Myanmar
+[2:38:35] we also talked about a number of teams
+[2:38:37] trying to bring in
+[2:38:39] more philosophical
+[2:38:40] and more multidisciplinary
+[2:38:42] perspectives to how we think
+[2:38:45] next slide
+[2:38:46] we've had events
+[2:38:48] around the digital economy
+[2:38:50] the creative economy
+[2:38:52] the Wang Hong economy as it's called
+[2:38:54] so just to give you a sense of the flavor
+[2:38:56] of events we've had
+[2:38:57] next slide
+[2:38:58] climate and AI
+[2:39:00] we've had workshops
+[2:39:01] and how to use chat GPT
+[2:39:03] and generative AI
+[2:39:04] to sort of build your own tools
+[2:39:06] and analyze data
+[2:39:08] and to really think about the implications
+[2:39:10] what happens when we have more satellite data
+[2:39:12] and how that changes our relationship
+[2:39:13] and how we understand space
+[2:39:14] and the world
+[2:39:15] next slide
+[2:39:16] finally bringing it back to
+[2:39:18] where we're all here
+[2:39:19] so we have some pop up
+[2:39:21] initiatives as well
+[2:39:22] one of the first ones
+[2:39:24] that I want to talk about
+[2:39:25] is CosmoLocal Chiang Mai
+[2:39:26] so how many people in this room
+[2:39:28] would identify as Thai
+[2:39:35] so very few
+[2:39:37] if no hands
+[2:39:39] and I think this is another problem
+[2:39:41] that we identified
+[2:39:42] is we have these pop up cities
+[2:39:44] we have global digital nomad communities
+[2:39:47] yet there's a bit of a disconnection
+[2:39:49] with local communities
+[2:39:50] and so how do we build that bridge
+[2:39:52] and that's not easy
+[2:39:53] we had a workshop last month
+[2:39:55] where we had several of the pop up city
+[2:39:57] leaders who are here
+[2:39:58] we had a lot of local
+[2:40:00] people from civil society
+[2:40:02] people working in open source technology
+[2:40:05] from Thailand come together
+[2:40:07] to sort of start a dialogue
+[2:40:09] to understand what are these movements
+[2:40:11] how can we understand
+[2:40:12] the challenges in Chiang Mai
+[2:40:13] in Thailand
+[2:40:14] and how can we start
+[2:40:15] to be less disconnected
+[2:40:17] and more grounded and rooted
+[2:40:18] and CosmoLocal here
+[2:40:20] Michel is not here
+[2:40:21] I know he's
+[2:40:22] familiar to many people here
+[2:40:23] and Michelle is part
+[2:40:24] of DGCNX as well
+[2:40:26] and we're talking about
+[2:40:27] not just being
+[2:40:28] Cosmo as in global
+[2:40:30] but Cosmo as in
+[2:40:31] connected to the Cosmos
+[2:40:32] and local
+[2:40:33] in terms of thinking
+[2:40:34] about our relationship
+[2:40:35] with the land as well
+[2:40:36] and so as we are
+[2:40:38] digital nomads
+[2:40:39] moving around in the world
+[2:40:40] popping around
+[2:40:41] we also want to feel grounded
+[2:40:42] we want to feel rooted
+[2:40:43] and want to feel
+[2:40:44] a sense of belonging
+[2:40:45] and so CosmoLocal
+[2:40:46] is really about
+[2:40:47] creating this culture
+[2:40:48] as we move into
+[2:40:49] a highly fragmented world
+[2:40:50] how do we
+[2:40:51] be more connected to ourselves
+[2:40:52] and to people around us
+[2:40:54] and just go back
+[2:40:56] to one slide
+[2:40:58] and I want to talk about
+[2:40:59] a pop up initiative
+[2:41:00] we have
+[2:41:01] called the digital
+[2:41:02] humanities on college
+[2:41:03] the idea behind this
+[2:41:05] is to create a space
+[2:41:06] where we can talk about
+[2:41:07] humanities and digital issues
+[2:41:09] in Chiang Mai
+[2:41:10] over the next 30 days
+[2:41:11] the initiative is open
+[2:41:12] so it's open
+[2:41:13] to people from
+[2:41:14] across pop up cities
+[2:41:15] we have a couple
+[2:41:16] of spaces at Chiang Mai
+[2:41:17] university
+[2:41:18] nowhere bookstore
+[2:41:19] and a few other places
+[2:41:21] we hope to have
+[2:41:22] spaces within the
+[2:41:23] pop up cities too
+[2:41:24] where we
+[2:41:25] if you have a topic
+[2:41:26] if you have a report
+[2:41:27] if you have a book
+[2:41:28] if you have anything
+[2:41:29] that you're interested in
+[2:41:30] and you want to run
+[2:41:31] a discussion
+[2:41:32] we can facilitate that
+[2:41:33] we have a platform
+[2:41:34] on our website
+[2:41:35] you can go to the
+[2:41:36] final slide
+[2:41:37] you can check out our website
+[2:41:38] we have more information
+[2:41:39] how you can sign up
+[2:41:40] how you can be
+[2:41:41] involved
+[2:41:42] next Saturday
+[2:41:43] so around this time
+[2:41:44] we're going to be
+[2:41:45] having an opening session
+[2:41:46] on digital Myanmar
+[2:41:47] we're going to have
+[2:41:48] two presenters
+[2:41:49] one speak on how
+[2:41:50] to live
+[2:41:51] in a digitally
+[2:41:52] disconnected place
+[2:41:53] so how
+[2:41:54] off-grid living
+[2:41:55] happens in Myanmar
+[2:41:56] and we have a scholar
+[2:41:57] talking about
+[2:41:58] how exile
+[2:41:59] activism happens
+[2:42:00] so how activism
+[2:42:01] around the
+[2:42:02] political revolution
+[2:42:03] in Myanmar
+[2:42:04] is happening in Chiang Mai
+[2:42:05] so these are really
+[2:42:06] co issues connected to
+[2:42:07] I think the ethos
+[2:42:08] freedom
+[2:42:09] digital sovereignty
+[2:42:11] how to actually
+[2:42:12] take ownership
+[2:42:13] how to be
+[2:42:14] own your keys
+[2:42:15] own your money
+[2:42:16] own yourself
+[2:42:17] and I think these are
+[2:42:18] some of the core themes
+[2:42:19] that we'll
+[2:42:20] I think want to bring it
+[2:42:21] back to
+[2:42:22] so with that
+[2:42:23] thank you so much
+[2:42:24] and come find me
+[2:42:25] happy to chat
+[2:42:30] to all of you
+[2:42:31] and learn more
+[2:42:32] about what you're
+[2:42:33] doing as well
+[2:42:34] thanks
+[2:42:35] thanks
+[2:42:36] it's a very important
+[2:42:37] and significant
+[2:42:38] direction
+[2:42:39] and
+[2:42:40] next let's
+[2:42:41] as
+[2:42:42] and z
+[2:42:43] and the core
+[2:42:44] contributor
+[2:42:45] of
+[2:42:47] ecc
+[2:42:48] hello everyone
+[2:42:50] persuade
+[2:42:51] thank you very much
+[2:42:52] thanks
+[2:42:53] RJ
+[2:42:54] thanks
+[2:42:55] shanghaewoo
+[2:42:56] for giving
+[2:42:57] this opportunity
+[2:42:58] I'm
+[2:42:59] Jackie
+[2:43:00] from
+[2:43:01] S&Z
+[2:43:02] we are
+[2:43:03] technic
+[2:43:04] and
+[2:43:05] community-driven
+[2:43:06] institution
+[2:43:07] our
+[2:43:08] team members
+[2:43:09] are coming
+[2:43:10] from the community
+[2:43:11] and
+[2:43:12] especially
+[2:43:13] Ethera
+[2:43:14] community
+[2:43:15] and
+[2:43:16] so
+[2:43:17] apart from the
+[2:43:18] investment
+[2:43:19] we do
+[2:43:20] work a lot
+[2:43:21] in the community
+[2:43:22] aswell
+[2:43:23] we've been supporting
+[2:43:24] the projects to
+[2:43:25] localize here in Asia
+[2:43:26] with the community
+[2:43:27] and we also support
+[2:43:28] the projects
+[2:43:29] especially
+[2:43:30] Asia-based
+[2:43:31] projects
+[2:43:32] to go globally
+[2:43:33] and the
+[2:43:34] copic of today
+[2:43:35] is about ETHCC
+[2:43:36] I'm sorry
+[2:43:37] we don't have
+[2:43:38] the details
+[2:43:39] ready to share
+[2:43:40] i just give you
+[2:43:41] a brief
+[2:43:42] background
+[2:43:43] so
+[2:43:44] I think
+[2:43:45] firstly I think
+[2:43:46] a lot of you know
+[2:43:47] very well
+[2:43:48] ETHCC
+[2:43:49] I just give
+[2:43:50] a few words on that
+[2:43:51] and it's short
+[2:43:52] for a
+[2:43:53] thera community
+[2:43:54] conference
+[2:43:55] started from
+[2:43:56] 2018 in France
+[2:43:57] and this year
+[2:43:58] it's been
+[2:43:59] the 7th
+[2:44:00] conference
+[2:44:01] ETHCC7
+[2:44:02] in
+[2:44:03] Bruisell
+[2:44:04] with
+[2:44:05] I think
+[2:44:06] over
+[2:44:07] 6,000
+[2:44:08] people joined
+[2:44:09] so
+[2:44:10] now
+[2:44:11] ETHCCI
+[2:44:12] is becoming
+[2:44:13] one of the
+[2:44:14] most important
+[2:44:15] and community
+[2:44:17] conference in this
+[2:44:18] industry
+[2:44:19] especially
+[2:44:20] in the term community
+[2:44:21] and the
+[2:44:22] next year
+[2:44:23] will be the
+[2:44:24] ETHCCI8
+[2:44:25] in France again
+[2:44:26] and in the
+[2:44:27] south of France
+[2:44:28] in Ghana
+[2:44:29] the city
+[2:44:30] famous
+[2:44:31] for the
+[2:44:32] movie festival
+[2:44:33] so the reason
+[2:44:34] why I'm talking
+[2:44:35] about the
+[2:44:36] ETHCCI today
+[2:44:37] and why we are
+[2:44:38] we think
+[2:44:39] we think
+[2:44:40] the community
+[2:44:41] is getting
+[2:44:42] more and more
+[2:44:43] supported from
+[2:44:44] each other
+[2:44:45] especially
+[2:44:46] between west
+[2:44:47] and east
+[2:44:48] today
+[2:44:49] and
+[2:44:50] especially
+[2:44:51] like
+[2:44:52] even
+[2:44:53] into
+[2:44:54] in the
+[2:44:55] ethera community
+[2:44:56] it's kind of
+[2:44:57] supported as well
+[2:44:58] so we try
+[2:44:59] to
+[2:45:00] build up a bridge
+[2:45:01] in between
+[2:45:02] together with
+[2:45:03] ETHCCI
+[2:45:04] and we think
+[2:45:05] that it's a good
+[2:45:06] opportunity
+[2:45:07] to
+[2:45:08] enhance
+[2:45:09] the communication
+[2:45:10] between west
+[2:45:11] and east
+[2:45:12] for more potential
+[2:45:13] collaboration
+[2:45:14] and synergies
+[2:45:15] we are
+[2:45:16] sure
+[2:45:17] there are
+[2:45:18] a lot of
+[2:45:19] potentials
+[2:45:20] there
+[2:45:21] I think
+[2:45:22] the event of
+[2:45:23] today
+[2:45:24] it's a great
+[2:45:25] opportunity
+[2:45:26] to show
+[2:45:27] that
+[2:45:28] the same
+[2:45:29] vision
+[2:45:30] or the same
+[2:45:31] value
+[2:45:32] that we
+[2:45:33] gather together
+[2:45:34] around the world
+[2:45:35] and we
+[2:45:36] it's part of the
+[2:45:37] value and the
+[2:45:38] exprate of
+[2:45:39] decentralized world
+[2:45:40] and
+[2:45:41] and
+[2:45:42] secondly
+[2:45:43] and
+[2:45:44] we
+[2:45:45] we have
+[2:45:46] a lot of projects
+[2:45:47] around us
+[2:45:48] especially the
+[2:45:49] projects
+[2:45:50] asia-based
+[2:45:51] they do have
+[2:45:52] a big
+[2:45:53] tension and need
+[2:45:54] to go
+[2:45:55] collaborate
+[2:45:56] so that's why we
+[2:45:57] think the
+[2:45:58] ETHCCI
+[2:45:59] is going to be
+[2:46:00] the great
+[2:46:01] opportunity
+[2:46:02] for this project
+[2:46:03] to show up
+[2:46:04] so
+[2:46:05] is just
+[2:46:06] a brief
+[2:46:07] background about
+[2:46:08] ETHCCI
+[2:46:09] and just
+[2:46:10] for your information
+[2:46:11] we are going to have
+[2:46:12] the site event co-hosted
+[2:46:13] with the
+[2:46:14] ETHCCI and
+[2:46:15] SNZ
+[2:46:16] in Bangkok
+[2:46:17] during
+[2:46:18] the
+[2:46:19] Devcon
+[2:46:20] so
+[2:46:21] welcome to
+[2:46:22] join us
+[2:46:23] and if
+[2:46:24] any of
+[2:46:25] us are
+[2:46:26] interested in
+[2:46:27] ETHCCI
+[2:46:28] 8 in
+[2:46:29] 2025
+[2:46:36] just
+[2:46:37] feel
+[2:46:38] fraid to
+[2:46:39] contact me
+[2:46:40] I have
+[2:46:41] friend
+[2:46:42] from
+[2:46:43] Thailand
+[2:46:44] so let's
+[2:46:45] give the
+[2:46:46] warm welcome to
+[2:46:47] FIA
+[2:46:48] the core
+[2:46:49] contributor
+[2:46:50] of
+[2:46:53] ETHCCI
+[2:46:54] hello
+[2:46:55] everyone
+[2:46:56] hello
+[2:46:58] I will
+[2:46:59] introduce
+[2:47:00] peeply
+[2:47:01] about
+[2:47:02] ETHCCI
+[2:47:03] so this
+[2:47:04] is the
+[2:47:05] website
+[2:47:06] for
+[2:47:07] ETHCCI
+[2:47:08] you can check out
+[2:47:09] at
+[2:47:10] ETHCCI.org
+[2:47:11] in
+[2:47:12] for
+[2:47:13] ETHCCI
+[2:47:14] web
+[2:47:15] com
+[2:47:16] vår
+[2:47:17] kowloon
+[2:47:18] is
+[2:47:19] cry to
+[2:47:20] bthe
+[2:47:21] community
+[2:47:22] is
+[2:47:23] try to
+[2:47:24] help people
+[2:47:25] cry to
+[2:47:27] help people
+[2:47:28] to
+[2:47:29] eat
+[2:47:31] people to
+[2:47:32] help people
+[2:47:33] to
+[2:47:34] eat people
+[2:47:35] toe
+[2:47:36] toe
+[2:47:37] toe
+[2:47:38] toe
+[2:47:39] toe
+[2:48:10] 所以每星期,我們會有很多的經驗,
+[2:48:14] 很多的題目,我們有我們的朋友,
+[2:48:17] 然後我們會教他們關於題目,
+[2:48:20] 例如,人們從藝術、從藝術,
+[2:48:24] 然後從衣服,
+[2:48:27] 所以,學生們可以學習更多,
+[2:48:29] 然後加入工作,
+[2:48:31] 在網上工作,
+[2:48:32] 所以,他們有很多的參與者,
+[2:48:35] 從14歲的年輕人,
+[2:48:38] So people who are already working in the Web2 company
+[2:48:42] But interesting in Web3 and blockchain and also Ethereum
+[2:48:45] So they also learn more in this bootcamp
+[2:48:49] And next please you can see that there are like many topics
+[2:48:55] So there are like brief introduction of all of the topics
+[2:49:01] Can be seen
+[2:49:03] So after we finished the bootcamp last month
+[2:49:07] So they are so like open to join in the community
+[2:49:12] And try to find the way to contribute
+[2:49:14] So actually it's very open to like any activity for the people to join
+[2:49:20] Like we can like host student study group
+[2:49:23] Events and also join the competition
+[2:49:25] There are so people that are so
+[2:49:27] After finish the bootcamp
+[2:49:29] They try to form the team
+[2:49:30] And try to join in the hackathon
+[2:49:32] As the people are sharing
+[2:49:33] So there are people that are going to join hackathon
+[2:49:36] In East Bangkok as well
+[2:49:37] And also there are people that
+[2:49:38] We were going to join the DevCon in next month
+[2:49:41] So yeah
+[2:49:42] And also today
+[2:49:44] Because it's part of the people
+[2:49:47] That join the Invisible Garden
+[2:49:48] As they are the partners
+[2:49:49] So put them from the
+[2:49:52] EatPathai also have like
+[2:49:54] Promoting the Invisible Garden
+[2:49:56] So we have a chance to come and join with the city
+[2:50:00] And then learn more about people
+[2:50:02] Thank you so much
+[2:50:08] Thank you
+[2:50:11] Thank you, Thea
+[2:50:13] Pathai is my favorite Thai food
+[2:50:15] I don't know about you guys
+[2:50:17] So at the end
+[2:50:19] We're going to close in this session with Jiang
+[2:50:23] The founder of social layer
+[2:50:25] Who is going to introduce the social layer to us
+[2:50:32] Hi, I'm Jiang
+[2:50:34] I'm building the social layer app
+[2:50:36] And we are working with many pop-up cities
+[2:50:38] And we are also collaborating with the pop-up cities
+[2:50:41] In Chiang Mai in October
+[2:50:44] And also I've been refreshing
+[2:50:46] We've fresh our website
+[2:50:48] And creating the pop-up cities
+[2:50:50] And events happening in October
+[2:50:54] So if you open app.solar.day
+[2:50:58] And then you will see
+[2:51:01] Events and pop-up cities happening here
+[2:51:06] So we will be able to create
+[2:51:08] Unity experience of the pop-up city network
+[2:51:12] And let's enjoy
+[2:51:14] The pop-up cities season in Chiang Mai
+[2:51:18] And also we will be
+[2:51:20] We are deciding some social games
+[2:51:23] To engage all participants in different pop-up cities
+[2:51:27] So that we would be able to
+[2:51:30] Enjoy the different vibe
+[2:51:31] And different topics among these events
+[2:51:36] Yeah, thank you
+[2:51:43] That brings us to the end of today's formal sessions
+[2:51:47] Thank you all for your participation
+[2:51:49] And enthusiasm
+[2:51:51] Let's continue to engage
+[2:51:53] And learn from one another
+[2:51:55] As we move forward
+[2:51:57] And here we have information
+[2:52:00] To tell everyone that today
+[2:52:04] 8pm in the co-working place
+[2:52:07] Yellow
+[2:52:08] We're going to have a party
+[2:52:11] And it's
+[2:52:14] Let's come back
+[2:52:15] Hey
+[2:52:16] Yeah
+[2:52:23] So it's initiated by
+[2:52:25] Shanghai Wu and Invisible Garden
+[2:52:31] So welcome all to come
+[2:52:33] And let's dance this evening
+[2:52:42] All right
+[2:52:44] We're going to teach you one little thing here quick
+[2:52:49] To end the day
+[2:52:50] And I'm excited
+[2:52:51] I will be
+[2:52:53] Playing some music with the open source orchestra tonight
+[2:52:56] If anyone wants to jam
+[2:52:57] And we have a couple of good DJs
+[2:52:58] Come in tonight
+[2:53:00] And I'm not going to play the music to it
+[2:53:03] But we're going to sing a little song
+[2:53:05] That we've been doing a lot here recently
+[2:53:09] Came up with it the other day
+[2:53:12] And we sang it
+[2:53:13] So just a little beat
+[2:53:15] It was a little small
+[2:53:17] You guys can read big there
+[2:53:19] I don't know why it's so small
+[2:53:20] But don't walk on the ancient wall
+[2:53:25] But we hope to greet you
+[2:53:28] Because you can pass through the wall
+[2:53:32] At the Shanghai Wu
+[2:53:38] 別踏上那股城牆
+[2:53:42] Sorry, I can't see the lyrics
+[2:53:51] 別踏上那股城牆
+[2:53:54] 但我們想要歡迎所有人
+[2:53:57] 當你路過的我的 Shanghai Wu
+[2:54:03] So let's sing together with us
+[2:54:05] Don't walk on the ancient wall
+[2:54:10] But we hope to greet you all
+[2:54:14] As you can pass through the wall
+[2:54:17] At the Shanghai Wu
+[2:54:22] 別踏上那股城牆
+[2:54:26] 但我們想要歡迎所有人
+[2:54:31] 當你路過的我的 Shanghai Wu
+[2:54:39] See you all Tuesday for Town Hall
+[2:54:42] And at the party
+[2:54:45] 周二見
