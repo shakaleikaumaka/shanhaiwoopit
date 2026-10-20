@@ -1,5 +1,5 @@
-# Audio lives on the Internet Archive + esmeraldapit.com — not in git (1.8 GB)
-audio/
+# Audio is self-hosted IN this repo (mono mp3, ~437 MB) — the karaoke lane needs same-origin files
+# (Drive iframes are cross-origin black boxes; GH Pages serves no LFS, so plain git it is)
 # Backups and staging artifacts
 *.bak
 *.bak.*
