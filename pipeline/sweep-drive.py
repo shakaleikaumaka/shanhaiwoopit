@@ -14,7 +14,7 @@ frames are skipped, so new Drive folders/days just flow in on the next run.
 import io, json, os, re, sys, time
 
 FOLDER = "https://drive.google.com/drive/folders/1S4GlQFN51zRkNaNxaOYMhmONnrfXaJxo"
-SAMPLE_PER_DAY = 25
+SAMPLE_PER_DAY = 40
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST = os.path.join(ROOT, "photos", "photos.json")
 OUTDIR = os.path.join(ROOT, "photos", "drive")

@@ -44,6 +44,22 @@ body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-se
   radial-gradient(circle at 50% 115%, rgba(94,234,212,.28) 0%, transparent 45%);
   animation:breathe 9s ease-in-out infinite}
 @keyframes breathe{0%,100%{opacity:.7}50%{opacity:1}}
+/* ======== THE WOO WALL — live photos land you back in the village ======== */
+.woo-wall{position:absolute;inset:0;z-index:0;display:grid;gap:4px;padding:0;
+  grid-template-columns:repeat(auto-fill,minmax(190px,1fr));grid-auto-rows:1fr;overflow:hidden}
+.woo-wall .wt{position:relative;overflow:hidden;background:#0a1322;min-height:0}
+.woo-wall .wt img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;
+  transition:opacity 1.4s ease;transform:scale(1.04);will-change:opacity}
+.woo-wall .wt img.on{opacity:1;animation:wooze 14s ease-in-out infinite alternate}
+@keyframes wooze{from{transform:scale(1.04)}to{transform:scale(1.14)}}
+.woo-veil{position:absolute;inset:0;z-index:1;pointer-events:none;background:
+  radial-gradient(ellipse 85% 75% at 50% 58%, rgba(6,11,22,.82) 0%, rgba(6,11,22,.55) 55%, rgba(6,11,22,.28) 100%),
+  linear-gradient(180deg, rgba(6,11,22,.55) 0%, transparent 25%, transparent 70%, rgba(6,11,22,.92) 100%)}
+.hero::before{z-index:2}
+.hero .sun{z-index:1;opacity:.35}
+.hero-inner{text-shadow:0 2px 20px rgba(2,5,12,.85)}
+@media(max-width:640px){.woo-wall{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}}
+@media(prefers-reduced-motion:reduce){.woo-wall .wt img.on{animation:none}}
 .sun{position:absolute;bottom:-16vh;left:50%;transform:translateX(-50%);width:min(60vh,520px);height:min(60vh,520px);border-radius:50%;
   background:radial-gradient(circle, #fdf3d0 0%, #f0c464 38%, rgba(94,234,212,.45) 66%, transparent 75%);
   filter:blur(2px);opacity:.6;animation:rise 2.4s ease-out both}
@@ -419,6 +435,8 @@ footer a{color:var(--ink-dim)}
   🏠 now living at <b>shanhaipit.com</b> — and the family album is open: <a href="photos/" style="color:var(--coral);font-weight:700;text-decoration:none">📸 The Living Slideshow · 流动的相册 →</a>
 </div>
 <header class="hero">
+  <div class="woo-wall" id="wooWall" aria-hidden="true"></div>
+  <div class="woo-veil"></div>
   <div class="sun"></div>
   <div class="hero-inner">
     <div class="badge-gift">⛰️🌊 山海坞 · mountain meets sea · P.I.T. №17 · forked with aloha from The VitPit</div>
@@ -1535,5 +1553,40 @@ boot();
 
 <script src="https://shakaleikaumaka.com/assets/x402-tip.js?v=1.0" defer></script>
 <script src="https://shakaleikaumaka.com/assets/magnet.js?v=1.0" defer></script>
+<script>
+/* ======== THE WOO WALL — you land, the village is already moving ======== */
+(async function(){
+  const wall=document.getElementById('wooWall'); if(!wall) return;
+  let pool=[];
+  try{
+    const d=await (await fetch('photos/photos.json?v='+Math.floor(Date.now()/600000))).json();
+    const all=d.photos||[];
+    pool=all.filter(p=>(p.source||'').indexOf("family's Drive")>=0).map(p=>p.src);
+    if(pool.length<8) pool=all.map(p=>p.src);
+  }catch(e){ return; }
+  // shuffle
+  for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
+  const N=Math.min( (innerWidth<640?9:15), pool.length);
+  let k=0; const nextSrc=()=>pool[(k++)%pool.length];
+  const tiles=[];
+  for(let i=0;i<N;i++){
+    const t=document.createElement('div'); t.className='wt';
+    const a=document.createElement('img'), b=document.createElement('img');
+    a.alt=''; b.alt=''; a.decoding='async'; b.decoding='async';
+    t.appendChild(a); t.appendChild(b); wall.appendChild(t);
+    tiles.push({t,imgs:[a,b],front:0});
+  }
+  // first paint — staggered appearing, like the room filling up
+  tiles.forEach((tl,i)=>{ setTimeout(()=>{ const im=tl.imgs[0]; im.src=nextSrc(); im.onload=()=>im.classList.add('on'); }, 120*i+Math.random()*200); });
+  if(matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  // perpetual shuffle — one tile breathes to a new photo every beat
+  setInterval(()=>{
+    const tl=tiles[Math.floor(Math.random()*tiles.length)];
+    const back=tl.imgs[1-tl.front];
+    back.src=nextSrc();
+    back.onload=()=>{ back.classList.add('on'); tl.imgs[tl.front].classList.remove('on'); tl.front=1-tl.front; };
+  }, 1700);
+})();
+</script>
 </body>
 </html>
