@@ -1,0 +1,295 @@
+{
+ "updated": "2026-10-20",
+ "photos": [
+  {
+   "src": "photos/2024-10-05-chiangmai-opening.jpg",
+   "title": "ShanHaiWoo · Chiang Mai Opening Ceremony",
+   "title_cn": "清迈开幕式",
+   "date": "2024-10-05",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "Luma · official event cover",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "photos/2024-11-08-closing.jpg",
+   "title": "ShanHaiWoo Closing Ceremony",
+   "title_cn": "闭幕式",
+   "date": "2024-11-08",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "Luma · official event cover",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "photos/2025-09-02-singapore-village.jpg",
+   "title": "ShanHaiWoo · Singapore — A One-Month Popup Builder Village",
+   "title_cn": "新加坡·一个月快闪创客村",
+   "date": "2025-09-02",
+   "chapter": "2025 · Singapore 新加坡",
+   "source": "Luma · official event cover",
+   "w": 1600,
+   "h": 1600
+  },
+  {
+   "src": "photos/2025-09-05-singapore-opening.jpg",
+   "title": "ShanHaiWoo · Singapore Opening Ceremony",
+   "title_cn": "新加坡开幕式",
+   "date": "2025-09-05",
+   "chapter": "2025 · Singapore 新加坡",
+   "source": "Luma · official event cover",
+   "w": 1500,
+   "h": 1500
+  },
+  {
+   "src": "photos/2025-10-01-zucity-celebration.jpg",
+   "title": "Celebration Ceremony — Gathering with Zucity Friends",
+   "title_cn": "与 Zucity 朋友们的庆典",
+   "date": "2025-10-01",
+   "chapter": "2025 · Singapore 新加坡",
+   "source": "Luma · official event cover",
+   "w": 1500,
+   "h": 1500
+  },
+  {
+   "src": "photos/2026-03-24-openclaw-night.jpg",
+   "title": "山海坞 × 跳海 — OpenClaw 虾场开放夜",
+   "title_cn": "OpenClaw 虾场开放夜",
+   "date": "2026-03-24",
+   "chapter": "2026 · On the road 路上",
+   "source": "Luma · official event cover",
+   "w": 1500,
+   "h": 1500
+  },
+  {
+   "src": "photos/2026-04-22-eth-gathering.jpg",
+   "title": "Ethereum Applications Gathering",
+   "title_cn": "以太坊應用集會",
+   "date": "2026-04-22",
+   "chapter": "2026 · On the road 路上",
+   "source": "Luma · official event cover",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "photos/2026-10-15-gba-village.jpg",
+   "title": "ShanHaiWoo GBA 2026 — Global Builder Village",
+   "title_cn": "山海坞·大湾区 2026：全球创客村",
+   "date": "2026-10-15",
+   "chapter": "2026 · Shenzhen GBA 深圳",
+   "source": "Luma · official event cover",
+   "w": 1403,
+   "h": 1403
+  },
+  {
+   "src": "photos/2026-10-17-opening-ceremony.jpg",
+   "title": "ShanHaiWoo 2026 Opening Ceremony — Shaka performed live 🎸",
+   "title_cn": "山海坞2026开幕式 — Shaka 现场演出",
+   "date": "2026-10-17",
+   "chapter": "2026 · Shenzhen GBA 深圳",
+   "source": "Luma · official event cover",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "photos/2026-10-19-livehouse-shaka.jpg",
+   "title": "ShanHaiWoo Livehouse with Shaka 🎸 — 7th floor of the hostel",
+   "title_cn": "山海坞 Livehouse × Shaka — 青旅七楼",
+   "date": "2026-10-19",
+   "chapter": "2026 · Shenzhen GBA 深圳",
+   "source": "Luma · official event cover",
+   "w": 1254,
+   "h": 1254
+  },
+  {
+   "src": "photos/2026-10-20-huaqiangbei.jpg",
+   "title": "Fun at Huaqiangbei — China's biggest electronics street",
+   "title_cn": "华强北一日游",
+   "date": "2026-10-20",
+   "chapter": "2026 · Shenzhen GBA 深圳",
+   "source": "Luma · official event cover",
+   "w": 1080,
+   "h": 1440
+  },
+  {
+   "src": "photos/2026-10-20-woocon1.jpg",
+   "title": "Woocon 1 — ShanHaiWoo Town Hall",
+   "title_cn": "坞民大会 Woocon 1",
+   "date": "2026-10-20",
+   "chapter": "2026 · Shenzhen GBA 深圳",
+   "source": "Luma · official event cover",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "photos/2026-10-21-hackathon.jpg",
+   "title": "72-Hour AI × Hardware Hackathon — 女娲造物: patch the world!",
+   "title_cn": "山海坞创客松：三天女娲造物，给世界打个补丁！",
+   "date": "2026-10-21",
+   "chapter": "2026 · Shenzhen GBA 深圳",
+   "source": "Luma · official event cover",
+   "w": 1403,
+   "h": 1403
+  },
+  {
+   "src": "photos/2026-10-27-woocon2.jpg",
+   "title": "Woocon 2 — ShanHaiWoo Town Hall",
+   "title_cn": "坞民大会 Woocon 2",
+   "date": "2026-10-27",
+   "chapter": "2026 · Shenzhen GBA 深圳",
+   "source": "Luma · official event cover",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "assets/gallery/shw-photo-dsc8035.jpg",
+   "title": "Inside the village — ShanHaiWoo 2024",
+   "title_cn": "村里 · 山海坞 2024",
+   "date": "2024-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "the village gallery 山海坞"
+  },
+  {
+   "src": "assets/gallery/shw-photo-dsc8036.jpg",
+   "title": "The builders gather — ShanHaiWoo 2024",
+   "title_cn": "创客相聚 · 山海坞 2024",
+   "date": "2024-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "the village gallery 山海坞"
+  },
+  {
+   "src": "assets/gallery/shw-photo-dsc8037.jpg",
+   "title": "Village life — ShanHaiWoo 2024",
+   "title_cn": "村中日常 · 山海坞 2024",
+   "date": "2024-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "the village gallery 山海坞"
+  },
+  {
+   "src": "thumbs/1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU.jpg",
+   "title": "ShanHaiWoo Opening Ceremony keynote with Vitalik (room audio)",
+   "title_cn": "",
+   "date": "2024-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P.jpg",
+   "title": "ShanHaiWoo Cowork Opening with Vitalik (room audio)",
+   "title_cn": "",
+   "date": "2024-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp.jpg",
+   "title": "Interview with Vitalik at ShanHaiWoo",
+   "title_cn": "",
+   "date": "2024-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs.jpg",
+   "title": "ZuTown Hall at ShanHaiWoo with Vitalik (subtitled)",
+   "title_cn": "",
+   "date": "2024-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/11fnXoo7syVljgguSoMujfEruTOU0ZSS6.jpg",
+   "title": "Soundchecks — let us know if you can't hear hehehe",
+   "title_cn": "",
+   "date": "2024-10-04",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ.jpg",
+   "title": "ShanHaiWoo Opening Ceremony featuring Vitalik",
+   "title_cn": "",
+   "date": "2024-10-05",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1blAFTpqbheK_Zom002Mv1HHoFL8KmV83.jpg",
+   "title": "ShanHaiWoo temple mode",
+   "title_cn": "",
+   "date": "2024-10-07",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1Lq79kvRpSy-2dlsYfdDg2Ug5luoTuJTE.jpg",
+   "title": "ShanHaiWoo Ecstatic Dance Thursday GM",
+   "title_cn": "",
+   "date": "2024-10-10",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1yIOuDBuChYJls9UvnqJLtFVEVWs_tDEd.jpg",
+   "title": "ShanHaiWoo Lecture Hall",
+   "title_cn": "",
+   "date": "2024-10-11",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1C_pOVGAzD3wESzVd4uLGY7q6-LD8IfxO.jpg",
+   "title": "ShanHaiWoo Public Goods Day",
+   "title_cn": "",
+   "date": "2024-10-18",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1SNtRE1y6PC9sdkbZNk_Ds1LujlXGb4yW.jpg",
+   "title": "Nimman Neighborhood Mix at ShanHaiWoo",
+   "title_cn": "",
+   "date": "2024-10-19",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1LQmY4d6NptoIaANG9MqJKfSRjUNNbLZg.jpg",
+   "title": "ShanHaiWoo Lecture Day — Economics, Technology, and DeSci",
+   "title_cn": "",
+   "date": "2024-10-25",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1pjCQzzExwGuhQagPtki2jxvxOl5seug4.jpg",
+   "title": "ShanHaiwoo Sunday sesh",
+   "title_cn": "",
+   "date": "2024-10-27",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  },
+  {
+   "src": "thumbs/1dtp3rAixyDQpOep8xcAK8cDfSZqDYu5E.jpg",
+   "title": "ShanHaiWoo Closing Ceremony",
+   "title_cn": "",
+   "date": "2024-11-08",
+   "chapter": "2024 · Chiang Mai 清迈",
+   "source": "session still · the P.I.T. archive",
+   "link": "../#watch"
+  }
+ ]
+}
