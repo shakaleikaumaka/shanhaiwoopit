@@ -1,0 +1,1771 @@
+ShanHaiWoo Lecture Hall · 2024-10-11 · ShanHaiWoo 山海坞 · Chiang Mai pop-up village · transcribed with aloha by the AI ʻohana (faster-whisper small) — expect imperfections 🌱
+---
+[0:00:02] I guess what might be a non-opening ceremony is a photo of all of us right at the day that we opened the co-work, which unbelievably was two weeks ago.
+[0:03:27] And also beautifully the person that took this photo was the house.
+[0:03:32] Beautiful, encouraging word of that day as well as a whole programming.
+[0:03:45] I'm happy that I'm calling how creators can change the on-chain narrative.
+[0:03:54] Maybe some people just coming into the crypto space have heard a narrative that I actually don't fully align with.
+[0:04:07] And I've been through a journey of learning hard lessons as well as finding my way to be in the right place at the right time.
+[0:04:17] I'm excited to share this journey with you.
+[0:04:29] I'm going to start off with playing this little video that I recorded in 2021.
+[0:04:47] So this is in Abu Dhabi in the Emirate Palace.
+[0:05:07] And one of the first developer conferences you could find post-COVID.
+[0:05:13] I'm excited about crypto.
+[0:05:20] Even though I was wearing a suit, I kind of had a DJ with nothing to prove.
+[0:05:27] And I just wanted to learn how to make an NFT.
+[0:05:30] This was October.
+[0:05:33] And I had just learned the kings of Leon had made an NFT right on the spot.
+[0:05:39] And I had been facing what I call a crisis of identity in 2020 as much of the world was.
+[0:05:49] So that actually gave birth to who Shaka was.
+[0:05:55] Kalei Kao Makka is my Hawaiian name.
+[0:05:58] And I actually started going by Shaka in 2020 here before this.
+[0:06:02] And this was kind of like the first publication I would say that I dedicated towards actually wanting to make an NFT.
+[0:06:12] And obviously you can tell it's a remix of the song Don't You Know Pull It Up.
+[0:06:17] And Phantom was pumping this week.
+[0:06:20] I didn't know about the community of Ethereum.
+[0:06:23] I actually didn't even know what the talent was when I made this video.
+[0:06:28] But I didn't know that there's something special about blockchain technology.
+[0:06:32] I'd love to tell a story of my life before this video.
+[0:06:36] But I actually don't want to waste your time or the time of focusing the topic.
+[0:06:42] Fan what?
+[0:06:46] Fan what is the question?
+[0:06:49] If you want to go watch the rest of that video you can on my YouTube.
+[0:06:54] And anyways that actually video as I pause it there was recorded at the Phantom Developer Conference which is a failing chain.
+[0:07:13] Not really.
+[0:07:14] It's actually the name is changed.
+[0:07:16] But the board APES become the first NFT to drop a music video for a little while.
+[0:07:23] This article was released on December 10, 2021.
+[0:07:27] And I minted an NFT of myself at the Phantom Developer Conference October of 2021.
+[0:07:34] And then released an NFT music video before this article came out using IPFS storage.
+[0:07:45] I was able to get 15 megabytes of music video clips.
+[0:07:48] So I actually cut this whole video into clips and minted it on the IPFS blockchain and put it out there.
+[0:07:55] So they're claiming it but actually in retrospect I'm the first NFT to create a music video on chain.
+[0:08:02] And there's more history to why I actually don't like sharing that story as if it's me trying to sell you something.
+[0:08:13] Now I want to share that story because it's actually me trying to communicate something that's completely different than selling an NFT.
+[0:08:20] It's more about hey humanity look at what we're building.
+[0:08:23] And I went through the heartbreak of a bear market and finding out about crypto at a very high rising bull market in 2020, 2021.
+[0:08:37] Very naively new to the whole space.
+[0:08:39] I learned about NFTs from my friend Pablo de Penguin and his crew with my and ironically you know they are also good friends of Zuzalu.
+[0:08:55] And I met them that first night in Abu Dhabi and friends at that conference at Phantom they told me like hey you actually seem like you would fit more fittingly in the Ethereum community.
+[0:09:04] So from that conference I was pointed towards Ethereum and I signed up as a volunteer for DevConnect Amsterdam in 2022 and showed up with all my instruments a lot of this stuff.
+[0:09:16] And was a volunteer and got to meet who's become a really really big mentor to me Andrew who is the head of production for ETH Global.
+[0:09:25] So I've now done 13 events watching and huddling along the shadow of Andrew who's the head of production at ETH Global.
+[0:09:32] So I owe a huge thank you to him and his mentorship and being able to create such a cool space.
+[0:09:38] It's come from a lot of just great time hanging out with a positive person in this space.
+[0:09:45] And that's his name is Andrew. He's actually very behind the scenes doesn't get a lot of credit because he doesn't ask for it.
+[0:09:52] And that's actually the most decentralized beautiful thing that you can see in someone that actually puts on a space.
+[0:09:59] And that's something that I've learned a lot from and ETH Global has carried me into a place of meeting everyone that has been invited me elsewhere.
+[0:10:09] I was invited to Burning Man from an ETH Global event where I've now done two Burning Man's helping up pop-up cities there.
+[0:10:16] And then Zoo Connect right before ETH Global Istanbul gave me a month and a half to start what has now been a year journey living in pop-up cities.
+[0:10:28] And I have definitely not done like I've there is my actions actually have been able to be somewhat slightly documented on chain along the journey.
+[0:10:41] And although I kind of fell into that initial trap of speculation with NFTs and wanting to sell something and thinking that I could use an NFT to raise money and launch something.
+[0:10:52] I actually have changed my own personal narrative where I don't see NFTs or any on chain action from an artist to be something that you would want to speculate or sell.
+[0:11:05] It's actually something that you can spread a good vibration. So rather than speculation I want artists to spread a good vibration on chain.
+[0:11:13] And we'll go into why I think that that's a good vibration after a little bit of just this clip.
+[0:11:21] This is that ETH Mexico 2022. This day before I recorded this video I found out that I was also going to be a DEF CON scholar at DEF CON Bogota in 2022.
+[0:11:42] And use this video cut it up into 12 NFTs and I posted it on the doing good platform which funny I had a kind of somewhat of a streak that I've gone into where I've supported kind of with my art.
+[0:12:01] I've supported three projects that have now failed. So I was jumped with as an artist in the phantom. They're now changing the sonic and that community is dispersed.
+[0:12:12] That was actually somewhat of like a knockoff rape and what Ethereum is. And so then I came into this space and I launched NFTs on doing good.
+[0:12:21] It's not that that project failed. It's just my friend Manu has found other things to do and it's always been about supporting friends who came in and actually his friends are taught me how to make NFTs.
+[0:12:31] So I actually don't see it as failure because actually failure is what makes us better. And so learning from those mistakes. So it's actually I appreciate all the mistakes.
+[0:12:40] And had that I've even made mistakes with this NFT project but I sold this NFT for $200 each and then use that money to buy one ukulele where I gifted either back to the collector and then I also had one ukulele that we gave away at DEF CON.
+[0:13:01] And the first person that bought the NFT was the global team. The second person that bought the NFT was the threshold team.
+[0:13:16] I appreciate everybody. And then also nick.eth bought one before I even got to meet him who's one of the co-founders of DNS. And I did zero marketing, zero Twitter shilling, zero look at buy this.
+[0:13:34] But I was very well supported by the community in the word of mouth because before Ethereum Mexico we also had submitted a DEF CON improvement proposal where we could have a music space at DEF CON.
+[0:13:48] So this picture right here if you see the ukuleles up there in front that's all the ukuleles that were collected because the NFT project did sell out in two weeks and all those NFTs were got for DEF CON.
+[0:14:03] I have a good relationship with the brand Kala. They're good friends and I actually am planning on reaching out to them now to try and get lots of ukuleles here in Chiang Mai that we can bring to DEF CON and then donate somewhere.
+[0:14:14] All these ukuleles were used during DEF CON and then right after DEF CON found a space where we were able to give these ukuleles to the project.
+[0:14:28] These are members of the community who are also there.
+[0:14:37] I don't know if any of you know Clara, but Clara is from China as well. She's an amazing Laura and she played the Hulu Su.
+[0:14:46] So I wish Clara was here, but she's part of the open source orchestra.
+[0:14:50] And that's really what has become what my gift is to the community at this point because it's not my gift, like it's our gift that we give as musicians and creatives.
+[0:15:02] The more similar to Zuzalu, the way Zuzalu has been able to scale in the last two years because of its decentralization it's scaled so much further that now you see four pop-up cities with thousands of people.
+[0:15:16] I've seen the same thing happen with the open source orchestra. As soon as I decentralized it and made it not my own and just like gave it out, it got so much more popular.
+[0:15:27] Everyone accepted it, everyone took it as their own orchestra and now it's grown to be something that carries us around.
+[0:15:36] I call this stuff behind me, the open source orchestra studio.
+[0:15:40] This lecture hall is open for everyone to give lectures. The open source orchestra was founded by those two guys.
+[0:15:47] That was the global co-founder, Kartik, but Yakub and Mateo and I first started jamming in Prague in 2022 and this was Zoo Connect.
+[0:15:56] Thank you.
+[0:15:58] We sang this Zuzalu song for the first time in Istanbul and then that song has changed my life.
+[0:16:10] That's Veronica who's running, hopping without Zuzalu.city and Vitalik was there last night.
+[0:16:16] And we also met with Laili in Turkey that were given to, that was a foundation for kids that are visually impaired and they just fell in love with the music.
+[0:16:26] And this is the lobby of DevConnect Istanbul.
+[0:16:31] And this is India, last December, definitely going to Istanbul hopefully this December.
+[0:16:38] This is the biggest jam and this happened at an ETH global event.
+[0:16:42] Thanks to Denver and then my life has just been pop-up cities ever since.
+[0:16:47] This was Vitalia where I got to learn to do some stage building.
+[0:16:51] Shout out to Thib who helped me out a lot of the nights.
+[0:16:54] We got comfortable on a ladder and then we flew from there straight to ETH Denver where we jammed all night the Hackathon, then London.
+[0:17:02] This was the Texas Eclipse Festival which I hear Mitch is in town and we're going to be doing the pop-up city festival.
+[0:17:09] And then we went to ETH Berlin where we became good friends.
+[0:17:14] Pretty much rehearsal for our...
+[0:17:21] We're going to eat a guitar now, isn't it?
+[0:17:24] Let's all eat.
+[0:17:27] This orchestra is not Chakas.
+[0:17:30] This orchestra is Kuba who you see helping me build this stage who suddenly passed away.
+[0:17:38] This is Chris, the Zuberland founder.
+[0:17:44] And we played the after-party for EUCC.
+[0:17:49] This was in Brussels playing friends.
+[0:17:53] This was the after-party for EUCC with the open-source orchestra.
+[0:17:57] We posted at Zoo Castle that entire time thanks to Maggie and Nicole who are doing Zoo Thailand right after DEVCON.
+[0:18:05] Definitely recommend going there as well as DEVCON because we have a music stage.
+[0:18:10] I was in Georgia but this is the open-source orchestra.
+[0:18:14] This is Vitalio, Dan Balusi from Italy.
+[0:18:19] And we promise to deliver a space this year at the DEVCON panel that will be very open and abrasive.
+[0:18:30] And just like the open-source space itself is.
+[0:18:35] It's a new stop contribution.
+[0:18:38] So what has given me funding in the last year and a half?
+[0:18:43] Good question.
+[0:18:45] A lot of stuff I do make up on the spot.
+[0:18:50] But a lot of stuff I'm able to make up on the spot.
+[0:18:53] Like inspiration from this place.
+[0:18:55] Justin Holmes, who I hope is going to be at DEVCON.
+[0:18:58] This is, we've got DJs coming in here.
+[0:19:05] All with the, oh man.
+[0:19:08] This is the remix team from the EF.
+[0:19:12] This is our second, this is Yaakou.
+[0:19:21] If you have a project.
+[0:19:24] I definitely recommend decentralizing it so that more and more people just starting you around.
+[0:19:32] We're playing tomorrow night. We're playing.
+[0:19:35] I specifically told them to like, they put my name bigger than I asked them.
+[0:19:40] I wanted to make it seem like open-source orchestra.
+[0:19:43] It's our orchestra because like last night or last weekend the guitar was used and all this.
+[0:19:50] We're going to be using our homies DJ equipment this weekend,
+[0:19:54] which you like open-source to even said that as you lent it to me.
+[0:19:57] I'm open-sourcing it.
+[0:19:58] So that's what I like call this equipment here.
+[0:20:01] I like open-source it.
+[0:20:02] I've made it permissionless.
+[0:20:04] And that's what open-source technology is.
+[0:20:06] It's knowledge built on knowledge.
+[0:20:08] How do you change the on-chain narrative as a creator?
+[0:20:11] You want to pretty much give a lecture, create or not even give a lecture,
+[0:20:16] paint a picture, create a song.
+[0:20:19] You want to share.
+[0:20:20] You want to give your artwork and you want to spread a good vibration.
+[0:20:24] And now what that does on chain is you have full validation.
+[0:20:28] Like you get credit.
+[0:20:30] You can create your own token of whatever you want.
+[0:20:33] But the fact is that the focus is about giving and contribution.
+[0:20:37] Not speculation.
+[0:20:38] And what now opens up is ideas of retribution,
+[0:20:41] because we have Gitcoin.
+[0:20:43] We have the hyper-serts.
+[0:20:45] So this year I have not released one NFT.
+[0:20:48] I've not sold a single NFT, but I have lived 100% off crypto
+[0:20:52] that has come to me through retroactive funding,
+[0:20:55] which you can see on optimism, the grants there.
+[0:20:59] And then also through contributing through pop-up cities.
+[0:21:03] I've been hosted all year staying at pop-up cities
+[0:21:06] and getting retroactive funding from the support
+[0:21:09] and the contribution they give.
+[0:21:11] Essentially, that's my thing here.
+[0:21:13] I signed no contract.
+[0:21:14] I made no details, obligation that I'm going to be here every day
+[0:21:18] for Shanghai.
+[0:21:19] I'm doing this with the idea that it will come retroactively
+[0:21:22] because my mentality, which I'll probably give another talk later,
+[0:21:25] which is based off of the circularity, is up of giving.
+[0:21:29] And then receiving is like this energy that I receive
+[0:21:32] on this end is like...
+[0:21:34] I give more.
+[0:21:36] Here, that's like a bench press to give out.
+[0:21:39] If it's like, what's my salary?
+[0:21:41] Take this NFT, sell this, sell this, no.
+[0:21:43] You want to give.
+[0:21:44] So that's how creators can change the on-chain narrative
+[0:21:47] they can give because they're so full of things to give.
+[0:21:51] Your inspiration.
+[0:21:52] That's what was my first token that you did in the thing.
+[0:21:55] This week it's commitment, you know?
+[0:21:58] And so like there's an idea that it takes commitment to also give
+[0:22:01] because sometimes where you're giving is not necessarily the target
+[0:22:06] that you receive but that's the beautiful thing about giving on-chain
+[0:22:09] is because it changes everything.
+[0:22:11] You're giving to the entire circle, the whole network, everything.
+[0:22:14] So you could receive from anyone.
+[0:22:16] You could receive from anything.
+[0:22:18] If you're giving on-chain, you as an artist receive the credit.
+[0:22:21] So I encourage more artists to just think about giving on-chain
+[0:22:24] knowing that you're in power of your content by doing so
+[0:22:28] and focus more on building community
+[0:22:31] and maybe it needs to be free.
+[0:22:34] Maybe it needs to be just a po-app which is a sold-on token
+[0:22:38] which is a whole other discussion that we have sold-on groups to go into
+[0:22:42] but I do believe sold-on tokens are huge
+[0:22:45] and I'm probably getting close to the end of my time
+[0:22:48] but hope to see you all there tomorrow.
+[0:22:50] Aloha and our next speaker.
+[0:22:53] Actually let me hand the microphone over to the organizer of our Creator Week
+[0:22:58] and she has been an awesome sister to me
+[0:23:01] making sure that I'm well taken care of and fed
+[0:23:03] and she's been here many late nights
+[0:23:05] taping up the Ethereum diamond and many things like...
+[0:23:07] Jojo!
+[0:23:08] Okay, okay, since Shaka.
+[0:23:12] And I know the Shaka's topic of our Creator
+[0:23:15] can change the functionality because we say
+[0:23:18] now more and more product city and hack house, hack zone
+[0:23:22] now have more musical music and a lot of...
+[0:23:26] like these stages decorated by Shaka.
+[0:23:31] So I think you already actually changed the...
+[0:23:35] like what's the narrative.
+[0:23:37] Thank you Shaka.
+[0:23:39] And thanks for you give the Shanghai Wu
+[0:23:42] and also Shaka write a song about Shanghai Wu
+[0:23:48] and this all created by her source
+[0:23:52] 100% a magical creator
+[0:23:56] and our next speaker is from the...
+[0:23:59] she will get up about the NGO to the social enterprise.
+[0:24:04] Just welcome.
+[0:30:19] And that's about the project here.
+[0:30:21] And then we have the enterprise
+[0:30:24] which is...
+[0:30:26] I'm still in two years
+[0:30:28] and it's happening in something like
+[0:30:30] which I'm going to be here this year.
+[0:30:32] So a lot of people...
+[0:30:34] I'm gonna say a lot of people
+[0:30:36] in our day-to-day world can talk
+[0:30:39] on different issues that I have
+[0:30:41] given to these guys.
+[0:30:45] And they have been already doing this
+[0:30:47] for a long time to change of people.
+[0:30:49] So here and there we use that
+[0:30:52] and it's like this.
+[0:30:54] And that's why with the social enterprise
+[0:30:57] that is actually using
+[0:30:59] the resource of my name
+[0:31:02] we want people to actually love
+[0:31:04] something that we have
+[0:31:07] but we also need to make a new one
+[0:31:11] and that's called new innovation.
+[0:31:13] I would say like that
+[0:31:15] because we are after the release
+[0:31:17] that's why we can't actually
+[0:31:19] get a new one.
+[0:31:24] And the lot about my name
+[0:31:29] is actually that
+[0:31:31] which I now
+[0:31:33] get to be some shyness
+[0:31:35] because it's with friends
+[0:31:37] that I don't know about.
+[0:31:39] And that's why I'm going to ask you
+[0:31:41] if it's something in the name of my name.
+[0:31:43] It's what we know to get that
+[0:31:45] because we can't promote
+[0:31:47] our work there
+[0:31:49] and even like from friends in India
+[0:31:51] it's not going to be the other way.
+[0:31:53] That's why it's a problem.
+[0:31:55] So we think that
+[0:31:57] to set it up as a company
+[0:31:59] it would be easier
+[0:32:01] like one in 30
+[0:32:08] we don't graduate
+[0:32:10] in school and then we really learn it more
+[0:32:12] in life and actually
+[0:32:14] learning things every day
+[0:32:16] how we can get to the past
+[0:32:18] and change the way
+[0:32:22] that you get
+[0:32:24] that you personally do
+[0:32:26] that kind of thing.
+[0:32:28] It's also lovely right
+[0:32:30] and it's lovely actually
+[0:32:33] because once you're not learning
+[0:32:37] anything new
+[0:32:39] it's like what your side is for
+[0:32:47] right?
+[0:32:49] It's a good problem
+[0:32:52] for university.
+[0:32:54] So if a group
+[0:32:56] out there
+[0:32:58] who doesn't really
+[0:33:00] need a form of information
+[0:33:02] alone
+[0:33:04] in the university
+[0:33:10] and actually
+[0:33:12] that kind of thing
+[0:33:14] right?
+[0:33:16] So this will actually promote
+[0:33:18] different things that
+[0:33:20] enhance your life
+[0:33:22] and whatever questions you have
+[0:33:24] like for me
+[0:33:26] so I actually
+[0:33:28] show people
+[0:33:30] where
+[0:33:32] they can go
+[0:33:34] and they will understand
+[0:33:36] not only us knowing that
+[0:33:41] we know how the side
+[0:33:43] wants to be more like
+[0:33:45] when we see something different
+[0:33:47] I don't like the word where it's like that
+[0:33:49] maybe you might get used to it
+[0:33:55] no power
+[0:34:07] I just like that
+[0:34:13] I would actually be certain
+[0:34:15] that in some part it makes that spicy
+[0:34:17] cool, yeah.
+[0:34:19] I never thought that I would have that
+[0:34:21] in Thailand because I always have it
+[0:34:23] so
+[0:34:25] there are people who like mine
+[0:34:27] and they show their Thailand
+[0:34:29] that who got great
+[0:34:31] at least that actually
+[0:34:33] have that power to be
+[0:34:37] meaningful to them
+[0:34:39] with that power.
+[0:34:55] I never thought that would be a small thing
+[0:34:57] but then they don't like it
+[0:34:59] I think they don't share this with them
+[0:35:01] how they can experience all these differences
+[0:35:03] and then they even have a
+[0:35:05] oh I understand
+[0:35:07] to be a beauty
+[0:35:09] that we can try
+[0:35:11] and see
+[0:35:13] green tea
+[0:35:15] like
+[0:35:17] so it's just
+[0:35:23] a spirit
+[0:35:25] that taught me
+[0:35:27] so
+[0:35:29] in Chiang Mai here
+[0:35:31] we put them in different places
+[0:35:33] like
+[0:35:35] different places
+[0:35:37] in the potent
+[0:35:42] we love our culture
+[0:35:44] and
+[0:35:53] they actually
+[0:35:55] make themselves pretty much
+[0:35:57] the artists
+[0:35:59] that's why they go and take the artists themselves
+[0:36:01] but any of them have some issues
+[0:36:03] that I don't want them to be there
+[0:36:05] that every action of art
+[0:36:07] and action of army and the body
+[0:36:09] will be there
+[0:36:12] and they actually use to be in here
+[0:36:14] where they have things
+[0:36:16] from the artists
+[0:36:18] who sustain that
+[0:36:20] so we do the
+[0:36:22] these things
+[0:36:27] so it's very fun
+[0:36:29] to take it to the chorus
+[0:36:50] and
+[0:36:52] when we did it
+[0:36:54] when I opened the bag
+[0:36:56] of
+[0:36:58] graduate
+[0:37:09] I already did it
+[0:37:11] and we share
+[0:37:15] and that makes it
+[0:37:17] actually a big thing
+[0:37:19] and that's why I would help
+[0:37:21] and
+[0:37:23] we have a big outline
+[0:37:25] and that's why
+[0:37:27] the body
+[0:37:29] will be there
+[0:37:35] people that
+[0:37:37] are birds
+[0:37:39] so it's like
+[0:37:41] it's a big thing
+[0:37:47] if you want to
+[0:37:52] or if you want to
+[0:37:58] it's a big thing
+[0:38:00] but as I said
+[0:38:02] if we only
+[0:38:08] try to open the voice
+[0:38:14] this won't work
+[0:38:16] what do you find in the voice
+[0:38:18] moving into the voice
+[0:38:44] or do you think it's not that
+[0:38:46] so you see it as a path
+[0:38:48] and that can be purchased
+[0:38:50] so we do it at night
+[0:38:52] the day
+[0:38:54] at that whole day
+[0:38:59] so that's why on Thursday
+[0:39:01] we do the photo shoot
+[0:39:05] and it's all cool
+[0:39:07] we're going to look out
+[0:39:13] and I think also
+[0:39:28] there's everything we need to
+[0:39:30] we're going to do this
+[0:39:34] a lot of people
+[0:39:36] open it
+[0:39:43] and it's nice and clean
+[0:39:45] we're going to get it done initially
+[0:39:47] we're going to get it done
+[0:39:49] and it's here
+[0:39:51] we're going to call
+[0:39:53] the restaurant
+[0:39:55] and it's cool
+[0:39:59] so who would you be meeting with
+[0:40:01] we can bring you to the hotel
+[0:40:06] we want to go there and take you there
+[0:40:14] and that's how we want
+[0:40:16] people to know
+[0:40:18] about themselves
+[0:40:25] people like to see
+[0:40:29] and learn about communities
+[0:40:36] be different
+[0:40:38] be significant
+[0:40:44] be like ours and bring
+[0:41:07] on to sign the power
+[0:41:09] and so on
+[0:41:11] it's a standard power
+[0:41:17] obviously you have
+[0:41:31] people who get there
+[0:41:37] from the house
+[0:41:39] many of them
+[0:41:41] from the house
+[0:41:43] and those from the house
+[0:41:47] from that time here to three years
+[0:41:49] a year ago
+[0:41:51] so a plan actually
+[0:41:53] right here
+[0:41:55] and then you make
+[0:42:25] the house and so on
+[0:42:34] we have a plan
+[0:42:37] and we have a plan
+[0:42:46] and you show
+[0:42:48] you want to go to school again
+[0:42:53] and you want to understand
+[0:42:59] very much
+[0:43:03] of these staff
+[0:43:14] people
+[0:43:46] you will learn about
+[0:43:54] the community
+[0:44:02] that's about being born
+[0:44:04] that's how you make sure
+[0:44:06] you have the people
+[0:44:34] that you already have
+[0:44:36] you want to go to school
+[0:44:38] you want to go to school
+[0:44:40] you want to go to school
+[0:44:42] you want to go to class
+[0:46:51] and at school
+[0:46:56] you want to do
+[0:46:58] you want to go to campus
+[0:47:00] to go to school
+[0:47:02] you want to go to the community
+[0:47:22] that's about it
+[0:47:42] I'm interested in the topic
+[0:59:22] first
+[0:59:24] I want to tell you
+[0:59:28] what do you know about
+[0:59:30] the human history
+[0:59:32] in the process of development
+[0:59:34] it's deep inside
+[0:59:36] about this kind of freedom
+[0:59:38] This word of the book was used in the age of history.
+[0:59:41] It was often used to refer to men and the Central Asia of Europe.
+[0:59:47] It was often used to cover some of the people of the country's civil rights government.
+[0:59:53] They would go to some very exotic and meaningful remote areas to learn the Taoism.
+[0:59:59] The Taoism was often used to refer to the Middle East, the Middle East,
+[1:00:05] And the Pacific Island, these are the non-white people,
+[1:00:10] non-ethnic, and non-ethnic men.
+[1:00:14] And if we put it in the context of a certain life or a certain life,
+[1:00:21] of course, the purpose is what we call it,
+[1:00:25] or we call it a certain life or a certain life.
+[1:00:30] And then we put it in the context of the most familiar people in China.
+[1:00:37] This is what we call a non-native culture,
+[1:00:40] or a non-native culture,
+[1:00:41] not a non-white culture, a non-ethnic person.
+[1:00:44] The reason I want to say this is because
+[1:00:48] in the current economic and political environment,
+[1:00:54] many of the rules of the West are changing.
+[1:00:58] What is self? What is non-ethnic?
+[1:01:00] It is also facing many challenges.
+[1:01:03] And the way of life of the non-native people is new.
+[1:01:06] Or the way of life of everyone's work and life
+[1:01:09] is changing in terms of digitalization and modernization.
+[1:01:14] And in addition to my field,
+[1:01:17] many of my friends and I know a lot about it,
+[1:01:20] like fast chain and crypto.
+[1:01:23] These changes in the world have been a challenge for our lives.
+[1:01:26] So the so-called definition and humor,
+[1:01:29] these concepts should also have some changes.
+[1:01:32] This is why I am interested in this topic.
+[1:01:38] So we can think about what we will think about
+[1:01:41] when we think of the refugees.
+[1:01:42] As Chinese, we might think of...
+[1:01:46] we might think of the murderers, right?
+[1:01:47] They have a kind of wildness that is not controlled.
+[1:01:52] They have a kind of freedom of expression,
+[1:01:54] and it seems that they are not controlled.
+[1:01:56] In fact, these conversations
+[1:01:58] are with these romantic views
+[1:02:01] and these ideas about the distant future.
+[1:02:05] From a traditional academic point of view,
+[1:02:08] there are four categories for refugees.
+[1:02:13] The first one is pastoralism.
+[1:02:15] What we are talking about is the direction of the refugees.
+[1:02:18] The direction of the refugees is the direction of the refugees.
+[1:02:21] So they might change their way of life
+[1:02:23] by changing their way of life.
+[1:02:25] They might change their way of life
+[1:02:27] by changing their way of life.
+[1:02:29] We call it pastoralism.
+[1:02:31] The second category is the so-called
+[1:02:36] so-called distant future.
+[1:02:40] We can think of it as a kind of pastoral life.
+[1:02:43] This category may not necessarily be controlled or controlled.
+[1:02:46] It might be controlled.
+[1:02:48] The third category is called shifting conservators.
+[1:02:51] I don't know how to put it in Chinese.
+[1:02:53] They might change their way of life
+[1:02:54] by changing their way of life.
+[1:02:57] They might change their way of life
+[1:02:59] by changing their way of life.
+[1:03:01] We can think of it as
+[1:03:03] a kind of pastoral life that might not necessarily be controlled.
+[1:03:05] I will change my way of life.
+[1:03:06] They might call it semi-nomadic.
+[1:03:09] The fourth category is
+[1:03:11] this might have something to do with
+[1:03:14] the number of refugees in our country.
+[1:03:16] This is the kind of refugee in our city.
+[1:03:19] This is the kind of refugee in Europe.
+[1:03:22] The fourth category is the British society.
+[1:03:27] We can call it the little street food.
+[1:03:32] Their way of life, their way of economy,
+[1:03:35] their way of life,
+[1:03:36] is also a kind of street wear.
+[1:03:38] You can't keep it for a long time.
+[1:03:40] These are the four categories.
+[1:03:43] But why do these four categories have a problem?
+[1:03:48] First of all, it is a very complicated way of life
+[1:03:53] or the way of life.
+[1:03:55] This is a very, very
+[1:03:57] misty concept.
+[1:03:59] Chinese people may be more familiar with the word misty.
+[1:04:03] This is the definition of the economy
+[1:04:07] or the definition of the society.
+[1:04:09] This is the most comprehensive concept.
+[1:04:12] But this is often a problem.
+[1:04:15] We can see that the definition of the economy
+[1:04:18] is all about the way of economy.
+[1:04:21] Or the way of life.
+[1:04:25] But why does this have a problem?
+[1:04:27] Because it has changed our life.
+[1:04:31] We think about our own life.
+[1:04:33] If others only understand you through your work,
+[1:04:37] through your clear relationship,
+[1:04:39] through your life,
+[1:04:41] through your social responsibility,
+[1:04:43] you will not be able to see it all.
+[1:04:47] You have a lot of your inner struggle,
+[1:04:49] your dreams, your emotions,
+[1:04:51] these things have been changed.
+[1:04:54] Why do you have a family?
+[1:04:56] If you have a family with a family of friends,
+[1:04:58] or if you are a family member,
+[1:05:00] you will be pressured to do this.
+[1:05:02] This is because our income is gradually reduced,
+[1:05:04] and we are all reduced to a
+[1:05:06] the most average way of income.
+[1:05:08] And the way we live is
+[1:05:10] being killed by the silence.
+[1:05:12] This is why
+[1:05:14] modern people and scholars
+[1:05:16] will be the most organized
+[1:05:18] way of life or the economy
+[1:05:20] in the most comprehensive way.
+[1:05:22] I don't think they can respond to the public's reaction to the society's life.
+[1:05:32] There are many things that can't be represented by these names.
+[1:05:40] The other question is, are all of them the same type of society?
+[1:05:50] For example, in the case of Hasegawa, they are all the same type of society.
+[1:05:56] In the case of the different types of society, they are all the same type of society.
+[1:06:03] This is what I just said.
+[1:06:07] This picture is a photo of Hasegawa's tombstone.
+[1:06:13] Hasegawa's tombstone was made in the spring of the year.
+[1:06:19] It was taken by a soldier.
+[1:06:23] This photo was taken by me, so I didn't write the source.
+[1:06:29] I want to express this point.
+[1:06:33] The image of the tombstone is the image of the world.
+[1:06:39] It is all being distorted.
+[1:06:41] It is the economic aspect.
+[1:06:43] The second is the political aspect.
+[1:06:45] According to the traditional history of the tombstone,
+[1:06:49] people usually have a kind of general understanding of the society.
+[1:06:55] They may be more equal.
+[1:06:57] Their political structure will be more flat.
+[1:07:01] The level of the tombstone is not so strict.
+[1:07:05] It can't be said that it is absolutely wrong,
+[1:07:07] but it is actually the image of the tombstone.
+[1:07:11] If we put it in a more familiar Chinese perspective,
+[1:07:15] why is there a strong conflict between the Mongolian and the Mongolian civilization?
+[1:07:27] It is because the ancient Chinese civilization was established
+[1:07:29] as a political system.
+[1:07:31] It was mainly divided according to the structure of the tombstone
+[1:07:35] and the structure of the tombstone.
+[1:07:37] This system was controlled by the people.
+[1:07:41] It is very difficult to control the life of the tombstone.
+[1:07:45] It is controlled under a very good surveillance and control.
+[1:07:49] Therefore, if they are not controlled,
+[1:07:53] they will be created into a very wild existence.
+[1:07:59] This is what we are familiar with.
+[1:08:01] The third is the social culture.
+[1:08:03] It is related to politics.
+[1:08:07] It is about strengthening the freedom of the people.
+[1:08:13] It is more balanced and not controlled.
+[1:08:17] It seems that the so-called freedom of life is very strong.
+[1:08:23] But is it actually like this?
+[1:08:25] This is not certain.
+[1:08:27] Maybe we have a illusion of the name of the tombstone.
+[1:08:31] It is said that the men and women are equal.
+[1:08:33] But is it like this?
+[1:08:35] The tombstone is different.
+[1:08:37] We cannot be united or united.
+[1:08:39] Because my research is not in China,
+[1:08:43] I am not only an example of China.
+[1:08:45] For example, some tombstones of the Western Bedouin people
+[1:08:47] and some tombstones of the Western concubines.
+[1:08:49] There is no such situation in the Western Bedouin people.
+[1:08:51] For example, some tombstones of Africa
+[1:08:53] and the women's isolation are more serious.
+[1:08:55] We cannot discuss these things one by one.
+[1:08:57] The overall concept of the tombstone
+[1:09:01] is a kind of romance.
+[1:09:03] It is a kind of fantasy.
+[1:09:05] You can go forward.
+[1:09:07] So we have a lot of problems in this illusion.
+[1:09:13] Other than what I said earlier,
+[1:09:15] it is more advanced and more superficial.
+[1:09:17] In fact, it is more advanced.
+[1:09:19] What is the prejudice?
+[1:09:25] We have to think about the economic, politics, and culture.
+[1:09:31] We have to think about all of them.
+[1:09:33] But in fact,
+[1:09:35] these words are used in our career
+[1:09:37] or in the present time.
+[1:09:39] It is actually a very recent change.
+[1:09:45] For example, the word economy
+[1:09:47] is translated from English to Japan
+[1:09:49] and then from Japan to China.
+[1:09:51] In fact, the word economy
+[1:09:53] is not only about the economy now.
+[1:09:55] The economy at the beginning
+[1:09:57] refers to efficiency or cleanliness.
+[1:09:59] So in English,
+[1:10:01] we have an expression
+[1:10:03] called something is described with economy.
+[1:10:05] It is something that has been written
+[1:10:09] for a very long time.
+[1:10:11] For example, the word economy
+[1:10:13] is very detailed.
+[1:10:15] It is described with economy.
+[1:10:17] Later on, in the 18th and 19th centuries,
+[1:10:19] the word economy
+[1:10:21] was converted into
+[1:10:23] something that could be calculated.
+[1:10:25] In the 18th and 19th centuries,
+[1:10:27] economy became
+[1:10:29] a part of society that could be calculated.
+[1:10:31] It is all about economy.
+[1:10:33] So these things are very recent.
+[1:10:35] If we
+[1:10:37] go
+[1:10:39] to explore
+[1:10:41] the roots of some of the words behind the word
+[1:10:43] economy, it is not
+[1:10:45] something that has existed since ancient times.
+[1:10:47] So it seems that
+[1:10:49] we have to think about
+[1:10:51] the concept of
+[1:10:53] modernization
+[1:10:55] and the concept of
+[1:10:57] the perspective of the central center
+[1:10:59] of the world
+[1:11:01] on our thoughts,
+[1:11:03] on this kind of future,
+[1:11:05] or on a kind of pattern.
+[1:11:18] So we will
+[1:11:20] go back
+[1:11:22] to the scientific
+[1:11:24] point of view.
+[1:11:26] What are
+[1:11:28] the above assumptions in the scientific
+[1:11:30] perspective?
+[1:11:32] One is
+[1:11:34] that everybody is
+[1:11:36] There is a kind of imagination.
+[1:11:38] It seems to be a progress in the direction from the tomb to the tomb.
+[1:11:44] It seems that we may be in the period of medical education.
+[1:11:49] If you are studying in China,
+[1:11:51] I would say that if in the period of medical education
+[1:11:54] we received a kind of...
+[1:11:56] from the sword to the fire,
+[1:11:57] to the tomb to the life,
+[1:11:59] it seems to be a step forward.
+[1:12:01] It is a progress imagination.
+[1:12:03] It seems that the so-called production efficiency has increased.
+[1:12:05] It is a kind of progress performance.
+[1:12:07] The so-called progress,
+[1:12:09] whether it is a progress or not,
+[1:12:11] is good.
+[1:12:12] What is good?
+[1:12:13] I think these can be doubted.
+[1:12:15] So first, there is a first point.
+[1:12:18] From the tomb to the tomb,
+[1:12:21] it is a kind of progress imagination.
+[1:12:23] We need to reflect on this.
+[1:12:25] The second is the traditional learning.
+[1:12:28] There is a kind of nomadism in the tomb.
+[1:12:31] There is a kind of...
+[1:12:33] there is a kind of summary of the decline theory.
+[1:12:37] This is the way of life.
+[1:12:39] It is destined to disappear.
+[1:12:41] It cannot adapt to the current social rhythm.
+[1:12:43] It cannot adapt to the so-called industrialized society.
+[1:12:45] So it must go to a decline.
+[1:12:47] From a certain point of view,
+[1:12:49] it is not wrong.
+[1:12:50] Because if you take this as a certain existence,
+[1:12:53] it cannot be changed.
+[1:12:55] It will definitely be changed.
+[1:12:57] But the scale of our life is changing.
+[1:13:00] Even if we think about it ten years ago,
+[1:13:02] we...
+[1:13:03] I was in Thailand ten years ago,
+[1:13:05] but I did not grab it.
+[1:13:07] But in fact, in the tomb society,
+[1:13:10] I will make an example with the background of AIDS.
+[1:13:13] In fact, they are also
+[1:13:15] very active in this kind of interaction and interaction
+[1:13:18] with this kind of world.
+[1:13:21] It does not seem to exist in a vacuum bubble.
+[1:13:24] It does not have any interaction
+[1:13:26] with other political and economic relations in this world.
+[1:13:31] They are actually in different...
+[1:13:33] They are actually...
+[1:13:35] We cannot call them...
+[1:13:37] They are part of this world, this world,
+[1:13:39] this world,
+[1:13:42] this world,
+[1:13:44] and all the different levels of communication
+[1:13:46] and interaction in this kind of society.
+[1:13:48] We cannot say that it is destined to disappear.
+[1:13:50] Because we say that the premise of it is
+[1:13:52] that you take this as a certain thing
+[1:13:54] that cannot be changed.
+[1:13:56] And the third one is what I just said.
+[1:13:58] All these concepts,
+[1:14:00] actually, behind me, there is an hospital.
+[1:14:02] These hospitals can actually be traced
+[1:14:04] from the 15th to the 18th century.
+[1:14:08] Before the earthquake,
+[1:14:10] this kind of...
+[1:14:12] This kind of civilization expansion
+[1:14:14] can be traced back to that time.
+[1:14:16] In fact, it is not a more unusual
+[1:14:18] or selfish existence.
+[1:14:25] Next, I would like to talk about
+[1:14:27] how to break this kind of
+[1:14:31] screen-to-screen life
+[1:14:33] that is not related to the world
+[1:14:36] and exists in a distant bubble.
+[1:14:39] This kind of phenomenon.
+[1:14:42] How to struggle,
+[1:14:43] and how to put the screen-to-screen life,
+[1:14:45] or the screen-to-screen life,
+[1:14:47] the life that is destined to disappear
+[1:14:49] into our world today.
+[1:14:52] I would like to start with two points of view.
+[1:14:58] The first one is
+[1:15:00] the background music of the Arabian Peninsula.
+[1:15:04] I mainly used a work
+[1:15:07] by Emmanuel Marx,
+[1:15:09] an Israeli scholar.
+[1:15:11] The work includes
+[1:15:13] some of my own experiences.
+[1:15:15] When I was in the city,
+[1:15:17] I went to the West Bank of Egypt
+[1:15:20] to make my city,
+[1:15:22] and I spent some time
+[1:15:24] living there.
+[1:15:26] The second one is
+[1:15:28] the current digital currency
+[1:15:31] or the other non-traditional
+[1:15:33] way of life.
+[1:15:35] From these two points of view,
+[1:15:37] I would like to start with you
+[1:15:39] and discuss this issue.
+[1:15:45] First, let's take a look
+[1:15:47] at the background music of the Arabian Peninsula.
+[1:15:50] This map is very big.
+[1:15:52] You can see that
+[1:15:54] I didn't find a new
+[1:15:56] background music.
+[1:15:59] I will talk about the background music later.
+[1:16:01] The background music
+[1:16:03] is not well-designed.
+[1:16:05] Because the Middle East
+[1:16:07] is more complicated,
+[1:16:09] I invested more money
+[1:16:11] into some of the current problems,
+[1:16:13] such as political economy.
+[1:16:15] There are few new ones.
+[1:16:17] This map was made
+[1:16:19] a long time ago,
+[1:16:21] around 1950.
+[1:16:23] You can see the red sea
+[1:16:25] and the Arabian Peninsula.
+[1:16:27] This red sea
+[1:16:29] is a little bit above
+[1:16:31] and there is a place
+[1:16:33] dedicated to the Arabian Peninsula.
+[1:16:35] We can see
+[1:16:37] that the so-called
+[1:16:39] background music
+[1:16:41] is very wide.
+[1:16:43] It belongs to an umbrella term.
+[1:16:45] It is a concept
+[1:16:47] that cannot be covered
+[1:16:49] and summarized.
+[1:16:51] First of all, it is not
+[1:16:53] a national identity.
+[1:16:55] If you want to find a common point,
+[1:16:57] they all speak Arabic.
+[1:16:59] The Arabic they speak
+[1:17:01] are all different.
+[1:17:03] The concept itself
+[1:17:05] is very worth
+[1:17:10] looking at.
+[1:17:12] From the source,
+[1:17:14] Bedouin and his own
+[1:17:16] meaning
+[1:17:18] is the meaning of
+[1:17:20] Arabic.
+[1:17:22] Bedouin comes from
+[1:17:24] the word Bedouin
+[1:17:26] and Arabic is the same meaning.
+[1:17:28] Why did Bedouin
+[1:17:30] come from the word Bedouin?
+[1:17:32] One of the most popular
+[1:17:34] words is
+[1:17:36] Bedouin
+[1:17:38] is a word
+[1:17:40] that is not
+[1:17:42] the same as the Arabic.
+[1:17:44] In fact, it has
+[1:17:46] a comparison
+[1:17:48] with another word.
+[1:17:50] This word is
+[1:17:52] the meaning
+[1:17:54] of our so-called
+[1:17:56] definition of civilization.
+[1:17:58] In the 19th century
+[1:18:00] in the 19th century
+[1:18:02] in fact,
+[1:18:04] the two
+[1:18:06] of the two
+[1:18:18] were born
+[1:18:20] out of the
+[1:18:22] the
+[1:18:23] the
+[1:18:26] the
+[1:18:28] the
+[1:18:30] the
+[1:18:32] the
+[1:18:34] the
+[1:18:36] the
+[1:18:38] the
+[1:18:40] the
+[1:18:42] the
+[1:18:44] the
+[1:18:46] in order to distinguish those who are not controlled,
+[1:18:50] who are far from the center of power.
+[1:18:52] Maybe they are more complex,
+[1:18:54] maybe they have more people,
+[1:18:55] maybe they have more guns.
+[1:18:56] Those who are not controlled,
+[1:18:58] they call them Bedouins.
+[1:18:59] And then those who have been
+[1:19:02] so-called the so-called British
+[1:19:05] and the British government
+[1:19:07] who are in charge of these people
+[1:19:10] who are in charge of these people,
+[1:19:11] they call them Fallen.
+[1:19:12] And then this is some
+[1:19:14] some of the scholars in the Middle East
+[1:19:18] are more willing to talk about it.
+[1:19:20] So this division
+[1:19:22] is mainly about power.
+[1:19:24] This is very interesting.
+[1:19:26] We can think of
+[1:19:28] the so-called political
+[1:19:30] and economic production
+[1:19:32] as a so-called objective division.
+[1:19:34] In fact, they can't stand still.
+[1:19:36] In fact, the most fundamental
+[1:19:38] is the so-called center
+[1:19:40] for the border control.
+[1:19:42] Whether it is under the rule of power.
+[1:19:46] And then around Bedouins' identity
+[1:19:49] in the current era,
+[1:19:50] there are a lot of these typical
+[1:19:53] general and current stereotypes.
+[1:19:56] That's a fake, right?
+[1:19:57] For example, Bedouins
+[1:19:58] they will think they are more complex
+[1:20:00] than the general IG,
+[1:20:02] they will think they are more complex than the general IG.
+[1:20:04] They will not say the IG dialect.
+[1:20:06] They say Poussa.
+[1:20:07] This is a Gu Lanjin
+[1:20:09] They use the typical Arabic language or the Arabic language of this year.
+[1:20:17] They have a strong sense of self-sufficiency in Western culture.
+[1:20:23] They say, we are different from Asians.
+[1:20:27] We are very honest and we won't cheat on you.
+[1:20:30] They will emphasize this kind of identity in their lives.
+[1:20:33] This may be a way for them to fight with tourists.
+[1:20:38] But they will be very self-sufficient.
+[1:20:40] They are very different from the Asians in other languages.
+[1:20:44] They will be proud of this.
+[1:20:46] This is a relatively small map of the Western peninsula.
+[1:20:55] You can see that it is very close to the Jashar area.
+[1:20:59] Jashar is located in the Rafa area.
+[1:21:02] I said it yesterday that it is located in the eastern corner of Dahab.
+[1:21:10] In the northern part of Dahab, foreigners are not allowed to enter the area.
+[1:21:15] They need to be specially allowed to enter the area.
+[1:21:18] There are some military forces and armed forces.
+[1:21:22] From the south, you can see the center point, Santa Catarina.
+[1:21:28] There is a famous monastery in San Caesarean.
+[1:21:32] It is a place where the magic of magic was born in the legend.
+[1:21:37] This is the boundary line in the south.
+[1:21:39] In the northern part of Dahab, there are still armed forces.
+[1:21:43] In the south, you can see the border line.
+[1:21:48] From Taba to Nueva to Dahab.
+[1:21:51] In the south, there are a lot of foreign activities.
+[1:21:55] There is also a safe area.
+[1:21:57] The Western Bedouin people are mainly...
+[1:22:01] The so-called economic groups have so many kinds.
+[1:22:05] One is to be a laborer.
+[1:22:10] They can't be called immigrants.
+[1:22:12] Because they are still working in the Western Bedouin.
+[1:22:16] As a laborer, there are a lot of foreigners like Dahab.
+[1:22:23] They can work as a guide or driver.
+[1:22:26] They can also work as a water coach.
+[1:22:31] Some people go to the IZI, to the Lohueya Mountains.
+[1:22:36] Now, some people go to the overseas countries.
+[1:22:39] But there are very few.
+[1:22:40] They don't belong to the local community.
+[1:22:43] The other two are more traditional.
+[1:22:45] They work as a guide.
+[1:22:47] They also sell food.
+[1:22:49] These two are hard to separate.
+[1:22:52] I'll draw another one.
+[1:22:57] As a laborer,
+[1:23:01] the Bedouin people...
+[1:23:05] They are only part of their culture.
+[1:23:09] They are not only a kind of economic activity.
+[1:23:14] They also have a family order.
+[1:23:16] They also have an image of their family.
+[1:23:19] They also have a sense of belonging.
+[1:23:21] They all have a deep influence.
+[1:23:24] This is the quote I just said.
+[1:23:30] The Bedouin people are very close to the IZI government.
+[1:23:34] They are very sensitive.
+[1:23:37] They are very familiar with the Middle East.
+[1:23:40] In the 6th war, the IZI and the IZI,
+[1:23:42] the IZI and the IZI were very close to the IZI.
+[1:23:46] Until 1989, the IZI and the IZI were very close to the IZI government.
+[1:23:50] Until now, the IZI and the IZI government
+[1:23:52] are very close to the IZI.
+[1:23:54] They also have the strength of the IZI.
+[1:23:57] They also have the military and the IZI,
+[1:24:00] the three of which have a very strong influence on the IZI.
+[1:24:03] It's a very strong position for them.
+[1:24:07] The IZI government is very reluctant to see the Bedouin people.
+[1:24:14] They think it's difficult for the Bedouin people to control.
+[1:24:18] The Bedouin people generally refuse to participate.
+[1:24:21] and they didn't want to pay taxes.
+[1:24:23] There was a very interesting point.
+[1:24:25] At that time, I was no longer in Dahab,
+[1:24:29] but according to my friend,
+[1:24:30] because the election was before the election,
+[1:24:32] and after the election,
+[1:24:34] they had to come back to collect taxes.
+[1:24:36] Dahab and some other
+[1:24:39] small towns in Xinai and Beidou
+[1:24:41] when the officials came to collect taxes,
+[1:24:44] they didn't even open the door
+[1:24:47] and they didn't even open the door.
+[1:24:49] The doors were tightly closed.
+[1:24:51] When they came to collect taxes,
+[1:24:53] they closed the door and closed the door.
+[1:24:55] It was a very wild place.
+[1:24:57] And they had their own reasonable standards.
+[1:24:59] For example,
+[1:25:01] they didn't think it was a shame
+[1:25:04] to be arrested because of leaving.
+[1:25:07] There were even some men at home
+[1:25:10] who were arrested because of leaving.
+[1:25:12] When they came back,
+[1:25:14] the whole family would pick them up
+[1:25:16] and they would open a party at home.
+[1:25:18] They didn't follow the rules
+[1:25:20] of the government.
+[1:25:22] So the government of the government
+[1:25:24] was very headache.
+[1:25:28] These are some pictures.
+[1:25:30] This is their landing competition.
+[1:25:32] I didn't take this, so I wrote it.
+[1:25:34] I want to share with you
+[1:25:40] two words.
+[1:25:43] The first one is the culture of Beidou,
+[1:25:45] which is described by other people.
+[1:25:47] The first one is the language of Fuca.
+[1:25:49] This word cannot be called a job.
+[1:25:51] We can call it
+[1:25:53] what we call
+[1:25:55] we can call it a job
+[1:25:57] or we can call it
+[1:25:59] earning money or a job.
+[1:26:01] Any kind of
+[1:26:03] economic resources
+[1:26:05] that can support our lives
+[1:26:07] can be called a job.
+[1:26:09] In English, we can call it a hustle.
+[1:26:11] For a man of Beidou,
+[1:26:14] this kind of activity
+[1:26:17] as long as you can earn cash income
+[1:26:20] and get cash income,
+[1:26:22] they won't think that
+[1:26:24] some jobs are more serious
+[1:26:26] or some jobs are not.
+[1:26:28] They will think that
+[1:26:30] as long as you can earn money,
+[1:26:32] you can do anything.
+[1:26:35] Their definition of work
+[1:26:37] is also very wide.
+[1:26:39] I think this can be linked
+[1:26:41] to the lives of the people of Beidou.
+[1:26:43] Because many people
+[1:26:45] in their working conditions
+[1:26:47] are not stable.
+[1:26:49] They may have to work
+[1:26:51] and earn income.
+[1:26:53] This is especially
+[1:26:55] more obvious
+[1:26:57] in the world after COVID-19.
+[1:26:59] It can be linked to
+[1:27:01] a lot of important topics
+[1:27:03] such as platform economy
+[1:27:05] and labor exchange.
+[1:27:07] I think
+[1:27:09] there are a lot of reflections.
+[1:27:11] The second one
+[1:27:14] is Dar.
+[1:27:16] This is not a standard
+[1:27:18] or a standard approach
+[1:27:20] for the family.
+[1:27:22] They understand
+[1:27:25] Dar is not just
+[1:27:27] a place of physics.
+[1:27:29] It surpasses
+[1:27:31] the space of physics.
+[1:27:33] Instead,
+[1:27:34] from their source
+[1:27:35] to their birth
+[1:27:36] to their social relationship
+[1:27:38] and to the connection
+[1:27:40] between the two.
+[1:27:42] The students of the school
+[1:27:44] are all
+[1:27:46] their family.
+[1:27:48] We can connect
+[1:27:50] our lives.
+[1:27:52] When you think about the home
+[1:27:54] or your family,
+[1:27:56] many friends here
+[1:27:58] don't live in their own
+[1:28:00] children's homes.
+[1:28:02] What do we think about
+[1:28:04] when we think about our home?
+[1:28:06] For example,
+[1:28:08] I lived in London
+[1:28:10] and Singapore on both sides.
+[1:28:12] When I think about my home,
+[1:28:14] I don't know.
+[1:28:15] I've been living in a rented house.
+[1:28:17] I don't have the space to think about it.
+[1:28:19] I think about my friends here
+[1:28:21] or my social relationships here.
+[1:28:23] I've built a fixed life here.
+[1:28:25] This is my home.
+[1:28:26] But what is my home?
+[1:28:28] Where is it?
+[1:28:29] I can't say.
+[1:28:31] I think that
+[1:28:33] in the modern
+[1:28:35] life,
+[1:28:37] it's not lonely.
+[1:28:39] Even if we don't
+[1:28:41] put the number of people in the world,
+[1:28:43] even if we look at
+[1:28:45] the young people
+[1:28:47] of Beijing, Shanghai,
+[1:28:49] and China,
+[1:28:51] in the modern
+[1:28:53] life,
+[1:28:55] many lives are very changing.
+[1:28:57] There's no fixed
+[1:28:59] life.
+[1:29:01] We have to continue
+[1:29:03] our lives
+[1:29:05] with the so-called
+[1:29:07] family image.
+[1:29:09] This may be
+[1:29:10] for many of us,
+[1:29:12] before the age of 40 or 50,
+[1:29:14] we would live like this.
+[1:29:17] This picture is
+[1:29:21] a photographer's photo.
+[1:29:23] This is their park.
+[1:29:24] This place
+[1:29:25] actually has a lot of agriculture.
+[1:29:27] Because it has underground water.
+[1:29:28] Just like what we just said,
+[1:29:30] even though they were designated
+[1:29:32] as pastoral nomads,
+[1:29:33] they were named
+[1:29:35] as the nomads.
+[1:29:36] Their life,
+[1:29:37] their economy
+[1:29:38] is actually far away.
+[1:29:39] Actually, it's not a place
+[1:29:41] that is not fixed.
+[1:29:46] This is
+[1:29:48] my photo.
+[1:29:49] So I didn't write the source.
+[1:29:51] This is a green area
+[1:29:52] near the Sahab.
+[1:29:54] And that little room
+[1:29:55] is their...
+[1:29:57] This is
+[1:29:58] one of the closed system.
+[1:30:00] It still lights up like this.
+[1:30:02] Look at that.
+[1:30:03] There's a pool.
+[1:30:05] It's very beautiful.
+[1:30:06] There's also a...
+[1:30:07] They also made
+[1:30:08] a Mojica sauna.
+[1:30:10] After this period,
+[1:30:11] it's no longer a park.
+[1:30:12] It's mainly
+[1:30:14] an eco-village.
+[1:30:17] This is
+[1:30:18] a two-hour drive
+[1:30:20] from the Sahab.
+[1:30:21] They
+[1:30:23] will do
+[1:30:24] eco-stage
+[1:30:25] activities
+[1:30:26] once a month.
+[1:30:27] It's completely
+[1:30:28] different from the
+[1:30:29] solar panels.
+[1:30:31] The solar panels
+[1:30:32] and the water
+[1:30:34] are all underground water.
+[1:30:39] And I want to...
+[1:30:40] We just talked about
+[1:30:41] economic production.
+[1:30:42] And I want to
+[1:30:43] contact
+[1:30:44] the current
+[1:30:45] international politics
+[1:30:47] to
+[1:30:49] break through
+[1:30:50] the so-called
+[1:30:52] life of the so-called
+[1:30:54] world
+[1:30:55] or the so-called
+[1:30:57] world situation
+[1:30:58] that doesn't belong to them.
+[1:30:59] They are
+[1:31:00] just
+[1:31:01] or meaningless.
+[1:31:02] This idea
+[1:31:03] of breaking through
+[1:31:05] the so-called
+[1:31:06] life of the so-called
+[1:31:08] world
+[1:31:09] is
+[1:31:10] very serious.
+[1:31:12] I just mentioned
+[1:31:13] that
+[1:31:14] the Sahab
+[1:31:15] is very close to the Sahab.
+[1:31:17] And
+[1:31:18] back to
+[1:31:19] the political
+[1:31:20] image
+[1:31:21] that we just talked about.
+[1:31:22] Actually,
+[1:31:23] although I have always said
+[1:31:24] that the Sahab
+[1:31:25] is divided
+[1:31:26] into many
+[1:31:27] countries
+[1:31:28] in which
+[1:31:29] the Sahab
+[1:31:30] is divided into
+[1:31:31] many countries.
+[1:31:32] Many Sahab
+[1:31:33] are
+[1:31:34] the Sahab of Israel.
+[1:31:35] So
+[1:31:36] their life
+[1:31:37] and their identity
+[1:31:38] will
+[1:31:39] become a bit
+[1:31:40] awkward.
+[1:31:42] And
+[1:31:43] even if
+[1:31:44] they are not
+[1:31:45] the Sahab
+[1:31:46] of Israel
+[1:31:47] they are not
+[1:31:48] as close
+[1:31:49] to the
+[1:31:50] Sahab
+[1:31:51] as they are
+[1:31:52] to the Sahab.
+[1:31:53] But
+[1:31:54] in their life
+[1:31:55] they are
+[1:31:56] closer to
+[1:31:57] the Sahab
+[1:31:58] than
+[1:31:59] the Sahab
+[1:32:00] of Israel.
+[1:32:01] When
+[1:32:02] the Sahab
+[1:32:03] is in the Sahab
+[1:32:04] and
+[1:32:05] in those
+[1:32:06] two weeks
+[1:32:07] the atmosphere
+[1:32:08] of the Sahab
+[1:32:09] will be very strange.
+[1:32:10] But
+[1:32:11] the people
+[1:32:12] of the Sahab
+[1:32:13] of Israel
+[1:32:14] have a very big reaction
+[1:32:15] to this.
+[1:32:16] And
+[1:32:17] they
+[1:32:18] post on
+[1:32:19] Instagram
+[1:32:20] and
+[1:32:21] they
+[1:32:22] will
+[1:32:23] have
+[1:32:24] political discussion
+[1:32:25] in the
+[1:32:26] coffee shop
+[1:32:27] in the local
+[1:32:28] coffee shop.
+[1:32:29] And
+[1:32:30] the police of the Sahab
+[1:32:31] are
+[1:32:32] very cruel.
+[1:32:33] And
+[1:32:34] as
+[1:32:35] a human
+[1:32:37] scholar
+[1:32:38] of course I
+[1:32:39] think the Sahab
+[1:32:40] of Israel
+[1:32:41] is
+[1:32:42] in the Sahab
+[1:32:43] of
+[1:32:46] Israel.
+[1:32:47] And
+[1:32:49] the people
+[1:32:50] of Europe
+[1:32:51] especially
+[1:32:52] of
+[1:32:53] Europe
+[1:32:54] and
+[1:32:55] Germany
+[1:32:56] Poland
+[1:32:57] are
+[1:32:58] very awkward
+[1:32:59] reactions.
+[1:33:00] I don't know
+[1:33:01] It's a terrible idea.
+[1:33:03] And they are the first to fight.
+[1:33:06] They are anti-human.
+[1:33:08] They are war criminals.
+[1:33:10] This kind of perspective.
+[1:33:11] Basically, it's controlled by social media.
+[1:33:13] Or this kind of perspective.
+[1:33:15] In addition, Israel is also an oil-based country.
+[1:33:17] And Germany and Poland have a lot of oil-based people.
+[1:33:20] Especially Germany.
+[1:33:21] It's a country of war, a country of war.
+[1:33:23] It's a country of this kind.
+[1:33:25] It's a country of this kind.
+[1:33:27] So those older people,
+[1:33:29] their attitude is very awkward.
+[1:33:30] A lot of people will say in private.
+[1:33:32] Oh, I don't know.
+[1:33:34] They may have some friends,
+[1:33:36] they may say,
+[1:33:38] I don't know how my friend thinks about this.
+[1:33:40] And then I think
+[1:33:42] our relationship is very suspicious.
+[1:33:44] But on the surface,
+[1:33:46] they won't say it directly.
+[1:33:47] Because after all,
+[1:33:48] I still live in a Middle East country.
+[1:33:50] And then,
+[1:33:51] people who don't live in Israel
+[1:33:52] are basically anti-Israeli.
+[1:33:54] So it's very,
+[1:33:56] the atmosphere is very subtle.
+[1:33:58] Especially,
+[1:33:59] people in this place are very small.
+[1:34:01] In fact,
+[1:34:02] most of us are living together.
+[1:34:03] And then suddenly,
+[1:34:04] this kind of political words
+[1:34:05] enter our lives.
+[1:34:07] It seems that
+[1:34:08] the whole town,
+[1:34:10] the whole town is divided,
+[1:34:12] divided into two towns.
+[1:34:15] And then after two weeks,
+[1:34:17] everyone's,
+[1:34:18] in the past two weeks,
+[1:34:19] everyone's attention was slowly
+[1:34:20] not on this.
+[1:34:21] Especially foreigners.
+[1:34:22] In fact, they forget very, very quickly.
+[1:34:24] There will be a stronger sense of isolation.
+[1:34:26] You can see the broadcast in the small microphone.
+[1:34:27] In fact,
+[1:34:28] it is not allowed to broadcast
+[1:34:29] Palestinian-Israeli,
+[1:34:30] Palestinian-Israeli,
+[1:34:31] and so on.
+[1:34:32] But you can hear
+[1:34:33] English in those shops
+[1:34:34] or in those cafes.
+[1:34:36] In fact,
+[1:34:37] they are all,
+[1:34:38] they are all years old.
+[1:34:40] Maybe,
+[1:34:41] sometimes there is news,
+[1:34:42] for example,
+[1:34:43] that the island has fallen
+[1:34:44] to a 200-kilometer place.
+[1:34:46] This kind of,
+[1:34:47] it's a little bit scary,
+[1:34:48] but overall,
+[1:34:49] it's just
+[1:34:50] a very non-realistic
+[1:34:52] feeling.
+[1:34:53] And then,
+[1:34:54] we,
+[1:34:55] in Israel,
+[1:34:56] the Bedouin people,
+[1:34:57] and the Bedouin people,
+[1:34:58] that kind of high-ranking attitude,
+[1:35:00] are the Bedouin people
+[1:35:01] in this place.
+[1:35:02] They actually don't care,
+[1:35:03] they don't care so much
+[1:35:04] about this thing.
+[1:35:05] They care about
+[1:35:06] the border
+[1:35:07] being locked up,
+[1:35:08] the death of their children.
+[1:35:09] They care very much about
+[1:35:10] Shem Kasselin,
+[1:35:11] in the prison,
+[1:35:12] maybe a little bit north,
+[1:35:13] their tourist business,
+[1:35:14] and so on.
+[1:35:15] But for them,
+[1:35:17] they actually don't have
+[1:35:18] such a strong sense of isolation.
+[1:35:19] Because they have already
+[1:35:21] lived in this kind of
+[1:35:22] international situation
+[1:35:23] for too long, too long.
+[1:35:24] From the Ottoman,
+[1:35:26] from the Ottoman Empire,
+[1:35:27] their struggle
+[1:35:29] began,
+[1:35:30] and then,
+[1:35:31] from the English,
+[1:35:32] and then,
+[1:35:33] from the second war,
+[1:35:34] this kind of mandate system.
+[1:35:36] Until today,
+[1:35:37] actually,
+[1:35:38] they have always been
+[1:35:39] fighting.
+[1:35:40] For them,
+[1:35:41] this is a kind of attitude,
+[1:35:42] it's not something
+[1:35:43] special.
+[1:35:44] But for the Bedouin people
+[1:35:45] who live in Israel,
+[1:35:46] they are actually
+[1:35:47] stuck between the two sides.
+[1:35:48] In Hamas,
+[1:35:49] actually,
+[1:35:50] they haven't let them go.
+[1:35:51] But in Israel,
+[1:35:52] in fact,
+[1:35:53] for them,
+[1:35:54] for the US government,
+[1:35:55] and for the Jews,
+[1:35:56] for the Jews of Israel,
+[1:35:57] they are another kind of
+[1:35:59] stuck between them.
+[1:36:00] And then,
+[1:36:00] their relationship with the
+[1:36:01] northern side of the West,
+[1:36:02] the northern side of the West,
+[1:36:03] is actually not good.
+[1:36:04] So,
+[1:36:05] in fact,
+[1:36:06] we can see
+[1:36:07] the so-called
+[1:36:08] land border,
+[1:36:09] for the ordinary people,
+[1:36:10] these barriers.
+[1:36:11] What exactly
+[1:36:12] is your cultural identity?
+[1:36:13] What is your public identity?
+[1:36:14] And then,
+[1:36:15] how did these things
+[1:36:16] form your own?
+[1:36:17] How does your identity
+[1:36:18] affect your life?
+[1:36:20] I think
+[1:36:21] these things are all
+[1:36:22] not allowed to be simplified.
+[1:36:23] They all need
+[1:36:24] an experience-based attitude
+[1:36:25] and a comprehensive view.
+[1:36:26] I think
+[1:36:27] as Chinese people,
+[1:36:28] although this area
+[1:36:29] is far away from us,
+[1:36:30] but we
+[1:36:32] include
+[1:36:33] the whole
+[1:36:34] COVID-19
+[1:36:35] situation
+[1:36:36] I think
+[1:36:37] we will definitely
+[1:36:38] be deeply moved
+[1:36:39] towards this.
+[1:36:43] And then,
+[1:36:44] this is
+[1:36:45] a map
+[1:36:46] of the northern side of the West.
+[1:36:47] In fact,
+[1:36:48] even though
+[1:36:49] there are still
+[1:36:50] many Bedouin people
+[1:36:51] who live in the car,
+[1:36:52] this place
+[1:36:53] is still very wild.
+[1:36:54] You can go down there.
+[1:36:55] And then,
+[1:36:57] this is
+[1:36:58] when the war broke out on
+[1:36:59] the sixth day,
+[1:37:00] the U.S. military
+[1:37:01] opened up
+[1:37:02] the peninsula of the West.
+[1:37:03] History doesn't lie.
+[1:37:04] I want to mention
+[1:37:08] a very interesting person.
+[1:37:11] His name is Ibrahim
+[1:37:13] Erdogani.
+[1:37:14] And then,
+[1:37:15] when he supported him,
+[1:37:16] he called him
+[1:37:17] Ibrahim.
+[1:37:18] Ibrahim is
+[1:37:19] a respect
+[1:37:20] to the elders
+[1:37:21] of the Arab people.
+[1:37:22] He is
+[1:37:23] a very
+[1:37:24] interesting person.
+[1:37:25] I think
+[1:37:26] this is
+[1:37:27] a pastoral nomad.
+[1:37:28] Maybe
+[1:37:29] we
+[1:37:30] think about
+[1:37:31] the fact that
+[1:37:32] there is a person
+[1:37:33] wearing a Mongolian robe
+[1:37:34] or a horse
+[1:37:35] or a sheep.
+[1:37:36] You will think
+[1:37:37] he is a president
+[1:37:38] or a politician.
+[1:37:39] In fact,
+[1:37:40] he is.
+[1:37:41] This is why
+[1:37:42] I say
+[1:37:43] this kind of
+[1:37:44] ephemeral
+[1:37:45] imagination
+[1:37:46] is not good
+[1:37:47] to explain
+[1:37:48] the complexity of our lives
+[1:37:49] or
+[1:37:50] the complexity of
+[1:37:51] modern society.
+[1:37:52] He is
+[1:37:53] a very traditional person.
+[1:37:54] I am still a
+[1:37:55] tribe leader in Greece.
+[1:37:56] And then
+[1:37:57] when
+[1:37:58] Ibrahim
+[1:37:59] Erdogani died,
+[1:38:00] he
+[1:38:01] and Ibrahim
+[1:38:02] Greece's Ibrahim police
+[1:38:03] caused a
+[1:38:04] big conflict
+[1:38:05] in the past.
+[1:38:06] Because
+[1:38:07] his brother
+[1:38:08] was
+[1:38:09] arrested by
+[1:38:10] Ibrahim
+[1:38:11] Erdogani.
+[1:38:12] And then
+[1:38:13] he
+[1:38:14] left
+[1:38:15] a few police officers
+[1:38:16] to take revenge
+[1:38:17] and put his brother out.
+[1:38:18] Because of this,
+[1:38:19] he was
+[1:38:20] arrested
+[1:38:21] by
+[1:38:22] President
+[1:38:23] Erdogani.
+[1:38:24] He was
+[1:38:25] arrested
+[1:38:26] and
+[1:38:27] he
+[1:38:28] was
+[1:38:29] arrested.
+[1:38:30] He
+[1:38:31] was
+[1:38:32] arrested.
+[1:38:33] He
+[1:38:34] was
+[1:38:35] arrested.
+[1:38:36] He was
+[1:38:37] a big company.
+[1:38:38] He
+[1:38:39] was
+[1:38:40] very
+[1:38:41] strong in the
+[1:38:42] leadership
+[1:38:43] of the
+[1:38:44] military
+[1:38:45] and
+[1:38:46] of
+[1:38:47] the
+[1:38:48] military
+[1:38:49] and
+[1:38:50] the
+[1:38:51] intelligence
+[1:38:52] based on their
+[1:38:53] very
+[1:38:54] important
+[1:38:55] responsibility.
+[1:38:56] He
+[1:38:57] was
+[1:38:58] arrested
+[1:39:00] by
+[1:39:01] a guy
+[1:39:02] who
+[1:39:03] was
+[1:39:04] in a
+[1:39:05] full-time
+[1:39:06] service
+[1:39:07] and
+[1:39:08] he was
+[1:39:09] arrested.
+[1:39:10] He
+[1:39:11] was
+[1:39:12] arrested.
+[1:39:13] He
+[1:39:14] was
+[1:39:15] arrested.
+[1:39:16] He
+[1:39:17] was
+[1:39:18] arrested
+[1:39:19] for
+[1:39:20] He's a passive speaker, and he's a passive leader.
+[1:39:24] Of course, he's a pastoral know-man.
+[1:39:26] But can you combine him with the traditional,
+[1:39:29] meaningful imagination?
+[1:39:32] If we look at him in that way,
+[1:39:34] can we see that he's very flat and very rigid?
+[1:39:37] So what I want to say is that
+[1:39:39] the so-called self and his division
+[1:39:42] that we have in our daily lives
+[1:39:44] cannot actually explain the complexity of this world.
+[1:39:47] If we want to get to know the world
+[1:39:50] or to get to know ourselves
+[1:39:52] and to adapt to this change of times,
+[1:39:55] we must have a kind of...
+[1:39:57] we must not put all our concepts
+[1:39:59] in the context of the century as long as possible.
+[1:40:01] We can stop here and think about it.
+[1:40:03] I think this is also a contribution
+[1:40:05] to the current world
+[1:40:07] or to the non-educated world
+[1:40:09] and other aspects of the world.
+[1:40:11] Then we'll go back to what we said today,
+[1:40:16] including myself,
+[1:40:19] many people who have experienced
+[1:40:21] or who have been brought in
+[1:40:23] may have experienced
+[1:40:25] the so-called New Age know-manism.
+[1:40:27] It's good to have a good number.
+[1:40:29] It's good to have a good way of life
+[1:40:31] no matter what you call it.
+[1:40:33] It's a kind of...
+[1:40:35] a kind of so-called
+[1:40:37] very traditional, very intimate way of life
+[1:40:39] that is different.
+[1:40:43] And then back to
+[1:40:45] the theme we talked about before.
+[1:40:47] What I want to say is...
+[1:40:49] I want to...
+[1:40:51] I want to discuss with you
+[1:40:53] what is the so-called
+[1:40:55] New Age know-manism
+[1:40:56] or what is the so-called
+[1:40:58] know-manism.
+[1:40:59] If it's a constant move,
+[1:41:01] a constant travel,
+[1:41:02] then only跨國 is considered a travel.
+[1:41:05] In fact, there are many people
+[1:41:07] who move because of their work.
+[1:41:09] If it's a stable job,
+[1:41:11] then in fact,
+[1:41:13] many people in the world
+[1:41:15] live such a life.
+[1:41:17] For example, in California,
+[1:41:19] the law allows Uber
+[1:41:21] to say
+[1:41:23] it's a technology company,
+[1:41:25] not a transportation company.
+[1:41:27] But all the drivers
+[1:41:29] can be legally
+[1:41:31] hired as labor foreigners.
+[1:41:33] In fact, all of us
+[1:41:35] live in a huge change
+[1:41:37] or a huge unstable situation.
+[1:41:39] Maybe
+[1:41:41] being a digital citizen
+[1:41:43] or being a modern citizen
+[1:41:45] is not a
+[1:41:47] so-called...
+[1:41:49] Of course, there is a certain privilege
+[1:41:51] or the so-called special existence.
+[1:41:53] But it may not be a
+[1:41:55] completely special exhibition.
+[1:41:57] Maybe it's about
+[1:41:59] the change in life
+[1:42:01] and the so-called
+[1:42:03] I don't know if you are familiar with
+[1:42:05] the so-called modern reports
+[1:42:07] that say that Spain
+[1:42:09] has some local people
+[1:42:11] who will have
+[1:42:13] a kind of travel with a digital name
+[1:42:15] and there are people in Mexico
+[1:42:17] who think that digital names
+[1:42:19] are pulling their houses and so on.
+[1:42:21] These problems are completely existent.
+[1:42:23] But I want to say
+[1:42:25] that the so-called
+[1:42:27] the so-called
+[1:42:29] the so-called
+[1:42:31] the so-called
+[1:42:33] the so-called the so-called
+[1:42:35] we all are not stable
+[1:42:37] all of us are facing huge crisis
+[1:42:39] and this crisis
+[1:42:41] this crisis is actually hard to
+[1:42:43] to use
+[1:42:45] our past experience
+[1:42:47] to help
+[1:42:49] to help our success
+[1:42:51] so when we
+[1:42:53] don't do this
+[1:42:55] actually we have Farer
+[1:42:57] We are拉 lifting different cultures
+[1:42:59] and different regions of the funded
+[1:43:01] so we will turn
+[1:43:03] through observation of the so-called strong word and its own branch.
+[1:43:08] We can think about what is its own, what is different,
+[1:43:13] what is the so-called weird thing.
+[1:43:17] Why do we think so?
+[1:43:21] What is it?
+[1:43:24] I can't say who it is, because who has a sense of responsibility.
+[1:43:29] What is it?
+[1:43:32] What is the so-called good education, education, and society
+[1:43:37] that helps us to understand these things?
+[1:43:40] What is it that allows us to have these so-called long-term agreements
+[1:43:44] and to break these limits?
+[1:43:47] Can it help us to be more harmonious with ourselves,
+[1:43:51] with others, and with the whole world?
+[1:43:54] I think this is something that can lead to our development.
+[1:43:59] This is something that I hope
+[1:44:06] can pass on a message to the public.
+[1:44:10] All of these ideas
+[1:44:16] and the concept of the whole life of the society
+[1:44:19] are actually anti-social.
+[1:44:22] These things are very modern.
+[1:44:25] They are never more modern.
+[1:44:28] Whether it's the border, or the identity,
+[1:44:31] or the so-called economy, or politics,
+[1:44:34] or the so-called movement,
+[1:44:37] or the sort of resistance,
+[1:44:39] we can actually reflect them
+[1:44:43] and put them into our lives.
+[1:44:46] We can ask more questions and think about them.
+[1:44:49] We hope that we can
+[1:44:51] turn this world into a better place
+[1:44:54] in a very unstable,
+[1:44:56] changing era
+[1:44:58] to live a better life.
+[1:45:00] At the same time,
+[1:45:01] we can make this world a better place.
