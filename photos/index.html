@@ -77,7 +77,11 @@ td .cn{color:var(--ink-faint);font-size:.82rem}
 .tl b{color:var(--ink)}
 footer{border-top:1px solid var(--line);margin-top:3rem;padding:2rem 1.2rem 3rem;text-align:center;color:var(--ink-faint);font-size:.85rem}
 footer .pit{font-family:'Pirata One',cursive;font-size:1.4rem;color:var(--coral)}
-@media(max-width:640px){ .ctl{width:40px;height:68px;font-size:1.3rem} #bar{top:auto;bottom:9.5rem;right:.8rem} }
+@media(max-width:640px){ .ctl{width:40px;height:68px;font-size:1.3rem} #bar{top:auto;bottom:9.5rem;right:.8rem}
+ /* 📱 fix 20 Oct: nav links were pushed off-screen right on phones */
+ nav{flex-wrap:wrap;gap:.25rem .8rem;padding:.6rem .9rem}
+ nav .brand{font-size:1rem}
+ nav .links{font-size:.78rem;gap:.7rem;flex-wrap:wrap;justify-content:flex-end;min-width:0} }
 </style>
 </head>
 <body>
