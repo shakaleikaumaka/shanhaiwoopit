@@ -1,0 +1,3163 @@
+ShanHaiWoo Lecture Day — Economics, Technology, and DeSci · 2024-10-25 · ShanHaiWoo 山海坞 · Chiang Mai pop-up village · transcribed with aloha by the AI ʻohana (faster-whisper small) — expect imperfections 🌱
+---
+[0:03:00] So good afternoon, everyone.
+[0:03:03] Welcome to the fourth lecture of our fourth work here
+[0:03:09] at Shanghai Ouh.
+[0:03:11] It's been a journey of inspiring discussions.
+[0:03:14] And today promises to be another thought-provoking session.
+[0:03:20] And here we had, so today's theme
+[0:03:23] is economics, technology, and design.
+[0:03:27] And we'll begin with our first keynote presentation titled,
+[0:03:31] as you can see, Why Monetary Economics Matters
+[0:03:34] for the Future of the Crypto World.
+[0:03:37] And this session will be presented by Jonathan Kim.
+[0:03:41] Let's welcome him.
+[0:03:49] Hello, everyone.
+[0:03:52] Thank you for inviting me here.
+[0:03:54] I'm Jonathan Kim from South Korea.
+[0:03:57] I've been at the website business team at SK Telecom
+[0:04:02] since 2017.
+[0:04:06] I'm excited to show some thoughts on the evolving nature
+[0:04:13] of money and its future in the crypto world.
+[0:04:17] In this presentation, a little difficult title,
+[0:04:21] Why Monetary Economics Matters for the Future of Crypto?
+[0:04:26] We'll explain how economic theories from Australia
+[0:04:29] to Kenya are shaping the crypto landscape.
+[0:04:33] By the end, I hope you'll gain a deeper understanding
+[0:04:36] of how these frameworks and the very concept of money
+[0:04:41] will guide future innovation in the crypto ecosystem.
+[0:04:45] Today I'll go over five key topics.
+[0:04:48] First, I'll look at the evolution of money and finance.
+[0:04:52] Then we'll dive into Australian economics
+[0:04:55] and its concept of the nationalized money.
+[0:04:58] Next, I'll cover their classical synthesis
+[0:05:02] and token economies followed by institutional economics,
+[0:05:07] which emphasize governance in decentralized platforms.
+[0:05:12] Lastly, we'll discuss Keynesian and post-Keynesian ideas
+[0:05:17] finishing with how all these theories help
+[0:05:20] shape the future of crypto.
+[0:05:24] Before we dive in, let's take a moment
+[0:05:28] to consider what John Maynard Keynes emphasized
+[0:05:32] about economics.
+[0:05:34] As Keynes pointed out, economics isn't just
+[0:05:37] about mastering models or supply and demand.
+[0:05:43] It encompasses history, politics, psychology, and ethics.
+[0:05:48] Money systems don't exist in isolation.
+[0:05:52] They are shaped by human behavior, historical event,
+[0:05:56] and political decisions.
+[0:05:58] This is particularly true in today's crypto world.
+[0:06:01] Cryptocurrencies aren't just technological innovations.
+[0:06:04] They are influenced by social structures and regulations.
+[0:06:09] To build a sustainable crypto ecosystem,
+[0:06:12] we must understand how these factors interact
+[0:06:15] with technology.
+[0:06:17] A radical multidisciplinary approach
+[0:06:19] will help us navigate both traditional and decentralized
+[0:06:23] systems, making them more resilient and adaptable
+[0:06:28] for the future.
+[0:06:30] Let's begin with the evolution of money and finance.
+[0:06:36] Money has evolved over centuries,
+[0:06:38] serving multiple roles behind just trade,
+[0:06:43] as explained by Carl Polani in the semantics of money uses.
+[0:06:48] Originally, money was deeply embedded in social obligations
+[0:06:52] and religious rituals.
+[0:06:55] It adapted over time to miss societies changing
+[0:06:59] need, transforming into the financial tool we know today.
+[0:07:05] The creativity to view which suggests money
+[0:07:09] was invented solely for trade oversimplified
+[0:07:13] this history.
+[0:07:14] Like all institutions, money evolved.
+[0:07:17] This historical context is essential when understanding
+[0:07:21] crypto.
+[0:07:22] Just as money evolved, the crypto represents the next stage
+[0:07:25] in how we manage value and trust.
+[0:07:31] Money isn't just a medium for trade.
+[0:07:34] It's a social construct deeply noted
+[0:07:37] in systems of credit and debts.
+[0:07:40] As Jeffrey Ingham explains, rather than being
+[0:07:43] about physical forms like coins and bills,
+[0:07:47] money represents promises and trust
+[0:07:50] between individuals, institutions, or states.
+[0:07:54] Its value lies in the trust placed in these systems,
+[0:07:58] not in the intangible form.
+[0:08:01] This trust is established and maintained
+[0:08:03] by public institutions like government,
+[0:08:06] which issue and guarantee the money's value.
+[0:08:09] Even in decentralized platforms, trust remains essential.
+[0:08:14] Although cryptos operate outside traditional frameworks,
+[0:08:17] they rely on the trust.
+[0:08:19] They're usually placed in decentralized networks.
+[0:08:23] In conclusion, whether it's physical money or digital,
+[0:08:27] money is a social and institutional construct
+[0:08:31] defined by the promises and trust backing it.
+[0:08:37] Now, we compare two foundational monetary concepts,
+[0:08:41] commodity theory of money and credit theory of money.
+[0:08:45] Commodity money, such as gold,
+[0:08:47] derives its value from its physical properties,
+[0:08:50] scales the endurability.
+[0:08:52] Its worth doesn't rely on external trust
+[0:08:56] as the material itself holds value.
+[0:08:58] On the other hand, credit money depends on the trust
+[0:09:01] in the issuing authority, like a central bank.
+[0:09:06] Its value is based on legal and social agreement,
+[0:09:10] acting as a record of debts and obligations.
+[0:09:15] Bitcoin uniquely blend both models,
+[0:09:18] like commodity money is guaranteed by gold.
+[0:09:23] Simultaneously, like credit money, it relies on trust,
+[0:09:27] especially in the decentralized ledger system.
+[0:09:31] This hybrid nature showcases how traditional monetary
+[0:09:35] principles converge in the digital age.
+[0:09:38] Ultimately, we can view this through the lens
+[0:09:41] of ledger theory of money,
+[0:09:44] where money, whether commodity were credit-based,
+[0:09:48] serves as a system for tracking value through ledgers.
+[0:09:54] Money serves three essential functions,
+[0:09:56] a store of value, a medium of exchange,
+[0:09:59] and a unit of account.
+[0:10:00] Today, I focus on the unit of account,
+[0:10:03] the system we use to measure and compare value.
+[0:10:07] Unlike physical money, the money of account
+[0:10:10] is an abstract concept, recording debts, prices,
+[0:10:13] and credit.
+[0:10:15] As Jeffrey Ingham notes, this system emerged
+[0:10:18] from the need to manage obligations within societies,
+[0:10:22] not from butter.
+[0:10:25] It allowed people to formalize transactions
+[0:10:30] without immediate physical exchanges.
+[0:10:33] Historically, this concept paved the way
+[0:10:38] for advanced economic practices
+[0:10:39] like double-edged free bookkeeping.
+[0:10:41] It has styled its managed transactions,
+[0:10:44] tracked debts, and grow their economies.
+[0:10:48] Today, the question remains,
+[0:10:50] can cryptocurrency evolve into a universally accepted
+[0:10:54] unit of account, recognize globally for recording value?
+[0:11:02] Double-edged free bookkeeping developed
+[0:11:04] during the Renaissance and Florence,
+[0:11:07] transformed the finance by recording transactions
+[0:11:10] as both debts and credits.
+[0:11:13] This balance system built trust and transparency
+[0:11:16] becoming the foundation of modern banking.
+[0:11:20] Yet it has its limitations.
+[0:11:23] Each party maintained separate records,
+[0:11:26] leaving room for manipulation.
+[0:11:28] Blockchain and triple-edged free bookkeeping concept
+[0:11:32] addresses this by introducing a shared immutable ledger
+[0:11:36] where transactions are cryptographically verified
+[0:11:39] in real-time.
+[0:11:40] This system makes every transaction publicly verifiable
+[0:11:45] and unchangeable, significantly boosting the security
+[0:11:49] and transparency needed for the digital asset
+[0:11:53] and decentralized finance.
+[0:11:57] The origin of modern central banking
+[0:11:59] traced back to the two key institutions,
+[0:12:03] the Bank of England, founded in 1694
+[0:12:08] and the John Rose Bank Genera,
+[0:12:10] established in France in 1716.
+[0:12:14] The Bank of England was created to fund
+[0:12:16] government world-time efforts,
+[0:12:19] laying the groundwork for modern monetary control.
+[0:12:23] In France, Bank Genera pioneered fractional reserve banking
+[0:12:28] allowing the issuance of more paper money
+[0:12:31] than gold reserves.
+[0:12:33] The innovation accelerated economic growth
+[0:12:35] through credit creation,
+[0:12:38] but eventually led to inflation and collapse.
+[0:12:42] However, John Rose idea led on resting impact
+[0:12:47] on how modern central banks balance liquidity and risk.
+[0:12:54] In decentralized finance,
+[0:12:55] this challenge is how to replace the load
+[0:12:58] of central bank with cryptographic code.
+[0:13:02] Managing liquidity and stability
+[0:13:05] without a central authority.
+[0:13:07] This shift highlights the evolving load
+[0:13:09] of trust in financial systems.
+[0:13:13] Following the creation of central banks,
+[0:13:15] John Rose introduction of fractional reserve banking
+[0:13:18] became a game changer for how money expanded in economies.
+[0:13:23] As you can see, it starts with someone
+[0:13:25] depositing $1,000 into a bank.
+[0:13:28] The bank keeps a small portion,
+[0:13:31] say $100 as a reserve and loans out the remaining $900.
+[0:13:37] That $900 is spent then deposited back into the system
+[0:13:42] and the cycle repeats.
+[0:13:45] Each time more money enters the economy,
+[0:13:48] even though the bank is only holding
+[0:13:51] a small fraction in reserve.
+[0:13:55] The system have to boost liquidity
+[0:13:58] and allow the economies to grow,
+[0:14:00] but it also introduced a risk like inflation
+[0:14:04] where bank runs, which is why central banks
+[0:14:07] exist to manage those risk
+[0:14:09] and keep the financial system stable.
+[0:14:14] Understanding the foundational ideas
+[0:14:17] of various economic schools is crucial
+[0:14:19] for comprehending modern financial system,
+[0:14:22] including digital asset and decentralized finance.
+[0:14:25] Four key schools were still on economics,
+[0:14:28] their classic synthesis institutional economies
+[0:14:31] and Keynesian post-Keynesian economics
+[0:14:33] offer a distinct perspective on money,
+[0:14:36] market and governance.
+[0:14:38] The Austrian school emphasized decentralization
+[0:14:41] and free markets concept integral
+[0:14:44] to the cryptocurrency like Bitcoin.
+[0:14:46] Their classical synthesis highlights market efficiency
+[0:14:49] reflected in decentralized exchanges.
+[0:14:52] Institutional economies focuses
+[0:14:55] on governance is essential in dollars,
+[0:14:59] which while Keynesian and post-Keynesian
+[0:15:02] approaches stress, security and demand,
+[0:15:04] critical in stable coin and CBDC discussions.
+[0:15:09] Let's now delve into how these frameworks
+[0:15:13] shape the landscape of digital assets
+[0:15:16] and decentralized finance.
+[0:15:18] Now move on to the Austrian school.
+[0:15:22] Friedrich Hayek, a prominent figure
+[0:15:24] in the Austrian School of Economics,
+[0:15:27] proposed a revolutionary idea in his work,
+[0:15:30] the nationalization of money.
+[0:15:33] He argued that government should not have
+[0:15:35] a monopoly on money creation advocating
+[0:15:39] for private entities to issue currencies
+[0:15:44] that compete in a free market.
+[0:15:47] Hayek believed competition among currencies
+[0:15:50] would allow users to choose the most stable
+[0:15:54] and reliable option.
+[0:15:56] Posturing efficiency and trust.
+[0:15:59] Today Hayek's vision is reflected in Bitcoin.
+[0:16:02] Bitcoin operates outside of government control
+[0:16:06] as decentralized and rely on technology for trust,
+[0:16:09] not a central authority.
+[0:16:11] While a fixed supply is protected from inflation,
+[0:16:16] much like the free market money Hayek imagined.
+[0:16:19] Bitcoin brings Hayek's ideas to life,
+[0:16:23] raising new questions about the future
+[0:16:25] of decentralized currencies.
+[0:16:29] Bitcoin challenges traditional fiat money system
+[0:16:32] which relies on governments to manage the money supply.
+[0:16:36] Fiat currencies are open inflated as government
+[0:16:38] print more money to cover deficits,
+[0:16:41] loading the currency's value over time.
+[0:16:45] Bitcoin, on the other hand, has a fixed supply
+[0:16:47] of 21 million coins preventing inflation and manipulations.
+[0:16:53] The Austrian school concept of hard money
+[0:16:56] is reflected in Bitcoin,
+[0:16:58] which, like gold, derives its value from scarcity
+[0:17:02] and the difficulty of its production.
+[0:17:05] Its supply is determined by code,
+[0:17:08] not by the central banks,
+[0:17:10] making it immune to inflation.
+[0:17:13] And Bitcoin's decentralized nature makes it difficult
+[0:17:17] for government to regulate and suppress.
+[0:17:22] Bitcoin is deeply tied to the concept
+[0:17:24] of sovereign individual,
+[0:17:26] a philosophy rooted in Nietzsche's advocacy
+[0:17:29] for personal autonomy and existential freedom.
+[0:17:34] This challenges traditional reliance
+[0:17:36] on central institutions promoting a system
+[0:17:39] where individual have full control over their everyday lives.
+[0:17:45] Bitcoin enables this by allowing users to store
+[0:17:49] and transfer value without intermediaries.
+[0:17:53] Its decentralized nature ensures no single entity
+[0:17:56] can control the network,
+[0:17:58] perfectly aligning with sovereign individual ideas.
+[0:18:04] Today's financial system are highly centralized
+[0:18:06] and interconnected,
+[0:18:07] making them susceptible to system risk.
+[0:18:12] Financial crisis in one area can quickly spread,
+[0:18:16] potentially triggering a global economy catastrophe.
+[0:18:19] Bitcoin offers the potential solution
+[0:18:22] through monetary biodiversity concept.
+[0:18:26] Where different currencies coexist,
+[0:18:28] each tailored for specific purpose
+[0:18:30] and circulating a very varied space,
+[0:18:34] this diversity prevents the crisis
+[0:18:37] in one currency from destabilizing the entire system.
+[0:18:42] By decentralized monetary issuance,
+[0:18:45] Bitcoin addresses the risk
+[0:18:47] inherent in centralized uniform system,
+[0:18:50] fostering a more resilient global economy.
+[0:18:55] The idea of Bitcoin as a strategic reserve asset
+[0:18:59] is gaining attention, particularly in the US,
+[0:19:03] as it aligns with the Australian's economic principle
+[0:19:06] of hard money,
+[0:19:07] with a fixed supply and independence
+[0:19:10] from state-controlled monetary system.
+[0:19:14] Bitcoin offers an alternative asset class
+[0:19:18] that stands apart from traditional debt currency.
+[0:19:22] In July 2024,
+[0:19:25] Senator Cynthia Lumis introduced the Bitcoin Act,
+[0:19:29] proposing a plan to acquire 1 million Bitcoins.
+[0:19:34] This would represent approximately 5%
+[0:19:37] of the total Bitcoin supply
+[0:19:41] and aims to diversify national reserves.
+[0:19:44] Although the Act may face political obstacles,
+[0:19:49] it carried the significant weight
+[0:19:51] in acknowledging Bitcoin's role as a potential hatch
+[0:19:55] against the risk in the US Treasury-backed dollar system.
+[0:20:02] The adoption of Bitcoin as a strategic reserve asset
+[0:20:05] has profound strategic and geopolitical implications.
+[0:20:11] As most central banks adopt Bitcoin,
+[0:20:15] global competition for Bitcoin holding
+[0:20:18] is likely to intensify.
+[0:20:20] This could lead to global mining rates,
+[0:20:24] where nations try to secure as much Bitcoin as possible,
+[0:20:29] similar to the arms race during the Cold War.
+[0:20:32] This competition could reshape global power structures,
+[0:20:36] leading to new alliance and conflicts
+[0:20:39] as nations via digital dominance.
+[0:20:42] Additionally, Bitcoin's adoption could strengthen
+[0:20:45] economic resilience and foster financial innovation,
+[0:20:49] positioning nations that lead in the space
+[0:20:53] as global economy leaders.
+[0:20:55] However, these shifts may also lead to heightened
+[0:20:59] geopolitical tensions
+[0:21:01] required in careful navigation by policy makers.
+[0:21:06] Now let's move on to the Neoclassical Synthesis,
+[0:21:09] a mainstream of modern economy theories.
+[0:21:12] In this slide, we explore two key economic concepts
+[0:21:18] from the Neoclassical Synthesis
+[0:21:21] and their relevance to the crypto market,
+[0:21:23] the rational expectation hypothesis
+[0:21:26] and the efficient market hypothesis.
+[0:21:29] REH suggests that individual makes informed decision
+[0:21:35] based on available data aiming for optimal outcomes.
+[0:21:40] In DeFi, users depend on transparent,
+[0:21:42] on-chain data and market trends
+[0:21:45] to predict token prices and liquidity.
+[0:21:48] EMH projects that asset prices
+[0:21:52] fully reflect all available information in crypto.
+[0:21:57] This idea is mirrored on DeFi,
+[0:22:01] where prices are just based on supply and demand.
+[0:22:05] However, crypto markets often face challenges
+[0:22:10] like high volatility, speculative behavior,
+[0:22:13] and the influence of large traders,
+[0:22:16] which can lead to deviation from the perfect efficiency
+[0:22:20] predicted by these theories.
+[0:22:23] This highlights the complexity
+[0:22:25] of applying traditional economic frameworks
+[0:22:27] to a rapidly evolving market.
+[0:22:32] This is QTM theory.
+[0:22:35] The formula MV equal PQ
+[0:22:38] represents the relationship between the token supply,
+[0:22:41] the velocity of tokens, the price level,
+[0:22:44] and the total goods and services exchanged.
+[0:22:47] While some crypto project has used the QTM model
+[0:22:51] to stabilize the price by adjusting token supply.
+[0:22:55] It surprised the limitations.
+[0:22:57] If this is the limitation,
+[0:22:59] token velocity in speculative market
+[0:23:02] can fluctuate making predictions unreliable.
+[0:23:14] Additionally, many tokens are derived by speculation
+[0:23:18] disconnected from the real-world utility
+[0:23:21] which weakens QTM's foundation in the crypto world.
+[0:23:25] QTM offers useful insight about base
+[0:23:28] foreshort in addressing the speculative
+[0:23:31] and evolving dynamics of crypto markets.
+[0:23:35] Stable coins play a crucial role in the crypto system
+[0:23:39] by providing stability in an otherwise volatile market.
+[0:23:44] They are designed to maintain a stable value
+[0:23:47] open-packed to fiat currency
+[0:23:50] which makes them essential for everyday transactions
+[0:23:53] and risk management in DeFi.
+[0:23:56] There are three main types of stable coins.
+[0:24:00] Fiat-backed stable coins and crypto-collateralized stable coins
+[0:24:04] and algorithm stable coins.
+[0:24:06] Fiat-backed stable coins
+[0:24:09] while providing relatively stability
+[0:24:13] essentially represent tokenized fiat money
+[0:24:16] and remain dependent on the traditional financial system.
+[0:24:21] This reliance means that they don't fully escape.
+[0:24:25] System is tied to the fiat money
+[0:24:29] limiting the potential to offer true financial independence
+[0:24:33] as envisioned by centralized systems.
+[0:24:37] LWA tokenization is a transformative process
+[0:24:42] that converts the physical assets
+[0:24:45] like real estate commodities and financial instruments
+[0:24:49] into digital tokens on the blockchain.
+[0:24:53] This aims for fractional ownership and enhanced liquidity
+[0:24:58] as demonstrated with tokenized US Treasury bonds.
+[0:25:02] It increases market efficiency, transparency
+[0:25:05] and lowers bearish investors
+[0:25:08] aligning with neoclassical principles.
+[0:25:11] Tokenization has expanded to a broader range of assets
+[0:25:15] including our intellectual property, energy resources
+[0:25:20] and carbon credits.
+[0:25:22] However, strong legal frameworks and custodial systems
+[0:25:25] are essential to ensure that tokens accurately represent
+[0:25:30] their underlying assets.
+[0:25:33] Looking ahead as the trend of tokenizing everything goes
+[0:25:39] we might even see the tokenization of beliefs,
+[0:25:42] social values and ideologies.
+[0:25:45] I think MIMCOIN which often embody abstract values
+[0:25:50] are leading indicator of this trend.
+[0:25:55] Moving on to the next topic.
+[0:25:57] Institutional economics exam is how institutions
+[0:26:00] such as rules, norms and conventions
+[0:26:03] share economic behavior and decisions.
+[0:26:07] Beyond supply and demand it focuses on frameworks
+[0:26:11] that guide choices.
+[0:26:14] New institutional economics highlights the management
+[0:26:17] of transaction costs and property rights.
+[0:26:20] Behavioral institutional economics
+[0:26:22] as psychological perspective focusing on human
+[0:26:26] limitation and social norms.
+[0:26:29] Evolutionary institutional economics
+[0:26:31] studies how institutions adapt over time.
+[0:26:35] These approaches apply tools like game theory
+[0:26:38] to model strategic interaction based on
+[0:26:41] institution rules.
+[0:26:43] Game theory helps us understand how institutions
+[0:26:46] shape these strategic decisions
+[0:26:49] fostering either cooperation or competition
+[0:26:53] in such environment.
+[0:26:56] Game theory gives us a structured way to
+[0:27:00] analyzing situation where several individuals
+[0:27:03] must make decisions and the outcome depends
+[0:27:06] on everyone's choices.
+[0:27:08] In blockchain network, certain cooperation
+[0:27:11] are created through strategic interaction
+[0:27:14] between participants.
+[0:27:16] Building on game theory, mechanism design
+[0:27:18] focuses on creating systems that guide
+[0:27:21] individual actions toward collective goals.
+[0:27:24] Mechanism design sets up rules that align
+[0:27:28] personal incentive with what's best for the whole system.
+[0:27:33] For example, Bitcoin uses mechanism design
+[0:27:37] to ensure that miners acting in their self-interest
+[0:27:40] have secured the whole network.
+[0:27:43] Lastly, market design or branch of mechanism
+[0:27:46] design applies these principles to systems
+[0:27:49] like auctions and ensuring desirable outcomes
+[0:27:51] without reliance on centralized control.
+[0:27:55] Bitcoin's design integrate game theory to
+[0:28:01] create self-sustaining decentralized systems.
+[0:28:05] In the POW mechanism, miners are incentivized
+[0:28:09] to follow protocols by offering rewards
+[0:28:12] by validating transactions.
+[0:28:14] This ensures cooperation because any attempt
+[0:28:17] to cheat would waste resources
+[0:28:20] with no reward in return.
+[0:28:22] Game theory also plays a role in the system
+[0:28:25] defense against the 51% attack.
+[0:28:30] The high cost of controlling over half of the network
+[0:28:33] makes the potential rewards less valuable
+[0:28:37] than the required investment, discouraging malicious behavior.
+[0:28:41] And Bitcoin's difficulty adjustment mechanism
+[0:28:44] ensures miners can't easily dominate the network.
+[0:28:48] Bitcoin effectively uses game theory to foster
+[0:28:52] cooperation in a decentralized environment.
+[0:28:56] Game theory is a fundamental aspect of blockchain network design
+[0:28:59] especially when it comes to transaction fees
+[0:29:01] and validate incentives and penalties
+[0:29:04] for malicious behavior.
+[0:29:06] In the other model, users strategically decide
+[0:29:09] how much to tip validators to prioritize their transactions,
+[0:29:14] creating a game theoretic dynamic
+[0:29:17] where all participants aim to optimize their outcomes.
+[0:29:21] Similarly, proof of stake system use validate incentives
+[0:29:25] and flashing mechanism to align validators action
+[0:29:29] with the network security.
+[0:29:31] Validators are rewarded for following the rules
+[0:29:34] but risk losing their stake tokens
+[0:29:38] if they are dishonestly.
+[0:29:41] Overall, game theory ensures the individual
+[0:29:44] decisions in blockchain networks
+[0:29:46] promote overall security and efficiency.
+[0:29:51] Distantualized autonomous organization
+[0:29:54] makes the fundamental shift from traditional
+[0:29:57] hierarchical governance structures.
+[0:30:00] Instead of centralized authority,
+[0:30:02] DAOS allows token holders to collectively
+[0:30:05] make decisions using blockchain-based smart contracts
+[0:30:09] enabling transparent and decentralized governance.
+[0:30:14] Institutional economics have explained DAOS
+[0:30:17] by highlighting how formal rules
+[0:30:19] and informal rules influence outcomes.
+[0:30:22] For DAOS to thrive, well-designed governance models
+[0:30:26] must encourage participants and prevent power concentration.
+[0:30:31] Quadratic voting aims to address the limitation
+[0:30:37] of the traditional one-person-one-vote system.
+[0:30:40] In standard voting, the majority can overpower minority views.
+[0:30:45] Even if the minority cares more deeply about the issue,
+[0:30:50] QB allows participants to use voice credits
+[0:30:54] across multiple issues.
+[0:30:56] The more votes they assign to a single issue,
+[0:30:59] the more expensive each additional vote becomes,
+[0:31:03] making it harder too.
+[0:31:05] Harder for any one group to dominate
+[0:31:08] by implementing QB,
+[0:31:10] DAOS can better reflect through public opinion
+[0:31:13] in giving participants the chance
+[0:31:16] to expect the intensity of their preference
+[0:31:21] for string more balanced governance.
+[0:31:25] Lastly, let's talk about the Keynesian perspective.
+[0:31:30] Developing CBDC is a complex process,
+[0:31:34] but central banks around the world
+[0:31:36] are racing to catch up with digital asset innovation.
+[0:31:39] In fact, 90% of the world's central banks
+[0:31:43] are experimenting with digital currencies.
+[0:31:46] From a Keynesian perspective,
+[0:31:48] CBDC could become a powerful tool
+[0:31:50] for managing effective demand in the economy.
+[0:31:53] Keynes emphasized that keeping demand strong
+[0:31:58] through customer spending, business investment,
+[0:32:01] and government spending is key,
+[0:32:03] preventing recession and unemployment.
+[0:32:06] CBDCs could allow central banks to issue money
+[0:32:10] directly to people and business.
+[0:32:12] This could quickly stimulate demand
+[0:32:15] during economic downturn, avoiding the delays
+[0:32:18] in efficiencies of traditional monetary policies.
+[0:32:23] This new form of digital currency
+[0:32:25] could have maintained economic stability,
+[0:32:28] especially during financial crisis.
+[0:32:31] Indogenous money theory from a post-Keynesian perspective
+[0:32:37] suggests that money supply is driven by the demand for credit
+[0:32:41] rather than being controlled by central banks.
+[0:32:44] In this framework, banks create money
+[0:32:47] by issuing loans responding to the economy's demand.
+[0:32:51] For CBDC, central banks should directly issue this currency
+[0:32:55] to users managing liquidity
+[0:32:57] and adjusting the money supply as needed.
+[0:33:00] Stable coins borrow a similar dynamics.
+[0:33:03] They are issued on these tied to market demand
+[0:33:05] than users' activity,
+[0:33:07] adjusting based on the liquidity needs.
+[0:33:11] In DeFi, indigenous money creation
+[0:33:13] happens through smart contracts
+[0:33:15] and decentralized lending platforms.
+[0:33:18] As users borrow and lend,
+[0:33:20] liquidity increases,
+[0:33:22] reflecting a decentralized version of money creation
+[0:33:25] driven by economic activity
+[0:33:27] and demand without central authority control.
+[0:33:31] Lastly, let's move on to synthesizing
+[0:33:34] economy thoughts for the future of crypto.
+[0:33:39] Let's reflect on how classical economic thoughts
+[0:33:42] inform the future of crypto.
+[0:33:45] Austrian economics champions Bitcoin's
+[0:33:48] centralized nature as a safeguard against inflation.
+[0:33:52] Neoclassical synthesis aids in the design of tokens
+[0:33:55] and markets, particularly for stable coins,
+[0:33:58] while institutioning economics
+[0:34:01] underscores the importance of governance in DAOS,
+[0:34:04] post-Keynesian theories on liquidity creation
+[0:34:07] resonate with the dynamics in DeFi.
+[0:34:10] Looking for the successful evolution
+[0:34:13] of crypto ecosystem requires synthesizing
+[0:34:16] economic theories, but we can stop here.
+[0:34:19] We must weave in insight from political science
+[0:34:23] in sociology and historical studies.
+[0:34:26] Only through this multidisciplinary lens
+[0:34:29] can we build systems that are resilient, inclusive,
+[0:34:34] and reflective of our complex global economy.
+[0:34:38] This approach ensures that crypto technology
+[0:34:41] is not only push boundaries,
+[0:34:43] but also contribute to the stability
+[0:34:45] and inclusivity of our world.
+[0:34:48] Crypto is not just a financial asset.
+[0:34:53] It's a catalyst for global transformation.
+[0:34:56] By challenging traditional financial systems,
+[0:34:59] crypto creates new opportunities
+[0:35:02] for economic growth and innovation.
+[0:35:05] It's decentralized nature,
+[0:35:08] for the concept of sovereignty and governance,
+[0:35:14] shifting power away from the centralized states
+[0:35:18] and toward individuals and decentralized communities.
+[0:35:23] As we stand on the break of this transformation,
+[0:35:26] we must embrace both the possibilities and challenges.
+[0:35:30] The future of crypto is not just about the finance.
+[0:35:33] It's about building a fairer, more decentralized
+[0:35:36] and inclusive world.
+[0:35:38] The journey to hyper-cryptonization
+[0:35:41] is one of hope and opportunity.
+[0:35:44] A future we are collectively building.
+[0:35:47] Let's conclude with a call to action.
+[0:35:52] That means there to know
+[0:35:55] as we stand at the threshold of decentralized future.
+[0:35:59] It's not just about understanding new technologies,
+[0:36:02] but embracing a new way of life.
+[0:36:05] We must have the courage to explore
+[0:36:09] and experiment and implement these changes.
+[0:36:13] By daring to know and act,
+[0:36:16] we open the door to a future
+[0:36:18] where autonomy, innovation and inclusivity
+[0:36:21] defines our world.
+[0:36:23] Let's commit to discovering
+[0:36:25] and shaping this new reality together.
+[0:36:29] Thank you.
+[0:36:31] Thank you, Jonathan, for that illuminating keynote.
+[0:37:07] Next we have a keynote presentation
+[0:37:10] on the road to DEF CON.
+[0:37:13] What you should expect at DEF CON
+[0:37:15] by Nathan Sector.
+[0:37:17] Thank you, Jonathan.
+[0:37:40] That was a very insightful presentation.
+[0:37:42] A lot of the theories that we talk a lot about,
+[0:37:45] but I think that was a very good overview
+[0:37:47] of a lot of the things we talk about in the space.
+[0:37:50] Great reminder.
+[0:37:52] Great talk.
+[0:37:54] My name is Nathan Sector.
+[0:37:56] I am programming lead at DEF CON
+[0:37:59] and I am going to talk about DEF CON
+[0:38:02] that is happening in Bangkok
+[0:38:04] from November 12th to November 15th.
+[0:38:07] I will tell you about what you should expect
+[0:38:09] and 10,000 and 300 reasons why you should join.
+[0:38:18] For those who don't know,
+[0:38:20] DEF CON is the biggest Ethereum conference worldwide.
+[0:38:24] This is the focal point for the Ethereum community
+[0:38:27] and this is a spoiler alert for my presentation,
+[0:38:30] but DEF CON is the place
+[0:38:33] where you meet the entire Ethereum community.
+[0:38:36] This is the place where you discover the culture of Ethereum.
+[0:38:40] You discover everything about Ethereum, actually.
+[0:38:43] You discover ecosystem, you learn skills about Ethereum,
+[0:38:46] you learn how to develop on Ethereum,
+[0:38:48] you learn about all the projects that are built
+[0:38:51] on Ethereum and around.
+[0:38:53] You meet all the teams that are there.
+[0:38:55] All the projects will be there.
+[0:38:57] If you're looking for a job,
+[0:38:59] plenty of projects will be hiring there.
+[0:39:02] And even though DEF CON stands for developer conference,
+[0:39:06] it is for literally everyone,
+[0:39:09] a lot of community members
+[0:39:11] that are builders, artists, writers, researchers.
+[0:39:14] I myself, I'm not technical.
+[0:39:16] I've been attending DEF CON for years
+[0:39:19] and I've always had a blast.
+[0:39:21] I'm lucky to be part of the team,
+[0:39:23] but it's really truly for everyone.
+[0:39:26] Side note on the other event that we organized
+[0:39:30] as the Ethereum Foundation.
+[0:39:32] It is called DEF CONnext
+[0:39:34] and it's different in the sense that DEF CON
+[0:39:37] is like the main conference we organize.
+[0:39:39] In the main venue, we do programming,
+[0:39:41] we do production, we do everything.
+[0:39:43] DEF CONnext is more decentralized.
+[0:39:45] We organized the last one in Istanbul last year
+[0:39:48] and it was more of a co-working in a big venue,
+[0:39:51] but then we let the space for other communities
+[0:39:54] to get organized around us
+[0:39:56] and we give more space to other communities.
+[0:40:00] So we have a big event on layer 2, zero knowledge
+[0:40:04] and any type of topics you can think of.
+[0:40:06] And it also comes from the realization
+[0:40:09] that communities or experts are also very well placed
+[0:40:15] to create their own content,
+[0:40:17] to organize their own events.
+[0:40:19] These formats are very exciting.
+[0:40:21] It might happen next year.
+[0:40:23] More to come soon.
+[0:40:25] So to get back on the 10,000 and 300 reasons
+[0:40:29] why you should join,
+[0:40:31] well, the first one I called it is the people.
+[0:40:34] So now we have 10,000 and 299 slides to go.
+[0:40:38] That's not true,
+[0:40:40] but I'll skip quickly through that
+[0:40:43] and I think the main reason once again
+[0:40:46] is the people and the 10,000 community members
+[0:40:49] that will attend DEFCON.
+[0:40:52] Again, this is the place to meet all the community.
+[0:40:56] Everyone will be there
+[0:40:58] and it's one of the biggest assets of the conference.
+[0:41:02] It's also, I have to say, an ecosystem,
+[0:41:05] a community that is mostly remote.
+[0:41:07] We all work from all over the world
+[0:41:10] and DEFCON is the place
+[0:41:13] where Ethereum people gather once a year.
+[0:41:15] This is where everyone will be
+[0:41:17] and so maybe you should too.
+[0:41:20] Okay, two second biggest reason
+[0:41:23] is the content.
+[0:41:25] Of course I'm biased,
+[0:41:27] I'm leading programming for DEFCON,
+[0:41:29] so everything is linked to speakers and content,
+[0:41:31] but it is the blood
+[0:41:34] and the bones and everything that you think
+[0:41:37] about DEFCON,
+[0:41:39] it is really what makes DEFCON great,
+[0:41:42] in my opinion, among other things of course.
+[0:41:46] Just a few stats.
+[0:41:48] This year we received 3,000 submissions for DEFCON,
+[0:41:51] selected more than 550 speakers
+[0:41:54] and we had quite low acceptance rates.
+[0:41:57] You can see that compared to the other years,
+[0:42:00] it's almost twice or half
+[0:42:03] the acceptance rate that we had last edition.
+[0:42:07] Just to say that the process
+[0:42:09] has been extremely selective this year
+[0:42:12] and we're very excited about the people we chose
+[0:42:15] but it is a very selective process
+[0:42:18] and unfortunately even though we want the event
+[0:42:21] to be as inclusive as possible,
+[0:42:24] we cannot include everyone for physical reasons
+[0:42:27] even though we would like to.
+[0:42:30] This is the 300 I was mentioning,
+[0:42:33] the 10,000 300 is a lot of content is created.
+[0:42:36] I think this is one of the greatest assets of DEFCON
+[0:42:39] is actually like in four days
+[0:42:42] you get to have 300 hours
+[0:42:45] of very highly quantitative content
+[0:42:48] created, recorded, that will be available
+[0:42:51] for years in the archive
+[0:42:54] that you can see and watch anytime
+[0:42:57] and actually this is again DEFCON
+[0:43:00] this is a place where people come
+[0:43:03] sometimes year to release their product
+[0:43:06] and they will talk about it at DEFCON
+[0:43:09] and so this is part of the content
+[0:43:12] that will be at DEFCON
+[0:43:15] and this is part of the reason why DEFCON
+[0:43:18] is in my opinion quite an important time of the year.
+[0:43:21] I'll dive a little bit into
+[0:43:24] how we organize the content at DEFCON
+[0:43:27] so we have 10 tracks
+[0:43:30] and we have the last DEFCON
+[0:43:33] so I'll touch on the new ones
+[0:43:36] or the most important ones
+[0:43:39] let's say the core protocol track
+[0:43:42] is one of the most important ones
+[0:43:45] also because it's organized by the Ethereum Foundation
+[0:43:48] that supports researchers
+[0:43:51] that are building an Ethereum
+[0:43:54] DEFCON is the place where you hear about all the researchers
+[0:43:57] developments happening in Ethereum
+[0:44:00] and so this is definitely one of the biggest
+[0:44:03] most important ones
+[0:44:05] big focus this year will be of course on Layer 2
+[0:44:07] this is a major development in the Ethereum space in general
+[0:44:10] we have a new one called applied cryptography
+[0:44:13] that shows the users, the use cases
+[0:44:16] and the cryptography applied in a real world
+[0:44:19] also a lot of new research this is a cutting edge
+[0:44:22] ecology but it will be an interesting track for sure
+[0:44:25] so this is one that is called real world Ethereum
+[0:44:28] that will really be featuring a lot of the
+[0:44:31] applications that are used today
+[0:44:34] and being developed in Ethereum so that will be a very important one
+[0:44:37] usability of course
+[0:44:40] tackles one of the biggest challenges of our ecosystem
+[0:44:43] which is user experience, how we make Ethereum
+[0:44:46] easier to use, more simple in general
+[0:44:49] in our day to day life
+[0:44:52] last but not least the Cypher Perkin Privacy Track
+[0:44:55] that will remind why are we working on Ethereum
+[0:44:58] what makes Ethereum great
+[0:45:01] and may be different from other solutions
+[0:45:04] and of course cover privacy
+[0:45:07] privacy aspects
+[0:45:10] few indications on the times
+[0:45:13] at the conference I think this is more logistical
+[0:45:16] we are about to release the schedule
+[0:45:19] so it will be available next week
+[0:45:22] so don't worry if you can read that right now
+[0:45:25] but we've been working on it for a long time
+[0:45:28] and we're very excited to release it next week
+[0:45:31] so you should follow the dates on that
+[0:45:34] this is also if you want to mark your calendar
+[0:45:37] we can share the slides afterwards I guess
+[0:45:40] but this is before we release the schedule
+[0:45:43] you can have a look at that and if you're for example
+[0:45:46] if you have a second abstraction or
+[0:45:49] real-world Ethereum you can mark down those times in your calendar
+[0:45:52] even though it will be super easy in the schedule
+[0:45:55] and you might just want to wait for a week
+[0:45:58] a few words on some of the highlights
+[0:46:01] and some of the speakers we will have at DEF CON
+[0:46:04] so of course you'll see the usual suspects
+[0:46:07] you'll see Vitalik Buterin, the founder of Ethereum
+[0:46:10] or Ayame Miyaguchi that is the executive director
+[0:46:13] but we were very excited also to have
+[0:46:16] people that are coming from the free and open
+[0:46:19] free and open source software
+[0:46:22] ecosystem like people like Roger Ligoldein
+[0:46:25] co-founder of the Ford project
+[0:46:27] or Hart Montgomery that is the CEO of the Linux foundation
+[0:46:30] or maybe people that you might have heard
+[0:46:33] like Peter Backenberg from Concenter
+[0:46:36] a very influential person
+[0:46:38] or Jesse Pollock from Conbase
+[0:46:40] that will talk about
+[0:46:43] why on-chain is the next online
+[0:46:46] so if you know maybe
+[0:46:49] James Gross that is called the ZK
+[0:46:52] like a ZK expert that we call the ZK
+[0:46:55] called God Internally, anyways a lot of great people
+[0:46:58] that will be there
+[0:47:01] very excited about that
+[0:47:03] a few words on the community sessions
+[0:47:05] those are organized by the community
+[0:47:08] that will happen during DEF CON
+[0:47:11] as part of DEF CON and within the venue
+[0:47:14] and you have events like the DAG Discovery Day
+[0:47:17] organized by a team
+[0:47:21] decentralized acceleration
+[0:47:24] isn't hard to say but
+[0:47:27] or a mod that is organized by 0x PARC
+[0:47:30] or even you have an event
+[0:47:33] by Bidol Gidol that will teach you how
+[0:47:36] to build on Ethereum from A to Z
+[0:47:39] so those are events again that will happen
+[0:47:42] at the venue during DEF CON
+[0:47:44] and that will be worth attending
+[0:47:46] we have community hubs
+[0:47:48] I'll go quickly on that but again like hubs
+[0:47:50] that aim at representing the community
+[0:47:53] within DEF CON
+[0:47:55] so they will have booth
+[0:47:57] around the construction
+[0:47:59] or things like activism for privacy technologies
+[0:48:02] or things like home operators
+[0:48:05] hub that will teach people how to
+[0:48:07] stake the importance of staking
+[0:48:09] those will be places where you can come
+[0:48:11] and meet the people behind the projects
+[0:48:14] that will display great technology
+[0:48:17] working technology that will be super
+[0:48:20] we're super excited about that
+[0:48:22] other stuff I'm not sure how I am regarding time
+[0:48:26] I'm okay, alright
+[0:48:28] so other ways to get involved
+[0:48:30] if you come to DEF CON you will have places to
+[0:48:33] book meeting rooms
+[0:48:35] or you have discussion corners where
+[0:48:37] people will gather
+[0:48:39] more informally maybe
+[0:48:41] but you will have also the ability yourself
+[0:48:44] to book discussion corners within the venue
+[0:48:46] so if you want to talk about anything
+[0:48:48] you can just come
+[0:48:50] and book a discussion corner
+[0:48:53] there will be a lot of things happening in them
+[0:48:55] it's less official, more informal
+[0:48:57] but those are great places to exchange
+[0:48:59] and meet the people
+[0:49:01] how to book these rooms in the future
+[0:49:04] and I wanted to touch on the DIPs
+[0:49:07] so those are inspired from the EIPs
+[0:49:10] the Ethereum Improvement Proposal
+[0:49:12] they're called DIP for the DEF CON Improvement Proposal
+[0:49:15] and those are proposals submitted by the community
+[0:49:18] to create initiatives
+[0:49:21] as part of DEF CON
+[0:49:24] also oriented towards using
+[0:49:27] Ethereum as part of the conference
+[0:49:30] doffing the technology
+[0:49:32] also promoting decentralization
+[0:49:34] providing more transparency
+[0:49:36] and great features within DEF CON
+[0:49:39] so a few things that we integrated
+[0:49:41] and we used DK Technology
+[0:49:43] to enable SCA Builder
+[0:49:45] to prove with their passport
+[0:49:47] that they were actually coming from Southeast Asia
+[0:49:49] without having to
+[0:49:51] showing or giving us their passport
+[0:49:53] so we had just the proof
+[0:49:55] that they had a passport from this country
+[0:49:57] without showing their passport
+[0:49:59] so this is a great thing
+[0:50:01] among others that are allowed
+[0:50:03] by DK Technology
+[0:50:05] they are known as Technology
+[0:50:07] same thing for
+[0:50:09] Indian Builders
+[0:50:11] we are using tickets
+[0:50:13] using the same cryptography
+[0:50:16] and called PCDs
+[0:50:18] or a Zoo Pass that we will use
+[0:50:20] for the ticketing
+[0:50:22] you can find all of them online
+[0:50:24] so I will go quick but we use fileverse
+[0:50:26] to store our documents
+[0:50:28] and content in a decentralized way
+[0:50:31] we have a capture of the flag
+[0:50:33] that will happen in DEF CON
+[0:50:35] a lot of things will happen in DEF CON
+[0:50:37] and those again are organized by the community
+[0:50:39] submitted in advance
+[0:50:41] and it's another way for the community to get involved
+[0:50:43] we store the content on Swarm
+[0:50:45] in decentralized fashion
+[0:50:47] we have other initiatives
+[0:50:49] you can find them once again on our forum
+[0:50:51] we have a championship on Solidity
+[0:50:53] a lot of things
+[0:50:55] and yes, last but not least
+[0:50:57] a raffle
+[0:50:59] for people to buy their tickets
+[0:51:01] in a transparent
+[0:51:03] and fair manner
+[0:51:05] that was a very early on
+[0:51:07] it's closed now but
+[0:51:09] we use the same decentralized technologies
+[0:51:11] to issue some of the tickets
+[0:51:13] so that was in my opinion very interesting
+[0:51:15] okay, a few other initiatives
+[0:51:17] that we will go quickly towards
+[0:51:19] but we have been running
+[0:51:21] for many months now
+[0:51:23] the Road to DEF CON initiative
+[0:51:25] 100 events leading to DEF CON
+[0:51:27] some events
+[0:51:29] are happening in Chiang Mai
+[0:51:31] and some events have been
+[0:51:33] talking about DEF CON
+[0:51:35] but in general we've been supporting them
+[0:51:37] and we have all here
+[0:51:39] that is responsible for most of the
+[0:51:41] of what happened there
+[0:51:43] and that's a great initiative to involve also
+[0:51:45] the whole area
+[0:51:47] the whole region leading up to DEF CON
+[0:51:49] so we want to have a strong impact on the region
+[0:51:51] and this is
+[0:51:53] a key towards that direction
+[0:51:55] we'll have the DEF CON week
+[0:51:57] so many events that will happen
+[0:51:59] before and after DEF CON
+[0:52:01] we also have
+[0:52:03] the Ethereum C day
+[0:52:05] for that we also have
+[0:52:07] we still have tickets available
+[0:52:09] this will be a one day event
+[0:52:11] happening at the same venue
+[0:52:13] more focused on SEA really
+[0:52:15] organized by the local SEA communities
+[0:52:17] and that will feature
+[0:52:19] C content
+[0:52:21] so we have great stuff
+[0:52:23] so if you're
+[0:52:25] you don't have a ticket to DEF CON
+[0:52:27] for example you just want to get
+[0:52:29] introduced to the topic to Ethereum
+[0:52:31] and learn more about what's happening
+[0:52:33] in SEA in the region
+[0:52:35] you should definitely go there
+[0:52:37] there will be stuff happening as well
+[0:52:39] after DEF CON
+[0:52:41] we have DEF CON satellites
+[0:52:43] this is an interesting one
+[0:52:45] for example if you're not attending DEF CON
+[0:52:47] and going back to your home country
+[0:52:49] if you're not attending DEF CON
+[0:52:51] well you can organize an event
+[0:52:53] organize a meetup
+[0:52:55] where you stream the content from DEF CON
+[0:52:57] and we will give you a grant for that
+[0:52:59] so even if you know people at home
+[0:53:01] that are looking to organize a meetup
+[0:53:03] and just watch content
+[0:53:05] with people or do things around DEF CON
+[0:53:07] or during DEF CON
+[0:53:09] but are not in Bangkok
+[0:53:11] well you can send them that
+[0:53:13] even yourself
+[0:53:15] I think that's a very interesting initiative that we do
+[0:53:17] from last DEF CON
+[0:53:19] that happened in Bogota
+[0:53:21] just to show you
+[0:53:23] how it looked like
+[0:53:25] this was the main stage
+[0:53:27] and this was some of the core workspace
+[0:53:29] we had a lot of initially
+[0:53:31] a lot of panels, a lot of talks
+[0:53:33] I think we have here
+[0:53:35] we're not a person
+[0:53:37] relaxing spaces
+[0:53:39] community booths
+[0:53:41] dancing performances
+[0:53:43] and yeah that was it
+[0:53:45] thank you very much
+[0:53:53] thank you Nathan
+[0:53:55] for all of those exciting updates about DEF CON
+[0:53:57] and next we're going to move to
+[0:53:59] panel discussion
+[0:54:01] Asia
+[0:54:03] and local communities
+[0:54:05] this discussion will explore
+[0:54:07] the various
+[0:54:09] local development and challenges
+[0:54:11] within the Asian crypto and blockchain
+[0:54:13] community
+[0:54:15] leading this discussion is
+[0:54:17] Chiu Chiu
+[0:54:19] can you say hi to everybody
+[0:54:21] okay
+[0:54:23] and then joining her
+[0:54:26] on the panel representing China
+[0:54:28] is Audrey Tang from Shanghai Wu
+[0:54:30] and DRK Lab
+[0:54:32] Audrey say hi
+[0:54:34] and for South Korea
+[0:54:38] we have David Park
+[0:54:40] head of APAC
+[0:54:42] at Mina Foundation
+[0:54:44] David
+[0:54:46] welcome
+[0:54:48] yeah yeah of course
+[0:54:50] and from Singapore
+[0:54:52] let's welcome QZ from
+[0:54:54] ETH Singapore
+[0:54:56] and Vietnam
+[0:54:58] we have Vivi
+[0:55:00] who's the co-founder of CKP Labs
+[0:55:04] and let's welcome
+[0:55:06] Fai from Thailand
+[0:55:08] ETH Patai
+[0:55:10] thank you and we have a special guest
+[0:55:12] Jonathan
+[0:55:14] can you please join them
+[0:55:16] so hello guys
+[0:55:35] yeah
+[0:55:37] so I'm
+[0:55:39] introduction by myself
+[0:55:41] and I'm Chiu Chiu from the Shanghai Wu
+[0:55:43] and Yisheng Zhen
+[0:55:45] I'm already in the Chiang Mai
+[0:55:47] more than one year
+[0:55:49] I think the 7th DEF CON
+[0:55:51] is coming on next month
+[0:55:53] and so recently here
+[0:55:55] these two months a lot of
+[0:55:57] politics happened in Chiang Mai
+[0:55:59] and this truly the load to DEF CON
+[0:56:01] and they will show
+[0:56:03] our own
+[0:56:05] to invite the speaker
+[0:56:07] from the Asia and South Asia
+[0:56:09] community
+[0:56:11] to share the
+[0:56:13] history of the community
+[0:56:15] and what they are doing now
+[0:56:17] in the future plan
+[0:56:19] so let's
+[0:56:21] welcome our speaker
+[0:56:23] and so first
+[0:56:25] the self-introduction first
+[0:56:27] yeah
+[0:56:29] hello everyone
+[0:56:31] my name is
+[0:56:33] and I'm the founder
+[0:56:35] and
+[0:56:37] more like a community driven event
+[0:56:39] we want to
+[0:56:41] platform a gateway
+[0:56:43] for people to join Web3
+[0:56:45] and to help them
+[0:56:47] the local community
+[0:56:49] especially in the Asia area
+[0:56:51] to connect with the global community
+[0:56:53] which is very important
+[0:56:55] in that way we could enhance
+[0:56:57] the communication between
+[0:56:59] the global
+[0:57:04] hello guys my name is David Park
+[0:57:06] I'm actually
+[0:57:08] working at non EVM protocol
+[0:57:10] call MINA
+[0:57:12] we are layer 1 non EVM
+[0:57:14] but ZK native blockchain
+[0:57:16] that provides ZK programability
+[0:57:18] but
+[0:57:20] we have Ethereum token bridge
+[0:57:22] and state bridge coming out this year
+[0:57:24] we got to know
+[0:57:26] about Shanghai Wu through
+[0:57:28] one of our
+[0:57:30] And they recommended that this event is where the essence of Asian builders are here.
+[0:57:39] So we were honored to be participating and also sponsoring this event.
+[0:57:46] And I'm very happy to speak along with great thought leaders on Asian community.
+[0:57:52] Thank you.
+[0:57:54] Hi, I'm QZ.
+[0:57:55] I organize Ethereum Singapore.
+[0:57:57] I think what I like about Shanghai Rule is that I get to practice my Mandarin.
+[0:58:01] And I think the last couple of weeks here has been a good experience of seeing how we can
+[0:58:07] bridge both the different language-speaking communities.
+[0:58:10] I think the Chinese-being community is incredibly hardworking in a way that I've never seen.
+[0:58:17] And I think as a Singaporean, I think we played that role in a lot of contexts, like the TikTok
+[0:58:23] CEO is Singaporean and things like this.
+[0:58:26] To be able to bridge both East and West is something that I really hope to do.
+[0:58:30] We do that at Ethereum Singapore every year, especially with token 2049, which in this case
+[0:58:34] we are flying two flags.
+[0:58:36] One is that we're trying to create a space for Ethereum in a very unique Ethereum vibe.
+[0:58:43] So we always do it at museums so far.
+[0:58:45] And we did it at the exhibition.
+[0:58:46] We talked about Ethereum's history, so that's really good.
+[0:58:50] And for the rest of the world, I think we want to try and represent Singaporean voices,
+[0:58:54] which surprisingly punch quite above our weight in the Web3 space.
+[0:59:00] So I think for us, we take on this responsibility.
+[0:59:04] Yeah.
+[0:59:05] Nice to meet everyone.
+[0:59:06] Hello, everyone.
+[0:59:09] I'm a lead of CKB Lab from Vietnam.
+[0:59:13] For the CKB Lab, we are the home and a community for the developer and researchers.
+[0:59:20] And especially we focus on zero-native growth.
+[0:59:23] I know for the zero-native growth, quite new for the development communities, but because
+[0:59:32] I'm for sure you went to most of the talk on the Ethereum foundation, or any foundation
+[0:59:41] really focused on CKB in the near future, so we try to help the Vietnamese to have
+[0:59:51] more connect with global partners like Ethereum, like Mina protocol to help them build more high
+[1:00:01] technology projects.
+[1:00:03] And we usually organize most of the activities for builders in Vietnam, and so it's like we
+[1:00:09] organize Monday workshop.
+[1:00:11] We organize, I can say like many hackathons for service-as-a-builders and some conference.
+[1:00:21] If you guys know about the Vietnam lock chain week, we are co-organizers of the Vietnam lock
+[1:00:29] chain week at Indra for most of the technical workshops and hackathons in Vietnam.
+[1:00:35] And at this time, when we went to Chinmai and died into support for DevCon in C, because this
+[1:00:42] is the first time DevCon go to service-as-a-builders, and it's a big opportunity for us to bring
+[1:00:50] a lot of Vietnamese builders come to Thailand to join DevCon, because I'm for sure this
+[1:00:55] is maybe the first one, the first time most of the builders from Vietnam can join
+[1:01:03] DevCon, because we don't need to repair visa and easy for Vietnamese builders to come to Thailand
+[1:01:10] with really soft fly-race.
+[1:01:13] And thanks for Sanhaibu, because they are really strong partners, and before Sanhaibu, I know
+[1:01:21] OpenView from Wikipedia, because we also support for each sense and most of the conference
+[1:01:30] for Asian communities around Asia, we would love to support.
+[1:01:35] And thank you for having me join the panel discussion today.
+[1:01:43] Hello everyone, my name is Phai Rujida, so I'm part of Ithapthai.
+[1:01:48] So I'm a software engineer, and I recently joined Ithapthai this year.
+[1:01:52] Ithapthai is a new community starting last year.
+[1:01:56] We tried to connect Thai community to raise more awareness of Ethereum and also bring
+[1:02:04] Web3 education to Thai.
+[1:02:06] So at first, the first event last year, we hold the big event during June in Chiang Mai
+[1:02:12] as well, and then actually that time we have about 200 participants, but only 20 Thai.
+[1:02:18] So this is what brings the focus of our Ithapthai, that we try to bring more
+[1:02:25] Thai to join the community, because for Thai Web3, they think mostly it will be about
+[1:02:31] like cryptocurrency or like trading.
+[1:02:34] So it's not really much Web3 developer.
+[1:02:38] So we try to bring more Thai to become Web3 developer.
+[1:02:42] So we try to create like community events as well as like our recent activities that
+[1:02:49] we hold Web3 bootcamp.
+[1:02:52] So we try to connect our Web3 experts in the industry, in Thai company to our local Thai
+[1:03:00] community, and through the bootcamp, we also have successfully like create more Thai Web3
+[1:03:07] developer about like 40 or 50 persons, and we try to build the local community more
+[1:03:13] and to support them into building public good.
+[1:03:17] Yeah, thank you.
+[1:03:20] Thank you, I guess.
+[1:03:22] And actually our first question is about, I want to describe the landscape, your local
+[1:03:28] community about maybe the history story and the current state backups and
+[1:03:33] the future planning.
+[1:03:35] But I think Vivi and Fei, you already share a lot.
+[1:03:38] And our guests, I think, can make more.
+[1:03:41] Yeah, and if you anyone to share, you can continue.
+[1:03:44] Yeah?
+[1:03:45] Sure.
+[1:03:46] Yeah.
+[1:03:47] Okay.
+[1:03:48] Maybe I could discuss more about the Chinese community development.
+[1:03:53] I think Chinese blockchain community has a long history since Bitcoin from 2009.
+[1:04:02] And already there are a lot of exchange, especially Bitcoin exchange and
+[1:04:07] Bitcoin community in China.
+[1:04:10] And later I think about 2015 in Shanghai and Hangzhou, and the Eastern
+[1:04:20] community starts to grow up.
+[1:04:22] Yeah, and a lot of back to about I think maybe about 2015 and 16, and there
+[1:04:28] are a lot of technical companies from Hangzhou.
+[1:04:33] Eastern ecosystem, just from the MToken started from I think 2016.
+[1:04:40] And the SPAPO used to be the largest Eastern POWPOL.
+[1:04:45] And also lots of, also they're back to about I think 2015 and the
+[1:04:54] largest Eastern community in China, which is called Eastern Funds started.
+[1:05:00] And they lost four at least to about 2021.
+[1:05:08] And they helped educate a lot of Chinese speaking community and
+[1:05:13] developers to help the Eastern growth in mainland China.
+[1:05:17] And also for Hangzhou, there are lots of developers there because you
+[1:05:22] know Ali and a lot of big web to companies there.
+[1:05:26] And also in Shanghai, there are lots of early Eastern supporters,
+[1:05:31] faces in there, no matter Wanxiang donate to Eastern Foundation in
+[1:05:36] about 2015, which is a large, about I think 5,000 KK in that time,
+[1:05:44] which is very important to Eastern Foundation to grow in Asia
+[1:05:49] community.
+[1:05:50] And so it's a very long history for Chinese speaking community,
+[1:05:55] but I think something happened after COVID and lots of companies
+[1:06:01] that the bridge of Eastern West closed because of the pandemic.
+[1:06:09] And I think nowadays we're trying to fill the gap between the
+[1:06:15] Eastern West and nowadays, no matter we have the exchange
+[1:06:20] organized by OpenBuild, and also last week we have Shanghai.
+[1:06:26] And each of each exchange and each Shanghai notice, I think more than
+[1:06:31] 700 people just for it.
+[1:06:33] And the notice, yeah, and both from each organizer of each Shanghai.
+[1:06:38] And I think nowadays the Chinese speaking community, especially the
+[1:06:43] developer community, renew and reconnect with each other and
+[1:06:50] educate a lot in the mainland China.
+[1:06:55] And also, you know, I think China has a lot of big web to
+[1:07:00] company and lots of developers will educate from the big
+[1:07:06] to company and that's why lots of them have a good background
+[1:07:11] that will educate and we want to attract them to bring them to
+[1:07:15] Web3 which is very important.
+[1:07:17] But actually there's also a very, very important question is that
+[1:07:23] to, because the main site between, from Web2 to Web3 is
+[1:07:29] different.
+[1:07:30] That's why we need to educate them a lot.
+[1:07:32] What is the crypto value and what is, we really want to do a
+[1:07:37] real Web3 product but not just a way back to Web2 product,
+[1:07:42] something like that, which is also very important to
+[1:07:45] activate them.
+[1:07:47] That's great insight by the way.
+[1:07:51] I will try to speak for that of Korea and Japan.
+[1:07:55] I'm Korean and I went to Japanese university.
+[1:07:59] So opinions are my own though.
+[1:08:02] I guess with regards to Korea, unlike China, we didn't have
+[1:08:07] much miners but we did have early 2010s, we did have
+[1:08:13] exchanges.
+[1:08:14] So one of the earliest exchanges called Corbett came out
+[1:08:18] 2012 and then it led to a lot of businesses around
+[1:08:22] exchanges.
+[1:08:23] And then after 2015, Ethereum, I think a lot more
+[1:08:28] investors, retail investors participated as well.
+[1:08:34] During those time, I think the community were much focused on
+[1:08:39] the ideology and the philosophy.
+[1:08:41] So there would be communities like, community called
+[1:08:46] knowns where people would live in a one room together where
+[1:08:51] they do proof of work by analyzing the white paper and
+[1:08:56] then discuss about blockchain.
+[1:08:58] So most of the early community that were involved were
+[1:09:02] very much ideology focused and trying to understand what
+[1:09:07] this technology implies to the world.
+[1:09:11] And then I think after Ethereum came out and after
+[1:09:16] initiation of DeFi, I think a lot more retails who once
+[1:09:21] wanted to gain financial incentives got involved
+[1:09:25] more.
+[1:09:26] And 2021, I think during COVID, a lot of builders from Web
+[1:09:35] 2 also joined in for the opportunity.
+[1:09:39] And I think with regards to community, I think many
+[1:09:43] people were disappointed at the same time because there
+[1:09:47] were a lot of projects that were scams and that
+[1:09:52] eventually didn't work out.
+[1:09:54] Big, big conglomerates companies like Kakao and
+[1:09:59] Naver, who are the top platform providers in South Korea
+[1:10:03] also launched their mainnet.
+[1:10:06] But their mainnet eventually didn't go as I think
+[1:10:12] they would have expected, which also I think
+[1:10:15] they encouraged a lot of Korean builders.
+[1:10:18] And I think right now we're at this kind of inflection
+[1:10:23] point where either crypto culture becomes rather
+[1:10:30] siloed by the people who understand it or some
+[1:10:36] use cases come out where it goes beyond just retail
+[1:10:42] investment.
+[1:10:45] So I think there needs to be a good balance between
+[1:10:49] the casino and platform analogy by Chris Dixon.
+[1:10:54] But at least at this moment, most of communities are
+[1:10:59] in terms of quantity are mostly I think beyond 90%
+[1:11:03] are into quote unquote casino rather than the
+[1:11:08] building platform.
+[1:11:10] And I think that is why someone like Jonathan who
+[1:11:14] has been involved in very deeply involved in
+[1:11:19] Korean blockchain culture and in a community are
+[1:11:25] raising voices around Web3 builders and Web3
+[1:11:30] leaders should arm themselves with right philosophy
+[1:11:35] and knowledge to be able to create a game changer
+[1:11:42] services that contributes to mass adoption.
+[1:11:45] I think that's for Korea, for Japan.
+[1:11:48] I think Japanese as they have such mature
+[1:11:52] finance market they initially started investing a
+[1:11:55] lot on Bitcoin rather than mining also.
+[1:11:58] I think mining Chinese were always the world best.
+[1:12:03] Yeah.
+[1:12:05] But I guess at one point Japan was kind of the
+[1:12:11] decentralized finance hub for Bitcoin investors.
+[1:12:15] But they were unfortunately unlucky with
+[1:12:20] security of their exchanges.
+[1:12:23] They had two big, their centralized exchange
+[1:12:28] hacked.
+[1:12:29] One was Monkos as you guys probably know.
+[1:12:32] And second one was coin check which had like 500
+[1:12:35] million worth of Bitcoin crypto assets hacked.
+[1:12:39] And ever since then government came in abruptly
+[1:12:43] and they made legislations that really
+[1:12:49] encouraged people to trade crypto assets.
+[1:12:52] So even up to this date if you have certain
+[1:12:56] gains I think after more than 10k you would
+[1:13:00] have to pay up to 55% of tax and I think it
+[1:13:06] encouraged a lot of people and a lot of Japanese Web3
+[1:13:10] pioneers ended up leaving Japan to create their
+[1:13:17] projects or invest.
+[1:13:20] But I guess one pivotal point was when NFT boom
+[1:13:25] surged around 2020 to 21 I think it's because
+[1:13:29] Japanese have very huge IP culture and economy
+[1:13:34] and they thought that it has a product market fit
+[1:13:37] along with Japanese government trying to be
+[1:13:40] more flexible as in not inputting any regulation
+[1:13:45] around NFTs.
+[1:13:47] So it became a huge hype around Japanese people
+[1:13:52] and there were a lot of communities around NFT
+[1:13:55] but I think after the NFT market kind of went
+[1:13:59] down the momentum is not as vibrant as before.
+[1:14:04] And with regards to NFTs I think now it's more
+[1:14:08] connected to gaming but I guess there is also
+[1:14:12] a fundamental difference in targeted users.
+[1:14:17] So traditional Web2 game users are not
+[1:14:21] necessarily have the best experience with NFTs
+[1:14:26] and combination of on-chain and off-chain.
+[1:14:31] Yeah so now I think more than individual
+[1:14:35] builders and communities in Japan now it's
+[1:14:38] more of enterprises kind of leading the
+[1:14:41] narrative and adoption of blockchain.
+[1:14:44] So one big one is still finance.
+[1:14:49] Japan already has regulations around
+[1:14:52] RWAs and STOs and some of the security
+[1:14:56] tokens are listed in the public market
+[1:15:02] but I think Japan is still waiting for more
+[1:15:07] betterment of regulations so that
+[1:15:10] enterprises can be more active in adopting blockchain.
+[1:15:14] So I think at least for Korea and China,
+[1:15:17] Korea and Japan it's more of a hodl mode
+[1:15:23] for the communities is my personal opinion.
+[1:15:27] That's quite interesting.
+[1:15:30] Thanks for the quick history lesson.
+[1:15:32] I suppose it's a difficult question to answer
+[1:15:36] to be fair so I'll just share maybe the structural
+[1:15:39] things that guide Singapore's communities
+[1:15:42] and from there you can kind of guess what will happen.
+[1:15:45] So Singapore doesn't have a capital gains tax.
+[1:15:48] So of course a lot of people will want to come
+[1:15:51] because if you bought Bitcoin early
+[1:15:55] you will want to be in a jurisdiction that
+[1:15:58] doesn't have capital gains taxes which means
+[1:16:00] that you only have to choose between Singapore
+[1:16:02] and Dubai. So there is that segment of
+[1:16:05] people that kind of come to these different
+[1:16:08] countries very international, very
+[1:16:11] entrepreneurial, very early. When it comes to
+[1:16:14] building I think what guides Singaporeans
+[1:16:17] it's pragmatism and for us we don't
+[1:16:20] really seem to care about like the
+[1:16:24] philosophical aspects of Web 3. We acknowledge it
+[1:16:28] but from a day to day perspective it's really pragmatism.
+[1:16:32] So the best example is actually the fact that
+[1:16:35] all Singaporeans our educational certificates
+[1:16:38] are on the theorem since 2017 and this was
+[1:16:41] a pragmatic decision where so when they wanted
+[1:16:44] so the guy who does it he's a dean at a
+[1:16:46] polytechnic which is like a higher education institute
+[1:16:48] and basically he observed that his registrar
+[1:16:50] was spending hundreds of hours doing verification
+[1:16:53] and so he found out about blockchain technology
+[1:16:55] and wanted to explore how this could allow for
+[1:16:58] a much lower cost and faster verification
+[1:17:00] and so he explored private chains, consortium chains,
+[1:17:03] Ethereum, hyperledger and came about on Ethereum
+[1:17:06] and now he's building on Ethereum and that's
+[1:17:09] part of a much broader Singapore strategy
+[1:17:11] to diversify our educational certificates
+[1:17:14] to create almost like a skilled passport.
+[1:17:16] So when we look at a lot of like Web 3
+[1:17:19] technologies we just see how this can be run
+[1:17:22] as a service or as a business or from a
+[1:17:25] revenue perspective. When it comes to builders
+[1:17:28] though I think Ethereum or Singapore
+[1:17:31] tries to be a great place to live and work
+[1:17:33] and so it's very comfortable and therefore
+[1:17:36] builders can come and build in peace and I think
+[1:17:39] that attracts a certain kind of builder also.
+[1:17:41] People that appreciate community but
+[1:17:45] don't necessarily have to rely on community.
+[1:17:47] One thing I notice is that communities coalesce
+[1:17:49] around common problems but when you work
+[1:17:52] and live in a government that solves all your problems
+[1:17:54] community becomes like a good to have
+[1:17:56] and that is something that we have to kind of
+[1:17:59] contend with which is we have to
+[1:18:01] provide something that the government does
+[1:18:03] not want to provide or cannot provide
+[1:18:05] and that's I think where Ethereum's ethos comes in
+[1:18:08] and when you live in a structured society
+[1:18:11] that is very open to all sorts of ideas
+[1:18:14] but is also very close to politically
+[1:18:17] you can kind of see both sides and so
+[1:18:20] that community aspect helps you fulfill
+[1:18:23] that part of your soul that is missing
+[1:18:25] and I think those are the kind of Ethereum builders
+[1:18:28] that we get like Vectorize is from Singapore
+[1:18:32] and it's just cause he had a very boring job
+[1:18:35] and explored Web 3 and now he feels very free
+[1:18:38] so I think a lot of people go through that
+[1:18:41] and there are a lot of Chinese builders
+[1:18:43] that are in Singapore, good and bad
+[1:18:46] I think there's a lot of great builders in Singapore
+[1:18:48] and then because of this freedom and
+[1:18:50] pragmatism and all that we also end up
+[1:18:52] on the other side of the spectrum
+[1:18:54] like DoCorn, Suju, the big FTX investment
+[1:18:59] and for the longest time we've kind of
+[1:19:01] at least the last two years like
+[1:19:03] every crash originated from Singapore
+[1:19:05] which is very embarrassing to say
+[1:19:08] but none of them are Singaporean
+[1:19:11] which is interesting
+[1:19:13] I have a question, can I ask a follow-up question?
+[1:19:16] So what's the general sentiment of the
+[1:19:19] non-crypto people at Singapore about crypto
+[1:19:23] and does that have an impact towards
+[1:19:25] people in crypto in Singapore?
+[1:19:28] Oh for sure, so a lot of the younger folks in universities
+[1:19:31] I think some of them have more money
+[1:19:33] in their finance accounts than their bank accounts
+[1:19:35] because they are just very entrepreneurial
+[1:19:38] and smart and fast
+[1:19:40] we can read both English and Chinese
+[1:19:42] we have lots of alpha
+[1:19:44] I think that's really interesting
+[1:19:46] but that is the younger crowd
+[1:19:48] and they tend to come across as being a bit obnoxious
+[1:19:50] so that kind of plays very negatively
+[1:19:53] but I think for the longest time
+[1:19:56] there are three layers
+[1:19:58] so government, business and maybe a community
+[1:20:00] the government has already stated that
+[1:20:02] they have no intention of making Singapore
+[1:20:04] like if the current Prime Minister said it
+[1:20:06] but behind the scenes
+[1:20:08] what he means is that he doesn't want us to be like a crypto hub
+[1:20:11] we are exploring privacy preserving technologies
+[1:20:14] decentralized technologies
+[1:20:16] so I think the wisdom is that they have managed
+[1:20:18] to kind of slice that pie
+[1:20:20] and figure out what is the use case
+[1:20:22] of decentralized technologies
+[1:20:24] that makes it useful
+[1:20:26] then of course there is the stigma
+[1:20:29] so for the community side
+[1:20:31] there is a long tradition of open source communities in Singapore
+[1:20:34] if you like you can check out engineers.sg
+[1:20:36] it's a group of engineers that like to film
+[1:20:38] so they've been filming open source communities
+[1:20:40] for almost 10 years
+[1:20:42] and now every community knows them
+[1:20:44] on Twitter, their pin tweet
+[1:20:46] until now since 2018
+[1:20:48] is that they refuse to film
+[1:20:50] any blockchain meetup
+[1:20:52] until now
+[1:20:54] they've only done it once for my friend
+[1:20:56] and it's for the developer educational course
+[1:20:59] but when leaders in the traditional open source space
+[1:21:02] puts on their stunts
+[1:21:04] it's very difficult
+[1:21:06] and because Singapore is so open and so much has happened
+[1:21:08] every artist I know has a traumatic NFT crypto bro story
+[1:21:14] and it's traumatic, it's very sad
+[1:21:17] and so we also are a small community
+[1:21:19] so there is a very deep memory
+[1:21:21] and that is kind of holding us back
+[1:21:24] and so for us we are forced to stay on both sides
+[1:21:28] because if you are a pure Ethereum, you are a crypto guy
+[1:21:31] and even the most well-meaning of crypto people
+[1:21:34] when you introduce them, your friends and stuff
+[1:21:36] they will low-key talk to you
+[1:21:38] like, are you sure you want me to meet this guy?
+[1:21:40] I've met crypto people and they are all assholes
+[1:21:43] your reputation is in the line
+[1:21:45] and I'm like, trust me
+[1:21:47] just give it a shot
+[1:21:49] and it worked out sometimes
+[1:21:51] and it's great but there is still that challenge
+[1:21:54] so even when working at the Art Science Museum
+[1:21:56] they lead for them to put Ethereum Singapore as a partner
+[1:21:59] but the marketing is still slow
+[1:22:01] they will be like, okay, you know this is Ethereum's history
+[1:22:04] it's Ethereum's history, nothing else
+[1:22:06] it's very careful to kind of thread them
+[1:22:09] so that's the challenge we have
+[1:22:16] Well, I found some interesting about Singapore
+[1:22:19] and Japanese markets
+[1:22:21] and I also want to contribute a lot
+[1:22:24] a little bit from Vietnam
+[1:22:26] I think compared with China
+[1:22:29] and Japan or Singapore
+[1:22:31] they have really good financial state
+[1:22:34] financial fundamentals
+[1:22:37] but for Vietnam
+[1:22:39] maybe we have another advantages
+[1:22:42] like we have really high workforce of developers
+[1:22:46] you know, from every years
+[1:22:49] we have more than 150 cases
+[1:22:54] developer-related areas
+[1:22:57] big numbers
+[1:22:58] but the thing is
+[1:23:00] I can say
+[1:23:02] for the Riptos
+[1:23:17] blockchain industries in Vietnam
+[1:23:20] some communities from 10 years ago
+[1:23:24] one of our core members from CKB Lab
+[1:23:28] she built the Solidity community
+[1:23:31] to connect the important
+[1:23:38] but the thing is
+[1:23:50] we less support from
+[1:23:52] I can say from government until now
+[1:23:55] we just try to have some big talk
+[1:23:59] about these return activities
+[1:24:05] but the app
+[1:24:07] I think from three years
+[1:24:11] from now
+[1:24:13] a lot of efforts come from governments
+[1:24:16] because I can say
+[1:24:23] the successful Vietnam blockchain week
+[1:24:26] and the government see how
+[1:24:29] blockchain can bring more capital to Vietnam
+[1:24:33] and they just announced
+[1:24:36] they will make blockchain and AI
+[1:24:41] to be the more true important thing
+[1:24:45] in the next 5 and 10 years in Vietnam
+[1:24:49] so they make
+[1:24:55] most of the big corporate
+[1:25:01] big institute, big community
+[1:25:03] the big project come together
+[1:25:05] and ask the feedback how to build
+[1:25:08] how to build officially
+[1:25:10] rules of legal framework for Vietnam
+[1:25:13] so I think this is the
+[1:25:15] really really good
+[1:25:18] good point from the government
+[1:25:21] because from the
+[1:25:25] big trends in Vietnam
+[1:25:28] we are on top
+[1:25:30] I can say
+[1:25:31] if you guys think about
+[1:25:34] WET3 Vietnamese community
+[1:25:37] maybe you can think about the game files
+[1:25:40] because we have some project
+[1:25:42] like the game file trends
+[1:25:44] but I just to tell you that
+[1:25:47] game file just one of the big thing
+[1:25:50] WET3 Vietnamese overviews
+[1:25:53] we have behind us
+[1:25:56] we build a lot of more community
+[1:25:59] maybe every word language
+[1:26:02] we have our own community
+[1:26:04] like Thai script, like verse
+[1:26:06] like C++
+[1:26:08] we have a lot of different
+[1:26:11] developer communities
+[1:26:13] and for I think
+[1:26:16] most of the trending narrative
+[1:26:19] now like D5
+[1:26:21] we still have
+[1:26:24] some developments in the narrative
+[1:26:27] but the thing is I know
+[1:26:30] many projects
+[1:26:32] they came to Vietnam to find the developers
+[1:26:35] I think we really
+[1:26:37] I can say really affordable cost
+[1:26:39] and if you
+[1:26:42] if some of the project
+[1:26:44] you want to
+[1:26:46] have say like
+[1:26:48] find more
+[1:26:50] good developers
+[1:26:52] you can
+[1:26:53] the health of the developer in Vietnam
+[1:26:55] especially for WET3
+[1:26:57] in the middle of Danang
+[1:26:59] cities
+[1:27:01] maybe some cities in the middle
+[1:27:03] because they
+[1:27:05] they have the really chill environment
+[1:27:08] for digital technology in mind
+[1:27:10] because the cost of living
+[1:27:12] really close
+[1:27:14] compared with Ho Chi Minh cities
+[1:27:16] I can say
+[1:27:19] 40% or 30% lower
+[1:27:22] than the general living cost
+[1:27:24] compared with Ho Chi Minh cities
+[1:27:26] but the developers work for
+[1:27:28] in Danang really good
+[1:27:30] and in Ho Chi Minh cities
+[1:27:32] we also have really good developers
+[1:27:34] but the thing is in Ho Chi Minh city
+[1:27:36] we focus more on like community
+[1:27:38] like marketing, like business
+[1:27:40] so that's some of the
+[1:27:42] the nine points from
+[1:27:44] Vietnamese
+[1:27:46] markets and I hope that
+[1:27:48] after DEF CON
+[1:27:50] we can attract a lot of projects
+[1:27:52] come to Vietnam
+[1:27:54] for the community like us
+[1:27:56] we try to be a connector
+[1:27:58] between you guys with the local builders
+[1:28:00] thank you
+[1:28:02] and then as for
+[1:28:04] Thai market
+[1:28:06] so actually before Thai
+[1:28:08] used to be like
+[1:28:10] opinion about crypto is not
+[1:28:12] very good because like
+[1:28:14] back in before 2018
+[1:28:16] there are like
+[1:28:18] many associated about like the scam
+[1:28:20] together with like cryptocurrency
+[1:28:22] so none take people
+[1:28:24] or none crypto people
+[1:28:26] are like associate crypto
+[1:28:28] with not a very negative
+[1:28:30] point of view
+[1:28:32] but currently I think people will become
+[1:28:34] more open minded as there are like
+[1:28:36] support from the government
+[1:28:38] because there is a big institute
+[1:28:40] because like the big
+[1:28:42] bank company in Thailand
+[1:28:44] they also have like the
+[1:28:46] blockchain
+[1:28:48] in their bank as well as like
+[1:28:50] many of the new exchange
+[1:28:52] or MFT company
+[1:28:54] that has been open in Thailand
+[1:28:56] so now they are more open
+[1:28:58] as well as the government
+[1:29:00] they say in the event
+[1:29:02] like the submit
+[1:29:04] or also like the blockchain
+[1:29:06] is of course the same in Thailand
+[1:29:08] so I think Thai people
+[1:29:10] right now they are more
+[1:29:12] focused
+[1:29:14] and try to get into
+[1:29:16] the technology mall
+[1:29:18] and also our company
+[1:29:20] they also have some event that we
+[1:29:22] associate with the university in Thailand
+[1:29:24] so in the university
+[1:29:26] in Thailand they are also like the club
+[1:29:28] so there are many university
+[1:29:30] that have like the blockchain club
+[1:29:32] so we going to
+[1:29:34] have the university
+[1:29:36] even with them and then have the
+[1:29:40] university event as well
+[1:29:44] so some university
+[1:29:46] that has like the
+[1:29:48] topic about blockchain
+[1:29:50] in the university
+[1:29:53] they have
+[1:29:55] more interest in the blockchain technology
+[1:29:57] as well as
+[1:29:59] there are many Thai company now that
+[1:30:01] are working in the military
+[1:30:03] like the
+[1:30:09] like the wallet that work
+[1:30:11] security and there are many more
+[1:30:13] like the crevice that
+[1:30:17] being like
+[1:30:19] for
+[1:30:21] Thai
+[1:30:23] so the young people
+[1:30:25] they are more interested in
+[1:30:27] the community
+[1:30:29] so our community try to connect
+[1:30:31] so that
+[1:30:33] and
+[1:30:36] the local community as well as the local
+[1:30:38] institute local
+[1:30:40] it should be
+[1:30:45] we are looking forward to
+[1:30:47] bringing more developer
+[1:30:49] and more Thai to join
+[1:30:51] the ecosystem.
+[1:30:53] Thank you.
+[1:30:55] I want to add more
+[1:30:57] a little thing about the regulation side in China
+[1:30:59] actually
+[1:31:01] in China in about 2017
+[1:31:03] in China
+[1:31:05] banned things about the token
+[1:31:07] because token is more just next to the financial
+[1:31:09] which gets the token just like the financial
+[1:31:11] things
+[1:31:13] and the government banned the token things
+[1:31:15] in China
+[1:31:17] but still now the mainland China government
+[1:31:19] still support the blockchain technology
+[1:31:21] in mainland China
+[1:31:23] that's why they also issue CBBC
+[1:31:25] something like that
+[1:31:27] that's why we could do a lot of developer
+[1:31:29] education meetups in mainland China
+[1:31:31] no matter it's Shanghai, Shenzhen
+[1:31:33] something like that
+[1:31:35] but nowadays also
+[1:31:37] being from the last year
+[1:31:39] Hong Kong support crypto lot
+[1:31:41] issue exchange license
+[1:31:43] the two exchange license
+[1:31:45] for hash key and OSL
+[1:31:47] and also the issue to
+[1:31:49] ETF the Bitcoin ETF
+[1:31:51] the first
+[1:31:53] in Hong Kong
+[1:31:55] so that's I think
+[1:31:57] Hong Kong more support for the crypto
+[1:31:59] no matter you are publishing or publishing
+[1:32:01] you could also establish
+[1:32:03] your own business in Hong Kong
+[1:32:05] but in mainland China
+[1:32:07] we could do other things about
+[1:32:09] education the blockchain technology
+[1:32:11] which is but not related
+[1:32:13] to the token
+[1:32:15] if you don't relate it to the token
+[1:32:17] just talking about the technical side
+[1:32:19] education the developers
+[1:32:21] and the Chinese government will support it
+[1:32:23] because blockchain also
+[1:32:25] right in the top
+[1:32:27] top papers
+[1:32:29] it's the technology that China government
+[1:32:31] want to support
+[1:32:33] I have a question regarding that
+[1:32:35] so ever since
+[1:32:37] I've been working on crypto trading
+[1:32:39] my understanding is
+[1:32:41] in the local Chinese
+[1:32:43] internet you can't have access to
+[1:32:45] exchanges
+[1:32:47] you would have to use VPN for that
+[1:32:49] actually
+[1:32:51] all the exchange fund
+[1:32:53] the China IP
+[1:32:55] it's the other way
+[1:32:57] but I'm curious whether
+[1:32:59] because
+[1:33:01] it may be
+[1:33:03] just half of what blockchain offers
+[1:33:05] right
+[1:33:07] because one is
+[1:33:09] I guess the distributed ledger
+[1:33:11] but at the same time
+[1:33:13] cryptocurrencies also
+[1:33:15] big part of
+[1:33:17] public blockchain
+[1:33:19] I'm just curious whether
+[1:33:21] after that regulation has been implemented
+[1:33:23] whether that has impacted
+[1:33:25] the rate of
+[1:33:27] Chinese builders and communities
+[1:33:29] joining or whether you think
+[1:33:31] it's still
+[1:33:33] very much growing
+[1:33:35] that's notice
+[1:33:37] you know in China
+[1:33:39] there are also lots of issues
+[1:33:41] for the web series big company
+[1:33:43] and I think maybe back to
+[1:33:45] 2015
+[1:33:47] lots of the
+[1:33:49] new graduates from the universities
+[1:33:51] we will join the big back 2 company
+[1:33:53] because they are still in a very faster growth
+[1:33:55] but notice
+[1:33:57] there is a very famous Chinese word
+[1:33:59] in Chinese speaking companies
+[1:34:01] just a lay down
+[1:34:03] do anything about that
+[1:34:05] because they don't have the opportunity
+[1:34:07] to join the web 2 company
+[1:34:09] to establish their own
+[1:34:11] status
+[1:34:13] so that's why a lot of them
+[1:34:15] go and went into the web series
+[1:34:17] to find some opportunities
+[1:34:19] it's very important and
+[1:34:21] since China has a large population
+[1:34:23] so it's a large amount of developers
+[1:34:25] and product managers
+[1:34:27] and still join this industry
+[1:34:31] I think so
+[1:34:33] and
+[1:34:35] our topic
+[1:34:37] is about
+[1:34:39] the Asian and South Asian
+[1:34:41] community
+[1:34:43] so today OJ from China
+[1:34:45] and JB from
+[1:34:47] represent Korean and Japan
+[1:34:49] and QZ
+[1:34:51] represent Singapore
+[1:34:53] VV Vietnam
+[1:34:55] and Fei from Thailand
+[1:34:57] so I think you guys already know
+[1:34:59] the
+[1:35:01] Asia and South Asia because we know
+[1:35:03] there's also some gap
+[1:35:05] between the eastern and western
+[1:35:07] blockchain industry
+[1:35:09] so
+[1:35:11] a big thanks to our guests
+[1:35:14] yeah
+[1:35:18] I think we need to voice more
+[1:35:20] and let the international
+[1:35:22] know more about the Asian South Asian
+[1:35:24] this is very important
+[1:35:26] so let's go on to the next question
+[1:35:28] it's about more the developers side
+[1:35:30] could you give us the overview
+[1:35:32] of the developers in your community
+[1:35:34] I think for example
+[1:35:36] like the developer profile
+[1:35:38] the gender, age and education
+[1:35:40] and also with title
+[1:35:42] the project they are building
+[1:35:44] in preference and how they can
+[1:35:46] benefit and go to our
+[1:35:48] industry
+[1:35:50] I think everyone maybe two or three
+[1:35:52] minutes because time is limit
+[1:35:54] thanks
+[1:35:56] I think we have discussed a little
+[1:35:58] bit about this
+[1:36:00] I just
+[1:36:02] discussed there are lots of developers
+[1:36:04] from web2 companies
+[1:36:06] and nowadays I think
+[1:36:08] for the very unique
+[1:36:10] because nowadays there are lots of
+[1:36:12] infrastructure
+[1:36:14] projects in the whole ecosystem
+[1:36:16] and I think
+[1:36:18] for the developers they are more
+[1:36:20] good at doing the application
+[1:36:22] things
+[1:36:24] but the most important thing
+[1:36:26] is the
+[1:36:28] the crypto value
+[1:36:30] they need to establish
+[1:36:32] to build some real web3
+[1:36:34] product but not just a web2
+[1:36:38] product
+[1:36:40] yeah firstly with Korea
+[1:36:42] I think
+[1:36:44] I think during 2020
+[1:36:46] a lot of web2 builders
+[1:36:48] converted to web3
+[1:36:50] at the same time I think
+[1:36:52] as you mentioned about
+[1:36:54] the case of Luna
+[1:36:56] I think
+[1:36:58] the target persona
+[1:37:00] would be
+[1:37:02] late 20s or early 30s
+[1:37:04] developers
+[1:37:06] and most of the developers
+[1:37:08] tend to be men
+[1:37:10] that
+[1:37:12] are building and contributing to
+[1:37:14] web3
+[1:37:16] on the other hand I think
+[1:37:18] Japan because there is more enterprise
+[1:37:20] trying to lead the
+[1:37:22] blockchain narrative and adoption
+[1:37:24] I think
+[1:37:26] they are more
+[1:37:28] mid 30s
+[1:37:30] web2 developers
+[1:37:32] who
+[1:37:34] are still in web2 company
+[1:37:36] trying different cases
+[1:37:38] of applications
+[1:37:40] and I think both Korea
+[1:37:42] and Japan
+[1:37:44] we have developers that are
+[1:37:46] more high level so
+[1:37:48] we don't really have developers that are
+[1:37:50] low level researching
+[1:37:52] so
+[1:37:54] trying to solve
+[1:37:56] less
+[1:37:58] on infra
+[1:38:00] more on that and application side
+[1:38:02] is I think one
+[1:38:04] characteristics of
+[1:38:06] Korea and Japanese
+[1:38:08] developers
+[1:38:10] Singapore is unique in the sense that
+[1:38:12] there is a gap so there is a lot of
+[1:38:14] CTO level people
+[1:38:16] very similar profiles and then
+[1:38:18] younger folks which are just representative
+[1:38:20] Singaporean demographic
+[1:38:22] so we have a small population
+[1:38:24] I think maybe about
+[1:38:26] 30,000 births
+[1:38:28] it's getting worse
+[1:38:30] international developers
+[1:38:32] that's what makes our
+[1:38:34] demographic unique
+[1:38:36] when you talk about Singaporean demographic
+[1:38:38] I think
+[1:38:40] we only have
+[1:38:42] 6 universities
+[1:38:44] so don't expect too many people
+[1:38:46] but
+[1:38:48] that's where most of the
+[1:38:50] talent comes from
+[1:38:52] but then there is also mid-career changes
+[1:38:54] something the government has been promoting quite a bit
+[1:38:56] so people that go through boot camps
+[1:39:01] and for Vietnam
+[1:39:03] because we have the big population
+[1:39:05] so most of the
+[1:39:07] developers from
+[1:39:09] really young
+[1:39:11] I believe from 18 to 25
+[1:39:13] the
+[1:39:15] most
+[1:39:17] generation of the
+[1:39:19] population
+[1:39:21] in Vietnam
+[1:39:23] and I think maybe more than
+[1:39:25] 85%
+[1:39:27] so I really
+[1:39:29] surprised when I went to many
+[1:39:31] pop-up cities in Thailand
+[1:39:33] this year I found a lot of female
+[1:39:35] developers from other
+[1:39:37] pop-up cities
+[1:39:39] but to be honest from Vietnam
+[1:39:41] I really had to find
+[1:39:43] female developers
+[1:39:45] but we have more
+[1:39:47] business
+[1:39:49] marketing
+[1:39:51] but
+[1:39:53] again
+[1:39:55] because
+[1:39:57] another good
+[1:39:59] we have a lot of universities
+[1:40:01] in technology
+[1:40:03] and now every university
+[1:40:05] they have
+[1:40:07] a lot of student
+[1:40:09] research for
+[1:40:11] decentralized research for
+[1:40:13] zero-knowledge group and high
+[1:40:15] technology
+[1:40:17] and I think maybe
+[1:40:19] just
+[1:40:21] three or five years ago the gap
+[1:40:23] between the
+[1:40:25] confidence and experience
+[1:40:27] from a Vietnamese builder
+[1:40:29] with a low ball will narrow down
+[1:40:31] yes
+[1:40:33] and hopefully
+[1:40:35] we have more really famous project
+[1:40:37] and
+[1:40:39] lead more
+[1:40:41] trend in Vietnam
+[1:40:43] so for Thailand
+[1:40:45] Thai people
+[1:40:47] I think for the demography
+[1:40:49] most of them for the
+[1:40:51] builder they are like 20 to 30
+[1:40:53] and now they are like more people
+[1:40:55] as I mentioned before they are
+[1:40:57] university students interested in
+[1:40:59] web-free and going to join soon
+[1:41:01] and there are some people that in
+[1:41:03] the business section
+[1:41:05] that are about the 40
+[1:41:07] in the fields of them
+[1:41:09] and as for
+[1:41:11] there I think also
+[1:41:13] more means in web-free
+[1:41:15] here in Thailand
+[1:41:17] compared to female
+[1:41:19] but I think female builder are
+[1:41:21] also about like 10 to 20 percent
+[1:41:23] and
+[1:41:25] for the project here luckily
+[1:41:27] because our core contributor also
+[1:41:29] have part of the Atrium Foundation
+[1:41:31] research engineering so
+[1:41:33] here so like bring more
+[1:41:35] expert to our community
+[1:41:37] and connect with the
+[1:41:39] companies
+[1:41:41] so they also have
+[1:41:43] interesting project going on
+[1:41:45] in our company and try to promote
+[1:41:47] the education system as well
+[1:41:49] as the zero knowledge
+[1:41:51] education in Thailand as well
+[1:41:53] thank you
+[1:41:55] because we all know
+[1:41:57] developer is very important
+[1:41:59] if we are talking about the mass adoption
+[1:42:01] and
+[1:42:03] actually I am all about China
+[1:42:05] a lot of developer
+[1:42:07] is from the web to the company
+[1:42:09] and I think also
+[1:42:11] university so from the
+[1:42:13] older and some young developer
+[1:42:15] and actually
+[1:42:17] I saw there's a few
+[1:42:19] female in the blockchain
+[1:42:21] also in the China so
+[1:42:23] in the Shanghai we also like
+[1:42:25] cooperate with the herdow and woman
+[1:42:27] builder and we try to
+[1:42:29] let more female
+[1:42:31] developer builder into this
+[1:42:33] industry
+[1:42:35] because I think
+[1:42:37] we have different
+[1:42:39] like female and male
+[1:42:41] so the Web3
+[1:42:43] application will
+[1:42:45] more
+[1:42:47] be useful because we are all
+[1:42:49] talking about mass adoption
+[1:42:51] experience I think is very important
+[1:42:53] for this both of this
+[1:42:55] yeah
+[1:42:57] and next question I think is
+[1:42:59] back to David
+[1:43:01] from your
+[1:43:03] observation and experience
+[1:43:05] what's the situation
+[1:43:07] like in the Japanese community
+[1:43:09] because you already been in
+[1:43:11] China, Japan, Korea
+[1:43:13] I think you already share
+[1:43:15] so compare with
+[1:43:17] Asia region different with
+[1:43:19] Europe, North American
+[1:43:21] and South American I think
+[1:43:23] what's the difference and what's the
+[1:43:25] advantage and disadvantage
+[1:43:27] yeah
+[1:43:29] well I can't speak for
+[1:43:31] Latin America because
+[1:43:33] I don't know much about Latin America
+[1:43:35] but at least from my
+[1:43:37] observation from working at
+[1:43:39] Mina Foundation
+[1:43:41] our headquarter is in Geneva
+[1:43:43] so a lot of our talents are also
+[1:43:45] Europeans
+[1:43:47] I think
+[1:43:49] Europe
+[1:43:51] European I think developers
+[1:43:53] or communities are
+[1:43:55] much more interested
+[1:43:57] in the fundamentals
+[1:43:59] of low level
+[1:44:01] cryptography, mathematics
+[1:44:03] or even
+[1:44:05] ideology
+[1:44:07] so I have
+[1:44:09] an impression that a lot of them are more
+[1:44:11] interested in fundamental
+[1:44:13] building rather than
+[1:44:15] applications on top
+[1:44:17] on the other hand I think Asia
+[1:44:19] we
+[1:44:21] I think both
+[1:44:23] China and Korea
+[1:44:25] have adopted a lot of
+[1:44:27] Silicon Valley
+[1:44:29] startup culture
+[1:44:31] I think that is the reason why
+[1:44:33] I think China has
+[1:44:35] second most
+[1:44:37] unicorns that were
+[1:44:39] derived and I think Korea is third
+[1:44:41] I think that's because we adopted
+[1:44:43] a lot of the Silicon Valley
+[1:44:45] culture
+[1:44:47] started with small POC
+[1:44:49] validate, scale
+[1:44:51] try to
+[1:44:53] parallelize different
+[1:44:55] business models
+[1:44:57] with venture capitals
+[1:44:59] so we have a lot of
+[1:45:01] VC culture already
+[1:45:03] implemented in Korea
+[1:45:05] and I'm sure China too
+[1:45:07] and I think those kind of
+[1:45:09] mentality of builders
+[1:45:11] and business development
+[1:45:13] they kind of led to more
+[1:45:15] I guess
+[1:45:17] tangible applications
+[1:45:19] on blockchain as well
+[1:45:21] I think that's one characteristic
+[1:45:25] and I think it's
+[1:45:27] it's a
+[1:45:29] good idea to
+[1:45:31] think about that.
+[1:45:33] Does that answer
+[1:45:35] your question?
+[1:45:37] Next question
+[1:45:39] it's time limit
+[1:45:41] one person
+[1:45:43] to a 3 minute
+[1:45:45] and this is VV and
+[1:45:47] based on the
+[1:45:49] the situation in the South
+[1:45:51] Asia
+[1:45:53] Yeah, because I'm building the community, especially for zero, only group and to be honest
+[1:46:04] for the the awareness of zero in Vietnam, I
+[1:46:10] Can say not not so much
+[1:46:13] because maybe
+[1:46:15] The government's are big corporate they heard about the potential of zero no little to can improve the security or something like that
+[1:46:22] but
+[1:46:23] they
+[1:46:24] They last focus on invest in research for
+[1:46:29] ZKB applications
+[1:46:31] So that is the reason why we we have the big source stick about the educational materials
+[1:46:38] of zero the group the documents our training programs and
+[1:46:42] Because in university we we don't have any
+[1:46:46] academic program relevant with
+[1:46:49] Decentralized focus on blockchain building. So most of the builder they need to serve
+[1:46:56] research or self-learning from the community from the other leaders
+[1:47:02] Techlists, so that does it want one of the challenges we we we face because
+[1:47:09] The and our solution is
+[1:47:12] We we see the potential of zero knowledge, but we need to keep it really really long
+[1:47:17] term plans, so we open a little bit for from web 3s
+[1:47:23] That's the reason why for ZKB lab we just organize Vietnam first hackathon because first programming language really relevant to
+[1:47:32] zero-knowledge group and we are going we focus on a
+[1:47:36] wider programming language
+[1:47:39] topic to have to find the
+[1:47:43] Big move of really good developers who who can be trained to be to become CK
+[1:47:51] engineers, so we we we open most and
+[1:47:55] We try to collect with many foundation like me now protocol they support a lot in
+[1:48:02] Organized workshop for the development Vietnam focus on like research organized a ZK workshop
+[1:48:09] Or one ZN workshop and they help us to
+[1:48:13] find more ZK
+[1:48:14] Advocator to be to be kind of ambassador for CK storm in Vietnamese markets
+[1:48:20] And yeah, I think we we need to keep the the long-term vision with the minimum
+[1:48:27] step-by-step every
+[1:48:29] Every activity we organize
+[1:48:31] I mean just to add we've been so for Mina one of our
+[1:48:36] adoption strategy was to in Asia to focus Vietnam and
+[1:48:41] Thus far I've been just super impressed with Vietnam because there's surge of
+[1:48:51] Teenage to early 20s population, so there's a lot of
+[1:48:56] Passionate
+[1:48:58] passionate people trying to be involved in Vietnam and I think a lot of their remittance also is
+[1:49:05] used through crypto and
+[1:49:08] Just like that of India
+[1:49:10] They're now their IT outsourcing industry is surging and therefore that's why there's a lot of developers coming in and they all
+[1:49:18] Kind of they also kind of lead to looking into web 3 and I have a lot of respect for CKP labs for
+[1:49:25] leading the ZK
+[1:49:28] narrative in
+[1:49:30] Vietnam and you know, I think Vietnam has such a promising future
+[1:49:35] So all these efforts will be in a blossom in in in the next three years. I hope
+[1:49:43] Okay, so as for Thailand
+[1:49:45] I think the challenging that we facing is that since 2018 that I mentioned
+[1:49:51] There are many rule regulation and compliance has been happening both from the organization like SEC that
+[1:49:59] They have like have the regulation for when you want to expect like the
+[1:50:04] Exchange or the broker or any company as well as the Bank of Thailand regulation about like how you try to use
+[1:50:12] crypto in paying for real world
+[1:50:15] As I said, so there are many challenging when they're trying to build
+[1:50:20] Product like this in Thailand
+[1:50:22] So there are that's why there are like a lot of
+[1:50:25] Developers and when they first trying to come into WebT there are a lot of developer living as well
+[1:50:31] So when we trying to build the developer community, especially to in the Ethereum
+[1:50:37] community, so the thing that we see is that we try to
+[1:50:43] have the people
+[1:50:46] Coming from non tech people as well as non crypto people
+[1:50:49] So I think this is what we lack as the foundational and knowledge about like what is actually
+[1:50:57] Russian what is actually a three hour crypto
+[1:51:00] So I think we has been offered about like the collaboration with many
+[1:51:06] International companies, but we try to bring the foundation of the knowledge of Thai people first and focus on this kind of
+[1:51:16] Foundational knowledge, then we will thinking about after we try to make the education system and the foundation system with our
+[1:51:26] Correlation with the university as well as the educational event and then we can try to
+[1:51:32] Raise more even like the heck out on an author even together with our partner. Thank you
+[1:51:37] Thank you. Thank you baby and say
+[1:51:59] Thailand I think the Asian more better. Yeah, and
+[1:52:04] Next question is
+[1:52:06] OJ and QZ
+[1:52:09] Being one of the Asian South Asia community, how can we unite and facilitate the cooperation internally and externally and
+[1:52:18] Hard to quantify
+[1:52:38] That's something that I think the DEF CON team is learning now
+[1:52:40] In DEF CON, Boqata was all Spanish speaking and maybe Portuguese for the Brazilians
+[1:52:46] But here a lot of things like we're not all on Twitter on Facebook
+[1:52:51] We're on WeChat or we're on line or kakao, you know
+[1:52:55] So the pluralism of Asia is both our strength
+[1:53:00] Right, but it's challenging to get adoption in Asia and that's why I think if we are going to do this
+[1:53:07] we'll have to learn from
+[1:53:10] Successful organizations like Binance and Supati, right? I think they have done an incredible job
+[1:53:17] Being both global and local
+[1:53:20] I think
+[1:53:22] When you approach something scientifically
+[1:53:25] I think from what I heard CZ was a big advocate of blitzkilling and he executed on it really well
+[1:53:31] And that made it one of the most successful exchanges and Binance is not an Asian exchange
+[1:53:37] It's a global point of you know incurring the wrath of the American regulators
+[1:53:43] That's when you know you're really global
+[1:53:45] So I think for us our strength is that we have a young population
+[1:53:50] that works harder than
+[1:53:53] Anyone else. I think that's one thing that really makes Asia stand out
+[1:53:56] But our weakness is that
+[1:53:58] We like to work but not so much to figure out what to work on in the sense that there are not that many
+[1:54:03] people that do unique things
+[1:54:06] which is
+[1:54:08] Probably a factor of the general education system we have
+[1:54:11] so if we could
+[1:54:15] cover these gaps by providing more exposure in like a meaningful way
+[1:54:21] and to help
+[1:54:23] Asian builders bridge that gap a lot of it. It's that I think we're just very shy
+[1:54:29] Like even when during token 2049 like all the panels were like there were very few Asians in the panel
+[1:54:34] Which was very surprised considering that it was right in the middle of my country
+[1:54:38] so if we can create a platform or at least to nurture multiple platforms of things like this
+[1:54:45] I think that will be really good
+[1:54:47] right now
+[1:54:49] Ethereum philosophy kind of like holds us back from doing this
+[1:54:52] At least it holds the foundation back from doing it with subtraction
+[1:54:56] But I think if you look at it from a different perspective
+[1:54:59] It's kind of like an invitation for us to step up and to do that more and we are seeing that like
+[1:55:06] Audrey, you know when you guys did the wet tree festival and all that we did I mean token is one but they're in Singapore
+[1:55:12] All this all efforts to build more meaningful stages
+[1:55:17] Because in the end if you want to build you need
+[1:55:20] Not only a good idea you do the capital you do need people you do need clarity
+[1:55:25] But you also want to be given a reason to build and not just you know
+[1:55:30] And I'm building for people other people. I think that's something that is starting to change
+[1:55:35] Especially in the upcoming cycles. I think the most important thing inside keep building
+[1:55:45] Because for the
+[1:55:48] We're still in a very early stage of this industry. Yeah
+[1:55:52] If we keep building the good project and speak out and the second thing is that you need to speak out have the more
+[1:56:01] Exposure about what your building is not just a listen to the narrative just speak out to your ideas
+[1:56:08] And I think most of the industry people will hear it. Yeah, that's
+[1:56:14] Um, just just to add my thoughts. I think Asia is is very unique in that a lot of a
+[1:56:24] Lot of like software programs like services that came out from America
+[1:56:31] At least in my view in
+[1:56:34] Europe or Latin America or maybe other
+[1:56:37] Regions than that of Asia usually up off the service itself
+[1:56:42] But Asia have tendency to localize it and have their own version of it. So for example
+[1:56:49] What's that it's a messenger app, but China has which at Korea has made a cow
+[1:56:57] You know Southeast Asia uses line. We all have different optimized version
+[1:57:02] same with
+[1:57:03] grab
+[1:57:05] You know Uber
+[1:57:06] Same with you know many many other services, you know
+[1:57:10] and I think what that brings in is
+[1:57:14] Kind of in terms of creating an application. That's more for towards consumers and for mass adoption
+[1:57:22] We have huge advantage because we have
+[1:57:25] You know culture of projects building from scratch that brings in such big network effect
+[1:57:31] So I think players have good understanding of how to create that zero to one
+[1:57:37] But I think instead of just trying to duplicate
+[1:57:41] Benchmark what what has you know been been successful in the web-to-space?
+[1:57:46] Think it's also important to align with the core philosophy of web-three that you've meant that
+[1:57:52] QZ mentioned and only then I think we can create
+[1:57:58] Of a paradigm shift
+[1:58:00] Just adding another wheel or you know, just being 20% more efficient. It's not gonna be enough to create
+[1:58:08] Decentralized application for mass adoption. I think we need a paradigm shift and for that to occur it it definitely requires
+[1:58:18] Understanding consumers and trying to optimize consumers, but at the same time aligning that with core value of what blockchain offers
+[1:58:24] I think is a way to go and if we can spread that in Asia
+[1:58:28] I think Asia could potentially be the first place to create next 1 billion
+[1:58:35] user base for consumers
+[1:58:38] Okay, thank you and why I asked this question because as a Chinese the rapper community builder
+[1:58:46] I
+[1:58:46] Come to the Thailand and I tried to make
+[1:58:50] My community and the Chinese community
+[1:58:54] How can make more international connect so I need to be seeking a lot of different areas
+[1:59:00] different regions community to cooperation and I want to make my community
+[1:59:06] What we build to let the international group to know because we really
+[1:59:13] Keep building so I think Audrey she say we need to keep building building there are various things and
+[1:59:19] and I want to want to show after I come I
+[1:59:23] Get into the web street. I learned how to use the telegram to each let the people know my voice and
+[1:59:29] After I come to Thailand and know how to use the whatsapp and lie and different application
+[1:59:35] They have an Instagram and you will notice there are lots of a community. They will also post
+[1:59:44] their
+[1:59:46] Since on this
+[1:59:48] Playphone and different play phone have different
+[1:59:52] Way you to show your community is also the way and I already get it like the Instagram Facebook
+[1:59:59] I know how to
+[2:00:02] Make my computer here and and I also learn a lot of local guys. So thanks. Yeah, thanks a lot
+[2:00:08] learn a lot. Yeah, and the last question is
+[2:00:12] What are your future plans for building your community?
+[2:00:16] Yeah, and I realize they are and
+[2:00:20] adventure isn't
+[2:00:22] so for our future plan because right now there are many
+[2:00:30] People coming to Thailand for that point we try to collaborate with a lot of experts to like bring more
+[2:00:37] Knowledge and education to people in Thailand as well as like open for the opportunity to
+[2:00:43] collaborate with a lot of partner and
+[2:00:47] try to organize next event especially like the
+[2:00:52] Bootcamp that we organize just now that already become very successful in our opinion and
+[2:00:59] so try to
+[2:01:01] make the next generation of young girl people in Thailand to be more active and
+[2:01:08] Make them together bringing all the people that we used to connect with many like volunteer or sponsor or
+[2:01:16] other people and to organize the
+[2:01:20] Event to try to promote even in Thailand as well. Thank you
+[2:01:26] For CQB lab because we also one of the
+[2:01:33] Randy community Randy of Ethereum for instance. So for this time DevCon in Southeast Asia
+[2:01:39] We we have some activity for local builder
+[2:01:43] Roast to DevCon. So we organize
+[2:01:47] We are the guess where to distribute discount code for Southeast Asia builders
+[2:01:53] So we distribute more than 40 tickets already. So most of the builder we will gather in one group and
+[2:02:01] CQB lab
+[2:02:03] Be your heart of the route to how the Vietnamese builder when when they when they went to DevCon
+[2:02:09] They can maximize the time they visit the conference because for sure most of them are the first time they went to the big
+[2:02:17] Developer conference like that. So maybe they don't want to they don't know what activity they should go for
+[2:02:24] So that reason why we have the
+[2:02:27] 101
+[2:02:28] 11 meeting with each of them to learn
+[2:02:31] About their expectation when they went to DevCon and CQB lab can be a
+[2:02:36] Partner to connect them with the right partners in DevCon. So this is one one plan
+[2:02:42] short term in for DevCon and for the long-term plan we
+[2:02:47] said before we
+[2:02:49] We have the vision to make Vietnam is a rising hub of zero knowledge group in Southeast Asia
+[2:02:55] so we
+[2:02:56] Put a lot of effort to to have at least one or two projects can become a leader opposite zero
+[2:03:03] Narrative
+[2:03:05] In in the industry so we connect with a lot of
+[2:03:08] foundation like
+[2:03:10] Abhijam mean and it is room to support
+[2:03:13] Some of the project in our ecosystem already. Yeah
+[2:03:18] It's really good actually
+[2:03:20] For me, I think
+[2:03:21] Let's let's see after DevCon. We don't know what's the effect of it whether it really brings the Southeast Asian community together
+[2:03:28] I think
+[2:03:30] Probably go fine, but
+[2:03:34] What happens next usually it's a whole different thing and it really depends on
+[2:03:40] whose voices
+[2:03:42] Stand out DevCon what some of the broader points of collaboration or the pain points that we figured out
+[2:03:48] I think one thing that I don't want to do is to just keep doing events like honestly
+[2:03:53] Economics of running Ethereum Singapore and running events. It's like a treadmill. It doesn't really go anywhere
+[2:03:59] That's why I always try to find different ways to really grow
+[2:04:03] adoption and for us, I think Singapore is a global platform and
+[2:04:09] That approach makes a lot more sense than finding sponsorships for events
+[2:04:14] I think
+[2:04:15] Singapore and I'm taking a big leaf from the government. It's that if you want to stand out globally
+[2:04:22] In an international stage, there is really not much of a better place to host events than at Singapore
+[2:04:28] And I think that as a modality makes sense
+[2:04:31] But to host, you know, like an Ethereum Singapore conference to try and grow it to be like a eat Denver or something
+[2:04:37] It's not very optimal for Ethereum as an ecosystem and it might crowd out other Southeast Asian ecosystems
+[2:04:43] So I'm cognizant of that
+[2:04:45] But also that we Singapore does need the Southeast Asian community like we first more country
+[2:04:50] If we don't have that many depths
+[2:04:53] But there are depths all around Southeast Asia that I think
+[2:04:57] Can benefit a lot more from what three then like the typical Singaporean
+[2:05:01] But if we work together, I think there's a lot that can be unlocked here, which right now
+[2:05:07] I think the challenge is more about how should we coordinate or who we should coordinate?
+[2:05:12] My prediction is that I think after a theorem Singapore Ethereum Southeast Asia
+[2:05:16] All of us will find that it doesn't really matter if each of us just plays to our optimal strategy
+[2:05:21] We won't actually work together because that's just us. Yeah, that's just how we have been for the last 40 years
+[2:05:28] Historically, if you look at anything or any place that has a similar makeup like post-colonial, you know, very different religions very different
+[2:05:37] Political philosophies like Southeast Asia, there are socialist countries communist countries democratic, right?
+[2:05:43] Usually we'll be at war
+[2:05:45] But we're not so there must be a reason and
+[2:05:49] It's
+[2:05:50] Dear, it's optimal, right?
+[2:05:52] I think I think we see that as a Southeast Asian block
+[2:05:54] We can do a lot more together then fighting it out because we sure as how tried it in the 60s and didn't work out
+[2:06:01] So I think that is a much stronger future to look forward to. Yeah
+[2:06:08] Yeah, I was thinking of
+[2:06:11] K-pop idol called blank pink
+[2:06:13] Because it's combination of Asian
+[2:06:16] You know stars
+[2:06:18] I guess that's way forward
+[2:06:21] For me personally
+[2:06:23] I'm more I'm really focused on
+[2:06:26] bringing more awareness and
+[2:06:29] hopefully creating
+[2:06:31] supporting creation of
+[2:06:33] consumer CK applications
+[2:06:36] We think that CK is more than just privacy or
+[2:06:40] You know scalability. I think it brings in
+[2:06:44] Anonymity and verifiability at the same time and you can
+[2:06:47] Selective disclose any kind of data you want on chain to public blockchain
+[2:06:52] And I think there could be a lot of usages around that
+[2:06:56] especially with consumer data and
+[2:06:59] Data economy that can be derived out of it
+[2:07:02] So our focus is to look at look for projects
+[2:07:06] And work with communities
+[2:07:09] Like CKP labs like shine will to bring such awareness and invite a lot more developers to
+[2:07:16] Bring those vision possible
+[2:07:19] So that's I think what I'm gonna be focused for a while
+[2:07:23] and I
+[2:07:25] Think to to bring real good application. I think we do need
+[2:07:31] Builders and thought leaders who actually have both good understanding not only on the tech side
+[2:07:37] But also in terms of I think
+[2:07:41] You know the decentralization data sovereignty these fundamental core ideologies, so I'm personally interested and exploring ways to
+[2:07:51] Contribute towards that so that we can bring in more
+[2:07:55] Pioneers that can actually bring
+[2:07:59] Paradigm shifts in terms of method option
+[2:08:02] Yeah
+[2:08:05] Yeah
+[2:08:06] Actually, you know for our dark lab or our main job is the venture capital way
+[2:08:12] Inviting what is stage website project which has a truly technology or business commercial innovation
+[2:08:19] But the second part is which is also very very important in that the blockchain education
+[2:08:25] Just like Shanghai where it's more like the community driven event that help people understanding what is crypto value or gateway?
+[2:08:32] Inter-webs three and two community with global
+[2:08:35] This is the more like the community driven event
+[2:08:38] But I will also organize the website scholars conference, which is more focusing on the frontier research side
+[2:08:45] You know, that's why for each year we organize these two kinds of event which we think it's very important in Asia
+[2:08:53] area the value the crypto value and also the frontier research and
+[2:08:58] So, you know the next April and during the Hong Kong Webster Festival we will organize the website scholars conference again
+[2:09:06] It's a certain icing. It's more like the collaboration. We want to actually, you know
+[2:09:11] I think for North Americans there is a very good collaboration between VC and the university which is also educated lots of
+[2:09:21] Graduated students from universities and frontier research in this area
+[2:09:25] That's why from I think two years ago. We started the website scholars conference in Asia in Hong Kong
+[2:09:34] That's where I'll collaborate the universities or the Hong Kong University
+[2:09:38] Polly you Hong Kong technical University and also the
+[2:09:43] Australian the Stainless Melbourne and also Monash and also collaborate with some
+[2:09:50] I think maybe future we could collaborate with
+[2:09:54] Vienna and Thailand your university to
+[2:09:57] You hence the whole communication between industry and scholars
+[2:10:01] I think still there are a lot of huge gap between the industry and the scholars in Asia area. They don't know
+[2:10:09] The million folks on the papers, but they don't know what is the real problem that the industry want to want to solve
+[2:10:16] Yeah, that's why this kind of thing is also very important and the next year you know about April we want to
+[2:10:23] And also Korean and Japan
+[2:10:25] Which is also very important and for Shanghai where it's a one year. Yeah, why each year once a year. Yeah
+[2:10:34] Okay, that's all our panel and I want to cover again
+[2:10:40] Yeah, this Audrey from China and David represent the Korea also Japanese
+[2:10:46] And music from the Singapore VV Vietnam and say Thailand and feel free to connect and talk with us and let's keep building and cooperate more
+[2:10:58] In the future. Yeah
+[2:11:00] So we're gonna have 10 minutes short break and please come back
+[2:11:14] later
+[2:11:18] 32 432
+[2:11:20] Before they left our friends at DevCon gave me some special edition wrote to DevCon pins
+[2:15:39] So if you would like a road to DevCon pin, I'll set them right here. Feel free to come grab one
+[2:15:45] And see you at DevCon
+[2:15:47] Okay, welcome back everyone
+[2:23:37] and
+[2:23:38] So next session will
+[2:23:40] We will dive into decentralize the science and its revolutionary potential in transforming how we
+[2:23:49] Conduct and share scientific research and our first keynote is our introduction to
+[2:23:55] Decide by Joshua bed. Hello. Do I have a clicker?
+[2:24:12] Hello, I've been asked to give a small talk on an introduction to decide. I hands up who knows what decide is
+[2:24:30] Good one person doesn't know two people don't kind of know then this will be useful. Okay, so
+[2:24:37] My name is Joshua. I'm the founder of DCI world
+[2:24:39] You can visit our website at DCI dot world. It's in the logo and follow us on Twitter at DCI world
+[2:24:45] We do information aggregation
+[2:24:48] We do community advocacy and we do a lot of events and other interesting things
+[2:24:53] We have a technical product coming out later this year, but I won't be talking about that
+[2:24:57] So this is a high-level overview of what DCI is what it can do and what it aims to achieve
+[2:25:03] Right now there are lots of issues with science. Is anybody a an academic researcher?
+[2:25:11] Publishing who here's published?
+[2:25:14] Yes, whoo
+[2:25:16] Good job
+[2:25:17] Okay, did you find it difficult?
+[2:25:20] Yeah, why very difficult to break through as a young scholar without maybe
+[2:25:33] Previous reputation without the money potentially peer review is a big problem
+[2:25:38] And it's just getting harder and harder so these are five key points that we've identified as pain points or issues with academia right now
+[2:25:46] We are funding how to get money for your project ownership of the data of the outcomes of the science
+[2:25:53] Publishing as you mentioned just here. It's very difficult peer review process included
+[2:25:57] Data management. This is a massive problem. Healthcare data is a great example
+[2:26:01] Have you have data is it GDPR compliant? Can you leverage it? Can you get the full value of it?
+[2:26:06] Can you transfer it? Can you make it secure and?
+[2:26:09] Access to resources to education to people
+[2:26:13] So just go talk a little bit about these problems and then we can talk a bit about how DCI solves some of these problems
+[2:26:20] So in the funding landscape right now, you've made many of you may have seen this bottom image
+[2:26:25] Here's is the valley of death image on the left here
+[2:26:28] You have the amount of money that's been invested and on the bottom here you have time
+[2:26:32] So typically what happens is early-stage research looking at this bottom graph here
+[2:26:38] Early-stage research begins in the public sector. It's funded by governments by research institutions
+[2:26:44] It gets a small amount of funding as it goes through its early early stage
+[2:26:47] But then for it to become in our world a product, which is what most most science actually ends up becoming is productized
+[2:26:54] In order to become a product it is required a lot of funding this funding
+[2:26:59] Currently does not come from the public sector
+[2:27:01] It has to come from the private sector and when it comes from the private sector typically this leads to things like
+[2:27:07] Centralization biases corruption and other narrative controls when actually science should just be an exploration of the real natural truth around us
+[2:27:16] But instead it becomes a corporatized incentivized game
+[2:27:20] So we see a lot of centralization in the funding process
+[2:27:23] We see it takes a long time a lot of researchers said they spend more time writing grant proposals than they do actually doing the research
+[2:27:30] It is elitist typically it goes to a small and decreasing pool of people who have already have a reputation
+[2:27:36] Who have already published it is conservative a lot of people in DCI focus on things like biotech and longevity. These are quite forward-thinking
+[2:27:45] Risky, let's say investments or ideas and typically the centralized funding
+[2:27:50] Landscape does not like funding these it's susceptible to let's say capture corruption
+[2:27:57] regulatory
+[2:27:57] regulatory corruption and this Valley of Death as I just mentioned which takes which means it's very difficult to get your early stage research into
+[2:28:04] Final production. These are problems that hopefully DCI can solve on the ownership side
+[2:28:10] I won't spend too much time on this, but we all know IP hands up who likes IP
+[2:28:15] You're among friends you can like IP. Yeah, I piece good. I don't but I piece good
+[2:28:21] IP has some problems right now
+[2:28:23] But really IP is just like ownership over the idea or the outcomes right the problem that IP has right now
+[2:28:29] Is it makes it very difficult for other people to collaborate?
+[2:28:31] It makes it very difficult for scientists to earn a continuous wage and it's a
+[2:28:36] Generally an illiquid market, which means that it's very difficult to to funge and to actually turn into more exciting assets
+[2:28:43] And what the blockchain does is allows us to create these standards that will allow us to take these intellectual property and turn it into more
+[2:28:49] Exciting exchanges marketplaces and turn it into a more versatile asset that maybe other people can use
+[2:28:56] On the publishing side we have five
+[2:28:59] Major publishing protocols publishers own seventy five percent of the academic publishing right now
+[2:29:06] So that's a huge oligopoly that we don't see really in any other industry let alone in something as important as science
+[2:29:11] So we have predatory and expensive because of this monopoly. They can charge large prices
+[2:29:16] They're exploitative because they push narratives that they wish and they actually stop new innovation from new scientists coming through
+[2:29:23] Hands up if you're in publishing
+[2:29:26] Good stay and listen to this guys brand new publishing tools coming out
+[2:29:31] This one here at the bottom. I just want to zoom in on this
+[2:29:34] Replication crisis there's a reproducibility crisis in science right now where I think it's over 80% of papers have not been reproduced
+[2:29:41] And cannot be reproduced that are published in the top five journals today
+[2:29:45] Which is anti science science is all about the ability to reproduce the work that's been done because that means it's science
+[2:29:51] It's provable and this is a figure that's actually getting worse
+[2:29:54] There's many reasons for this includes, you know difficult to access the data certain restrictions on files
+[2:29:59] However, it also includes poorly written papers and and poor publishing standards in general
+[2:30:06] peer review by the way is free to do you must
+[2:30:09] Do peer review for free? There is no currently institutionalized peer review system that is paid which is
+[2:30:17] Which is really crazy because most of the work that an academic will do outside of their own research and great writing grants
+[2:30:23] Is peer review and it's almost a requirement to get enough reputation to publish
+[2:30:28] Data management as we're aware is
+[2:30:31] Something that is very very powerful within blockchain blockchain is inherently a data protocol
+[2:30:36] And so using the blockchain to improve the data paradigm is something that we're all aware of
+[2:30:41] Data is is a massive part of everything we're doing in particular on the privacy the encryption the fungibility and the
+[2:30:47] Flexibility of the data sets right now. We're experiencing lots of silo data
+[2:30:52] We're experiencing lots of static data sets that cannot allow for multi multi plurality of of access and
+[2:30:59] This lack of interoperability leads us to
+[2:31:03] Very very siloed science and that's a big problem desize something that allows
+[2:31:07] By publishing to an open source data protocol a lot more collaborations amongst the scientists
+[2:31:13] And finally accessibility is something that we're all very passionate about I think in this room because in
+[2:31:19] The existing world we have these sort of centers of power in academia typically. They're in the western east coast of the US
+[2:31:25] They're in London. They're in Cambridge and Oxford
+[2:31:27] They're in places in Western Europe places in Asia for example the east coast of China
+[2:31:32] Singapore but this is something that needs to be decentralized as soon as possible if we can't decentralize the locus of power of
+[2:31:39] Academia publishing and research assets that we will never ever break into the new world of
+[2:31:44] For example, better research from diverse sources of information
+[2:31:48] Thailand for example has a very unique biodiversity if we were to understand the biodiversity of Thailand and use that science and use those
+[2:31:55] Resources in global manner then maybe we would find new breakthroughs for example in cancer or other medicines
+[2:32:00] This is a great graph. Just take a minute to look at it
+[2:32:06] there's a concept called disruptive science which is measured by a metric called a CD index and
+[2:32:12] You can see how this has fallen very very rapidly over the last 70 years
+[2:32:16] This is even worse now if you extend this to 2020 and disruptive science basically is
+[2:32:21] Nearing zero because of the previous mention problems that we mentioned which is
+[2:32:26] Difficult to access difficult to fund difficult to share data in novel areas
+[2:32:30] It's becoming increasingly entrenched and corporatized and because of that science is no longer disruptive
+[2:32:35] Science is just a continuation of the existing system a lot of people in DCI in particular are very very
+[2:32:41] Passionate about disruptive sciences disruptive sciences can we hope change the world right?
+[2:32:46] We've been living in a paradigm that's been dominated by the same narratives for about 40 50 years
+[2:32:50] Which looks exactly like this graph if we can even push up a little bit here
+[2:32:55] Then we'll be able to change the ideas about how science how science works and how the world works and how we can organize
+[2:33:00] Ourselves around this new knowledge
+[2:33:06] Okay, so that's the problems with science and academia. There's a lot
+[2:33:10] So what is DCI? This is from the ethereum website. It's a fantastic definition
+[2:33:15] So I won't I won't claim to do a better one
+[2:33:19] Decentralized science or DCI is a movement that aims to build public infrastructure for funding creating
+[2:33:25] reviewing
+[2:33:26] Crediting storing owning and disseminating knowledge
+[2:33:30] Scientific knowledge fairly and equitably using
+[2:33:33] Distributed technology so this is published by ethereum ethereum is a fantastic platform to do all of these things
+[2:33:38] It is an open-source decentralized distributed system with all of these things at the heart of its agenda
+[2:33:46] Here's some examples of the DCI tech stack at a high level. These are not specific products
+[2:33:50] These are things that these are underlying technologies
+[2:33:52] There are products in each of these fields that you should explore so we have blockchain standard compute to data
+[2:33:58] Compute is a very very important concept in the current status of science in the current paradigm of science in particular
+[2:34:04] Biotechnology nanotechnology neuro technology genetics everything like this which is dominating the field of science right now
+[2:34:10] Computer data is a very powerful tool for this ZK computation in particular for healthcare and for other private sensitive data's
+[2:34:18] smart contracts allow us for
+[2:34:21] The sort of verifiability and the trustability that these products these experiments that we're running are run as they're supposed to
+[2:34:27] There's no tampering from the moment of creation on the moment of experiment until the moment of gathering the data
+[2:34:33] So organizations are really interesting topic that we all love you can tokenize data you can tokenize IP you can tokenize
+[2:34:41] Money you can tokenize ownership over protocols you can tokenize membership into a scientific
+[2:34:47] Research organization for example even a university
+[2:34:50] Tokenization actually opens up a lot of avenues more than just funding it opens up collaboration
+[2:34:55] It opens up membership it opens up the fungibility of data such as IP and
+[2:35:00] This last one here who's familiar with attestations in particular on-chain attestations
+[2:35:05] Okay
+[2:35:07] Attestations are super important not just for desi, but for web 3 in general my favorite is e as which is aetherium attestation service
+[2:35:15] It's an independent go and look up attestations. You may have heard of them as intense. Who's heard of intense?
+[2:35:21] Okay, great everybody here look up intense or attestations
+[2:35:26] An attestation is basically just saying this wallet address
+[2:35:30] Claims this thing or did this thing just a simple wallet address did something
+[2:35:36] And this is very important for science and the attestations are really great because you can form trees
+[2:35:40] Merkle trees of attestations without executing a transaction
+[2:35:44] So you can actually create an off-chain Merkle tree like it like a blockchain a blockchain ledger
+[2:35:50] But then you can execute it with one transaction and put it on chain
+[2:35:53] And so this allows us to put a lot of data in a time-stamped manner on-chain for verifiability of data verifiability
+[2:36:01] Experiments ownership attestations for is this a good piece of science?
+[2:36:04] This is a bad piece of science and this brings the data paradigm of blockchain to science because it makes it actually usable at
+[2:36:11] Scale with the costing and so attestations super important
+[2:36:17] Here is a large amount of text about the desi solutions for each of these problems
+[2:36:23] I'll just go through a few of them here on the funding side really exciting part of
+[2:36:28] Desi funding it you may have seen Vita Dow and the other bio dows these guys are doing crowd sourced funding here
+[2:36:34] crowd source funding for biotech innovation and biotech investments crowd sourcing is really interesting because you can bring
+[2:36:40] New perspectives you can bring people from all over the world and in particular when it comes to health care
+[2:36:45] You can get money from people that actually care about that work if your family member has a rare disease
+[2:36:51] And you maybe have a bit of money if someone offers you an opportunity to directly invest in the research not through some third-party charity
+[2:36:58] Or through some institution
+[2:36:59] You're likely to do so as it's a very smart business move from researchers to actually open up direct funding sources from those
+[2:37:05] That care about the work that's being done doesn't have to be diseases
+[2:37:08] It could be marine biology it could be anything even if you think about it as a charity
+[2:37:13] Right altruism is something there's people do like to give money to if you can directly donate to the research
+[2:37:18] That's most important a lot of people will that's actually one of the reasons
+[2:37:21] I started DCI world in the first place is to allow peer-to-peer funding of
+[2:37:25] Exciting science using the money that's going to be there in a bull run instead of buying an ape for three million dollars you could
+[2:37:32] You know potentially solve many problems
+[2:37:37] Ownership there's a very famous protocol called the IP NFT. It's a concept
+[2:37:42] They the IP NFT has been created by molecule
+[2:37:45] Which is a quite a prominent DCI project the IP NFT is a concept that they have put into one one application
+[2:37:52] But it can be done many different types. I want to see some innovation personally on IP NFT
+[2:37:56] So if anybody is interested in IP go and build something new in IP
+[2:38:01] tokenization of data tokenization of membership is something we're very excited about
+[2:38:05] Publishing you're gonna hear a keynote about publishing from Johnny next
+[2:38:08] I won't go too much into it but getting people access to
+[2:38:11] Publishing channels is really important people can then do the work that they want to do they can get the funding they want to do
+[2:38:18] And then they can distribute it through permissionless channels to people that want to read it
+[2:38:21] Which is something that's not been possible before
+[2:38:23] Typically you have to go through a research institution a university maybe a CRO and then you have to pay the fees
+[2:38:29] You have to get the membership. You have to get all of this
+[2:38:32] decentralized funding a decentralized publishing journals are in the right direction for opening up science
+[2:38:38] Data management we've spoken a lot about data management and access
+[2:38:41] This is something that dows in particular are very very powerful at but also the decentralized movements in terms of network states in terms of pop-up cities
+[2:38:48] If you can do science here, for example in people doing biohacking they're taking
+[2:38:57] They're taking their biomarkers and they're doing a decentralized clinical trial on that data, which is really interesting
+[2:39:03] This is a snapshot of the DCI landscape. Is this growing or
+[2:39:07] No, that there was this many DCI projects. There are actually more we are
+[2:39:18] Here
+[2:39:35] Lunko is here research hub is here
+[2:39:44] If you have a DCI project listed on DCI dot world, this was not produced by us
+[2:39:49] Okay, so I'm just like I just said here's some here's some skip over is of the of the funding
+[2:39:57] I just want to show you Vita Dow here his Vita Dow's model
+[2:39:59] Data is researched or proposed
+[2:40:01] Funding is secured IP is transferred to Vita Dow
+[2:40:04] But Dow here controls the IP asset itself, which is really interesting people that fund the research actually get ownership over portions of the IP
+[2:40:12] The IP is then sold via separate marketplaces in the traditional the traditional system
+[2:40:17] Biotech investment through traditional IP houses
+[2:40:20] We need innovation there and the money comes back to Vita Dow after that IP is sold and distributed amongst the holders
+[2:40:27] So you can invest in fractions of research get money as that research is then gathered and and then sold off
+[2:40:36] Yeah
+[2:40:38] This is an off-chain legal contract, okay
+[2:40:42] So on-chain legal engineering is something we want to see more of on the publishing side
+[2:40:49] NFTs are really interesting for publishing because you get time-stamped time-stamped ownership
+[2:40:52] You can transfer you can sell you can fractionalize the data in the paper or the paper itself
+[2:40:57] So one thing that is really important about DCI is that DCI tries to create an optimal system
+[2:41:08] That is not combative
+[2:41:09] Inherently to traditional science or tradsci, but it's actually a complementary system in defy
+[2:41:16] Really, we kind of want to vampire attack the entire system
+[2:41:18] We kind of want to take the capital from the existing system and put it into defy
+[2:41:22] There are mechanisms to allow us to have money in banks and in utilized defy yield
+[2:41:27] But really we want to take the money from defy as an attack against the system
+[2:41:31] But in DCI we just want to improve science, right?
+[2:41:34] And if you're a researcher at Oxford, for example
+[2:41:37] You can still publish your thesis or still do your research in the halls of Oxford
+[2:41:42] But you can still utilize decentralized science tech on the outside get additional funding for a pet project
+[2:41:46] Published through decentralized funding publishing journal and other things such as this the traditional scientific landscape has a lot of benefits
+[2:41:53] That we don't want to lose such as verification reputation, right in in the positive sense
+[2:41:59] some of the some of the history behind science some of the
+[2:42:03] Traditions that we have as a system the Nobel Prize all these wonderful things that bring greatness to science also have on the other side a
+[2:42:10] Lot of cons
+[2:42:11] Decentralization grift bias corruption and so decentralizing this process will allow us to keep those pros
+[2:42:16] But also remove those cons as much as possible
+[2:42:19] So that's a little bit about DCI a little bit about DCI world
+[2:42:24] We are an information aggregation hub where community community advocacy protocol and we are building a technical product
+[2:42:31] About knowledge exchange, which is actually called proof of knowledge
+[2:42:34] Our mission is to promote and expand the culture of decentralized science by empowering the people within it and the space
+[2:42:40] We really think that the culture of decentralized science is the most important part of what we're doing
+[2:42:44] Which is reimagining how it is to actually do science and be a scientist
+[2:42:49] So we have
+[2:42:52] Scarlet
+[2:42:53] Okay, we have five minutes. So I want to discuss things. We've got small room here
+[2:43:09] Here's four things that I think are true
+[2:43:11] About DCI number one the community is still disorganized and it's early
+[2:43:16] belief in our technology is shaky
+[2:43:19] Adoption from institutions is quite far away and the user experience is still not sufficiently good
+[2:43:25] Which one are you which one of these problems? Do you guys think is the biggest issue for the future of DCI in the next one year?
+[2:44:28] Yep, you agree. Okay. It seems like a big consensus that the degeneracy of crypto is driving away people in science
+[2:44:35] Interesting. What do you think?
+[2:45:10] Yeah, I think you guys are sort of talking about the same thing, right?
+[2:45:57] The lack of the lack of professionalism in in DCI, right? I really like what you were saying about incentives
+[2:46:03] I think what you're mentioning comes after this stage, right?
+[2:46:07] Like there is no career path because there is no, you know traction, right?
+[2:46:12] There will be a career path once it means something and it will only mean something when speculation stops becoming the only thing
+[2:46:16] That people care about because there is technical documentation for example, right Rodrigo. Yeah, I think
+[2:47:14] What you really need is like, okay a technical white paper for DCI is a great idea
+[2:47:19] But is that is that what DCI is all about, right? Bitcoin is is a decentralized protocol
+[2:47:23] But that was created by like a consortium or a dude, whoever you believe, right?
+[2:47:28] DCI is something much larger than one protocol, but I
+[2:47:32] Understand like what you're saying is that having a technical white paper is a good idea
+[2:47:35] Do you need multiple consortiums of people to actually get together and start creating technical documentation?
+[2:47:40] What does technical documentation of DCI even look like, right?
+[2:47:43] Yeah
+[2:48:23] More work less noise, I guess
+[2:48:26] More work less noise
+[2:48:29] Thank you guys
+[2:49:10] So, thank you Joshua for the comprehensive introduction to DCI and
+[2:49:15] Next we have a keynote title from Closen to open making science more like open source so well
+[2:49:21] Presented by Jonathan director of the science communication and research. Let's welcome
+[2:49:30] Hello, thank you everyone. It's a pleasure to be here today
+[2:49:33] So after Josh just went very broad and told you about the whole DCI space
+[2:49:38] I'm going to be much more narrow and I'm gonna focus on one niche which is publishing not exactly one niche but
+[2:49:46] That's kind of the flagship thing that we do
+[2:49:48] I'm gonna focus on our project research up and I'm gonna tell you what research up is about so research
+[2:49:54] Up is basically about making science more collaborative more open more transparent making it easier for everyone and
+[2:50:01] therefore faster make science faster make
+[2:50:06] Innovation faster and collaboration easier
+[2:50:08] So let me go to the next slide before I want to say one last thing
+[2:50:12] It's like open source software has already achieved that open source software has github and on github
+[2:50:17] people can collaborate all across the world and they track their records and
+[2:50:22] Open source software has jet like genuinely transformed
+[2:50:26] Technology and the world blockchain knows all about that. Why can't we do the same in science that we have like a global collaboration at the same kind of paste and
+[2:50:35] So easy like level of ease
+[2:50:38] so
+[2:50:39] How do I go to the next slide with this one?
+[2:50:42] It's down for the next one perfect. So a little bit about me. So why should you listen to me?
+[2:50:46] well, my name is Jonathan have now I work for a research up foundation my
+[2:50:52] Core thing is to really communicate what research up is so a perfect opportunity to do that is here and
+[2:50:58] My thing sorry, I can't do animation. So there should be now bullet points about me
+[2:51:03] But I guess they will not be showing can you help me out here at the desk?
+[2:51:08] Sorry
+[2:51:11] Yes, so this go back not fully to the next. Yes, perfect. So
+[2:51:17] Philosophy of psychology for ten years
+[2:51:19] I've spent a decade studying the philosophy of psychology and in that process. I was really confronted with the
+[2:51:26] Replication crisis in psychology. I learned about the publication system
+[2:51:29] I did my masters in philosophy of psychology after I realized that psychology itself is not gonna figure itself out
+[2:51:35] I was gonna go meta and ask myself about the philosophy of science and in that process
+[2:51:39] I learned about the Bitcoin white paper and the Bitcoin white paper really
+[2:51:43] Discipled me. I realized wait if you can take out the middleman in money
+[2:51:47] You can also take out the middleman in science, which is the publisher that does not necessarily add to the conversation
+[2:51:53] But still is controlling the narrative to some degree. So why don't we have peer-to-peer?
+[2:51:59] Peer review, that's what I thought back then and eventually people told me wait
+[2:52:03] It should weigh way bigger. It should be more like a reddit of science. I said you're right
+[2:52:07] I was thinking only about one journal, but I was wrong
+[2:52:10] It should be bigger and then I happened to come across
+[2:52:13] Research hub and research hub. Can you go to the next slide for me, please?
+[2:52:18] Was invented by Brian Armstrong. You probably know Brian Armstrong as the CEO of Coinbase
+[2:52:23] but Brian Armstrong eventually also wrote a blog post called ideas on how to improve science and
+[2:52:30] basically it's called ideas on how to improve scientific research and
+[2:52:34] his blog post really grasped a lot of the problems that exist in science and
+[2:52:39] Really resonate with the scientific community. So could you please go into his into the next slide for me?
+[2:52:45] It's not working. So I
+[2:52:53] Okay, I figured out so he described five problems and these five problems are the cost and delays from academic journals
+[2:53:01] So we have heard earlier that journals basically charge people to read
+[2:53:05] Papers and they don't pay the authors or and they don't pay the peer reviewers
+[2:53:09] So basically they make all their content for free and then they charge the people who produce the content to read the content
+[2:53:15] And it kind of creates a real imbalance because a lot of people in the world can't even follow the latest publications
+[2:53:20] if they can't afford to read them especially in the lower-income regions and
+[2:53:24] It's not clear people actually have lower intelligence there on the opposite
+[2:53:28] It's likely that there are really good ideas out there that can't connect to the actual conversation because they can't afford to publish
+[2:53:34] They can't afford to read so that slows down innovation by a lot and collaboration in a heavy way
+[2:53:40] Then prioritization of what to work on. There's only centralized governance financing
+[2:53:44] There's a lot of industry financing, but the scientists themselves can't really choose what they want to work on
+[2:53:51] So the prioritization is never always really aligned with scientific goals
+[2:53:55] But it might be aligned with business goals and it might be aligned with things that make no sense that never actually
+[2:54:01] materialize into anything like
+[2:54:03] Lots of money spent on cancer research that never translates into any actual medication that is going to help people the next one is
+[2:54:11] Alignment at market incentives. So scientists work in this kind of vacuum where they try to get reputation
+[2:54:16] The incentives are not aligned with actual like real-world impact
+[2:54:20] So a lot of the times but as we have seen even in the blockchain world people produce papers
+[2:54:25] But they might not be relevant and that's another problem that kind of slows down and holds us back
+[2:54:30] next one is reproducibility a lot of papers that are published don't reproduce and
+[2:54:35] Lastly we have access to funding. So even
+[2:54:40] The distribution of funding people don't have an easy way of raising money for important issues
+[2:54:45] So these are the five problems here and he identified but he didn't just identify problems
+[2:54:50] He also proposed a solution and this solution to him had to be first
+[2:54:56] More like open source software second
+[2:54:58] It had to bridge the gaps between scientific discovery and new products and third improve research quality and speed. So
+[2:55:06] he built a
+[2:55:08] Product a product. He thought it for himself. We need to have an app and we need to advance
+[2:55:14] This is not that literally what he said, but this is
+[2:55:17] Kind of abstracting from the idea we need to advance from academic journals to something that is more like open source software
+[2:55:23] It's actually innovative and creates a new format for publishing discussing funding running science
+[2:55:29] So as you can see in this quote new media technologies often begin by mimicking mimicking the old
+[2:55:35] Replicating familiar formats, but as they evolve they unlock entirely new possibilities that were never even imaginable in the previous mediums
+[2:55:43] That's sort of what we need like a step change
+[2:55:45] We can't just go when the science went online
+[2:55:48] We just got the old journal that used to be on paper in the
+[2:55:54] Internet right so we just put a PDF online, but that's not exactly the same
+[2:55:59] It's just copying an old format whereas the Internet allows much more innovative forms of publishing
+[2:56:04] That we have not yet really explored and this is what research up is about so we can see that
+[2:56:11] Here maybe in the beginning of like having the Internet
+[2:56:15] They will have this s-curved in the disruptive market, right?
+[2:56:18] The first innovative things are not as innovative and then later on they actually change the game completely
+[2:56:24] So you would see on the left bottom is like a PD a PDF journal. Unfortunately. There's a spelling mistake there
+[2:56:31] They let it left out the P
+[2:56:34] It let out the DF of the P
+[2:56:36] But the PDF journals the basic form of just copying then the next evolution is a preprint server like archive
+[2:56:42] Everybody knows archive these days
+[2:56:44] It's really optimized to have like the best UX and UI to really do science and debate science and the way that it works
+[2:57:12] It's really like an open
+[2:57:19] Front page of science so you
+[2:57:23] And kind of follow what is hot what is debated in what follow your interests and see what other
+[2:57:29] So it works really like a Internet forum similar to Reddit you have up votes and down votes
+[2:57:36] you can see what how many comments it gets who is discussing what and
+[2:57:41] That's that's research up. That's the front page of research research
+[2:57:44] If you look at it right now, it's not exactly these papers, but it looks like that and then when you click into a page
+[2:57:51] You can you can see what you can do with these papers and kind of
+[2:57:55] Advanced from the journal format so in a paper you can't not just read the paper
+[2:58:00] You can also start a conversation make some comments you can upvote it you can download it
+[2:58:05] you can also peer review the paper and even and coins for peer review in the paper and
+[2:58:11] lastly
+[2:58:14] You can see what other people have done like you if you don't want to write a peer review
+[2:58:18] You can see if it has been peer reviewed and who has peer reviewed it to kind of see whether it's credible or not
+[2:58:23] But I can reproduce or not. So then
+[2:58:27] this
+[2:58:28] Means that we can basically openly share all research because we can link
+[2:58:32] We don't have to have the PDF if we cannot have the PDF
+[2:58:35] People cannot access it if we can have the PDF if it's open access then everybody can read it
+[2:58:40] But we can talk and debate all the research and a lot of people with the access can then follow and sometimes they
+[2:58:45] Sometimes they can't we encourage of course open access and we will get to that later
+[2:58:50] there will be more on that because
+[2:58:53] To similar to what somebody said in the discussion before we actually think about incentives a lot and we are trying to
+[2:58:59] Reshape them and this is where research coin comes into play. So our platform is not just good for this baiting science
+[2:59:06] We are also implementing a
+[2:59:09] Cryptocurrency on this platform the native currency is called research coin and research coin can be earned by the users for
+[2:59:16] publishing science for
+[2:59:19] Conducting a peer review for answering somebody else's questions in multiple ways
+[2:59:23] It can be gained it can be used then to open your own question and put the money bounty on it
+[2:59:29] which we call a grant or
+[2:59:31] To decide on the governance of the platform
+[2:59:34] So the next thing is bid this coin then we create a sort of an economy for research on the platform
+[2:59:41] So you can use it to drive
+[2:59:44] Services like request a service be like, okay
+[2:59:46] I have this data and I need to analyze it, but I don't know how to run this part of my analysis
+[2:59:52] So somebody come in suggest a proper analysis of this hypothesis that I did or I have a piece of code
+[2:59:58] That I need to write we have biologists writing piece the right writing code and be like look it works
+[3:00:02] But it's very spaghetti code can somebody with computer science knowledge come in and optimize it
+[3:00:07] So you put a little bit of a grant behind that they come in and they do it and you can advance quicker on your research journey
+[3:00:12] But it's not from not only between researchers also
+[3:00:16] Non-researchers come into the platform and get research tasks done for them with research coin
+[3:00:20] So one very good example here is another DCI project
+[3:00:24] Hippocrates they wanted to conduct some market research understand where their technology could be applied in in certain emergent markets
+[3:00:31] so they formulated a bounty a grant on research hub and
+[3:00:35] Made sure that they described the project and the kind of researcher who they want to do it and within a few days
+[3:00:42] They found some researchers who actually then conducted the research for them
+[3:00:45] They published it on research up you can read up on that if you like
+[3:00:48] Just Google research hop a hypocrite block and they they say describe that in their block
+[3:00:53] So that's another way where market incentives really are aligned with research
+[3:00:57] If you could if you just make it easy for anybody to come in and ask a relevant question that actually has real meaning to them
+[3:01:02] So the real-world impact is sort of guaranteed in that way
+[3:01:06] Yeah, then we also use the research coin for
+[3:01:12] Still hard for me to get to the next slide sometimes
+[3:01:16] For financially incentivized peer review
+[3:01:18] So as you have heard usually peer reviews are not being paid
+[3:01:20] But right now the research of foundation has opened a lot of peer review grants
+[3:01:25] So they give people 150 dollars in research coin for conducting peer reviews
+[3:01:30] And we're also gonna get late big later. We're gonna get back to this
+[3:01:34] Because that really changes the dynamic of how fast we can publish things and again back to the point of accelerating science
+[3:01:40] We can much quicker
+[3:01:43] Assess the quality of a manuscript and get it out to the open and get it controlled
+[3:01:48] So another thing in terms of incentives is we there's two kind of incentives for scientists to publish their research
+[3:01:55] On the one hand is reputation if you publish in a high-impact journal
+[3:01:58] That gives you a huge boost in your reputation and if you build up your reputation as a scientist that gives you access to more
+[3:02:04] funding so it's really financial and
+[3:02:07] Reputational incentives that drive the whole process
+[3:02:11] scientists are incentivized to publish in big-brand journals and
+[3:02:14] In this way they kind of control them to some degree and force them to publish more and we have this publisher parrot culture
+[3:02:20] So what we did is we came up with our own incentive system on the platform where we give
+[3:02:27] scientists a reputation score on the actions on the platform for the actions on the platform
+[3:02:32] But also for stuff that they did outside of research up so they can still bridge their traditional
+[3:02:39] reputation and
+[3:02:40] Their research have reputation into one score on research hub
+[3:02:44] You can then see that it's not just one score is actually distributed into the different areas of expertise that the researcher has and
+[3:02:51] You can see that people people can also earn financial
+[3:02:55] Rewards so Albert Einstein in this case
+[3:02:56] He has 48,000 research coin waiting for him on this unclaimed profile because he is that but he had a lot of citations
+[3:03:03] So his work is really really relevant
+[3:03:05] so we incentivize high quality research and if you're a researcher right now and you have a paper that you have published but
+[3:03:13] You have no
+[3:03:14] Went to your research up account go
+[3:03:17] Open your research up account verify your profile and claim your research coin for all the good work that you've already been doing
+[3:03:23] So that's one thing in which we we encourage this
+[3:03:29] Like basically and encourage healthy behaviors because we don't just give the
+[3:03:33] Research coin away. We really make sure that you have to first provide an open access version of that paper
+[3:03:39] so if your paper is currently behind a paywall then you can publish a
+[3:03:44] Pre peer reviewed version like a pre journal version. That's actually legal for you to get that out before
+[3:03:50] It's the journals content just publish an open access version that might not be exactly like the final version that was in the journal and we
+[3:03:57] grant you the coins and then we multiply the coins if you have open data and
+[3:04:01] We multiply them again if you have pre-regits of the study
+[3:04:04] So we are trying to make it reproducible and high quality
+[3:04:07] So yeah, these are some of the ways in which we use financial and reputational incentives to rewrite the incentive system
+[3:04:13] according to what we perceive is quality this of course is a
+[3:04:17] Second version as you can see v2, but this is not going to be stable
+[3:04:20] This can be v3 v4 v5 we can update it as we grow and we can update it as the science changes
+[3:04:27] So that's important
+[3:04:28] That's why also the government governance function of the token is important to continuously
+[3:04:32] Regovern what the incentives should be
+[3:04:35] Yeah, so the next thing is we crowdfund directly studies
+[3:04:39] so we don't just go to centralize institutions we let the scientists fund science and
+[3:04:45] in crowdfunding the
+[3:04:47] Benefit is it's kind of driven by the interest of the crowd
+[3:04:51] so it kind of means that what scientists find interesting that's going to get funded and
+[3:04:56] Again, it kind of sets the incentives right for high quality science because we we fund pre-registered studies
+[3:05:03] Pre-registrations have been shown to increase reproducibility of research
+[3:05:07] So when you say before you conduct a study when you say what you're going to do it disincentivizes behaviors like
+[3:05:13] Hypothesizing after the results are known
+[3:05:15] So you don't just wait until you have all the data then you decide how you're going to analyze the data until you find something that
+[3:05:21] Statistically is significant, which is just an artifact, but you decide beforehand
+[3:05:26] rationally what your hypothesis says the data should be then you analyze the data and
+[3:05:32] Pre-registered reports they hold you accountable in that process. That's why they enhance reproducibility
+[3:05:37] so then
+[3:05:39] this kind of concludes our
+[3:05:42] Whole journey we just went through a lot of use cases of the platform is of course not all of the use cases
+[3:05:47] We are limited here to 20 minutes. I just wanted to give you a quick overview and show you how these I and
+[3:05:53] Research Hub really is already tackling a lot of these problems that we just heard about from Josh
+[3:05:58] And we're really trying to make a difference here and try offer an alternative and it's
+[3:06:03] Starting to work which we will see on the next slide
+[3:06:05] But first let's see how we address each of these problems
+[3:06:08] So the first problem constantly lays from open journals, so we put them open access
+[3:06:11] We encourage open access in multiple ways and not only that we also pay people for peer review
+[3:06:18] So that speeds up the process
+[3:06:20] We would not only reduce the cost we even pay people and then we make it faster next up
+[3:06:26] Prioritization of what to work on so we have users upvote and download the content to prioritize
+[3:06:30] We have crowdfunding to prioritize what scientists find interesting then alignment to markets and centers
+[3:06:35] So the grants feature gives you companies users direct ability to fund science themselves in a really like low friction low-cost way
+[3:06:43] You can answer a quick scientific question that you had or you cannot conduct a whole market research
+[3:06:48] Process all of this in a much easier way than conducting tech transfer offices in the long-term process then
+[3:06:56] Reproducibility of results. I showed you rep and rewards how we are reshaping incentives and lastly access to funding
+[3:07:01] We use crowdfunding to provide direct access and so these
+[3:07:06] Is kind of tying it back to the beginning but now let's put that all in action
+[3:07:10] So what does that mean when we put the whole platform in action one really good initiative that we have been doing is our peer review
+[3:07:17] Initiative so we have a marketplace for peer reviews people come in they
+[3:07:21] Can put up the papers journals come in put up the papers and put a bounty on the peer review process
+[3:07:27] So far a lot of these have actually been
+[3:07:29] Sponsored by the research of foundation and what we see is when we pay peer reviewers
+[3:07:33] You can see that basically the graph where the blue part of the graph you can see how how it shot up
+[3:07:38] Then there were some complications with how we promoted the the existence of this
+[3:07:43] But it's good. It's getting back up. You will probably see in the next few weeks
+[3:07:46] This is going to go through the roof again
+[3:07:48] So you can see that actually a lot of peer reviews are being done in a short amount of time as you could see last week
+[3:07:53] Now that it's spiked up again
+[3:07:55] You could see that there were 86 peer reviews in one week and the meantime for one peer review is nine days
+[3:08:00] And as you saw in problem one the delays and cost of academic journals
+[3:08:04] It takes it can take month for journals to publish
+[3:08:07] I think it takes on average it takes about like five to six months for them just to accept your paper for peer review
+[3:08:12] Be like yeah
+[3:08:13] We might publish it if it passes the peer review and it takes another six months for the peer review to pass and go
+[3:08:18] Through and the changes to be implemented before you actually have a published version
+[3:08:21] So we are really speeding up the process here with like a nine-day peer review process that it's like
+[3:08:29] Night and day different and then let's let's look at the the future a little bit
+[3:08:35] So I want to kind of let you know what's coming because we are constantly improving constantly building
+[3:08:39] It's a very fast-paced in this place
+[3:08:42] So in the near future research hub is actually going to open a journal now that we see in the peer review works
+[3:08:48] So well we are going to make our own journal and make it easy for authors to just get published on research
+[3:08:53] Hub and actually mirror some of the old functionalities of a journal get listed in like
+[3:09:00] How do you call those things?
+[3:09:02] these aggregators I
+[3:09:05] Forgot when when libraries would know librarians will know
+[3:09:10] When you get an SSN and you basically
+[3:09:13] In these databases like web of science and so on for that to be listed you need a certain
+[3:09:19] Way of being a journal so we're moving in that way and we're
+[3:09:23] Going to charge an APC and let people publish with research up to not only have it out there
+[3:09:29] But to actually get what you want as a researcher, which is the published paper
+[3:09:34] Then in the medium term future we are going to get deeper into funding not only do we want to tackle the publishing
+[3:09:40] But we have our crowdfunding feature and we are iterating on that we are published like we started with like 5k grants
+[3:09:47] Recently we opened a 50k grant and we're going deeper and deeper into the space
+[3:09:51] so there's something to watch out for in the future for research hub and
+[3:09:55] One thing that I found really highly ambitious and very interesting in the original blog post from Brian
+[3:10:01] This was already his vision. He saw the potential for a one-click tech transfer office
+[3:10:06] So he saw the ultimate alignment between market incentives and scientific research is if you make it so easy
+[3:10:14] That you could just check out a research at the end of the reading it, you know, you can go on research
+[3:10:19] Hub reader paper be like oh, that's amazing
+[3:10:20] I want the license that technology and turn it into a product
+[3:10:23] Then it should be something that you make so easy and you have the revenue share included you have everything already
+[3:10:29] Like said you can basically have a kind of a checkout process and I love that idea. So I wanted you guys
+[3:10:36] to see the visionary thinking that is behind a
+[3:10:40] mind like Brian Armstrong shaping a product like research up. So
+[3:10:45] Yeah
+[3:10:46] All in all, thank you for your attention
+[3:10:48] I
+[3:10:49] Hope I could convey to you that your research up
+[3:10:52] If you like you can follow me on Twitter
+[3:10:56] I didn't go into this in the beginning but I personally as a philosopher
+[3:11:00] I really care about putting the pH back into the PhD because the pH and PhD stands for philosophy
+[3:11:05] It's called philosophy doctorate. I think one of the reasons why we need decentralized science these days is because
+[3:11:11] People have given away a lot of PhDs where they didn't teach the people philosophy
+[3:11:16] They just taught them different methods like measurement without interpretation to me. It's not the science or
+[3:11:22] Very much about that and then you can also follow research up join us
+[3:11:28] Make an account claim your paper check out the research hub
+[3:11:32] Maybe open a bounty or answer bounty on some research coin
+[3:11:36] Yeah, and lastly the source for the original blog post. I also put that there in case you were interested in reading
+[3:11:42] How research have started out as an idea and then you could compare to what it is today. So, yeah, thank you
+[3:11:50] Thank you, Jonathan
+[3:11:55] So finally we will wrap up with a decide fair featuring lightning talks where each speaker will have three minutes
+[3:12:04] to present their ideas
+[3:12:10] Okay
+[3:12:14] Do you have any
+[3:12:16] Who's here consider them self as scientists not so many
+[3:13:18] So I believe I have only three minutes. So I'll try to go
+[3:13:25] But my name is Rod. I'm in a space exploration and today I'd like to
+[3:13:32] to share a bit what I'm doing and
+[3:13:37] and
+[3:13:38] What happens in principle in decide
+[3:13:42] in in space exploration
+[3:13:48] Can you help me to
+[3:13:50] change to the next slide?
+[3:13:52] so
+[3:13:54] This year is very special for me because an artwork that I was engineered for this guy is such a Geoffrey
+[3:14:01] You can see it on on on the screen was actually send it to the moon
+[3:14:06] could you
+[3:14:09] Yeah on on
+[3:14:10] Peregrine Landers, so I have some experience doing stuff for the moon and
+[3:14:16] Next slide, please
+[3:14:20] Also have been responsible for the design of this cute robot for the moon and next slide, please and
+[3:14:30] I've kickstarted Liberland space program. So if anyone interested in Liberland space program check our website. It's in about
+[3:14:40] It's in about space program section
+[3:14:45] so
+[3:14:47] There are tons of overlap between space exploration and web three cause space
+[3:14:52] Literally the hardest part in space exploration is to coordinate on a global level across all the states all the nations
+[3:14:58] And that's the main complexity with the web through we have amazing
+[3:15:03] Tools that help us significantly significantly increase the efficiency of
+[3:15:10] Coordination and actually that's how can we that's how
+[3:15:14] Web three and space exploration related. So with the web three we can make space exploration much more efficient and
+[3:15:22] oh
+[3:15:25] I think I found it
+[3:15:27] So nowadays a lot of happening especially with the moon
+[3:15:31] Exploration we have more than 15 companies in the world that works on commercial lunar exploration and that's
+[3:15:39] Super important in a sense. It's a pass to to decentralize
+[3:15:44] space
+[3:15:46] exploration
+[3:15:48] So now I'll skip to amazing projects
+[3:15:51] Because I don't have much time
+[3:15:54] Help me so I'm working on a collaborative tool for on a cut on an open source
+[3:16:01] Collaborative platform for a space missions engineering. We have released only alpha version
+[3:16:07] a while ago
+[3:16:10] Yes, so we have like a possibility to we have implemented like
+[3:16:16] Solar system view and some on surface operations. You can check it on alpha.flunker.space
+[3:16:23] I'm also running a few
+[3:16:29] Next slide please. I'm also running two communities
+[3:16:34] Hyperdeci and hyperdispace where we with the founders of projects related to
+[3:16:41] Decentralized science and decentralized space exploration. We collaborate on the way how we can fundraise
+[3:16:48] Partnerships and things like that. So if anyone interested, please
+[3:16:53] Join and join DC channels and that's all I wanted to share with you at this lightning talk
+[3:16:59] I try to be brief if anyone interested to learn more or let's discuss later. Thank you so much
+[3:17:24] Testing cool. Hello everyone. I see some familiar faces. So you may have seen these slides before but
+[3:17:31] Yeah, I'll whip through some new ideas as well. So I'm gonna present on decentralized autonomous value accounting
+[3:17:39] And the main question I've been asking myself for the last about nine years since I
+[3:17:45] Became broken-hearted with academia during my PhD is how can we as a distributed community
+[3:17:51] autonomously measure the collective value of diverse contributions and if we're gonna solve this problem
+[3:17:57] Or if we do solve this problem
+[3:17:59] We could automatically reward people in any community who provide value based on the relative value that they provide to the community
+[3:18:06] With money recognition and so on but it's not a terribly easy problem. There's several obstacles. We've got to overcome
+[3:18:14] Many of the solutions out there aren't very well controlled. So they tend to be more a measure of attention than actual quality
+[3:18:21] They also tend to be fairly like
+[3:18:23] technologically difficult so it's not so adaptable to different situations and
+[3:18:28] I don't find a lot of these solutions terribly inclusive because if we're gonna measure the collective value
+[3:18:35] Of any contribution then everybody in the community needs to be able to be part of that process and
+[3:18:41] So if we're measuring quality, then we need to do reviews
+[3:18:45] But then reviews can also be a variable quality
+[3:18:47] So the question then is who's watching the watchers who's reviewing the reviewers?
+[3:18:52] And so you end up with this problem of infinite recursion
+[3:18:55] and so what I'm gonna present is a really simple process where we can get over get over this problem of
+[3:19:02] Infinite recursion and allow any community to collectively decide the value of pretty much any contribution
+[3:19:10] So the way it works is we use pairwise comparisons
+[3:19:13] We just give someone two contributions and ask them to tell us which is more x where x is any dimension of interest
+[3:19:19] And so here you can see someone's clicking buttons and they're choosing between these two contributions
+[3:19:24] Now the tricky part is that we then consider these
+[3:19:29] Comparisons that people are doing as valuable contributions in their own right
+[3:19:33] We include them in the set of contributions to be reviewed and we set submit then for review as well
+[3:19:39] So this is then called a meta review because we're reviewing reviews or you could call it a meta comparison
+[3:19:45] And so here you can see on the left. You've just got a regular contribution as before but on the right
+[3:19:50] Now we've got a generic representation of some number of pairwise comparisons
+[3:19:55] And so you can see you'd be clicking buttons and you're comparing this idea to 200 of these comparisons
+[3:20:01] and now you're comparing it to 400 comparisons and
+[3:20:06] What I'm going to share with you in a second is a slide that shows that all you need is these simple clicks of buttons
+[3:20:12] And you can then autonomously generate the value of every single contribution to the community
+[3:20:18] And so I'm calling this decentralized autonomous value accounting
+[3:20:21] And what I'm going to do is show you some data from an open science conference where we use this process to review contributions to the conference
+[3:20:29] And so the first stage was to ask people to nominate
+[3:20:34] Contributions, so we had 55 nominations all the standard things like the talks the discussion groups, but we also got
+[3:20:42] nominations of administration tasks
+[3:20:44] We also got some really abstract stuff like people that attended discussion groups to balance the numbers
+[3:20:50] And so then we do review so this is a fully balanced design where we compare every contribution to every other contribution
+[3:20:57] And we did this across six dimensions
+[3:20:59] gratitude generosity and so on and
+[3:21:02] The tricky part like I said is these meta reviews so here we're embedding some
+[3:21:07] Representations of these reviews and we're repeating this same process so they all get compared as well
+[3:21:12] And basically what that gives us is a number of votes for all of these contributions including review contributions themselves
+[3:21:19] And that allows us to basically calculate the value of every single contribution with no more complicated
+[3:21:26] Review process than just doing pairwise comparisons. And so in this data you can see the blue dots are the review contributions
+[3:21:33] That's what we fit the function to and then we use that to interpolate values for every other
+[3:21:40] Contribution to the conference and the upshot of this is you can do this on as many dimensions as the community want to
+[3:21:46] And you end up with this multi-dimensional matrix that shows the unique qualities of every single contribution to the community
+[3:21:52] And that then is really the payoff because you can filter that data in any way that you want
+[3:21:57] So here I'm just showing the gratitude per contribution
+[3:22:00] You can also look at individual contributors and see the value they've provided over time on the top right
+[3:22:06] What I'm showing there is subtracting the average energetic input to the conference from everybody's tally
+[3:22:12] And what that gives you then is a measure of those people that have given more than their fair share and those people that have received more than their fair share
+[3:22:20] And so then this is like a infinitely filterable data set the community can treat as a public good and a resource to use in any way they
+[3:22:27] Want
+[3:22:28] And the idea is that this would then become an ongoing meta research paradigm for each community where they're in control of their own metrics
+[3:22:36] And so on the top what I'm showing is the sort of cost-benefit analysis of an administration
+[3:22:41] Staff member that was hired basically comparing the gratitude for their tasks that they completed versus the amount of money that was spent
+[3:22:48] And then down below I'm showing reliability of reviewers
+[3:22:52] So we can make sure that people are actually doing this task and acting in the best interests of the community
+[3:22:58] And yeah, so these are the take-home messages
+[3:23:00] It's basically the main point is that it's radically inclusive so you can see someone here doing the clicking these buttons
+[3:23:07] Out of this very simple process we can generate autonomous rewards and recognition for every single person
+[3:23:13] And the bigger picture is that this can then kickstart a gifting economy where we're using standard units that are tied to the community's values
+[3:23:21] And because these unit these values can be common across communities
+[3:23:25] It makes an interoperable gift-based marketplace where different communities that adopt the same values can now start to trade and share
+[3:23:33] exchange value between them
+[3:23:36] So all of our work is open science open source freely available
+[3:23:40] If anyone's interested in exploring this model come have a chat
+[3:23:43] I can run you through the prototypes and the process for how to do this for your own community
+[3:23:48] And you can start to collect data on what values you find important and learn from that process
+[3:23:54] and what we're building now is an MVP to make this more scalable and
+[3:23:58] Yeah exploring ways to put this on into web 3 so that we can make this maximally accessible for everybody
+[3:24:05] And these are just the communities that we've prototyped with so on is our own community
+[3:24:09] We did this with Burning Man style festivals Amos is an open science community
+[3:24:14] And next year we'll be doing something like this for the large world's largest metascience conference in London
+[3:24:20] And that's me. Thank you
+[3:24:52] Okay
+[3:24:55] Okay, so I'm going to talk about an initiative that I'm quite running with a couple of
+[3:25:01] Researchers and we are quite, you know creating a new
+[3:25:06] Pardon me introducing science, but with traditional scientists, but with coral reefs
+[3:25:12] You know, we're trying to implement all the decide stack that we know in many coordination actions in the Mesoamerican reef
+[3:25:19] So does this move? Okay, so we actually know what is this I these are the main topics
+[3:25:26] so
+[3:25:28] Our initiative right now is a nonprofit. We are quite a proto decide now. Oh, we have been only quite experimenting with
+[3:25:36] Relocating mechanisms and contracts of get coin and other
+[3:25:40] Initiative tips on the space. We have been quite supported by these entities that are here and as you see that we have a
+[3:25:48] traditional background in coral reef conservation many of us and
+[3:25:52] Yeah, basically that so what are coral reefs? Actually, why I'm here, you know
+[3:25:57] Do you know that the tail end is a is a coral reef nation?
+[3:26:01] So I believe that we need to spread all over the world these ecosystems. So this is a mesoamerican reef
+[3:26:08] This is our main focus for now
+[3:26:10] Is it composed by Mexico believes Guatemala and Honduras and in this region?
+[3:26:16] The mesoamerican reef is a complex system as we know in cryptography, you know, so
+[3:26:22] It has a lot of anthropogenic impacts regarding global events cyclones
+[3:26:27] Temperature also in acidification and many other things and usually they offer us to humanity
+[3:26:33] Good services, you know, so in terms of protection tourism and recreation and fisheries and in this region
+[3:26:41] Particularly to million depend directly in these ecosystems. So that's why our purpose to at least mitigate many problems
+[3:26:49] They are facing by this entry. So this is one of the main projects that we have is basically create a
+[3:26:57] Tree
+[3:26:58] Yeah, it's like a meta project, but it consists of marine biotech applied restoration and create a d-side hub
+[3:27:05] You know to create coordination between traditional researchers and explore new tokenomics to eventually in a future great biodiversity
+[3:27:12] credits and new markets using these I so
+[3:27:16] The main physical thing because many researchers
+[3:27:19] Yeah, are quite interested in implementing new technologies, but they need to do their own research lines
+[3:27:25] You know, they're the traditional research lines that they have, you know in terms of okay many many
+[3:27:30] Coral and reef fish restoration approaches usually are in in the wild
+[3:27:35] So right now we're trying to implement the you know modular web labs all over the region with some hope spots
+[3:27:43] In terms of coral reef fish and basically corals. So
+[3:27:47] our main focus in terms of biotech is to
+[3:27:51] extract all those natural products to eventually create new ways or
+[3:27:56] Implementations applied to longevity and regeneration, you know, so regeneration is the thing because if you cure a
+[3:28:02] Potentially in the future by any corals that would be so quite cool
+[3:28:05] You know to at least save all the three dimensionality and structures that these ecosystem have been lost in less than
+[3:28:12] three decades, so
+[3:28:15] We have identified this is a traditional framework in terms of biological conservation
+[3:28:19] I we have identified that in every process of biological conservation in these days
+[3:28:24] Usually in terms of a sense of amplification implementation analyze and sharing knowledge
+[3:28:29] Usually you could adapt many many things, you know in terms of in terms of the size stack and with tree components
+[3:28:36] So these are these are our highlights in 21 months of existence
+[3:28:41] we have been crowdfunding in around three TK and this is a thing because we are quite based in Latin America and no one in
+[3:28:50] Latin America gives you this, you know in good, you know
+[3:28:54] So fast so we have been supporting 25 conservation actions
+[3:28:58] We have a traditional web of many scientists in the region include
+[3:29:04] Group of care that is basically the tourism sector
+[3:29:07] We have a sociological component that is basically a great awareness of reef that is part of Musa
+[3:29:13] We have many members that are quite involved in
+[3:29:16] Directly with many entities like her T. Reaves and Coral Refa Alliance
+[3:29:21] So we have been presented in around 11 web tree and science forums for over a year and a half
+[3:29:27] And we are right now right now exploring pop-up cities because we believe that we need to create coordination on the board
+[3:29:34] Developers to get involved in real-world applications, you know
+[3:29:38] And it is if it's applied to biological conservation that is quite necessary to be healthy as humans
+[3:29:43] So I think that we cool. We're gonna make it so in terms of the this ecosystem
+[3:29:51] Johnny but actually
+[3:29:53] We were just highlighted this year because we're quite active in terms of focus research doubts
+[3:30:00] we really appreciate that and
+[3:30:02] In terms of our team our team is composed by many
+[3:30:06] Experts in various fields including current genomics in birds ready ecology
+[3:30:11] Correstration climate change ocean acidification fish ecology and
+[3:30:15] Yeah, but what tree itself?
+[3:30:17] So this is a highlight and it's quite interesting because we're focusing gradually with traditional stakeholders
+[3:30:24] And we just proposed this year a workshop regarding the site and capital allocation using what three tools
+[3:30:30] And they just accept us on our refutures. This is a good
+[3:30:35] traditional
+[3:30:37] Conference regarding coral reef restoration worldwide. So
+[3:30:41] It's a pleasure to be here with you exploring this initiative in this part of the world and we
+[3:30:48] Really want to thank
+[3:30:50] That con for the scholarship that that's why I'm here, you know
+[3:30:55] I have the mission to do this and we have this pop if you want it
+[3:30:58] So sure the initiative
+[3:31:00] It's a pleasure to be here. Thank you. I think it's the last part of our whole
+[3:31:20] Afterness conference and thanks for everyone for your joy and nowadays we have over 400 people online to see the live stream
+[3:31:28] Thanks for all of you through the participants and the presentation amazing guys. Thanks for the whole day. Thank you
