@@ -34,9 +34,15 @@ nav .links a:hover{color:var(--sun)}
 #stage .slide{position:absolute;inset:0;opacity:0;transition:opacity 1.6s ease;will-change:opacity,transform}
 #stage .slide.on{opacity:1}
 #stage .slide img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(1.05)}
-#stage .slide.on img{animation:kb 9s ease-in-out forwards}
+/* 🖼 crop fix 20 Oct 2026: photos whose aspect fights the stage get letterboxed over a blurred echo, not beheaded */
+#stage .slide img.ph.fit-contain{object-fit:contain}
+#stage .slide img.bg{object-fit:cover;filter:blur(26px) saturate(1.15) brightness(.5);transform:scale(1.18);display:none;animation:none!important}
+#stage .slide.on img.ph{animation:kb 9s ease-in-out forwards}
+#stage .slide.on img.ph.fit-contain{animation-name:kbsoft}
 @keyframes kb{from{transform:scale(1.02) translate(0,0)}to{transform:scale(1.12) translate(-1.2%,1%)}}
-#stage .slide:nth-child(even).on img{animation-name:kb2}
+@keyframes kbsoft{from{transform:scale(1)}to{transform:scale(1.045)}}
+#stage .slide:nth-child(even).on img.ph{animation-name:kb2}
+#stage .slide:nth-child(even).on img.ph.fit-contain{animation-name:kbsoft}
 @keyframes kb2{from{transform:scale(1.12) translate(1%,-1%)}to{transform:scale(1.02) translate(0,0)}}
 #stage::after{content:"";position:absolute;inset:0;pointer-events:none;
  background:linear-gradient(180deg,rgba(6,11,22,.35) 0%,transparent 22%,transparent 55%,rgba(6,11,22,.88) 100%)}
@@ -178,22 +184,35 @@ footer .pit{font-family:'Pirata One',cursive;font-size:1.4rem;color:var(--coral)
 
  const stage=document.getElementById('stage');
  const slides=[];
+ // 🖼 crop fix: if a photo's aspect fights the stage's (>1.32× off), letterbox it over its own blurred echo
+ function applyFit(slide){
+   const im=slide.querySelector('img.ph'); if(!im||!im.naturalWidth) return;
+   const bg=slide.querySelector('img.bg');
+   const ia=im.naturalWidth/im.naturalHeight, sa=stage.clientWidth/Math.max(1,stage.clientHeight);
+   const contain=(Math.max(ia,sa)/Math.min(ia,sa))>1.32;
+   im.classList.toggle('fit-contain',contain);
+   if(bg){ if(contain&&!bg.src&&im.src) bg.src=im.src; bg.style.display=contain?'block':'none'; }
+ }
  photos.forEach((p,i)=>{
    const d=document.createElement('div'); d.className='slide';
-   const img=document.createElement('img'); img.alt=p.title||''; img.loading = i<3 ? 'eager':'lazy';
+   const bg=document.createElement('img'); bg.className='bg'; bg.alt=''; bg.setAttribute('aria-hidden','true'); bg.decoding='async';
+   const img=document.createElement('img'); img.className='ph'; img.alt=p.title||''; img.loading = i<3 ? 'eager':'lazy';
    const url='../'+p.src; // manifest paths are repo-root-relative; this page lives at /photos/
    if(i<3) img.src=url; else img.dataset.src=url;
-   d.appendChild(img); stage.insertBefore(d, document.getElementById('bar')); slides.push(d);
+   img.addEventListener('load',()=>applyFit(d));
+   d.appendChild(bg); d.appendChild(img); stage.insertBefore(d, document.getElementById('bar')); slides.push(d);
  });
+ let rT; addEventListener('resize',()=>{ clearTimeout(rT); rT=setTimeout(()=>slides.forEach(applyFit),180); });
 
  let cur=0, timer=null, paused=false, t0=0;
  const HOLD=8000;
  const cap={chip:document.getElementById('chip'),en:document.getElementById('t_en'),cn:document.getElementById('t_cn'),src:document.getElementById('t_src'),count:document.getElementById('count'),prog:document.getElementById('prog')};
 
- function preload(i){ const im=slides[i]&&slides[i].querySelector('img'); if(im&&!im.src&&im.dataset.src) im.src=im.dataset.src; }
+ function preload(i){ const im=slides[i]&&slides[i].querySelector('img.ph'); if(im&&!im.src&&im.dataset.src) im.src=im.dataset.src; }
  function show(i){
    cur=(i+photos.length)%photos.length;
    slides.forEach((s,k)=>s.classList.toggle('on',k===cur));
+   applyFit(slides[cur]);
    const p=photos[cur];
    cap.chip.textContent='⛰️🌊 '+(p.chapter||'ShanHaiWoo')+( p.date? ' · '+p.date:'');
    cap.en.textContent=p.title||'';
@@ -213,7 +232,12 @@ footer .pit{font-family:'Pirata One',cursive;font-size:1.4rem;color:var(--coral)
  }
  document.getElementById('next').onclick=()=>show(cur+1);
  document.getElementById('prev').onclick=()=>show(cur-1);
- document.getElementById('shuffleBtn').onclick=()=>{ photos=shuffle(photos); show(0); };
+ // (fix 20 Oct 2026: shuffle photos AND slides together — reshuffling only `photos` desynced captions from images)
+ document.getElementById('shuffleBtn').onclick=()=>{
+   const pairs=photos.map((p,k)=>[p,slides[k]]); shuffle(pairs);
+   photos=pairs.map(x=>x[0]); slides.length=0; pairs.forEach(x=>slides.push(x[1]));
+   show(0);
+ };
  const pb=document.getElementById('pauseBtn');
  pb.onclick=()=>{ paused=!paused; pb.textContent=paused?'▶':'⏸'; if(!paused) t0=performance.now(); };
  document.addEventListener('keydown',e=>{
