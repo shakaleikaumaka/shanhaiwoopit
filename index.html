@@ -411,6 +411,8 @@ footer a{color:var(--ink-dim)}
   .hero-inner a[href*="github.com"]{letter-spacing:.05em;font-size:.78rem}
   .badge-gift{white-space:normal;letter-spacing:.07em;font-size:.7rem;line-height:1.5}
   footer,section{overflow-wrap:anywhere}
+  /* clear the fixed family-magnet circle (top-right, injected) on phones */
+  #pit-banner{padding:.55rem 52px;font-size:.8rem}
   .kx-box{max-height:40vh}
   .ux-state{position:static;display:inline-block;margin:0 0 .7rem .1rem}
   /* Shaka's mobile design: video + castle SIDE BY SIDE (small), glowing words below —
@@ -439,7 +441,7 @@ footer a{color:var(--ink-dim)}
 <body>
 
 <!-- ============ HERO ============ -->
-<div style="position:relative;z-index:60;text-align:center;padding:.55rem 1rem;font-size:.85rem;letter-spacing:.04em;background:linear-gradient(90deg,rgba(94,234,212,.16),rgba(240,196,100,.16));border-bottom:1px solid rgba(94,234,212,.25)">
+<div id="pit-banner" style="position:relative;z-index:60;text-align:center;padding:.55rem 1rem;font-size:.85rem;letter-spacing:.04em;background:linear-gradient(90deg,rgba(94,234,212,.16),rgba(240,196,100,.16));border-bottom:1px solid rgba(94,234,212,.25)">
   🏠 now living at <b>shanhaipit.com</b> — and the family album is open: <a href="photos/" style="color:var(--coral);font-weight:700;text-decoration:none">📸 The Living Slideshow · 流动的相册 →</a>
 </div>
 <header class="hero">
