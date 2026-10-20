@@ -1,0 +1,391 @@
+ShanHaiWoo Opening Ceremony keynote with Vitalik (room audio) · Oct–Nov 2024 · ShanHaiWoo 山海坞 · Chiang Mai pop-up village · transcribed with aloha by the AI ʻohana (faster-whisper small) — expect imperfections 🌱
+---
+[0:00:01] Great. So I thought I would talk about the future of Ethereum scaling because scalable Ethereum is the future of Ethereum.
+[0:00:20] And I think the topic of how Ethereum scales is important to me because it really touches on a lot of the philosophical issues.
+[0:00:32] And a lot of the trade-offs that led to Ethereum being deployed in years today.
+[0:00:38] And basically talking about how we can adapt those principles in the context of some of the newer technologies that we have as well as some of the newer challenges and needs that we can see as Ethereum finally gets to the point where it's going from one single chain
+[0:00:59] that can process 10 transactions a second to be in a big ecosystem that's actually capable of finally realizing all the other features that we want to implement.
+[0:01:10] So this is a part of the roadmap diagram that I published on Twitter about a year ago.
+[0:01:25] You might remember there's six of these lanes that happen in parallel.
+[0:01:32] There is the Burge, the Surge, the Scourge, and the Scourge.
+[0:01:40] And today we're focusing on the Surge, which is about scaling.
+[0:01:44] So this is what we put last year.
+[0:01:47] So last year there was a lot of focus on finishing EMU-44 and bringing up the scaling into two basic milestones on which it called basic roll-up scaling
+[0:02:01] and the other of which it called full roll-up scaling,
+[0:02:04] which in basic roll-up scaling basically means getting roll-ups to at least the first stage of being scalable.
+[0:02:11] And at the same time getting them to stage one, this is the L2B stages of basically how far a longer roll-up is to actually be a trustless
+[0:02:20] so that we can, the L2Bs actually have some security and they're not just multi-sex.
+[0:02:27] So as of this year, EMU-44 is on Ethereum and we now have two full EDM roll-ups that are stage one.
+[0:02:37] Anyone know what kind of language they are?
+[0:02:40] So please, full EDM roll-ups are the stage one today.
+[0:02:47] Just guess.
+[0:02:49] Or which one is one? What's the other?
+[0:02:52] Optimism is the other. Okay.
+[0:02:54] Now what about the two stage two roll-ups that they're not EDM but they are stage two?
+[0:03:00] Let's see if anyone knows this.
+[0:03:03] Yeah.
+[0:03:05] Hmm?
+[0:03:06] What? Which one?
+[0:03:08] Fuel?
+[0:03:10] Fuel is one of them.
+[0:03:12] Okay, the other is TV.
+[0:03:16] So we actually are at the point where we're moving toward later twos actually being trustless
+[0:03:23] and Ethereum actually having the capacity to meet them.
+[0:03:27] And so I think it's a good time to really look at this and basically ask,
+[0:03:34] well, where do we actually need to go to from here?
+[0:03:40] Great.
+[0:03:42] So going back a bit into philosophy, right?
+[0:03:45] So the scalability trial level, who here are sort of the scalability trial level?
+[0:03:50] Okay, basically there's a claim that it is difficult to make a blockchain which is decentralized,
+[0:04:01] scalable, and secure at the same time.
+[0:04:05] Now I think it's important to understand the trial line in context, right?
+[0:04:10] Because there's like a whole bunch of projects that have the asset,
+[0:04:14] like $10 million marketing teams that basically talk about how our project is the one that solved the trial line.
+[0:04:20] And I'm like, actually they don't actually solve it, right?
+[0:04:23] And so I think there's a couple of like important points here, right?
+[0:04:27] One of them is that the trial line never was meant to be a mathematical theorem, right?
+[0:04:32] The trial line has no mathematical truth and that's by design.
+[0:04:36] The reason why it's by design is because, well, actually we know that we can solve it, right?
+[0:04:41] So the trial level is more a statement about what you cannot do with technologies that were only available in 2015, right?
+[0:04:49] And the argument for why the trial level is true is pretty simple, right?
+[0:04:53] Basically, if you have a blockchain that processes lots and lots of transactions,
+[0:04:58] more transactions than one single node can verify,
+[0:05:02] then it has to be the case that at least one of three things has to be true.
+[0:05:08] One, regular nodes are not going to verify and only make surface art.
+[0:05:13] Two, you have a system where you're not actually processing those transactions
+[0:05:23] or three, each individual transaction is only actually being checked by a few nodes, right?
+[0:05:31] And it's actually easy to find and come up with things that meet two of those things.
+[0:05:35] So if you want something that has scaled, for example, scalability and decentralization
+[0:05:43] but satisfies the security, then you just look at multi-changing the systems, right?
+[0:05:48] You make 100 blockchains, you make 100 blockchains on top of each other
+[0:05:51] and you have your decentralization, you have your scalability
+[0:05:54] but you only need a small amount of resources to attack any one of the chains.
+[0:05:59] Now, if you want something with scalability and security but not decentralization,
+[0:06:05] then just like any one of the faster ones, right?
+[0:06:08] You just like crank up the gas when they're really high.
+[0:06:10] Now, if you want decentralization and security without scalability,
+[0:06:16] then this is what Ethereum was basically up until essentially this year, right?
+[0:06:22] And this is what Bitcoin continues to be.
+[0:06:24] This is why a lot of the older chains are.
+[0:06:26] Now, if you want to get three out of three, it is possible, right?
+[0:06:31] But one of the challenges is that you need to come up with some kind of extra technology
+[0:06:38] in order to really do it.
+[0:06:40] So there are two technologies that actually do solve the problem, right?
+[0:06:45] And the two technologies are, one is ZK-SNARKS, or just .ZK, just SNARKS,
+[0:06:50] and the other is data field role example, right?
+[0:06:53] So what does SNARKS do?
+[0:06:54] SNARKS let you verify a huge amount of computation without re-running the computation yourself, right?
+[0:07:02] So if you just like lay the data problem aside for a bit and you just think about computation,
+[0:07:07] then let's get back to the e-table, right?
+[0:07:09] Let's say you have computers, each computer can only process 10 transactions a second,
+[0:07:14] but you want to have a network, the network processes 10,000 transactions a second.
+[0:07:18] What do you do?
+[0:07:19] You have one computer generating SNARKS that just proves that all the transactions are valid,
+[0:07:24] and then it publishes the SNARKS, all the other computers, they don't re-run the computation themselves,
+[0:07:29] they just verify the SNARKS, right?
+[0:07:32] So this is like very basic stuff, and one important point is that this can be implemented
+[0:07:38] either at the level of all your ones,
+[0:07:40] so you can implement kind of enshrined in protocol sharding in this way,
+[0:07:44] or you can do it at the level of all your two, right?
+[0:07:46] And that's what a theory image does.
+[0:07:48] So that's computation.
+[0:07:49] Now what about data?
+[0:07:50] Right, so for data, well, let's say each individual computer can only download a megabyte every 10 seconds,
+[0:07:57] including network overhand and all that stuff,
+[0:08:00] you want to have a blockchain that processes 100 megabytes every 10 seconds.
+[0:08:05] What do you do?
+[0:08:06] Well, here we have this technology from 2017 called Data Availability Sampling, right?
+[0:08:12] You basically have each node randomly download a few pieces,
+[0:08:16] and because of how the data is erasure coded,
+[0:08:20] like basically randomly downloading a few pieces proves that most of the data is available,
+[0:08:26] and if most of the data is available, then you can pre-instruct the rest of the data.
+[0:08:30] So this is something that Ethereum actually is doing out there, right?
+[0:08:34] So Snark's plus Data Availability Sampling, these two technologies together
+[0:08:39] are a sufficient solution to the scalability trial.
+[0:08:43] So this has been, I think, known in theory since, like basically 2017,
+[0:08:49] but it's taken up until now to actually write down all of the code
+[0:08:53] to really implement it in practice.
+[0:08:55] The Data Availability Sampling piece is not quite done yet, right?
+[0:08:58] So actually, it's currently planned for next year.
+[0:09:01] Now we have that PRDAS, which shows that the first version of my Data Availability Sampling,
+[0:09:06] and then we'll keep going through that.
+[0:09:09] So another technology, data compression, basically you can have all your tools.
+[0:09:13] Now if it turns out you have an easier time compressing computation
+[0:09:18] than compressing data, it turns out that you can do a trade.
+[0:09:21] You can remove most of your data and exchange a little bit more computation.
+[0:09:25] And so there's also these data compression techniques,
+[0:09:28] and this is another road for literatures to get another 7x scale,
+[0:09:32] and I think we really started scratching the surface of this.
+[0:09:35] So now we get to the present, right?
+[0:09:39] I think, so in the present, right?
+[0:09:41] What do we have?
+[0:09:42] We have a, we have Ethereum Literature 1.
+[0:09:44] We have a bunch of activity on Ethereum literatures.
+[0:09:48] And we have this century off that we're facing,
+[0:09:51] which is basically like how hard to do or how much do you care
+[0:09:56] about making things easier for Layer 2s versus how much do we care
+[0:10:00] about keeping things easy for Layer 1, right?
+[0:10:03] The more Layer 1 does, the less Layer 2s have to do.
+[0:10:06] And there's basically this sort of range of different approaches, right?
+[0:10:10] And essentially the idea is that if Layer 1 does less or it does nothing,
+[0:10:17] then Layer 2s have to put their data somewhere else.
+[0:10:20] If Layer 2s put their data somewhere else, that has security implications, right?
+[0:10:24] Now, it turns out there are a bunch of clever ways to really try to reduce
+[0:10:28] those security implications, right?
+[0:10:30] So like ICTA is one example.
+[0:10:32] The whole family of lots of technologies is another example.
+[0:10:35] There's quite a lot of them.
+[0:10:37] But it's like, it's still an extra burden that L2 is taking on.
+[0:10:45] And it's like an extra compromise to the security model.
+[0:10:48] On the other hand, if Layer 1 goes all out and really yet doesn't
+[0:10:52] have that data availability sample, then it makes the story much easier
+[0:10:56] for Layer 2s.
+[0:10:58] We get Layer 2s that just clearly have exactly the same security
+[0:11:01] standard as Layer 1.
+[0:11:03] And that can scale potentially all the way up to 10,000,
+[0:11:07] which is actually a second.
+[0:11:09] But to get there, we have to actually finish this data
+[0:11:11] availability sample at least.
+[0:11:13] So on the last old word that's followed up a week ago,
+[0:11:17] there were some discussions about whether or not to increase
+[0:11:20] the block target from 3 to 4 or potentially 3 to 5.
+[0:11:24] And this really ties into this, right?
+[0:11:28] Basically the block target just means how much data space
+[0:11:31] are we going to have in the short term.
+[0:11:33] And the more data space we can get, the easier things are
+[0:11:36] for Layer 2s.
+[0:11:37] So this is basically one of the really important technical
+[0:11:42] tradeoffs that the ecosystem is going through right now.
+[0:11:45] Now, that's all for Layer 1, right?
+[0:11:48] I think one of the interesting things about where we are now
+[0:11:53] is basically that Ethereum has taken this path where Layer
+[0:11:57] 1 does some of the work, but then a lot of the work has
+[0:12:00] also really been offloaded to Layer 2s.
+[0:12:03] And one of the challenges to the Layer 2s is like actually
+[0:12:06] becoming real Layer 2s and not just being multi-sexed, right?
+[0:12:10] So when Layer 2s started, they were theoretically saying
+[0:12:14] we're up to basic rollups for CK rollups.
+[0:12:17] Actually, there was no actual proof system on chain,
+[0:12:20] and there was just like a multi-sake of people that were
+[0:12:23] approving every block, or potentially there was like
+[0:12:26] one computer that was approving blocks and the multi-sake
+[0:12:28] could have come in and basically say, well, no,
+[0:12:30] we think this block is actually correct.
+[0:12:33] That was probably the right thing to do when these
+[0:12:36] systems were very immature, but in the long term,
+[0:12:39] that's not what we want to build, right?
+[0:12:41] We're trying to build open and trustless systems.
+[0:12:45] We're not trying to build a thing where like five people
+[0:12:48] can come together and take rollups.
+[0:12:50] So one of the...
+[0:12:53] We talked about Layer 2s getting to Stage 1,
+[0:12:56] getting to Stage 2, basically Stage 1 and Stage 2
+[0:12:59] are sets of rules for limiting how much power
+[0:13:03] the any kind of security council, like any kind of entity
+[0:13:07] that has the ability to override the proof system
+[0:13:10] actually has to do that, right?
+[0:13:12] So in Stage 1, basically, it has to be at least
+[0:13:15] a six out of eight threshold, and at least
+[0:13:18] three of the participants have to be outside
+[0:13:20] the organization, right?
+[0:13:21] So the organization by itself is not able to steal your name.
+[0:13:24] So that's Stage 1. It's like the halfway stage.
+[0:13:27] And then Stage 2 basically says, well, actually,
+[0:13:29] the only time the protocol, like security council
+[0:13:33] or guardians, anyone is allowed to interfere
+[0:13:35] is if the code provably disagrees with itself, right?
+[0:13:39] So for example, if you have two pre-systems
+[0:13:41] that disagree with each other, if the code is right,
+[0:13:43] then the operators have no ability
+[0:13:46] to interfere with the code.
+[0:13:48] So getting from Stage 1 to Stage 2 is something important.
+[0:13:51] So I think we as the pre-system really need
+[0:13:55] to be prioritizing moving up to Stage 1
+[0:13:59] and up to Stage 2, and I think it's, you know,
+[0:14:02] definitely the projects that have gotten there
+[0:14:05] up to this point.
+[0:14:06] And I know that there is at least three others
+[0:14:08] that have told me that they plan to be Stage 1
+[0:14:10] before the end of the year.
+[0:14:12] So that's going to be interesting to see.
+[0:14:15] Particularly looking forward to the first Stage 1
+[0:14:18] CK roll-up to come, because I think
+[0:14:20] that's also really important.
+[0:14:24] So getting to Stage 2, right?
+[0:14:27] So why don't the roll-ups all just
+[0:14:29] get to Stage 2 tomorrow?
+[0:14:30] Basically the challenge is that it's about
+[0:14:33] trusting the code, right?
+[0:14:35] Basically yet, if the problem with the code
+[0:14:39] is that the code might have a bug,
+[0:14:41] and if the code has a bug, then
+[0:14:43] potentially all of your money is being drained away.
+[0:14:46] And there's definitely instances of D-py protocols
+[0:14:49] getting hacked and like the hacker running away
+[0:14:52] with like $73 million of people's money, right?
+[0:14:55] Now it's still less bad than like centralized exchanges
+[0:14:58] where, you know, you have like SPF
+[0:15:00] and you have about docs and they're like,
+[0:15:02] oh dog, I want $5 million.
+[0:15:04] But it's still bad, right?
+[0:15:07] And so if we want to really throw away the keys
+[0:15:10] and actually need these systems fully decentralized,
+[0:15:13] we need to get them to a high standard of security.
+[0:15:15] So there's three technologies for doing this.
+[0:15:17] One of them is formal verification.
+[0:15:20] So basically yet, using some pretty advanced
+[0:15:23] mathematical tools to try to like automatically
+[0:15:26] prove that one of these systems
+[0:15:29] actually only accepts blocks that are valid
+[0:15:32] according to like some other EVM specification.
+[0:15:35] And another is multi-provers, right?
+[0:15:37] Multi-provers basically means you have two different teams
+[0:15:40] using two totally different approaches,
+[0:15:42] implement two different proof systems,
+[0:15:44] and they check each other's work, right?
+[0:15:46] So the idea is that if they fail,
+[0:15:48] then chances are they're not both going to fail
+[0:15:51] at the same time in the same direction.
+[0:15:53] And if one of them does fail, like if the two disagree,
+[0:15:57] then you still have like some kind of security council
+[0:16:01] that could come in.
+[0:16:02] But the only power that they have
+[0:16:04] is to choose one or the other, right?
+[0:16:06] So basically we have, like we could have a two or three
+[0:16:08] between Optimistic, CK, and the Security Council.
+[0:16:12] You could even do other things,
+[0:16:13] like you could have a two or three between
+[0:16:16] CK, Trusted Execution Environment,
+[0:16:19] and a Security Council, although,
+[0:16:21] I mean, that one would technically not count as a trustals
+[0:16:24] because they don't account so it would technically take your money.
+[0:16:27] But CK, Trusted Execution and Optimistic
+[0:16:30] would be another combination.
+[0:16:32] So there's a lot of these different combinations
+[0:16:35] that you can make, right?
+[0:16:36] So...
+[0:16:41] Okay, that's okay.
+[0:16:42] Yeah, so, so...
+[0:16:46] Right, so basically, you know,
+[0:16:48] we're really going to start to figure out
+[0:16:51] how we can move toward a greater degree of trustlessness
+[0:16:55] safely, right?
+[0:16:57] And I think to me this kind of moderate approach
+[0:17:00] is like a really important aspect that...
+[0:17:04] It's a philosophy that's motivated Ethereum
+[0:17:07] in a lot of ways up until this point, right?
+[0:17:09] Basically, the goal has always been to try to
+[0:17:13] really do the hard thing and do the clever thing
+[0:17:17] and actually find ways to be decentralized
+[0:17:20] and scalable at the same time, right?
+[0:17:22] And not to take the easy path of really giving up
+[0:17:24] on decentralization or giving up on scaling.
+[0:17:27] And I think we want to do the exact same thing
+[0:17:30] for the security of code.
+[0:17:33] So...
+[0:17:35] Cross-way or two interoperability, right?
+[0:17:37] So, cross-way or two interoperability
+[0:17:39] I think is interesting because
+[0:17:41] this is not just a technical problem,
+[0:17:43] this is also a social problem, right?
+[0:17:45] So, this over here is a screenshot
+[0:17:48] I have at the Polymarket.
+[0:17:49] And, like, I love Polymarket and it's great,
+[0:17:52] but, like, this is bad UX, right?
+[0:17:55] So, what's going on here?
+[0:17:56] Basically, Polymarket has this deposit form
+[0:17:59] and if you want to deposit your points to Polymarket
+[0:18:02] they basically, what it does is
+[0:18:04] the app creates a smart contract wallet
+[0:18:06] for you on Polygon
+[0:18:08] and if you want to put your points into it
+[0:18:10] you have to put USTC on Polygon
+[0:18:12] into the... into bad apps.
+[0:18:15] Now, be careful, you have to set the points on Polygon
+[0:18:18] not on Polygon ZKV app, you see?
+[0:18:20] That's typically different.
+[0:18:21] If you set up Polygon ZKV app
+[0:18:23] instead of on Polygon
+[0:18:24] then, like, actually you're going to lose your money, right?
+[0:18:27] And, like, this whole thing
+[0:18:28] and then, if you don't have your points on either of them
+[0:18:31] then, like, you have to go through some bridging thing
+[0:18:33] and then users have to go and figure it out
+[0:18:35] and then sell crazy music
+[0:18:36] and I actually lost a hundred dollars
+[0:18:38] by self trying to navigate this.
+[0:18:40] So, basically, you know, you could ask,
+[0:18:44] well, what would a good version of this look like, right?
+[0:18:47] And I think one thing that's really important
+[0:18:49] to point out is, like, us as scale it,
+[0:18:53] like, Ethereum engineers, you know,
+[0:18:55] we love polynomials
+[0:18:57] and we love the case in arcs
+[0:18:59] and, you know, we love, you know,
+[0:19:02] actually, we love how smart we are
+[0:19:03] because we know how to do things
+[0:19:05] in more degree extensions of 31-bit fields.
+[0:19:08] But that stuff is not the problem here, right?
+[0:19:11] The problem... the actual problem here
+[0:19:13] does not involve, like, fancy or cryptography.
+[0:19:16] It does not involve shearing sequencing.
+[0:19:18] It does not involve any of that stuff.
+[0:19:20] It's actually something much, much simpler, right?
+[0:19:22] So, I wrote that up that we have for this.
+[0:19:26] So, I'm starting off with chain-specific addresses, right?
+[0:19:30] Basically, the idea here is
+[0:19:32] the address should include the chain
+[0:19:35] that you're asking someone to send points to
+[0:19:38] or delegate authority to, right?
+[0:19:40] And there's two proposals for this.
+[0:19:43] So there's the actually 3770,
+[0:19:45] which is what's safest using already
+[0:19:47] and then there's a newer standard
+[0:19:49] that's currently in development.
+[0:19:51] So address at octubio.e
+[0:19:53] and the idea of this standard is basically that
+[0:19:56] we actually take the registry of chains
+[0:19:58] and instead of having to be an off-chain thing
+[0:20:00] we actually would pull it into an EMS
+[0:20:03] and have it live on layer one.
+[0:20:05] So then what would a polymarket
+[0:20:08] actually look like, right?
+[0:20:10] So if you go a slide back, then...
+[0:20:13] basically, yet what would happen, right?
+[0:20:16] So there's a medium good way to do it
+[0:20:19] and there's an ultimately good way to do it.
+[0:20:21] So what's a medium good way to do it?
+[0:20:23] You take this address
+[0:20:25] and you just replace it with a chain-specific address, right?
+[0:20:27] You just say, send to 0xpolyblot.e
+[0:20:31] and then a user takes that address, copies it.
+[0:20:34] They put it in the two-field of their wallet
+[0:20:36] and then the wallet automatically recognizes,
+[0:20:39] hey, I'm being asked to send points to Polygon.
+[0:20:42] If I have points on Polygon already, send them.
+[0:20:44] If I don't have points on Polygon already,
+[0:20:46] then send them using some kind of cross-chain bridging operation.
+[0:20:50] And ERC 7683 is like one of the fully open-standard
+[0:20:56] cross-chain bridging protocols that's being developed right now.
+[0:21:00] So that's the medium good way to do it.
+[0:21:02] The really good way to do it is, of course,
+[0:21:04] to take any address out entirely and Polygon and Mark
+[0:21:07] should just have a deposit button
+[0:21:09] and they can ask how much to deposit
+[0:21:11] and that just automatically creates a payment process, right?
+[0:21:14] Basically, exactly the same kind of technology
+[0:21:17] that you would want to use if, for example,
+[0:21:20] like I want what we were all using
+[0:21:22] if you're an employee or two,
+[0:21:24] is to do our crypto payment right now
+[0:21:26] and, you know, Shaguhir was selling me a green tea
+[0:21:29] and, you know, like, I have my Dymo wallet that's on base
+[0:21:33] and I scan his QR code
+[0:21:36] but it turns out that, you know,
+[0:21:38] he's using a wallet that only lives on the scroll
+[0:21:43] and then my wallet would automatically see that
+[0:21:49] as a payment request and automatically route that
+[0:21:51] from one layer to another, right?
+[0:21:53] So basically there's levels to which
+[0:21:56] you can make this stuff work better and better
+[0:21:58] and it's important for us to really start climbing the ladder.
