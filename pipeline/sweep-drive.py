@@ -64,19 +64,31 @@ def main():
             out = os.path.join(ROOT, src)
             if src in have or os.path.exists(out):
                 continue
-            tmp = os.path.join(OUTDIR, ".tmp-dl")
+            # PRIMARY: Drive thumbnail endpoint — separate quota, no confirm page
+            # (gdown breaks on current Drive confirm pages for big files).
             try:
-                gdown.download(id=fid, output=tmp, quiet=True)
-                im = Image.open(tmp).convert("RGB")
-                if im.width > 1400:
-                    im = im.resize((1400, int(im.height * 1400 / im.width)), Image.LANCZOS)
+                import urllib.request
+                req = urllib.request.Request(
+                    f"https://drive.google.com/thumbnail?id={fid}&sz=w1600",
+                    headers={"User-Agent": "Mozilla/5.0"})
+                im = Image.open(io.BytesIO(urllib.request.urlopen(req, timeout=30).read())).convert("RGB")
+                if im.width < 600:
+                    raise ValueError("placeholder thumb")
                 im.save(out, "JPEG", quality=82, optimize=True)
-            except Exception as e:
-                print("fail", name, e)
-                continue
-            finally:
-                if os.path.exists(tmp):
-                    os.remove(tmp)
+            except Exception as e1:
+                tmp = os.path.join(OUTDIR, ".tmp-dl")  # FALLBACK: gdown full file
+                try:
+                    gdown.download(id=fid, output=tmp, quiet=True)
+                    im = Image.open(tmp).convert("RGB")
+                    if im.width > 1400:
+                        im = im.resize((1400, int(im.height * 1400 / im.width)), Image.LANCZOS)
+                    im.save(out, "JPEG", quality=82, optimize=True)
+                except Exception as e2:
+                    print("fail", name, e1, "|", e2)
+                    continue
+                finally:
+                    if os.path.exists(tmp):
+                        os.remove(tmp)
             man["photos"].append({
                 "src": src, "title": ten, "title_cn": tcn, "date": date,
                 "chapter": "2026 · Shenzhen GBA 深圳",
