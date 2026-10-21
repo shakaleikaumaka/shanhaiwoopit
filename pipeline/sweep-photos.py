@@ -42,6 +42,14 @@ def webimg(data, out):
 def main():
     man = json.load(open(MANIFEST))
     have = {p["src"] for p in man["photos"]}
+    # Dedup law (scar 2026-10-21: the first 14 Luma covers were hand-named, e.g.
+    # 2024-10-05-chiangmai-opening.jpg, so a slug(name) match re-added all 14 as
+    # duplicates). New entries carry luma_id; legacy ones are matched by date count.
+    have_ids = {p.get("luma_id") for p in man["photos"] if p.get("luma_id")}
+    legacy_by_date = {}
+    for p in man["photos"]:
+        if str(p.get("source", "")).startswith("Luma") and not p.get("luma_id"):
+            legacy_by_date[p["date"]] = legacy_by_date.get(p["date"], 0) + 1
     added = 0
     for period in ("future", "past"):
         try:
@@ -56,6 +64,10 @@ def main():
             date = start[:10]
             fn = f"photos/{date}-{slug(name)}.jpg"
             if fn in have or os.path.exists(os.path.join(ROOT, fn)): continue
+            eid = ev.get("api_id")
+            if eid and eid in have_ids: continue
+            if legacy_by_date.get(date, 0) > 0:      # already have a hand-named cover for this event
+                legacy_by_date[date] -= 1; continue
             try:
                 data = urllib.request.urlopen(urllib.request.Request(cov, headers=UA), timeout=30).read()
                 webimg(data, os.path.join(ROOT, fn))
@@ -63,8 +75,8 @@ def main():
                 print("dl fail", name, ex); continue
             man["photos"].append({"src": fn, "title": name, "title_cn": "",
                                   "date": date, "chapter": chapter_for(date),
-                                  "source": "Luma · official event cover"})
-            have.add(fn); added += 1; print("➕", fn)
+                                  "source": "Luma · official event cover", "luma_id": eid})
+            have.add(fn); have_ids.add(eid); added += 1; print("➕", fn)
             time.sleep(1)
     # manual drops
     incoming = os.path.join(PHOTOS, "incoming")
