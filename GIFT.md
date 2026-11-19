@@ -1,4 +1,4 @@
-> **License update, 19 Nov 2026:** CC0 is retired. From this date: Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. The dedication below records how earlier versions were released.
+> **License update, 19 Nov 2026:** copyleft is retired. From this date: Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. The dedication below records how earlier versions were released.
 
 # 🎁 Dear ShanHaiWoo 山海坞 — and every friend of the mountain-sea
 
@@ -16,7 +16,7 @@ It is a gift, and like every pit it is honest about what it is:
 
 - **It is:** the village's transponder — four sessions carried as
   cross-exhibits via The VitPit, the gallery, the documents, the lore.
-  ≈$0 infrastructure. Everything CC0.
+  ≈$0 infrastructure. Everything copyleft.
 - **It isn't:** finished. Transcripts, full credits and exact dates are
   queued to the pipeline — the pit marks them *pending* rather than
   inventing them. Declared means declared, not done.
